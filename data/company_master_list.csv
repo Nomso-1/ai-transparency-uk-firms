@@ -1,1 +1,21 @@
 company_id,company_name,ticker,sector,subsector,uk_listed_status,company_website,investor_relations_url,annual_report_year,notes
+001,Barclays PLC,BARC,Financial Services,Banking,Yes - LSE Main Market,,,2025,Large UK bank selected for identifiable AI and digital transformation disclosures
+002,HSBC Holdings plc,HSBA,Financial Services,Banking,Yes - LSE Main Market,,,2025,Global UK-listed bank with extensive technology and AI-related reporting
+003,Lloyds Banking Group plc,LLOY,Financial Services,Banking,Yes - LSE Main Market,,,2025,Major UK retail bank with digital transformation and data-related disclosures
+004,NatWest Group plc,NWG,Financial Services,Banking,Yes - LSE Main Market,,,2025,Major UK bank with identifiable AI governance and technology disclosures
+005,Standard Chartered PLC,STAN,Financial Services,Banking,Yes - LSE Main Market,,,2025,International UK-listed bank with technology and responsible innovation disclosures
+006,Aviva plc,AV.,Financial Services,Insurance,Yes - LSE Main Market,,,2025,Large UK insurer with AI use and digital transformation disclosures
+007,Legal & General Group Plc,LGEN,Financial Services,Insurance and Asset Management,Yes - LSE Main Market,,,2025,UK financial services group with insurance investment and technology disclosures
+008,M&G plc,MNG,Financial Services,Asset Management,Yes - LSE Main Market,,,2025,UK asset manager selected to provide representation beyond banking
+009,Admiral Group plc,ADM,Financial Services,Insurance,Yes - LSE Main Market,,,2025,UK insurer with data analytics and technology-enabled business operations
+010,AJ Bell plc,AJB,Financial Services,Investment Platform,Yes - LSE Main Market,,,2025,UK investment platform selected for digital financial services representation
+011,IG Group Holdings plc,IGG,Financial Services,Online Trading,Yes - LSE Main Market,,,2025,Technology-led online trading firm with data-intensive operations
+012,CMC Markets plc,CMCX,Financial Services,Online Trading,Yes - LSE Main Market,,,2025,UK online trading company with technology-dependent financial services
+013,IntegraFin Holdings plc,IHP,Financial Services,Investment Platform,Yes - LSE Main Market,,,2025,UK investment platform included to broaden platform-based financial services coverage
+014,Wise plc,WISE,Financial Technology,Cross-border Payments,Yes - LSE Main Market,,,2025,UK-listed fintech with technology-led international payment operations
+015,CAB Payments Holdings plc,CABP,Financial Technology,Wholesale Cross-border Payments,Yes - LSE Main Market,,,2025,Payments company selected for cross-border financial technology representation
+016,Funding Circle Holdings plc,FCH,Financial Technology,SME Lending Platform,Yes - LSE Main Market,,,2025,UK-listed digital lending platform with data-driven credit operations
+017,Boku Inc.,BOKU,Financial Technology,Mobile Payments,Yes - AIM,,,2025,UK-listed mobile payments company included for fintech diversity
+018,PayPoint plc,PAY,Financial Technology,Payments and Retail Services,Yes - LSE Main Market,,,2025,UK payments company with technology-enabled payment and retail services
+019,London Stock Exchange Group plc,LSEG,Financial Infrastructure,Markets and Data Infrastructure,Yes - LSE Main Market,,,2025,Major financial market infrastructure and data analytics organisation
+020,Experian plc,EXPN,Financial Information Services,Credit Data and Analytics,Yes - LSE Main Market,,,2025,UK-listed data and analytics company with AI-intensive information services
