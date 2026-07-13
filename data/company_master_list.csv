@@ -1,7 +1,7 @@
 company_id,company_name,ticker,sector,subsector,uk_listed_status,company_website,investor_relations_url,annual_report_year,notes
 001,Barclays PLC,BARC,Financial Services,Banking,Yes - LSE Main Market,https://home.barclays/,https://home.barclays/content/dam/home-barclays/documents/investor-relations/reports-and-events/annual-reports/2025/Barclays-PLC-Annual-Report-2025.pdf,2025,Large UK bank selected for identifiable AI and digital transformation disclosures
 002,HSBC Holdings plc,HSBA,Financial Services,Banking,Yes - LSE Main Market,https://www.hsbc.com/,https://www.hsbc.com/investors/results-and-announcements/annual-report,2025,Global UK-listed bank with extensive technology and AI-related reporting
-003,Lloyds Banking Group plc,LLOY,Financial Services,Banking,Yes - LSE Main Market,,,2025,Major UK retail bank with digital transformation and data-related disclosures
+003,Lloyds Banking Group plc,LLOY,Financial Services,Banking,Yes - LSE Main Market,https://www.lloydsbankinggroup.com/,https://www.lloydsbankinggroup.com/assets/pdfs/investors/financial-performance/lloyds-banking-group-plc/2025/q4/2025-lbg-annual-report.pdf,2025,Major UK retail bank with digital transformation and data-related disclosures
 004,NatWest Group plc,NWG,Financial Services,Banking,Yes - LSE Main Market,,,2025,Major UK bank with identifiable AI governance and technology disclosures
 005,Standard Chartered PLC,STAN,Financial Services,Banking,Yes - LSE Main Market,,,2025,International UK-listed bank with technology and responsible innovation disclosures
 006,Aviva plc,AV.,Financial Services,Insurance,Yes - LSE Main Market,,,2025,Large UK insurer with AI use and digital transformation disclosures
