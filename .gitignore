@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Keep annual-report PDFs on this laptop only
+/reports/raw_pdfs/*.pdf
+
+# Keep extracted report text on this laptop only
+/data/extracted_text/*.txt
+/data/extracted_text/*.json
