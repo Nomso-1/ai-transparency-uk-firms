@@ -1,0 +1,128 @@
+company_id,company_name,keyword,mention_count,unique_pages
+001,Barclays plc,AI,195,47
+001,Barclays plc,artificial intelligence,20,14
+001,Barclays plc,bias,8,6
+001,Barclays plc,automation,7,7
+001,Barclays plc,fairness,7,7
+001,Barclays plc,machine learning,7,6
+001,Barclays plc,generative AI,2,2
+001,Barclays plc,ethical AI,1,1
+001,Barclays plc,human oversight,1,1
+001,Barclays plc,responsible AI,1,1
+002,HSBC Holdings plc,AI,75,29
+002,HSBC Holdings plc,artificial intelligence,5,5
+002,HSBC Holdings plc,automation,4,4
+002,HSBC Holdings plc,bias,4,4
+002,HSBC Holdings plc,generative AI,4,4
+002,HSBC Holdings plc,machine learning,4,3
+002,HSBC Holdings plc,fairness,3,3
+002,HSBC Holdings plc,AI ethics,1,1
+002,HSBC Holdings plc,large language model,1,1
+002,HSBC Holdings plc,responsible AI,1,1
+003,Lloyds Banking Group plc,AI,58,28
+003,Lloyds Banking Group plc,artificial intelligence,9,8
+003,Lloyds Banking Group plc,generative AI,5,5
+003,Lloyds Banking Group plc,automation,3,3
+003,Lloyds Banking Group plc,AI ethics,1,1
+003,Lloyds Banking Group plc,bias,1,1
+003,Lloyds Banking Group plc,ethical AI,1,1
+003,Lloyds Banking Group plc,machine learning,1,1
+004,NatWest Group plc,AI,144,42
+004,NatWest Group plc,artificial intelligence,27,14
+004,NatWest Group plc,automation,15,12
+004,NatWest Group plc,generative AI,10,9
+004,NatWest Group plc,bias,4,4
+004,NatWest Group plc,responsible AI,4,3
+004,NatWest Group plc,fairness,2,2
+004,NatWest Group plc,machine learning,2,2
+004,NatWest Group plc,AI ethics,1,1
+004,NatWest Group plc,automated decision-making,1,1
+005,Standard Chartered plc,AI,80,26
+005,Standard Chartered plc,artificial intelligence,3,3
+005,Standard Chartered plc,automation,3,2
+005,Standard Chartered plc,fairness,3,3
+005,Standard Chartered plc,responsible AI,3,1
+005,Standard Chartered plc,bias,2,2
+005,Standard Chartered plc,generative AI,1,1
+006,Aviva plc,AI,65,26
+006,Aviva plc,artificial intelligence,17,12
+006,Aviva plc,automation,6,5
+006,Aviva plc,generative AI,2,2
+006,Aviva plc,fairness,1,1
+007,Legal & General Group plc,AI,43,14
+007,Legal & General Group plc,bias,5,4
+007,Legal & General Group plc,automation,1,1
+007,Legal & General Group plc,fairness,1,1
+007,Legal & General Group plc,generative AI,1,1
+008,M&G plc,AI,13,11
+008,M&G plc,artificial intelligence,4,4
+008,M&G plc,automation,3,2
+008,M&G plc,bias,2,2
+008,M&G plc,fairness,2,2
+009,Admiral Group plc,AI,71,34
+009,Admiral Group plc,artificial intelligence,8,6
+009,Admiral Group plc,responsible AI,7,4
+009,Admiral Group plc,fairness,5,5
+009,Admiral Group plc,machine learning,5,4
+009,Admiral Group plc,automation,3,3
+009,Admiral Group plc,generative AI,3,3
+009,Admiral Group plc,bias,1,1
+010,AJ Bell plc,automation,8,8
+010,AJ Bell plc,AI,5,3
+010,AJ Bell plc,generative AI,3,3
+010,AJ Bell plc,artificial intelligence,2,2
+010,AJ Bell plc,fairness,2,2
+010,AJ Bell plc,bias,1,1
+011,IG Group Holdings plc,AI,13,8
+011,IG Group Holdings plc,artificial intelligence,4,4
+011,IG Group Holdings plc,automation,3,3
+011,IG Group Holdings plc,bias,1,1
+011,IG Group Holdings plc,fairness,1,1
+012,CMC Markets plc,AI,1,1
+012,CMC Markets plc,artificial intelligence,1,1
+012,CMC Markets plc,automation,1,1
+012,CMC Markets plc,bias,1,1
+013,IntegraFin Holdings plc,AI,9,2
+013,IntegraFin Holdings plc,artificial intelligence,1,1
+013,IntegraFin Holdings plc,automation,1,1
+014,Wise plc,AI,13,7
+014,Wise plc,automation,9,4
+014,Wise plc,artificial intelligence,3,2
+014,Wise plc,large language model,2,2
+014,Wise plc,bias,1,1
+014,Wise plc,machine learning,1,1
+015,CAB Payments Holdings plc,AI,13,8
+015,CAB Payments Holdings plc,automation,7,7
+015,CAB Payments Holdings plc,fairness,3,3
+015,CAB Payments Holdings plc,artificial intelligence,2,2
+015,CAB Payments Holdings plc,bias,2,1
+015,CAB Payments Holdings plc,machine learning,1,1
+016,Funding Circle Holdings plc,AI,91,27
+016,Funding Circle Holdings plc,automation,3,3
+016,Funding Circle Holdings plc,bias,3,2
+016,Funding Circle Holdings plc,artificial intelligence,2,2
+016,Funding Circle Holdings plc,machine learning,2,2
+016,Funding Circle Holdings plc,fairness,1,1
+016,Funding Circle Holdings plc,generative AI,1,1
+016,Funding Circle Holdings plc,human-in-the-loop,1,1
+017,Boku Inc.,AI,12,7
+017,Boku Inc.,automation,9,6
+017,Boku Inc.,fairness,2,2
+018,PayPoint plc,automation,8,4
+018,PayPoint plc,AI,4,4
+018,PayPoint plc,bias,1,1
+019,London Stock Exchange Group plc,AI,96,30
+019,London Stock Exchange Group plc,artificial intelligence,7,6
+019,London Stock Exchange Group plc,bias,7,5
+019,London Stock Exchange Group plc,automation,4,3
+019,London Stock Exchange Group plc,LLM,2,2
+019,London Stock Exchange Group plc,generative AI,1,1
+019,London Stock Exchange Group plc,large language model,1,1
+019,London Stock Exchange Group plc,machine learning,1,1
+020,Experian plc,AI,44,23
+020,Experian plc,artificial intelligence,8,7
+020,Experian plc,automation,7,7
+020,Experian plc,generative AI,6,5
+020,Experian plc,fairness,5,5
+020,Experian plc,bias,2,2
+020,Experian plc,machine learning,2,2

@@ -1,1 +1,39 @@
 category,keyword,search_variant,reason_for_inclusion
+AI and related technologies,artificial intelligence,artificial intelligence,Direct reference to AI
+AI and related technologies,AI,AI,Direct acronym reference to artificial intelligence
+AI and related technologies,machine learning,machine learning,Specific AI-related technique
+AI and related technologies,algorithm,algorithm,Algorithmic systems or decision processes
+AI and related technologies,automation,automation,Automated processes linked to digital operations
+AI and related technologies,generative AI,generative AI,Emerging AI technology
+AI and related technologies,large language model,large language model,Specific generative AI technology
+AI and related technologies,LLM,LLM,Acronym for large language model
+Data and analytics,data analytics,data analytics,Evidence of data-driven operations
+Data and analytics,advanced analytics,advanced analytics,Evidence of analytical capability
+Data and analytics,predictive analytics,predictive analytics,Predictive decision-support capability
+Data and analytics,data science,data science,Technical data capability
+Data and analytics,digital transformation,digital transformation,Wider digital change context
+Governance and accountability,governance,governance,General governance reference
+Governance and accountability,accountability,accountability,Accountability in decision-making
+Governance and accountability,oversight,oversight,Oversight of technology or risk
+Governance and accountability,responsible AI,responsible AI,Explicit responsible AI governance
+Governance and accountability,ethical AI,ethical AI,Explicit AI ethics disclosure
+Governance and accountability,AI ethics,AI ethics,Explicit AI ethics disclosure
+Governance and accountability,model risk,model risk,Risk management of models
+Transparency and explainability,transparency,transparency,Transparency disclosure
+Transparency and explainability,explainability,explainability,Explainability of systems or models
+Transparency and explainability,explainable AI,explainable AI,Specific explainable AI reference
+Transparency and explainability,interpretability,interpretability,Model interpretability reference
+Human oversight,human oversight,human oversight,Human control over automated systems
+Human oversight,human review,human review,Manual review of decisions
+Human oversight,human-in-the-loop,human-in-the-loop,Human involvement in AI systems
+Human oversight,automated decision-making,automated decision-making,Automated decision processes
+Human oversight,decision support,decision support,Technology supporting human decisions
+"Fairness, bias and ethics",bias,bias,Potential bias in models or decisions
+"Fairness, bias and ethics",fairness,fairness,Fairness in decisions or systems
+"Fairness, bias and ethics",discrimination,discrimination,Potential unfair treatment
+"Fairness, bias and ethics",ethics,ethics,General ethics reference
+Risk and regulation,risk management,risk management,Technology risk management
+Risk and regulation,regulatory compliance,regulatory compliance,Regulatory compliance disclosure
+Risk and regulation,data protection,data protection,Protection of personal or customer data
+Risk and regulation,privacy,privacy,Privacy-related disclosure
+Risk and regulation,cybersecurity,cybersecurity,Technology and cyber risk disclosure

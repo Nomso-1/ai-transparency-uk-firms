@@ -1,0 +1,119 @@
+company_id,company_name,category,mention_count,unique_pages,keywords_found
+001,Barclays plc,AI and related technologies,231,54,"AI, artificial intelligence, automation, generative AI, machine learning"
+001,Barclays plc,Data and analytics,10,6,"data analytics, digital transformation"
+001,Barclays plc,"Fairness, bias and ethics",20,11,"bias, discrimination, ethics, fairness"
+001,Barclays plc,Governance and accountability,927,491,"accountability, ethical AI, governance, model risk, oversight, responsible AI"
+001,Barclays plc,Human oversight,1,1,human oversight
+001,Barclays plc,Risk and regulation,358,118,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
+001,Barclays plc,Transparency and explainability,41,28,transparency
+002,HSBC Holdings plc,AI and related technologies,93,33,"AI, artificial intelligence, automation, generative AI, large language model, machine learning"
+002,HSBC Holdings plc,Data and analytics,5,5,"advanced analytics, data analytics, digital transformation"
+002,HSBC Holdings plc,"Fairness, bias and ethics",17,13,"bias, discrimination, ethics, fairness"
+002,HSBC Holdings plc,Governance and accountability,805,369,"AI ethics, accountability, governance, model risk, oversight, responsible AI"
+002,HSBC Holdings plc,Risk and regulation,294,79,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
+002,HSBC Holdings plc,Transparency and explainability,15,14,transparency
+003,Lloyds Banking Group plc,AI and related technologies,76,34,"AI, artificial intelligence, automation, generative AI, machine learning"
+003,Lloyds Banking Group plc,Data and analytics,4,4,digital transformation
+003,Lloyds Banking Group plc,"Fairness, bias and ethics",10,6,"bias, ethics"
+003,Lloyds Banking Group plc,Governance and accountability,303,82,"AI ethics, accountability, ethical AI, governance, model risk, oversight"
+003,Lloyds Banking Group plc,Risk and regulation,200,90,"cybersecurity, privacy, regulatory compliance, risk management"
+003,Lloyds Banking Group plc,Transparency and explainability,16,16,transparency
+004,NatWest Group plc,AI and related technologies,198,56,"AI, artificial intelligence, automation, generative AI, machine learning"
+004,NatWest Group plc,Data and analytics,5,5,"data analytics, data science, digital transformation"
+004,NatWest Group plc,"Fairness, bias and ethics",23,13,"bias, discrimination, ethics, fairness"
+004,NatWest Group plc,Governance and accountability,891,431,"AI ethics, accountability, governance, model risk, oversight, responsible AI"
+004,NatWest Group plc,Human oversight,1,1,automated decision-making
+004,NatWest Group plc,Risk and regulation,297,107,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
+004,NatWest Group plc,Transparency and explainability,11,11,transparency
+005,Standard Chartered plc,AI and related technologies,87,29,"AI, artificial intelligence, automation, generative AI"
+005,Standard Chartered plc,Data and analytics,6,6,"advanced analytics, data analytics, digital transformation"
+005,Standard Chartered plc,"Fairness, bias and ethics",34,22,"bias, discrimination, ethics, fairness"
+005,Standard Chartered plc,Governance and accountability,378,124,"accountability, governance, model risk, oversight, responsible AI"
+005,Standard Chartered plc,Risk and regulation,183,93,"data protection, privacy, regulatory compliance, risk management"
+005,Standard Chartered plc,Transparency and explainability,13,13,transparency
+006,Aviva plc,AI and related technologies,90,32,"AI, artificial intelligence, automation, generative AI"
+006,Aviva plc,Data and analytics,2,2,"data analytics, digital transformation"
+006,Aviva plc,"Fairness, bias and ethics",16,9,"ethics, fairness"
+006,Aviva plc,Governance and accountability,568,320,"accountability, governance, oversight"
+006,Aviva plc,Risk and regulation,89,43,"data protection, privacy, regulatory compliance, risk management"
+006,Aviva plc,Transparency and explainability,5,5,transparency
+007,Legal & General Group plc,AI and related technologies,45,14,"AI, automation, generative AI"
+007,Legal & General Group plc,Data and analytics,2,1,data analytics
+007,Legal & General Group plc,"Fairness, bias and ethics",10,7,"bias, ethics, fairness"
+007,Legal & General Group plc,Governance and accountability,263,91,"accountability, governance, model risk, oversight"
+007,Legal & General Group plc,Risk and regulation,87,40,"privacy, regulatory compliance, risk management"
+007,Legal & General Group plc,Transparency and explainability,23,17,transparency
+008,M&G plc,AI and related technologies,20,15,"AI, artificial intelligence, automation"
+008,M&G plc,"Fairness, bias and ethics",5,5,"bias, discrimination, fairness"
+008,M&G plc,Governance and accountability,552,342,"accountability, governance, oversight"
+008,M&G plc,Risk and regulation,134,68,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
+008,M&G plc,Transparency and explainability,13,10,transparency
+009,Admiral Group plc,AI and related technologies,90,36,"AI, artificial intelligence, automation, generative AI, machine learning"
+009,Admiral Group plc,Data and analytics,6,3,"advanced analytics, data analytics, data science"
+009,Admiral Group plc,"Fairness, bias and ethics",14,11,"bias, discrimination, ethics, fairness"
+009,Admiral Group plc,Governance and accountability,642,334,"accountability, governance, oversight, responsible AI"
+009,Admiral Group plc,Risk and regulation,124,52,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
+009,Admiral Group plc,Transparency and explainability,27,24,transparency
+010,AJ Bell plc,AI and related technologies,18,11,"AI, artificial intelligence, automation, generative AI"
+010,AJ Bell plc,"Fairness, bias and ethics",5,4,"bias, discrimination, ethics, fairness"
+010,AJ Bell plc,Governance and accountability,346,165,"accountability, governance, oversight"
+010,AJ Bell plc,Risk and regulation,108,42,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
+010,AJ Bell plc,Transparency and explainability,8,8,transparency
+011,IG Group Holdings plc,AI and related technologies,20,14,"AI, artificial intelligence, automation"
+011,IG Group Holdings plc,Data and analytics,2,2,"advanced analytics, digital transformation"
+011,IG Group Holdings plc,"Fairness, bias and ethics",5,4,"bias, discrimination, ethics, fairness"
+011,IG Group Holdings plc,Governance and accountability,349,181,"accountability, governance, model risk, oversight"
+011,IG Group Holdings plc,Risk and regulation,85,41,"cybersecurity, regulatory compliance, risk management"
+011,IG Group Holdings plc,Transparency and explainability,13,12,transparency
+012,CMC Markets plc,AI and related technologies,3,3,"AI, artificial intelligence, automation"
+012,CMC Markets plc,"Fairness, bias and ethics",1,1,bias
+012,CMC Markets plc,Governance and accountability,263,130,"accountability, governance, oversight"
+012,CMC Markets plc,Risk and regulation,90,38,"regulatory compliance, risk management"
+012,CMC Markets plc,Transparency and explainability,11,10,transparency
+013,IntegraFin Holdings plc,AI and related technologies,11,3,"AI, artificial intelligence, automation"
+013,IntegraFin Holdings plc,"Fairness, bias and ethics",2,2,ethics
+013,IntegraFin Holdings plc,Governance and accountability,275,142,"accountability, governance, oversight"
+013,IntegraFin Holdings plc,Risk and regulation,65,32,"data protection, risk management"
+013,IntegraFin Holdings plc,Transparency and explainability,13,10,transparency
+014,Wise plc,AI and related technologies,28,9,"AI, artificial intelligence, automation, large language model, machine learning"
+014,Wise plc,Data and analytics,1,1,data analytics
+014,Wise plc,"Fairness, bias and ethics",2,2,"bias, ethics"
+014,Wise plc,Governance and accountability,341,169,"accountability, governance, model risk, oversight"
+014,Wise plc,Risk and regulation,75,27,"data protection, privacy, regulatory compliance, risk management"
+014,Wise plc,Transparency and explainability,25,22,transparency
+015,CAB Payments Holdings plc,AI and related technologies,23,13,"AI, artificial intelligence, automation, machine learning"
+015,CAB Payments Holdings plc,Data and analytics,1,1,advanced analytics
+015,CAB Payments Holdings plc,"Fairness, bias and ethics",9,6,"bias, discrimination, ethics, fairness"
+015,CAB Payments Holdings plc,Governance and accountability,364,204,"accountability, governance, oversight"
+015,CAB Payments Holdings plc,Risk and regulation,77,40,"data protection, regulatory compliance, risk management"
+015,CAB Payments Holdings plc,Transparency and explainability,11,10,transparency
+016,Funding Circle Holdings plc,AI and related technologies,99,27,"AI, artificial intelligence, automation, generative AI, machine learning"
+016,Funding Circle Holdings plc,Data and analytics,1,1,data analytics
+016,Funding Circle Holdings plc,"Fairness, bias and ethics",8,5,"bias, discrimination, fairness"
+016,Funding Circle Holdings plc,Governance and accountability,348,189,"accountability, governance, model risk, oversight"
+016,Funding Circle Holdings plc,Human oversight,1,1,human-in-the-loop
+016,Funding Circle Holdings plc,Risk and regulation,102,52,"cybersecurity, regulatory compliance, risk management"
+016,Funding Circle Holdings plc,Transparency and explainability,10,10,transparency
+017,Boku Inc.,AI and related technologies,21,8,"AI, automation"
+017,Boku Inc.,"Fairness, bias and ethics",5,5,"discrimination, ethics, fairness"
+017,Boku Inc.,Governance and accountability,56,22,"accountability, governance, oversight"
+017,Boku Inc.,Risk and regulation,43,17,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
+017,Boku Inc.,Transparency and explainability,9,9,transparency
+018,PayPoint plc,AI and related technologies,12,8,"AI, automation"
+018,PayPoint plc,Data and analytics,3,3,"data analytics, data science"
+018,PayPoint plc,"Fairness, bias and ethics",3,3,"bias, ethics"
+018,PayPoint plc,Governance and accountability,279,166,"accountability, governance, oversight"
+018,PayPoint plc,Risk and regulation,49,23,"data protection, privacy, regulatory compliance, risk management"
+018,PayPoint plc,Transparency and explainability,11,10,transparency
+019,London Stock Exchange Group plc,AI and related technologies,112,30,"AI, LLM, artificial intelligence, automation, generative AI, large language model, machine learning"
+019,London Stock Exchange Group plc,Data and analytics,10,8,"advanced analytics, data analytics, data science, digital transformation"
+019,London Stock Exchange Group plc,"Fairness, bias and ethics",9,6,"bias, discrimination, ethics"
+019,London Stock Exchange Group plc,Governance and accountability,324,138,"accountability, governance, model risk, oversight"
+019,London Stock Exchange Group plc,Risk and regulation,95,53,"cybersecurity, privacy, regulatory compliance, risk management"
+019,London Stock Exchange Group plc,Transparency and explainability,8,7,transparency
+020,Experian plc,AI and related technologies,67,30,"AI, artificial intelligence, automation, generative AI, machine learning"
+020,Experian plc,Data and analytics,1,1,advanced analytics
+020,Experian plc,"Fairness, bias and ethics",13,12,"bias, ethics, fairness"
+020,Experian plc,Governance and accountability,221,83,"accountability, governance, oversight"
+020,Experian plc,Risk and regulation,147,53,"data protection, privacy, regulatory compliance, risk management"
+020,Experian plc,Transparency and explainability,20,18,transparency
