@@ -1,0 +1,21 @@
+transparency_group,final_rank,company_id,company_name,final_score,final_score_percentage
+High transparency,1,004,NatWest Group plc,13.0,92.86
+High transparency,2,001,Barclays plc,12.0,85.71
+High transparency,2,002,HSBC Holdings plc,12.0,85.71
+High transparency,2,003,Lloyds Banking Group plc,12.0,85.71
+High transparency,2,005,Standard Chartered plc,12.0,85.71
+High transparency,3,009,Admiral Group plc,11.0,78.57
+High transparency,3,020,Experian plc,11.0,78.57
+High transparency,3,019,London Stock Exchange Group plc,11.0,78.57
+Moderate transparency,4,006,Aviva plc,10.0,71.43
+Moderate transparency,5,016,Funding Circle Holdings plc,9.0,64.29
+Moderate transparency,6,017,Boku Inc.,7.0,50.0
+Limited transparency,7,010,AJ Bell plc,6.0,42.86
+Limited transparency,7,015,CAB Payments Holdings plc,6.0,42.86
+Limited transparency,7,011,IG Group Holdings plc,6.0,42.86
+Limited transparency,7,007,Legal & General Group plc,6.0,42.86
+Limited transparency,7,008,M&G plc,6.0,42.86
+Limited transparency,7,014,Wise plc,6.0,42.86
+Limited transparency,8,013,IntegraFin Holdings plc,5.0,35.71
+Low transparency,9,018,PayPoint plc,2.0,14.29
+Low transparency,10,012,CMC Markets plc,1.0,7.14
