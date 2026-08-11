@@ -1,0 +1,3821 @@
+term,term_type,document_frequency,document_frequency_pct,idf,total_count
+group,unigram,18,90.0,1.1001,336
+use,unigram,18,90.0,1.1001,187
+management,unigram,18,90.0,1.1001,155
+intelligence,unigram,18,90.0,1.1001,140
+growth,unigram,18,90.0,1.1001,104
+year,unigram,18,90.0,1.1001,88
+operational,unigram,18,90.0,1.1001,87
+continue,unigram,18,90.0,1.1001,68
+processes,unigram,18,90.0,1.1001,62
+people,unigram,18,90.0,1.1001,52
+data,unigram,17,85.0,1.1542,314
+new,unigram,17,85.0,1.1542,176
+customer,unigram,17,85.0,1.1542,161
+digital,unigram,17,85.0,1.1542,134
+artificial,unigram,17,85.0,1.1542,132
+artificial intelligence,bigram,17,85.0,1.1542,125
+strategy,unigram,17,85.0,1.1542,90
+key,unigram,17,85.0,1.1542,73
+framework,unigram,17,85.0,1.1542,65
+time,unigram,17,85.0,1.1542,53
+annual,unigram,17,85.0,1.1542,52
+enhance,unigram,17,85.0,1.1542,52
+service,unigram,17,85.0,1.1542,52
+significant,unigram,17,85.0,1.1542,50
+bias,unigram,17,85.0,1.1542,46
+technology,unigram,16,80.0,1.2113,186
+board,unigram,16,80.0,1.2113,133
+support,unigram,16,80.0,1.2113,90
+services,unigram,16,80.0,1.2113,78
+impact,unigram,16,80.0,1.2113,72
+governance,unigram,16,80.0,1.2113,71
+capabilities,unigram,16,80.0,1.2113,60
+report,unigram,16,80.0,1.2113,60
+deliver,unigram,16,80.0,1.2113,55
+cyber,unigram,16,80.0,1.2113,50
+risk management,bigram,16,80.0,1.2113,48
+efficiency,unigram,16,80.0,1.2113,41
+outcomes,unigram,16,80.0,1.2113,35
+customers,unigram,15,75.0,1.2719,167
+committee,unigram,15,75.0,1.2719,98
+focus,unigram,15,75.0,1.2719,78
+market,unigram,15,75.0,1.2719,74
+investment,unigram,15,75.0,1.2719,70
+solutions,unigram,15,75.0,1.2719,67
+engagement,unigram,15,75.0,1.2719,64
+potential,unigram,15,75.0,1.2719,63
+opportunities,unigram,15,75.0,1.2719,62
+controls,unigram,15,75.0,1.2719,59
+products,unigram,15,75.0,1.2719,57
+work,unigram,15,75.0,1.2719,57
+driven,unigram,15,75.0,1.2719,56
+ensure,unigram,15,75.0,1.2719,54
+operations,unigram,15,75.0,1.2719,51
+internal,unigram,15,75.0,1.2719,50
+improve,unigram,15,75.0,1.2719,46
+related,unigram,15,75.0,1.2719,46
+strong,unigram,15,75.0,1.2719,46
+based,unigram,15,75.0,1.2719,45
+drive,unigram,15,75.0,1.2719,39
+increasing,unigram,15,75.0,1.2719,36
+activities,unigram,15,75.0,1.2719,33
+external,unigram,15,75.0,1.2719,33
+developments,unigram,15,75.0,1.2719,32
+accounting,unigram,15,75.0,1.2719,30
+ensuring,unigram,15,75.0,1.2719,29
+teams,unigram,15,75.0,1.2719,27
+strategic,unigram,14,70.0,1.3365,80
+adoption,unigram,14,70.0,1.3365,64
+continued,unigram,14,70.0,1.3365,62
+information,unigram,14,70.0,1.3365,59
+use ai,bigram,14,70.0,1.3365,56
+value,unigram,14,70.0,1.3365,56
+approach,unigram,14,70.0,1.3365,53
+product,unigram,14,70.0,1.3365,53
+responsible,unigram,14,70.0,1.3365,52
+fraud,unigram,14,70.0,1.3365,50
+using,unigram,14,70.0,1.3365,48
+emerging,unigram,14,70.0,1.3365,45
+executive,unigram,14,70.0,1.3365,45
+global,unigram,14,70.0,1.3365,45
+security,unigram,14,70.0,1.3365,45
+oversight,unigram,14,70.0,1.3365,44
+control,unigram,14,70.0,1.3365,41
+platform,unigram,14,70.0,1.3365,39
+areas,unigram,14,70.0,1.3365,38
+fairness,unigram,14,70.0,1.3365,38
+culture,unigram,14,70.0,1.3365,35
+employees,unigram,14,70.0,1.3365,35
+increase,unigram,14,70.0,1.3365,35
+initiatives,unigram,14,70.0,1.3365,34
+industry,unigram,14,70.0,1.3365,33
+policy,unigram,14,70.0,1.3365,33
+better,unigram,14,70.0,1.3365,32
+intelligence ai,bigram,14,70.0,1.3365,32
+benefits,unigram,14,70.0,1.3365,31
+environment,unigram,14,70.0,1.3365,30
+making,unigram,14,70.0,1.3365,29
+monitoring,unigram,14,70.0,1.3365,28
+delivered,unigram,14,70.0,1.3365,27
+greater,unigram,14,70.0,1.3365,27
+operating,unigram,14,70.0,1.3365,26
+invest,unigram,14,70.0,1.3365,22
+estimates,unigram,14,70.0,1.3365,19
+monitor,unigram,14,70.0,1.3365,19
+model,unigram,13,65.0,1.4055,84
+technologies,unigram,13,65.0,1.4055,76
+generative,unigram,13,65.0,1.4055,66
+development,unigram,13,65.0,1.4055,60
+regulatory,unigram,13,65.0,1.4055,60
+experience,unigram,13,65.0,1.4055,56
+future,unigram,13,65.0,1.4055,50
+evolving,unigram,13,65.0,1.4055,46
+powered,unigram,13,65.0,1.4055,45
+process,unigram,13,65.0,1.4055,44
+scale,unigram,13,65.0,1.4055,43
+transformation,unigram,13,65.0,1.4055,42
+audit,unigram,13,65.0,1.4055,40
+increased,unigram,13,65.0,1.4055,38
+team,unigram,13,65.0,1.4055,38
+enhanced,unigram,13,65.0,1.4055,37
+building,unigram,13,65.0,1.4055,34
+non,unigram,13,65.0,1.4055,33
+ongoing,unigram,13,65.0,1.4055,33
+build,unigram,13,65.0,1.4055,32
+continues,unigram,13,65.0,1.4055,30
+associated,unigram,13,65.0,1.4055,29
+launched,unigram,13,65.0,1.4055,29
+particularly,unigram,13,65.0,1.4055,29
+workforce,unigram,13,65.0,1.4055,29
+included,unigram,13,65.0,1.4055,27
+remuneration,unigram,13,65.0,1.4055,27
+reviewed,unigram,13,65.0,1.4055,27
+share,unigram,13,65.0,1.4055,25
+annual report,bigram,13,65.0,1.4055,24
+programme,unigram,13,65.0,1.4055,24
+leverage,unigram,13,65.0,1.4055,23
+remains,unigram,13,65.0,1.4055,22
+remain,unigram,13,65.0,1.4055,20
+innovation,unigram,12,60.0,1.4796,69
+tools,unigram,12,60.0,1.4796,66
+review,unigram,12,60.0,1.4796,61
+models,unigram,12,60.0,1.4796,59
+performance,unigram,12,60.0,1.4796,56
+learning,unigram,12,60.0,1.4796,53
+compliance,unigram,12,60.0,1.4796,51
+help,unigram,12,60.0,1.4796,49
+enabled,unigram,12,60.0,1.4796,43
+resilience,unigram,12,60.0,1.4796,43
+high,unigram,12,60.0,1.4796,42
+change,unigram,12,60.0,1.4796,41
+generative ai,bigram,12,60.0,1.4796,40
+assets,unigram,12,60.0,1.4796,39
+ai powered,bigram,12,60.0,1.4796,37
+term,unigram,12,60.0,1.4796,36
+capital,unigram,12,60.0,1.4796,34
+progress,unigram,12,60.0,1.4796,34
+infrastructure,unigram,12,60.0,1.4796,33
+reporting,unigram,12,60.0,1.4796,33
+delivering,unigram,12,60.0,1.4796,32
+partnership,unigram,12,60.0,1.4796,32
+requirements,unigram,12,60.0,1.4796,32
+delivery,unigram,12,60.0,1.4796,31
+ai driven,bigram,12,60.0,1.4796,30
+protection,unigram,12,60.0,1.4796,30
+opportunity,unigram,12,60.0,1.4796,29
+updates,unigram,12,60.0,1.4796,29
+working,unigram,12,60.0,1.4796,29
+competitive,unigram,12,60.0,1.4796,28
+make,unigram,12,60.0,1.4796,28
+directors,unigram,12,60.0,1.4796,27
+focused,unigram,12,60.0,1.4796,27
+costs,unigram,12,60.0,1.4796,26
+supported,unigram,12,60.0,1.4796,26
+enabling,unigram,12,60.0,1.4796,25
+used,unigram,12,60.0,1.4796,25
+additional,unigram,12,60.0,1.4796,24
+chief,unigram,12,60.0,1.4796,24
+programmes,unigram,12,60.0,1.4796,24
+senior,unigram,12,60.0,1.4796,24
+core,unigram,12,60.0,1.4796,23
+cost,unigram,12,60.0,1.4796,23
+including ai,bigram,12,60.0,1.4796,23
+investing,unigram,12,60.0,1.4796,23
+rate,unigram,12,60.0,1.4796,23
+feedback,unigram,12,60.0,1.4796,21
+implementation,unigram,12,60.0,1.4796,21
+relevant,unigram,12,60.0,1.4796,21
+employee,unigram,12,60.0,1.4796,20
+growing,unigram,12,60.0,1.4796,20
+transactions,unigram,12,60.0,1.4796,20
+critical,unigram,12,60.0,1.4796,19
+level,unigram,12,60.0,1.4796,19
+offer,unigram,12,60.0,1.4796,18
+accounting estimates,bigram,12,60.0,1.4796,15
+uk,unigram,11,55.0,1.5596,90
+colleagues,unigram,11,55.0,1.5596,80
+systems,unigram,11,55.0,1.5596,54
+climate,unigram,11,55.0,1.5596,53
+markets,unigram,11,55.0,1.5596,53
+access,unigram,11,55.0,1.5596,46
+sustainability,unigram,11,55.0,1.5596,34
+include,unigram,11,55.0,1.5596,31
+end,unigram,11,55.0,1.5596,30
+data ai,bigram,11,55.0,1.5596,29
+plc,unigram,11,55.0,1.5596,29
+cases,unigram,11,55.0,1.5596,28
+leadership,unigram,11,55.0,1.5596,26
+policies,unigram,11,55.0,1.5596,26
+company,unigram,11,55.0,1.5596,25
+long,unigram,11,55.0,1.5596,25
+range,unigram,11,55.0,1.5596,25
+inclusion,unigram,11,55.0,1.5596,24
+integration,unigram,11,55.0,1.5596,24
+long term,bigram,11,55.0,1.5596,24
+ai enabled,bigram,11,55.0,1.5596,23
+designed,unigram,11,55.0,1.5596,23
+expertise,unigram,11,55.0,1.5596,23
+improved,unigram,11,55.0,1.5596,23
+landscape,unigram,11,55.0,1.5596,23
+needs,unigram,11,55.0,1.5596,23
+rapid,unigram,11,55.0,1.5596,23
+accounts,unigram,11,55.0,1.5596,22
+developed,unigram,11,55.0,1.5596,22
+alongside,unigram,11,55.0,1.5596,21
+appropriate,unigram,11,55.0,1.5596,21
+customer experience,bigram,11,55.0,1.5596,21
+required,unigram,11,55.0,1.5596,21
+number,unigram,11,55.0,1.5596,20
+provides,unigram,11,55.0,1.5596,20
+actions,unigram,11,55.0,1.5596,19
+embedded,unigram,11,55.0,1.5596,19
+reduce,unigram,11,55.0,1.5596,19
+effectively,unigram,11,55.0,1.5596,17
+procedures,unigram,11,55.0,1.5596,16
+improving,unigram,11,55.0,1.5596,15
+enhancements,unigram,11,55.0,1.5596,13
+cloud,unigram,10,50.0,1.6466,42
+provide,unigram,10,50.0,1.6466,36
+conduct,unigram,10,50.0,1.6466,34
+leading,unigram,10,50.0,1.6466,32
+machine,unigram,10,50.0,1.6466,31
+productivity,unigram,10,50.0,1.6466,28
+suppliers,unigram,10,50.0,1.6466,28
+set,unigram,10,50.0,1.6466,27
+consumer,unigram,10,50.0,1.6466,26
+corporate,unigram,10,50.0,1.6466,26
+machine learning,bigram,10,50.0,1.6466,26
+relating,unigram,10,50.0,1.6466,25
+standards,unigram,10,50.0,1.6466,25
+leveraging,unigram,10,50.0,1.6466,24
+officer,unigram,10,50.0,1.6466,24
+ability,unigram,10,50.0,1.6466,23
+advanced,unigram,10,50.0,1.6466,23
+deployment,unigram,10,50.0,1.6466,23
+driving,unigram,10,50.0,1.6466,23
+plan,unigram,10,50.0,1.6466,23
+decisions,unigram,10,50.0,1.6466,22
+effective,unigram,10,50.0,1.6466,22
+enterprise,unigram,10,50.0,1.6466,22
+introduced,unigram,10,50.0,1.6466,22
+statements,unigram,10,50.0,1.6466,22
+assessment,unigram,10,50.0,1.6466,21
+asset,unigram,10,50.0,1.6466,21
+ethical,unigram,10,50.0,1.6466,21
+limited,unigram,10,50.0,1.6466,21
+personal,unigram,10,50.0,1.6466,21
+addition,unigram,10,50.0,1.6466,20
+develop,unigram,10,50.0,1.6466,20
+existing,unigram,10,50.0,1.6466,20
+manage,unigram,10,50.0,1.6466,20
+principal,unigram,10,50.0,1.6466,20
+received,unigram,10,50.0,1.6466,20
+strengthen,unigram,10,50.0,1.6466,20
+training,unigram,10,50.0,1.6466,20
+director,unigram,10,50.0,1.6466,19
+large,unigram,10,50.0,1.6466,19
+members,unigram,10,50.0,1.6466,19
+includes,unigram,10,50.0,1.6466,18
+meeting,unigram,10,50.0,1.6466,18
+position,unigram,10,50.0,1.6466,18
+decision,unigram,10,50.0,1.6466,17
+faster,unigram,10,50.0,1.6466,17
+sustainable,unigram,10,50.0,1.6466,17
+built,unigram,10,50.0,1.6466,15
+launch,unigram,10,50.0,1.6466,15
+legal,unigram,10,50.0,1.6466,15
+levels,unigram,10,50.0,1.6466,15
+non executive,bigram,10,50.0,1.6466,15
+practices,unigram,10,50.0,1.6466,15
+recognise,unigram,10,50.0,1.6466,15
+success,unigram,10,50.0,1.6466,15
+technological,unigram,10,50.0,1.6466,15
+competition,unigram,10,50.0,1.6466,14
+grow,unigram,10,50.0,1.6466,14
+investments,unigram,10,50.0,1.6466,14
+particular,unigram,10,50.0,1.6466,14
+planning,unigram,10,50.0,1.6466,14
+targets,unigram,10,50.0,1.6466,14
+wider,unigram,10,50.0,1.6466,14
+approved,unigram,10,50.0,1.6466,13
+proposition,unigram,10,50.0,1.6466,12
+judgements,unigram,10,50.0,1.6466,11
+skills,unigram,9,45.0,1.7419,45
+businesses,unigram,9,45.0,1.7419,40
+clients,unigram,9,45.0,1.7419,39
+agentic,unigram,9,45.0,1.7419,37
+analytics,unigram,9,45.0,1.7419,37
+credit,unigram,9,45.0,1.7419,37
+pay,unigram,9,45.0,1.7419,32
+act,unigram,9,45.0,1.7419,30
+transition,unigram,9,45.0,1.7419,29
+changes,unigram,9,45.0,1.7419,27
+insights,unigram,9,45.0,1.7419,26
+human,unigram,9,45.0,1.7419,25
+need,unigram,9,45.0,1.7419,25
+quality,unigram,9,45.0,1.7419,25
+enable,unigram,9,45.0,1.7419,24
+considered,unigram,9,45.0,1.7419,23
+demand,unigram,9,45.0,1.7419,23
+increasingly,unigram,9,45.0,1.7419,23
+material,unigram,9,45.0,1.7419,23
+use cases,bigram,9,45.0,1.7419,23
+platforms,unigram,9,45.0,1.7419,22
+challenges,unigram,9,45.0,1.7419,21
+direct,unigram,9,45.0,1.7419,21
+real,unigram,9,45.0,1.7419,21
+matters,unigram,9,45.0,1.7419,20
+applications,unigram,9,45.0,1.7419,19
+create,unigram,9,45.0,1.7419,19
+leaders,unigram,9,45.0,1.7419,19
+privacy,unigram,9,45.0,1.7419,19
+effectiveness,unigram,9,45.0,1.7419,18
+meet,unigram,9,45.0,1.7419,18
+understanding,unigram,9,45.0,1.7419,18
+commercial,unigram,9,45.0,1.7419,17
+general,unigram,9,45.0,1.7419,17
+importance,unigram,9,45.0,1.7419,17
+offering,unigram,9,45.0,1.7419,17
+revenue,unigram,9,45.0,1.7419,17
+code,unigram,9,45.0,1.7419,16
+expectations,unigram,9,45.0,1.7419,16
+providing,unigram,9,45.0,1.7419,16
+trust,unigram,9,45.0,1.7419,16
+chair,unigram,9,45.0,1.7419,15
+channels,unigram,9,45.0,1.7419,15
+place,unigram,9,45.0,1.7419,15
+single,unigram,9,45.0,1.7419,15
+target,unigram,9,45.0,1.7419,15
+trends,unigram,9,45.0,1.7419,15
+enables,unigram,9,45.0,1.7419,14
+enhancing,unigram,9,45.0,1.7419,14
+gains,unigram,9,45.0,1.7419,14
+like,unigram,9,45.0,1.7419,14
+ways,unigram,9,45.0,1.7419,14
+application,unigram,9,45.0,1.7419,13
+current,unigram,9,45.0,1.7419,13
+expect,unigram,9,45.0,1.7419,13
+following,unigram,9,45.0,1.7419,13
+improvements,unigram,9,45.0,1.7419,13
+innovative,unigram,9,45.0,1.7419,13
+objectives,unigram,9,45.0,1.7419,13
+response,unigram,9,45.0,1.7419,13
+robust,unigram,9,45.0,1.7419,13
+speed,unigram,9,45.0,1.7419,13
+subject,unigram,9,45.0,1.7419,13
+identified,unigram,9,45.0,1.7419,12
+office,unigram,9,45.0,1.7419,12
+priority,unigram,9,45.0,1.7419,12
+successful,unigram,9,45.0,1.7419,12
+alignment,unigram,9,45.0,1.7419,11
+decision making,bigram,9,45.0,1.7419,11
+manual,unigram,9,45.0,1.7419,11
+testing,unigram,9,45.0,1.7419,11
+consider,unigram,9,45.0,1.7419,10
+invested,unigram,9,45.0,1.7419,10
+momentum,unigram,9,45.0,1.7419,10
+entries,unigram,9,45.0,1.7419,9
+banking,unigram,8,40.0,1.8473,38
+genai,unigram,8,40.0,1.8473,37
+agentic ai,bigram,8,40.0,1.8473,28
+party,unigram,8,40.0,1.8473,27
+insurance,unigram,8,40.0,1.8473,26
+certain,unigram,8,40.0,1.8473,25
+example,unigram,8,40.0,1.8473,25
+crime,unigram,8,40.0,1.8473,24
+provided,unigram,8,40.0,1.8473,24
+regulations,unigram,8,40.0,1.8473,24
+billion,unigram,8,40.0,1.8473,23
+completed,unigram,8,40.0,1.8473,23
+complex,unigram,8,40.0,1.8473,22
+economic,unigram,8,40.0,1.8473,22
+issues,unigram,8,40.0,1.8473,22
+open,unigram,8,40.0,1.8473,22
+ai data,bigram,8,40.0,1.8473,21
+ai tools,bigram,8,40.0,1.8473,21
+tool,unigram,8,40.0,1.8473,21
+attacks,unigram,8,40.0,1.8473,20
+failure,unigram,8,40.0,1.8473,20
+role,unigram,8,40.0,1.8473,20
+supporting,unigram,8,40.0,1.8473,20
+collaboration,unigram,8,40.0,1.8473,19
+factors,unigram,8,40.0,1.8473,19
+operate,unigram,8,40.0,1.8473,19
+regulation,unigram,8,40.0,1.8473,19
+partnerships,unigram,8,40.0,1.8473,18
+social,unigram,8,40.0,1.8473,18
+tax,unigram,8,40.0,1.8473,18
+technology data,bigram,8,40.0,1.8473,18
+ai digital,bigram,8,40.0,1.8473,17
+groups,unigram,8,40.0,1.8473,17
+loss,unigram,8,40.0,1.8473,17
+principles,unigram,8,40.0,1.8473,17
+rapidly,unigram,8,40.0,1.8473,17
+regular,unigram,8,40.0,1.8473,17
+shareholders,unigram,8,40.0,1.8473,17
+way,unigram,8,40.0,1.8473,17
+ai adoption,bigram,8,40.0,1.8473,16
+financial crime,bigram,8,40.0,1.8473,16
+page,unigram,8,40.0,1.8473,16
+payments,unigram,8,40.0,1.8473,16
+portfolio,unigram,8,40.0,1.8473,16
+private,unigram,8,40.0,1.8473,16
+serve,unigram,8,40.0,1.8473,16
+wide,unigram,8,40.0,1.8473,16
+world,unigram,8,40.0,1.8473,16
+agents,unigram,8,40.0,1.8473,15
+ai use,bigram,8,40.0,1.8473,15
+developing,unigram,8,40.0,1.8473,15
+good,unigram,8,40.0,1.8473,15
+helping,unigram,8,40.0,1.8473,15
+led,unigram,8,40.0,1.8473,15
+maintain,unigram,8,40.0,1.8473,15
+multi,unigram,8,40.0,1.8473,15
+rates,unigram,8,40.0,1.8473,15
+relationships,unigram,8,40.0,1.8473,15
+report accounts,bigram,8,40.0,1.8473,15
+results,unigram,8,40.0,1.8473,15
+ambition,unigram,8,40.0,1.8473,14
+best,unigram,8,40.0,1.8473,14
+financial services,bigram,8,40.0,1.8473,14
+identify,unigram,8,40.0,1.8473,14
+interactions,unigram,8,40.0,1.8473,14
+maintaining,unigram,8,40.0,1.8473,14
+operational risk,bigram,8,40.0,1.8473,14
+retail,unigram,8,40.0,1.8473,14
+technology ai,bigram,8,40.0,1.8473,14
+advances,unigram,8,40.0,1.8473,13
+ai technology,bigram,8,40.0,1.8473,13
+available,unigram,8,40.0,1.8473,13
+broader,unigram,8,40.0,1.8473,13
+dedicated,unigram,8,40.0,1.8473,13
+experiences,unigram,8,40.0,1.8473,13
+net,unigram,8,40.0,1.8473,13
+organisation,unigram,8,40.0,1.8473,13
+reducing,unigram,8,40.0,1.8473,13
+safe,unigram,8,40.0,1.8473,13
+understand,unigram,8,40.0,1.8473,13
+view,unigram,8,40.0,1.8473,13
+basis,unigram,8,40.0,1.8473,12
+day,unigram,8,40.0,1.8473,12
+detection,unigram,8,40.0,1.8473,12
+facing,unigram,8,40.0,1.8473,12
+november,unigram,8,40.0,1.8473,12
+overall,unigram,8,40.0,1.8473,12
+practice,unigram,8,40.0,1.8473,12
+priorities,unigram,8,40.0,1.8473,12
+relation,unigram,8,40.0,1.8473,12
+advantage,unigram,8,40.0,1.8473,11
+creating,unigram,8,40.0,1.8473,11
+events,unigram,8,40.0,1.8473,11
+free,unigram,8,40.0,1.8473,11
+identification,unigram,8,40.0,1.8473,11
+monitored,unigram,8,40.0,1.8473,11
+new technologies,bigram,8,40.0,1.8473,11
+pace,unigram,8,40.0,1.8473,11
+statement,unigram,8,40.0,1.8473,11
+traditional,unigram,8,40.0,1.8473,11
+assessing,unigram,8,40.0,1.8473,10
+assessments,unigram,8,40.0,1.8473,10
+comprehensive,unigram,8,40.0,1.8473,10
+positive,unigram,8,40.0,1.8473,10
+specific,unigram,8,40.0,1.8473,10
+stakeholder,unigram,8,40.0,1.8473,10
+achieve,unigram,8,40.0,1.8473,9
+average,unigram,8,40.0,1.8473,9
+conducted,unigram,8,40.0,1.8473,9
+fast,unigram,8,40.0,1.8473,9
+integrate,unigram,8,40.0,1.8473,9
+shared,unigram,8,40.0,1.8473,9
+supports,unigram,8,40.0,1.8473,9
+whilst,unigram,8,40.0,1.8473,9
+central,unigram,8,40.0,1.8473,8
+confidence,unigram,8,40.0,1.8473,8
+result,unigram,7,35.0,1.9651,32
+years,unigram,7,35.0,1.9651,25
+million,unigram,7,35.0,1.9651,23
+ai risk,bigram,7,35.0,1.9651,20
+finance,unigram,7,35.0,1.9651,20
+pricing,unigram,7,35.0,1.9651,20
+using ai,bigram,7,35.0,1.9651,20
+digital assets,bigram,7,35.0,1.9651,19
+threats,unigram,7,35.0,1.9651,19
+climate risk,bigram,7,35.0,1.9651,17
+consistent,unigram,7,35.0,1.9651,17
+transparency,unigram,7,35.0,1.9651,17
+evolution,unigram,7,35.0,1.9651,16
+execution,unigram,7,35.0,1.9651,16
+journey,unigram,7,35.0,1.9651,16
+capability,unigram,7,35.0,1.9651,15
+discussed,unigram,7,35.0,1.9651,15
+independent,unigram,7,35.0,1.9651,15
+lead,unigram,7,35.0,1.9651,15
+regulators,unigram,7,35.0,1.9651,15
+acquisition,unigram,7,35.0,1.9651,14
+ai capabilities,bigram,7,35.0,1.9651,14
+ai strategy,bigram,7,35.0,1.9651,14
+discussions,unigram,7,35.0,1.9651,14
+estate,unigram,7,35.0,1.9651,14
+expected,unigram,7,35.0,1.9651,14
+geopolitical,unigram,7,35.0,1.9651,14
+line,unigram,7,35.0,1.9651,14
+operational resilience,bigram,7,35.0,1.9651,14
+plc annual,bigram,7,35.0,1.9651,14
+ambitions,unigram,7,35.0,1.9651,13
+assess,unigram,7,35.0,1.9651,13
+challenge,unigram,7,35.0,1.9651,13
+cyber security,bigram,7,35.0,1.9651,13
+helps,unigram,7,35.0,1.9651,13
+income,unigram,7,35.0,1.9651,13
+nature,unigram,7,35.0,1.9651,13
+quantum,unigram,7,35.0,1.9651,13
+respect,unigram,7,35.0,1.9651,13
+design,unigram,7,35.0,1.9651,12
+embed,unigram,7,35.0,1.9651,12
+expanded,unigram,7,35.0,1.9651,12
+higher,unigram,7,35.0,1.9651,12
+medium,unigram,7,35.0,1.9651,12
+parties,unigram,7,35.0,1.9651,12
+point,unigram,7,35.0,1.9651,12
+presented,unigram,7,35.0,1.9651,12
+address,unigram,7,35.0,1.9651,11
+audit committee,bigram,7,35.0,1.9651,11
+changing,unigram,7,35.0,1.9651,11
+closely,unigram,7,35.0,1.9651,11
+computing,unigram,7,35.0,1.9651,11
+directly,unigram,7,35.0,1.9651,11
+disruption,unigram,7,35.0,1.9651,11
+established,unigram,7,35.0,1.9651,11
+frameworks,unigram,7,35.0,1.9651,11
+given,unigram,7,35.0,1.9651,11
+held,unigram,7,35.0,1.9651,11
+important,unigram,7,35.0,1.9651,11
+june,unigram,7,35.0,1.9651,11
+payment,unigram,7,35.0,1.9651,11
+sessions,unigram,7,35.0,1.9651,11
+sources,unigram,7,35.0,1.9651,11
+accelerated,unigram,7,35.0,1.9651,10
+area,unigram,7,35.0,1.9651,10
+arising,unigram,7,35.0,1.9651,10
+believe,unigram,7,35.0,1.9651,10
+commitment,unigram,7,35.0,1.9651,10
+committees,unigram,7,35.0,1.9651,10
+communities,unigram,7,35.0,1.9651,10
+continuous,unigram,7,35.0,1.9651,10
+details,unigram,7,35.0,1.9651,10
+diverse,unigram,7,35.0,1.9651,10
+efficiently,unigram,7,35.0,1.9651,10
+emerging risks,bigram,7,35.0,1.9651,10
+functions,unigram,7,35.0,1.9651,10
+inflation,unigram,7,35.0,1.9651,10
+low,unigram,7,35.0,1.9651,10
+marketing,unigram,7,35.0,1.9651,10
+means,unigram,7,35.0,1.9651,10
+modern,unigram,7,35.0,1.9651,10
+purpose,unigram,7,35.0,1.9651,10
+reputational,unigram,7,35.0,1.9651,10
+rise,unigram,7,35.0,1.9651,10
+transaction,unigram,7,35.0,1.9651,10
+various,unigram,7,35.0,1.9651,10
+ai governance,bigram,7,35.0,1.9651,9
+committed,unigram,7,35.0,1.9651,9
+conditions,unigram,7,35.0,1.9651,9
+defined,unigram,7,35.0,1.9651,9
+digitalisation,unigram,7,35.0,1.9651,9
+diversity,unigram,7,35.0,1.9651,9
+empowering,unigram,7,35.0,1.9651,9
+gain,unigram,7,35.0,1.9651,9
+group ai,bigram,7,35.0,1.9651,9
+maintained,unigram,7,35.0,1.9651,9
+managing,unigram,7,35.0,1.9651,9
+partners,unigram,7,35.0,1.9651,9
+raised,unigram,7,35.0,1.9651,9
+reflect,unigram,7,35.0,1.9651,9
+resources,unigram,7,35.0,1.9651,9
+respond,unigram,7,35.0,1.9651,9
+reviews,unigram,7,35.0,1.9651,9
+shape,unigram,7,35.0,1.9651,9
+stress,unigram,7,35.0,1.9651,9
+threat,unigram,7,35.0,1.9651,9
+aligned,unigram,7,35.0,1.9651,8
+apply,unigram,7,35.0,1.9651,8
+december,unigram,7,35.0,1.9651,8
+esg,unigram,7,35.0,1.9651,8
+foundation,unigram,7,35.0,1.9651,8
+implications,unigram,7,35.0,1.9651,8
+network,unigram,7,35.0,1.9651,8
+responsible use,bigram,7,35.0,1.9651,8
+simplify,unigram,7,35.0,1.9651,8
+structure,unigram,7,35.0,1.9651,8
+th,unigram,7,35.0,1.9651,8
+unique,unigram,7,35.0,1.9651,8
+associated risks,bigram,7,35.0,1.9651,7
+automation ai,bigram,7,35.0,1.9651,7
+empower,unigram,7,35.0,1.9651,7
+house,unigram,7,35.0,1.9651,7
+inappropriate,unigram,7,35.0,1.9651,7
+journal,unigram,7,35.0,1.9651,7
+journal entries,bigram,7,35.0,1.9651,7
+potential bias,bigram,7,35.0,1.9651,7
+september,unigram,7,35.0,1.9651,7
+shifts,unigram,7,35.0,1.9651,7
+bank,unigram,6,30.0,2.0986,44
+laws,unigram,6,30.0,2.0986,25
+model risk,bigram,6,30.0,2.0986,25
+colleague,unigram,6,30.0,2.0986,23
+distribution,unigram,6,30.0,2.0986,23
+trade,unigram,6,30.0,2.0986,23
+plans,unigram,6,30.0,2.0986,22
+fy,unigram,6,30.0,2.0986,20
+deep,unigram,6,30.0,2.0986,19
+journeys,unigram,6,30.0,2.0986,18
+total,unigram,6,30.0,2.0986,16
+cybersecurity,unigram,6,30.0,2.0986,15
+energy,unigram,6,30.0,2.0986,15
+ethics,unigram,6,30.0,2.0986,15
+integrated,unigram,6,30.0,2.0986,15
+measures,unigram,6,30.0,2.0986,14
+software,unigram,6,30.0,2.0986,14
+adoption ai,bigram,6,30.0,2.0986,13
+ai systems,bigram,6,30.0,2.0986,13
+banks,unigram,6,30.0,2.0986,13
+personalised,unigram,6,30.0,2.0986,13
+ve,unigram,6,30.0,2.0986,13
+ai genai,bigram,6,30.0,2.0986,12
+assurance,unigram,6,30.0,2.0986,12
+awards,unigram,6,30.0,2.0986,12
+clear,unigram,6,30.0,2.0986,12
+emissions,unigram,6,30.0,2.0986,12
+executive director,bigram,6,30.0,2.0986,12
+expansion,unigram,6,30.0,2.0986,12
+fully,unigram,6,30.0,2.0986,12
+government,unigram,6,30.0,2.0986,12
+member,unigram,6,30.0,2.0986,12
+responsibly,unigram,6,30.0,2.0986,12
+seamless,unigram,6,30.0,2.0986,12
+simplification,unigram,6,30.0,2.0986,12
+small,unigram,6,30.0,2.0986,12
+usage,unigram,6,30.0,2.0986,12
+use data,bigram,6,30.0,2.0986,12
+accurate,unigram,6,30.0,2.0986,11
+assumptions,unigram,6,30.0,2.0986,11
+automated,unigram,6,30.0,2.0986,11
+chain,unigram,6,30.0,2.0986,11
+consideration,unigram,6,30.0,2.0986,11
+economy,unigram,6,30.0,2.0986,11
+engage,unigram,6,30.0,2.0986,11
+likely,unigram,6,30.0,2.0986,11
+money,unigram,6,30.0,2.0986,11
+new technology,bigram,6,30.0,2.0986,11
+processing,unigram,6,30.0,2.0986,11
+regarding,unigram,6,30.0,2.0986,11
+reports,unigram,6,30.0,2.0986,11
+right,unigram,6,30.0,2.0986,11
+risks associated,bigram,6,30.0,2.0986,11
+safely,unigram,6,30.0,2.0986,11
+sectors,unigram,6,30.0,2.0986,11
+today,unigram,6,30.0,2.0986,11
+volatility,unigram,6,30.0,2.0986,11
+authority,unigram,6,30.0,2.0986,10
+complexity,unigram,6,30.0,2.0986,10
+continuing,unigram,6,30.0,2.0986,10
+globally,unigram,6,30.0,2.0986,10
+group risk,bigram,6,30.0,2.0986,10
+new ai,bigram,6,30.0,2.0986,10
+ownership,unigram,6,30.0,2.0986,10
+profile,unigram,6,30.0,2.0986,10
+real time,bigram,6,30.0,2.0986,10
+resulting,unigram,6,30.0,2.0986,10
+stakeholders,unigram,6,30.0,2.0986,10
+taken,unigram,6,30.0,2.0986,10
+talent,unigram,6,30.0,2.0986,10
+topics,unigram,6,30.0,2.0986,10
+trend,unigram,6,30.0,2.0986,10
+action,unigram,6,30.0,2.0986,9
+advice,unigram,6,30.0,2.0986,9
+affect,unigram,6,30.0,2.0986,9
+agile,unigram,6,30.0,2.0986,9
+aim,unigram,6,30.0,2.0986,9
+approval,unigram,6,30.0,2.0986,9
+balance,unigram,6,30.0,2.0986,9
+companies,unigram,6,30.0,2.0986,9
+competitors,unigram,6,30.0,2.0986,9
+deployed,unigram,6,30.0,2.0986,9
+efforts,unigram,6,30.0,2.0986,9
+integrity,unigram,6,30.0,2.0986,9
+international,unigram,6,30.0,2.0986,9
+lower,unigram,6,30.0,2.0986,9
+major,unigram,6,30.0,2.0986,9
+offers,unigram,6,30.0,2.0986,9
+related risks,bigram,6,30.0,2.0986,9
+rising,unigram,6,30.0,2.0986,9
+risk committee,bigram,6,30.0,2.0986,9
+strategies,unigram,6,30.0,2.0986,9
+suite,unigram,6,30.0,2.0986,9
+considering,unigram,6,30.0,2.0986,8
+coverage,unigram,6,30.0,2.0986,8
+cross,unigram,6,30.0,2.0986,8
+customer service,bigram,6,30.0,2.0986,8
+embedding,unigram,6,30.0,2.0986,8
+expanding,unigram,6,30.0,2.0986,8
+fx,unigram,6,30.0,2.0986,8
+introduce,unigram,6,30.0,2.0986,8
+macroeconomic,unigram,6,30.0,2.0986,8
+management bias,bigram,6,30.0,2.0986,8
+order,unigram,6,30.0,2.0986,8
+override,unigram,6,30.0,2.0986,8
+pages,unigram,6,30.0,2.0986,8
+points,unigram,6,30.0,2.0986,8
+prior,unigram,6,30.0,2.0986,8
+recent,unigram,6,30.0,2.0986,8
+risk assessments,bigram,6,30.0,2.0986,8
+seek,unigram,6,30.0,2.0986,8
+significantly,unigram,6,30.0,2.0986,8
+active,unigram,6,30.0,2.0986,7
+adapt,unigram,6,30.0,2.0986,7
+ai solutions,bigram,6,30.0,2.0986,7
+analysis,unigram,6,30.0,2.0986,7
+base,unigram,6,30.0,2.0986,7
+behaviours,unigram,6,30.0,2.0986,7
+chief executive,bigram,6,30.0,2.0986,7
+data driven,bigram,6,30.0,2.0986,7
+executive directors,bigram,6,30.0,2.0986,7
+focusing,unigram,6,30.0,2.0986,7
+function,unigram,6,30.0,2.0986,7
+guidance,unigram,6,30.0,2.0986,7
+inclusive,unigram,6,30.0,2.0986,7
+investor,unigram,6,30.0,2.0986,7
+leveraging ai,bigram,6,30.0,2.0986,7
+mitigate,unigram,6,30.0,2.0986,7
+override controls,bigram,6,30.0,2.0986,7
+past,unigram,6,30.0,2.0986,7
+session,unigram,6,30.0,2.0986,7
+survey,unigram,6,30.0,2.0986,7
+tailored,unigram,6,30.0,2.0986,7
+technical,unigram,6,30.0,2.0986,7
+tensions,unigram,6,30.0,2.0986,7
+ai enhance,bigram,6,30.0,2.0986,6
+ai financial,bigram,6,30.0,2.0986,6
+brings,unigram,6,30.0,2.0986,6
+business model,bigram,6,30.0,2.0986,6
+completion,unigram,6,30.0,2.0986,6
+composition,unigram,6,30.0,2.0986,6
+equity,unigram,6,30.0,2.0986,6
+especially,unigram,6,30.0,2.0986,6
+evolve,unigram,6,30.0,2.0986,6
+governance framework,bigram,6,30.0,2.0986,6
+highlighted,unigram,6,30.0,2.0986,6
+including risk,bigram,6,30.0,2.0986,6
+indicative,unigram,6,30.0,2.0986,6
+indicative potential,bigram,6,30.0,2.0986,6
+knowledge,unigram,6,30.0,2.0986,6
+operating model,bigram,6,30.0,2.0986,6
+pressures,unigram,6,30.0,2.0986,6
+principal risks,bigram,6,30.0,2.0986,6
+returns,unigram,6,30.0,2.0986,6
+risk assessment,bigram,6,30.0,2.0986,6
+risks related,bigram,6,30.0,2.0986,6
+streamline,unigram,6,30.0,2.0986,6
+taking,unigram,6,30.0,2.0986,6
+track,unigram,6,30.0,2.0986,6
+trusted,unigram,5,25.0,2.2528,25
+funding,unigram,5,25.0,2.2528,23
+wealth,unigram,5,25.0,2.2528,19
+client,unigram,5,25.0,2.2528,18
+appetite,unigram,5,25.0,2.2528,16
+group plc,bigram,5,25.0,2.2528,16
+responsible ai,bigram,5,25.0,2.2528,16
+fund,unigram,5,25.0,2.2528,15
+exchange,unigram,5,25.0,2.2528,13
+sme,unigram,5,25.0,2.2528,13
+trading,unigram,5,25.0,2.2528,13
+underwriting,unigram,5,25.0,2.2528,13
+applicable,unigram,5,25.0,2.2528,12
+assistant,unigram,5,25.0,2.2528,12
+impacts,unigram,5,25.0,2.2528,12
+risk appetite,bigram,5,25.0,2.2528,12
+deploy,unigram,5,25.0,2.2528,11
+health,unigram,5,25.0,2.2528,11
+rights,unigram,5,25.0,2.2528,11
+rules,unigram,5,25.0,2.2528,11
+secure,unigram,5,25.0,2.2528,11
+standard,unigram,5,25.0,2.2528,11
+actively,unigram,5,25.0,2.2528,10
+ai agents,bigram,5,25.0,2.2528,10
+career,unigram,5,25.0,2.2528,10
+cash,unigram,5,25.0,2.2528,10
+currencies,unigram,5,25.0,2.2528,10
+emerging technologies,bigram,5,25.0,2.2528,10
+expand,unigram,5,25.0,2.2528,10
+fca,unigram,5,25.0,2.2528,10
+foundations,unigram,5,25.0,2.2528,10
+funds,unigram,5,25.0,2.2528,10
+hours,unigram,5,25.0,2.2528,10
+leader,unigram,5,25.0,2.2528,10
+lending,unigram,5,25.0,2.2528,10
+loans,unigram,5,25.0,2.2528,10
+losses,unigram,5,25.0,2.2528,10
+march,unigram,5,25.0,2.2528,10
+migration,unigram,5,25.0,2.2528,10
+modelling,unigram,5,25.0,2.2528,10
+outcome,unigram,5,25.0,2.2528,10
+proprietary,unigram,5,25.0,2.2528,10
+scaling,unigram,5,25.0,2.2528,10
+section,unigram,5,25.0,2.2528,10
+users,unigram,5,25.0,2.2528,10
+accelerating,unigram,5,25.0,2.2528,9
+account,unigram,5,25.0,2.2528,9
+adverse,unigram,5,25.0,2.2528,9
+assessed,unigram,5,25.0,2.2528,9
+centre,unigram,5,25.0,2.2528,9
+concerns,unigram,5,25.0,2.2528,9
+data including,bigram,5,25.0,2.2528,9
+data protection,bigram,5,25.0,2.2528,9
+easier,unigram,5,25.0,2.2528,9
+group business,bigram,5,25.0,2.2528,9
+head,unigram,5,25.0,2.2528,9
+hub,unigram,5,25.0,2.2528,9
+including generative,bigram,5,25.0,2.2528,9
+investors,unigram,5,25.0,2.2528,9
+largest,unigram,5,25.0,2.2528,9
+management framework,bigram,5,25.0,2.2528,9
+outlook,unigram,5,25.0,2.2528,9
+post,unigram,5,25.0,2.2528,9
+roles,unigram,5,25.0,2.2528,9
+successfully,unigram,5,25.0,2.2528,9
+tech,unigram,5,25.0,2.2528,9
+technology including,bigram,5,25.0,2.2528,9
+update,unigram,5,25.0,2.2528,9
+activity,unigram,5,25.0,2.2528,8
+app,unigram,5,25.0,2.2528,8
+card,unigram,5,25.0,2.2528,8
+china,unigram,5,25.0,2.2528,8
+context,unigram,5,25.0,2.2528,8
+corporate governance,bigram,5,25.0,2.2528,8
+data management,bigram,5,25.0,2.2528,8
+effect,unigram,5,25.0,2.2528,8
+efficiencies,unigram,5,25.0,2.2528,8
+engineering,unigram,5,25.0,2.2528,8
+excellence,unigram,5,25.0,2.2528,8
+forefront,unigram,5,25.0,2.2528,8
+forward,unigram,5,25.0,2.2528,8
+highly,unigram,5,25.0,2.2528,8
+individual,unigram,5,25.0,2.2528,8
+july,unigram,5,25.0,2.2528,8
+laws regulations,bigram,5,25.0,2.2528,8
+providers,unigram,5,25.0,2.2528,8
+quantum computing,bigram,5,25.0,2.2528,8
+rapidly evolving,bigram,5,25.0,2.2528,8
+risk profile,bigram,5,25.0,2.2528,8
+spending,unigram,5,25.0,2.2528,8
+transparent,unigram,5,25.0,2.2528,8
+uncertainty,unigram,5,25.0,2.2528,8
+advisers,unigram,5,25.0,2.2528,7
+agm,unigram,5,25.0,2.2528,7
+ahead,unigram,5,25.0,2.2528,7
+ai applications,bigram,5,25.0,2.2528,7
+ai machine,bigram,5,25.0,2.2528,7
+anticipate,unigram,5,25.0,2.2528,7
+arrangements,unigram,5,25.0,2.2528,7
+bringing,unigram,5,25.0,2.2528,7
+continuously,unigram,5,25.0,2.2528,7
+currently,unigram,5,25.0,2.2528,7
+customer facing,bigram,5,25.0,2.2528,7
+data digital,bigram,5,25.0,2.2528,7
+digitisation,unigram,5,25.0,2.2528,7
+diversified,unigram,5,25.0,2.2528,7
+engaged,unigram,5,25.0,2.2528,7
+equal,unigram,5,25.0,2.2528,7
+essential,unigram,5,25.0,2.2528,7
+event,unigram,5,25.0,2.2528,7
+face,unigram,5,25.0,2.2528,7
+february,unigram,5,25.0,2.2528,7
+goal,unigram,5,25.0,2.2528,7
+ii,unigram,5,25.0,2.2528,7
+internal control,bigram,5,25.0,2.2528,7
+ion,unigram,5,25.0,2.2528,7
+live,unigram,5,25.0,2.2528,7
+looking,unigram,5,25.0,2.2528,7
+metrics,unigram,5,25.0,2.2528,7
+oversee,unigram,5,25.0,2.2528,7
+positioned,unigram,5,25.0,2.2528,7
+potential impact,bigram,5,25.0,2.2528,7
+protect,unigram,5,25.0,2.2528,7
+provision,unigram,5,25.0,2.2528,7
+recognised,unigram,5,25.0,2.2528,7
+recovery,unigram,5,25.0,2.2528,7
+reduced,unigram,5,25.0,2.2528,7
+reduction,unigram,5,25.0,2.2528,7
+regularly,unigram,5,25.0,2.2528,7
+resilient,unigram,5,25.0,2.2528,7
+safety,unigram,5,25.0,2.2528,7
+scenarios,unigram,5,25.0,2.2528,7
+setting,unigram,5,25.0,2.2528,7
+start,unigram,5,25.0,2.2528,7
+strategy including,bigram,5,25.0,2.2528,7
+strengthened,unigram,5,25.0,2.2528,7
+terms,unigram,5,25.0,2.2528,7
+times,unigram,5,25.0,2.2528,7
+transform,unigram,5,25.0,2.2528,7
+underpinned,unigram,5,25.0,2.2528,7
+user,unigram,5,25.0,2.2528,7
+web,unigram,5,25.0,2.2528,7
+zero,unigram,5,25.0,2.2528,7
+ai improve,bigram,5,25.0,2.2528,6
+breadth,unigram,5,25.0,2.2528,6
+bring,unigram,5,25.0,2.2528,6
+com,unigram,5,25.0,2.2528,6
+considerations,unigram,5,25.0,2.2528,6
+continue invest,bigram,5,25.0,2.2528,6
+council,unigram,5,25.0,2.2528,6
+creates,unigram,5,25.0,2.2528,6
+customer outcomes,bigram,5,25.0,2.2528,6
+damage,unigram,5,25.0,2.2528,6
+efficient,unigram,5,25.0,2.2528,6
+elements,unigram,5,25.0,2.2528,6
+enabler,unigram,5,25.0,2.2528,6
+establishing,unigram,5,25.0,2.2528,6
+executive officer,bigram,5,25.0,2.2528,6
+gap,unigram,5,25.0,2.2528,6
+gaps,unigram,5,25.0,2.2528,6
+horizon,unigram,5,25.0,2.2528,6
+improvement,unigram,5,25.0,2.2528,6
+informed,unigram,5,25.0,2.2528,6
+investment ai,bigram,5,25.0,2.2528,6
+involved,unigram,5,25.0,2.2528,6
+january,unigram,5,25.0,2.2528,6
+launching,unigram,5,25.0,2.2528,6
+life,unigram,5,25.0,2.2528,6
+meetings,unigram,5,25.0,2.2528,6
+membership,unigram,5,25.0,2.2528,6
+percentage,unigram,5,25.0,2.2528,6
+possible,unigram,5,25.0,2.2528,6
+price,unigram,5,25.0,2.2528,6
+profitable,unigram,5,25.0,2.2528,6
+reach,unigram,5,25.0,2.2528,6
+received updates,bigram,5,25.0,2.2528,6
+refreshed,unigram,5,25.0,2.2528,6
+reliability,unigram,5,25.0,2.2528,6
+reliance,unigram,5,25.0,2.2528,6
+reputation,unigram,5,25.0,2.2528,6
+revenue growth,bigram,5,25.0,2.2528,6
+reward,unigram,5,25.0,2.2528,6
+rigorous,unigram,5,25.0,2.2528,6
+security ai,bigram,5,25.0,2.2528,6
+similar,unigram,5,25.0,2.2528,6
+solution,unigram,5,25.0,2.2528,6
+strengthening,unigram,5,25.0,2.2528,6
+supplier,unigram,5,25.0,2.2528,6
+support customers,bigram,5,25.0,2.2528,6
+technologies ai,bigram,5,25.0,2.2528,6
+use artificial,bigram,5,25.0,2.2528,6
+validation,unigram,5,25.0,2.2528,6
+add,unigram,5,25.0,2.2528,5
+advancement,unigram,5,25.0,2.2528,5
+ai business,bigram,5,25.0,2.2528,5
+al,unigram,5,25.0,2.2528,5
+awareness,unigram,5,25.0,2.2528,5
+behaviour,unigram,5,25.0,2.2528,5
+bias accounting,bigram,5,25.0,2.2528,5
+bn,unigram,5,25.0,2.2528,5
+case,unigram,5,25.0,2.2528,5
+combination,unigram,5,25.0,2.2528,5
+conduct risk,bigram,5,25.0,2.2528,5
+connections,unigram,5,25.0,2.2528,5
+determined,unigram,5,25.0,2.2528,5
+different,unigram,5,25.0,2.2528,5
+early,unigram,5,25.0,2.2528,5
+ed,unigram,5,25.0,2.2528,5
+education,unigram,5,25.0,2.2528,5
+evaluating,unigram,5,25.0,2.2528,5
+extend,unigram,5,25.0,2.2528,5
+financial reporting,bigram,5,25.0,2.2528,5
+group approach,bigram,5,25.0,2.2528,5
+identifying,unigram,5,25.0,2.2528,5
+implementing,unigram,5,25.0,2.2528,5
+including consideration,bigram,5,25.0,2.2528,5
+including cyber,bigram,5,25.0,2.2528,5
+inherent,unigram,5,25.0,2.2528,5
+instruments,unigram,5,25.0,2.2528,5
+judgements making,bigram,5,25.0,2.2528,5
+making accounting,bigram,5,25.0,2.2528,5
+matter,unigram,5,25.0,2.2528,5
+moving,unigram,5,25.0,2.2528,5
+ng,unigram,5,25.0,2.2528,5
+online,unigram,5,25.0,2.2528,5
+operational efficiency,bigram,5,25.0,2.2528,5
+opportunities presented,bigram,5,25.0,2.2528,5
+overseeing,unigram,5,25.0,2.2528,5
+pipeline,unigram,5,25.0,2.2528,5
+professional,unigram,5,25.0,2.2528,5
+promote,unigram,5,25.0,2.2528,5
+rating,unigram,5,25.0,2.2528,5
+reflecting,unigram,5,25.0,2.2528,5
+regular updates,bigram,5,25.0,2.2528,5
+responsibility,unigram,5,25.0,2.2528,5
+risk compliance,bigram,5,25.0,2.2528,5
+roll,unigram,5,25.0,2.2528,5
+rollout,unigram,5,25.0,2.2528,5
+schemes,unigram,5,25.0,2.2528,5
+stable,unigram,5,25.0,2.2528,5
+strength,unigram,5,25.0,2.2528,5
+structural,unigram,5,25.0,2.2528,5
+technology innovation,bigram,5,25.0,2.2528,5
+unusual,unigram,5,25.0,2.2528,5
+values,unigram,5,25.0,2.2528,5
+wider workforce,bigram,5,25.0,2.2528,5
+gen,unigram,4,20.0,2.4351,52
+gen ai,bigram,4,20.0,2.4351,48
+microsoft,unigram,4,20.0,2.4351,23
+eu,unigram,4,20.0,2.4351,21
+content,unigram,4,20.0,2.4351,15
+supply,unigram,4,20.0,2.4351,15
+accessibility,unigram,4,20.0,2.4351,13
+data analytics,bigram,4,20.0,2.4351,13
+language,unigram,4,20.0,2.4351,13
+ordinary,unigram,4,20.0,2.4351,13
+ready,unigram,4,20.0,2.4351,13
+fair,unigram,4,20.0,2.4351,12
+ftse,unigram,4,20.0,2.4351,11
+sector,unigram,4,20.0,2.4351,11
+agility,unigram,4,20.0,2.4351,10
+generative artificial,bigram,4,20.0,2.4351,10
+jurisdictions,unigram,4,20.0,2.4351,10
+lines,unigram,4,20.0,2.4351,10
+agreed,unigram,4,20.0,2.4351,9
+architecture,unigram,4,20.0,2.4351,9
+award,unigram,4,20.0,2.4351,9
+customer journeys,bigram,4,20.0,2.4351,9
+cyber attacks,bigram,4,20.0,2.4351,9
+digital ai,bigram,4,20.0,2.4351,9
+dive,unigram,4,20.0,2.4351,9
+errors,unigram,4,20.0,2.4351,9
+functionality,unigram,4,20.0,2.4351,9
+greater automation,bigram,4,20.0,2.4351,9
+power,unigram,4,20.0,2.4351,9
+scalable,unigram,4,20.0,2.4351,9
+spend,unigram,4,20.0,2.4351,9
+additionally,unigram,4,20.0,2.4351,8
+allowing,unigram,4,20.0,2.4351,8
+arise,unigram,4,20.0,2.4351,8
+calls,unigram,4,20.0,2.4351,8
+carbon,unigram,4,20.0,2.4351,8
+class,unigram,4,20.0,2.4351,8
+facilitate,unigram,4,20.0,2.4351,8
+financial statements,bigram,4,20.0,2.4351,8
+institutional,unigram,4,20.0,2.4351,8
+offerings,unigram,4,20.0,2.4351,8
+organisations,unigram,4,20.0,2.4351,8
+propositions,unigram,4,20.0,2.4351,8
+provider,unigram,4,20.0,2.4351,8
+simpler,unigram,4,20.0,2.4351,8
+sophisticated,unigram,4,20.0,2.4351,8
+techniques,unigram,4,20.0,2.4351,8
+adversely,unigram,4,20.0,2.4351,7
+ai models,bigram,4,20.0,2.4351,7
+anticipated,unigram,4,20.0,2.4351,7
+benefits ai,bigram,4,20.0,2.4351,7
+blockchain,unigram,4,20.0,2.4351,7
+categories,unigram,4,20.0,2.4351,7
+deferred,unigram,4,20.0,2.4351,7
+deploying,unigram,4,20.0,2.4351,7
+disclosure,unigram,4,20.0,2.4351,7
+entity,unigram,4,20.0,2.4351,7
+environments,unigram,4,20.0,2.4351,7
+having,unigram,4,20.0,2.4351,7
+including artificial,bigram,4,20.0,2.4351,7
+india,unigram,4,20.0,2.4351,7
+indicators,unigram,4,20.0,2.4351,7
+initiative,unigram,4,20.0,2.4351,7
+large language,bigram,4,20.0,2.4351,7
+obligations,unigram,4,20.0,2.4351,7
+outside,unigram,4,20.0,2.4351,7
+principal risk,bigram,4,20.0,2.4351,7
+self,unigram,4,20.0,2.4351,7
+short,unigram,4,20.0,2.4351,7
+sourcing,unigram,4,20.0,2.4351,7
+technologies including,bigram,4,20.0,2.4351,7
+uses,unigram,4,20.0,2.4351,7
+views,unigram,4,20.0,2.4351,7
+works,unigram,4,20.0,2.4351,7
+accuracy,unigram,4,20.0,2.4351,6
+analyse,unigram,4,20.0,2.4351,6
+announced,unigram,4,20.0,2.4351,6
+anti,unigram,4,20.0,2.4351,6
+attack,unigram,4,20.0,2.4351,6
+automate,unigram,4,20.0,2.4351,6
+autonomous,unigram,4,20.0,2.4351,6
+availability,unigram,4,20.0,2.4351,6
+benefit,unigram,4,20.0,2.4351,6
+breaches,unigram,4,20.0,2.4351,6
+business operations,bigram,4,20.0,2.4351,6
+cloud based,bigram,4,20.0,2.4351,6
+coaching,unigram,4,20.0,2.4351,6
+combining,unigram,4,20.0,2.4351,6
+community,unigram,4,20.0,2.4351,6
+comply,unigram,4,20.0,2.4351,6
+connected,unigram,4,20.0,2.4351,6
+customer engagement,bigram,4,20.0,2.4351,6
+customer interactions,bigram,4,20.0,2.4351,6
+earnings,unigram,4,20.0,2.4351,6
+employment,unigram,4,20.0,2.4351,6
+engaging,unigram,4,20.0,2.4351,6
+ethical use,bigram,4,20.0,2.4351,6
+fraud risks,bigram,4,20.0,2.4351,6
+frontier,unigram,4,20.0,2.4351,6
+group chief,bigram,4,20.0,2.4351,6
+identity,unigram,4,20.0,2.4351,6
+impact group,bigram,4,20.0,2.4351,6
+interests,unigram,4,20.0,2.4351,6
+just,unigram,4,20.0,2.4351,6
+literacy,unigram,4,20.0,2.4351,6
+manner,unigram,4,20.0,2.4351,6
+multiple,unigram,4,20.0,2.4351,6
+pension,unigram,4,20.0,2.4351,6
+physical,unigram,4,20.0,2.4351,6
+placed,unigram,4,20.0,2.4351,6
+practical,unigram,4,20.0,2.4351,6
+relationship,unigram,4,20.0,2.4351,6
+reported,unigram,4,20.0,2.4351,6
+risk ai,bigram,4,20.0,2.4351,6
+risk risk,bigram,4,20.0,2.4351,6
+scenario,unigram,4,20.0,2.4351,6
+second,unigram,4,20.0,2.4351,6
+segments,unigram,4,20.0,2.4351,6
+sentiment,unigram,4,20.0,2.4351,6
+sets,unigram,4,20.0,2.4351,6
+source,unigram,4,20.0,2.4351,6
+transformative,unigram,4,20.0,2.4351,6
+types,unigram,4,20.0,2.4351,6
+unlock,unigram,4,20.0,2.4351,6
+updated,unigram,4,20.0,2.4351,6
+women,unigram,4,20.0,2.4351,6
+actors,unigram,4,20.0,2.4351,5
+advancements,unigram,4,20.0,2.4351,5
+adviser,unigram,4,20.0,2.4351,5
+ai ai,bigram,4,20.0,2.4351,5
+ai board,bigram,4,20.0,2.4351,5
+ai related,bigram,4,20.0,2.4351,5
+align,unigram,4,20.0,2.4351,5
+annually,unigram,4,20.0,2.4351,5
+attractive,unigram,4,20.0,2.4351,5
+audits,unigram,4,20.0,2.4351,5
+challenging,unigram,4,20.0,2.4351,5
+climate related,bigram,4,20.0,2.4351,5
+come,unigram,4,20.0,2.4351,5
+communication,unigram,4,20.0,2.4351,5
+concern,unigram,4,20.0,2.4351,5
+constantly,unigram,4,20.0,2.4351,5
+daily,unigram,4,20.0,2.4351,5
+data quality,bigram,4,20.0,2.4351,5
+defence,unigram,4,20.0,2.4351,5
+development ai,bigram,4,20.0,2.4351,5
+disciplined,unigram,4,20.0,2.4351,5
+disruptive,unigram,4,20.0,2.4351,5
+drivers,unigram,4,20.0,2.4351,5
+easy,unigram,4,20.0,2.4351,5
+edge,unigram,4,20.0,2.4351,5
+efficiency gains,bigram,4,20.0,2.4351,5
+enhance customer,bigram,4,20.0,2.4351,5
+enterprise wide,bigram,4,20.0,2.4351,5
+equipping,unigram,4,20.0,2.4351,5
+establish,unigram,4,20.0,2.4351,5
+executives,unigram,4,20.0,2.4351,5
+extended,unigram,4,20.0,2.4351,5
+forum,unigram,4,20.0,2.4351,5
+forward looking,bigram,4,20.0,2.4351,5
+fostering,unigram,4,20.0,2.4351,5
+generated,unigram,4,20.0,2.4351,5
+geographies,unigram,4,20.0,2.4351,5
+geopolitical tensions,bigram,4,20.0,2.4351,5
+gross,unigram,4,20.0,2.4351,5
+handling,unigram,4,20.0,2.4351,5
+helped,unigram,4,20.0,2.4351,5
+innovate,unigram,4,20.0,2.4351,5
+internal external,bigram,4,20.0,2.4351,5
+joined,unigram,4,20.0,2.4351,5
+linked,unigram,4,20.0,2.4351,5
+net zero,bigram,4,20.0,2.4351,5
+newly,unigram,4,20.0,2.4351,5
+operating leverage,bigram,4,20.0,2.4351,5
+peers,unigram,4,20.0,2.4351,5
+period,unigram,4,20.0,2.4351,5
+phase,unigram,4,20.0,2.4351,5
+pilot,unigram,4,20.0,2.4351,5
+players,unigram,4,20.0,2.4351,5
+potential risks,bigram,4,20.0,2.4351,5
+powerful,unigram,4,20.0,2.4351,5
+pra,unigram,4,20.0,2.4351,5
+prevention,unigram,4,20.0,2.4351,5
+productivity gains,bigram,4,20.0,2.4351,5
+prospects,unigram,4,20.0,2.4351,5
+quickly,unigram,4,20.0,2.4351,5
+rationale,unigram,4,20.0,2.4351,5
+reliable,unigram,4,20.0,2.4351,5
+remained,unigram,4,20.0,2.4351,5
+risks arise,bigram,4,20.0,2.4351,5
+risks including,bigram,4,20.0,2.4351,5
+sanctions,unigram,4,20.0,2.4351,5
+savings,unigram,4,20.0,2.4351,5
+scope,unigram,4,20.0,2.4351,5
+segment,unigram,4,20.0,2.4351,5
+serve customers,bigram,4,20.0,2.4351,5
+shares,unigram,4,20.0,2.4351,5
+strategic partnership,bigram,4,20.0,2.4351,5
+structured,unigram,4,20.0,2.4351,5
+tasks,unigram,4,20.0,2.4351,5
+treasury,unigram,4,20.0,2.4351,5
+upskilling,unigram,4,20.0,2.4351,5
+using automation,bigram,4,20.0,2.4351,5
+wellbeing,unigram,4,20.0,2.4351,5
+workplace,unigram,4,20.0,2.4351,5
+able,unigram,4,20.0,2.4351,4
+acceleration,unigram,4,20.0,2.4351,4
+accordingly,unigram,4,20.0,2.4351,4
+achieving,unigram,4,20.0,2.4351,4
+adequate,unigram,4,20.0,2.4351,4
+advisory,unigram,4,20.0,2.4351,4
+ai creates,bigram,4,20.0,2.4351,4
+ai implementation,bigram,4,20.0,2.4351,4
+ai oversight,bigram,4,20.0,2.4351,4
+applying,unigram,4,20.0,2.4351,4
+assessing judgements,bigram,4,20.0,2.4351,4
+attended,unigram,4,20.0,2.4351,4
+better decisions,bigram,4,20.0,2.4351,4
+bias evaluating,bigram,4,20.0,2.4351,4
+board composition,bigram,4,20.0,2.4351,4
+board members,bigram,4,20.0,2.4351,4
+business rationale,bigram,4,20.0,2.4351,4
+care,unigram,4,20.0,2.4351,4
+centres,unigram,4,20.0,2.4351,4
+circumstances,unigram,4,20.0,2.4351,4
+close,unigram,4,20.0,2.4351,4
+committee board,bigram,4,20.0,2.4351,4
+confident,unigram,4,20.0,2.4351,4
+confirmed,unigram,4,20.0,2.4351,4
+considers,unigram,4,20.0,2.4351,4
+continued investment,bigram,4,20.0,2.4351,4
+contributions,unigram,4,20.0,2.4351,4
+control environment,bigram,4,20.0,2.4351,4
+control framework,bigram,4,20.0,2.4351,4
+creation,unigram,4,20.0,2.4351,4
+cutting,unigram,4,20.0,2.4351,4
+cutting edge,bigram,4,20.0,2.4351,4
+cyber risk,bigram,4,20.0,2.4351,4
+dashboard,unigram,4,20.0,2.4351,4
+data strategy,bigram,4,20.0,2.4351,4
+deploy ai,bigram,4,20.0,2.4351,4
+depth,unigram,4,20.0,2.4351,4
+detailed,unigram,4,20.0,2.4351,4
+digital platforms,bigram,4,20.0,2.4351,4
+disruptions,unigram,4,20.0,2.4351,4
+domestic,unigram,4,20.0,2.4351,4
+election,unigram,4,20.0,2.4351,4
+emergence,unigram,4,20.0,2.4351,4
+emerging risk,bigram,4,20.0,2.4351,4
+engagements,unigram,4,20.0,2.4351,4
+ensure fairness,bigram,4,20.0,2.4351,4
+ensures,unigram,4,20.0,2.4351,4
+entry,unigram,4,20.0,2.4351,4
+establishment,unigram,4,20.0,2.4351,4
+estimates indicative,bigram,4,20.0,2.4351,4
+estimation,unigram,4,20.0,2.4351,4
+ethnicity,unigram,4,20.0,2.4351,4
+evaluate,unigram,4,20.0,2.4351,4
+evaluating business,bigram,4,20.0,2.4351,4
+factors including,bigram,4,20.0,2.4351,4
+financial data,bigram,4,20.0,2.4351,4
+flexibility,unigram,4,20.0,2.4351,4
+focus areas,bigram,4,20.0,2.4351,4
+gender,unigram,4,20.0,2.4351,4
+generally,unigram,4,20.0,2.4351,4
+gives,unigram,4,20.0,2.4351,4
+goods,unigram,4,20.0,2.4351,4
+group company,bigram,4,20.0,2.4351,4
+group financial,bigram,4,20.0,2.4351,4
+growth opportunities,bigram,4,20.0,2.4351,4
+harness,unigram,4,20.0,2.4351,4
+highlights,unigram,4,20.0,2.4351,4
+impacting,unigram,4,20.0,2.4351,4
+inappropriate journal,bigram,4,20.0,2.4351,4
+industry leading,bigram,4,20.0,2.4351,4
+influence,unigram,4,20.0,2.4351,4
+instant,unigram,4,20.0,2.4351,4
+intended,unigram,4,20.0,2.4351,4
+internal audit,bigram,4,20.0,2.4351,4
+internal controls,bigram,4,20.0,2.4351,4
+invest automation,bigram,4,20.0,2.4351,4
+lever,unigram,4,20.0,2.4351,4
+limit,unigram,4,20.0,2.4351,4
+link,unigram,4,20.0,2.4351,4
+management override,bigram,4,20.0,2.4351,4
+materially,unigram,4,20.0,2.4351,4
+measure,unigram,4,20.0,2.4351,4
+methodology,unigram,4,20.0,2.4351,4
+optimisation,unigram,4,20.0,2.4351,4
+participants,unigram,4,20.0,2.4351,4
+personalisation,unigram,4,20.0,2.4351,4
+posting,unigram,4,20.0,2.4351,4
+pr,unigram,4,20.0,2.4351,4
+present,unigram,4,20.0,2.4351,4
+proactive,unigram,4,20.0,2.4351,4
+production,unigram,4,20.0,2.4351,4
+profitable growth,bigram,4,20.0,2.4351,4
+proportionate,unigram,4,20.0,2.4351,4
+rationale significant,bigram,4,20.0,2.4351,4
+receive,unigram,4,20.0,2.4351,4
+received regular,bigram,4,20.0,2.4351,4
+reference,unigram,4,20.0,2.4351,4
+relations,unigram,4,20.0,2.4351,4
+represent,unigram,4,20.0,2.4351,4
+reshaping,unigram,4,20.0,2.4351,4
+retain,unigram,4,20.0,2.4351,4
+risk control,bigram,4,20.0,2.4351,4
+risk framework,bigram,4,20.0,2.4351,4
+scrutiny,unigram,4,20.0,2.4351,4
+senior leaders,bigram,4,20.0,2.4351,4
+shareholder,unigram,4,20.0,2.4351,4
+sharing,unigram,4,20.0,2.4351,4
+significant transactions,bigram,4,20.0,2.4351,4
+society,unigram,4,20.0,2.4351,4
+specialist,unigram,4,20.0,2.4351,4
+st,unigram,4,20.0,2.4351,4
+step,unigram,4,20.0,2.4351,4
+streamlined,unigram,4,20.0,2.4351,4
+stronger,unigram,4,20.0,2.4351,4
+sub,unigram,4,20.0,2.4351,4
+substantial,unigram,4,20.0,2.4351,4
+summary,unigram,4,20.0,2.4351,4
+support group,bigram,4,20.0,2.4351,4
+sustained,unigram,4,20.0,2.4351,4
+targeted,unigram,4,20.0,2.4351,4
+technology infrastructure,bigram,4,20.0,2.4351,4
+timely,unigram,4,20.0,2.4351,4
+tooling,unigram,4,20.0,2.4351,4
+transactions unusual,bigram,4,20.0,2.4351,4
+ty,unigram,4,20.0,2.4351,4
+underlying,unigram,4,20.0,2.4351,4
+ure,unigram,4,20.0,2.4351,4
+versus,unigram,4,20.0,2.4351,4
+vital,unigram,4,20.0,2.4351,4
+welcomed,unigram,4,20.0,2.4351,4
+ai technologies,bigram,3,15.0,2.6582,14
+claims,unigram,3,15.0,2.6582,13
+research,unigram,3,15.0,2.6582,13
+servicing,unigram,3,15.0,2.6582,12
+ai ready,bigram,3,15.0,2.6582,11
+predictive,unigram,3,15.0,2.6582,10
+academy,unigram,3,15.0,2.6582,9
+consumers,unigram,3,15.0,2.6582,9
+deliver greater,bigram,3,15.0,2.6582,9
+regime,unigram,3,15.0,2.6582,9
+scalability,unigram,3,15.0,2.6582,9
+contact,unigram,3,15.0,2.6582,8
+copilot,unigram,3,15.0,2.6582,8
+data ethics,bigram,3,15.0,2.6582,8
+generative agentic,bigram,3,15.0,2.6582,8
+property,unigram,3,15.0,2.6582,8
+read,unigram,3,15.0,2.6582,8
+subsidiaries,unigram,3,15.0,2.6582,8
+summarisation,unigram,3,15.0,2.6582,8
+ai academy,bigram,3,15.0,2.6582,7
+annum,unigram,3,15.0,2.6582,7
+capacity,unigram,3,15.0,2.6582,7
+credit risk,bigram,3,15.0,2.6582,7
+london,unigram,3,15.0,2.6582,7
+outputs,unigram,3,15.0,2.6582,7
+profitability,unigram,3,15.0,2.6582,7
+recommended,unigram,3,15.0,2.6582,7
+smes,unigram,3,15.0,2.6582,7
+things,unigram,3,15.0,2.6582,7
+allows,unigram,3,15.0,2.6582,6
+april,unigram,3,15.0,2.6582,6
+august,unigram,3,15.0,2.6582,6
+chains,unigram,3,15.0,2.6582,6
+consolidated,unigram,3,15.0,2.6582,6
+covering,unigram,3,15.0,2.6582,6
+cuts,unigram,3,15.0,2.6582,6
+deep dive,bigram,3,15.0,2.6582,6
+deepen,unigram,3,15.0,2.6582,6
+define,unigram,3,15.0,2.6582,6
+features,unigram,3,15.0,2.6582,6
+financing,unigram,3,15.0,2.6582,6
+firms,unigram,3,15.0,2.6582,6
+fixed,unigram,3,15.0,2.6582,6
+flexible,unigram,3,15.0,2.6582,6
+great,unigram,3,15.0,2.6582,6
+group wide,bigram,3,15.0,2.6582,6
+hiring,unigram,3,15.0,2.6582,6
+home,unigram,3,15.0,2.6582,6
+intelligent,unigram,3,15.0,2.6582,6
+liquidity,unigram,3,15.0,2.6582,6
+mortgage,unigram,3,15.0,2.6582,6
+navigate,unigram,3,15.0,2.6582,6
+noting,unigram,3,15.0,2.6582,6
+onboarding,unigram,3,15.0,2.6582,6
+products services,bigram,3,15.0,2.6582,6
+projects,unigram,3,15.0,2.6582,6
+queries,unigram,3,15.0,2.6582,6
+requires,unigram,3,15.0,2.6582,6
+settlement,unigram,3,15.0,2.6582,6
+states,unigram,3,15.0,2.6582,6
+ventures,unigram,3,15.0,2.6582,6
+accelerate,unigram,3,15.0,2.6582,5
+accessible,unigram,3,15.0,2.6582,5
+ai deployment,bigram,3,15.0,2.6582,5
+ai responsibly,bigram,3,15.0,2.6582,5
+allocation,unigram,3,15.0,2.6582,5
+appointment,unigram,3,15.0,2.6582,5
+based solutions,bigram,3,15.0,2.6582,5
+colleagues completed,bigram,3,15.0,2.6582,5
+confidential,unigram,3,15.0,2.6582,5
+data assets,bigram,3,15.0,2.6582,5
+deposit,unigram,3,15.0,2.6582,5
+discrimination,unigram,3,15.0,2.6582,5
+discuss,unigram,3,15.0,2.6582,5
+disrupt,unigram,3,15.0,2.6582,5
+ecosystem,unigram,3,15.0,2.6582,5
+effectiveness review,bigram,3,15.0,2.6582,5
+embracing,unigram,3,15.0,2.6582,5
+entities,unigram,3,15.0,2.6582,5
+entrants,unigram,3,15.0,2.6582,5
+exposure,unigram,3,15.0,2.6582,5
+financial inclusion,bigram,3,15.0,2.6582,5
+firm,unigram,3,15.0,2.6582,5
+fraudulent,unigram,3,15.0,2.6582,5
+furthermore,unigram,3,15.0,2.6582,5
+future skills,bigram,3,15.0,2.6582,5
+generation,unigram,3,15.0,2.6582,5
+giving,unigram,3,15.0,2.6582,5
+grc,unigram,3,15.0,2.6582,5
+heart,unigram,3,15.0,2.6582,5
+ifrs,unigram,3,15.0,2.6582,5
+improve customer,bigram,3,15.0,2.6582,5
+incidents,unigram,3,15.0,2.6582,5
+including data,bigram,3,15.0,2.6582,5
+language models,bigram,3,15.0,2.6582,5
+learning models,bigram,3,15.0,2.6582,5
+managed,unigram,3,15.0,2.6582,5
+managers,unigram,3,15.0,2.6582,5
+mobile,unigram,3,15.0,2.6582,5
+monetary,unigram,3,15.0,2.6582,5
+nd,unigram,3,15.0,2.6582,5
+new products,bigram,3,15.0,2.6582,5
+october,unigram,3,15.0,2.6582,5
+perspectives,unigram,3,15.0,2.6582,5
+pressure,unigram,3,15.0,2.6582,5
+prices,unigram,3,15.0,2.6582,5
+product development,bigram,3,15.0,2.6582,5
+real estate,bigram,3,15.0,2.6582,5
+regulatory requirements,bigram,3,15.0,2.6582,5
+remuneration committee,bigram,3,15.0,2.6582,5
+risk categories,bigram,3,15.0,2.6582,5
+rolled,unigram,3,15.0,2.6582,5
+sales,unigram,3,15.0,2.6582,5
+score,unigram,3,15.0,2.6582,5
+solutions including,bigram,3,15.0,2.6582,5
+stability,unigram,3,15.0,2.6582,5
+summarise,unigram,3,15.0,2.6582,5
+tokenisation,unigram,3,15.0,2.6582,5
+transforming,unigram,3,15.0,2.6582,5
+uses ai,bigram,3,15.0,2.6582,5
+voice,unigram,3,15.0,2.6582,5
+vs,unigram,3,15.0,2.6582,5
+access ai,bigram,3,15.0,2.6582,4
+actual,unigram,3,15.0,2.6582,4
+adaptability,unigram,3,15.0,2.6582,4
+adequately,unigram,3,15.0,2.6582,4
+agenda,unigram,3,15.0,2.6582,4
+ai continue,bigram,3,15.0,2.6582,4
+ai emerging,bigram,3,15.0,2.6582,4
+ai ethics,bigram,3,15.0,2.6582,4
+ai integration,bigram,3,15.0,2.6582,4
+ai learning,bigram,3,15.0,2.6582,4
+allow,unigram,3,15.0,2.6582,4
+appointed,unigram,3,15.0,2.6582,4
+assessment process,bigram,3,15.0,2.6582,4
+barriers,unigram,3,15.0,2.6582,4
+board committees,bigram,3,15.0,2.6582,4
+board discussions,bigram,3,15.0,2.6582,4
+board received,bigram,3,15.0,2.6582,4
+border,unigram,3,15.0,2.6582,4
+business performance,bigram,3,15.0,2.6582,4
+business practices,bigram,3,15.0,2.6582,4
+calculated,unigram,3,15.0,2.6582,4
+ceo,unigram,3,15.0,2.6582,4
+champion,unigram,3,15.0,2.6582,4
+cloud ai,bigram,3,15.0,2.6582,4
+coding,unigram,3,15.0,2.6582,4
+combined,unigram,3,15.0,2.6582,4
+commercial real,bigram,3,15.0,2.6582,4
+commitments,unigram,3,15.0,2.6582,4
+committee committee,bigram,3,15.0,2.6582,4
+committee received,bigram,3,15.0,2.6582,4
+communications,unigram,3,15.0,2.6582,4
+compared,unigram,3,15.0,2.6582,4
+competitiveness,unigram,3,15.0,2.6582,4
+complete,unigram,3,15.0,2.6582,4
+conflicts,unigram,3,15.0,2.6582,4
+consistency,unigram,3,15.0,2.6582,4
+contract,unigram,3,15.0,2.6582,4
+contribution,unigram,3,15.0,2.6582,4
+cover,unigram,3,15.0,2.6582,4
+covers,unigram,3,15.0,2.6582,4
+cycle,unigram,3,15.0,2.6582,4
+data artificial,bigram,3,15.0,2.6582,4
+decisioning,unigram,3,15.0,2.6582,4
+delivers,unigram,3,15.0,2.6582,4
+detect,unigram,3,15.0,2.6582,4
+digitally,unigram,3,15.0,2.6582,4
+diligence,unigram,3,15.0,2.6582,4
+disclosures,unigram,3,15.0,2.6582,4
+distribution channels,bigram,3,15.0,2.6582,4
+dynamics,unigram,3,15.0,2.6582,4
+economies,unigram,3,15.0,2.6582,4
+enhancement,unigram,3,15.0,2.6582,4
+ensure ai,bigram,3,15.0,2.6582,4
+enter,unigram,3,15.0,2.6582,4
+equivalent,unigram,3,15.0,2.6582,4
+ethnic,unigram,3,15.0,2.6582,4
+evolution ai,bigram,3,15.0,2.6582,4
+expert,unigram,3,15.0,2.6582,4
+exploring,unigram,3,15.0,2.6582,4
+extending,unigram,3,15.0,2.6582,4
+feature,unigram,3,15.0,2.6582,4
+financed,unigram,3,15.0,2.6582,4
+finances,unigram,3,15.0,2.6582,4
+footprint,unigram,3,15.0,2.6582,4
+form,unigram,3,15.0,2.6582,4
+fragmented,unigram,3,15.0,2.6582,4
+fraud detection,bigram,3,15.0,2.6582,4
+free bias,bigram,3,15.0,2.6582,4
+frictionless,unigram,3,15.0,2.6582,4
+future ai,bigram,3,15.0,2.6582,4
+globe,unigram,3,15.0,2.6582,4
+good progress,bigram,3,15.0,2.6582,4
+governance risk,bigram,3,15.0,2.6582,4
+guided,unigram,3,15.0,2.6582,4
+harnessing,unigram,3,15.0,2.6582,4
+helping colleagues,bigram,3,15.0,2.6582,4
+high risk,bigram,3,15.0,2.6582,4
+holistic,unigram,3,15.0,2.6582,4
+implemented,unigram,3,15.0,2.6582,4
+inadequate,unigram,3,15.0,2.6582,4
+including new,bigram,3,15.0,2.6582,4
+including use,bigram,3,15.0,2.6582,4
+index,unigram,3,15.0,2.6582,4
+industries,unigram,3,15.0,2.6582,4
+institutions,unigram,3,15.0,2.6582,4
+integrations,unigram,3,15.0,2.6582,4
+intensive,unigram,3,15.0,2.6582,4
+introduced new,bigram,3,15.0,2.6582,4
+iv,unigram,3,15.0,2.6582,4
+know,unigram,3,15.0,2.6582,4
+language model,bigram,3,15.0,2.6582,4
+leverage ai,bigram,3,15.0,2.6582,4
+loan,unigram,3,15.0,2.6582,4
+malicious,unigram,3,15.0,2.6582,4
+mean,unigram,3,15.0,2.6582,4
+measurement,unigram,3,15.0,2.6582,4
+minority,unigram,3,15.0,2.6582,4
+monetary policy,bigram,3,15.0,2.6582,4
+new entrants,bigram,3,15.0,2.6582,4
+notes,unigram,3,15.0,2.6582,4
+offset,unigram,3,15.0,2.6582,4
+operates,unigram,3,15.0,2.6582,4
+oversight ai,bigram,3,15.0,2.6582,4
+overview,unigram,3,15.0,2.6582,4
+owned,unigram,3,15.0,2.6582,4
+panel,unigram,3,15.0,2.6582,4
+particular focus,bigram,3,15.0,2.6582,4
+partner,unigram,3,15.0,2.6582,4
+pathways,unigram,3,15.0,2.6582,4
+philosophy,unigram,3,15.0,2.6582,4
+potentially,unigram,3,15.0,2.6582,4
+previous,unigram,3,15.0,2.6582,4
+private credit,bigram,3,15.0,2.6582,4
+proactively,unigram,3,15.0,2.6582,4
+process automation,bigram,3,15.0,2.6582,4
+procurement,unigram,3,15.0,2.6582,4
+projected,unigram,3,15.0,2.6582,4
+proposed,unigram,3,15.0,2.6582,4
+recognising,unigram,3,15.0,2.6582,4
+recognition,unigram,3,15.0,2.6582,4
+regional,unigram,3,15.0,2.6582,4
+representation,unigram,3,15.0,2.6582,4
+responsible business,bigram,3,15.0,2.6582,4
+risk operational,bigram,3,15.0,2.6582,4
+risk trend,bigram,3,15.0,2.6582,4
+risks artificial,bigram,3,15.0,2.6582,4
+risks continued,bigram,3,15.0,2.6582,4
+risks opportunities,bigram,3,15.0,2.6582,4
+run,unigram,3,15.0,2.6582,4
+scaled,unigram,3,15.0,2.6582,4
+senior management,bigram,3,15.0,2.6582,4
+simple,unigram,3,15.0,2.6582,4
+solutions help,bigram,3,15.0,2.6582,4
+solve,unigram,3,15.0,2.6582,4
+sought,unigram,3,15.0,2.6582,4
+specifically,unigram,3,15.0,2.6582,4
+statements including,bigram,3,15.0,2.6582,4
+steps,unigram,3,15.0,2.6582,4
+strategic objectives,bigram,3,15.0,2.6582,4
+strengths,unigram,3,15.0,2.6582,4
+supply chain,bigram,3,15.0,2.6582,4
+term strategic,bigram,3,15.0,2.6582,4
+themes,unigram,3,15.0,2.6582,4
+threat landscape,bigram,3,15.0,2.6582,4
+transition plan,bigram,3,15.0,2.6582,4
+uk government,bigram,3,15.0,2.6582,4
+unable,unigram,3,15.0,2.6582,4
+uncertainties,unigram,3,15.0,2.6582,4
+underway,unigram,3,15.0,2.6582,4
+upgrades,unigram,3,15.0,2.6582,4
+valuation,unigram,3,15.0,2.6582,4
+valuations,unigram,3,15.0,2.6582,4
+vision,unigram,3,15.0,2.6582,4
+volume,unigram,3,15.0,2.6582,4
+vulnerabilities,unigram,3,15.0,2.6582,4
+ways working,bigram,3,15.0,2.6582,4
+wealth management,bigram,3,15.0,2.6582,4
+winning,unigram,3,15.0,2.6582,4
+accordance,unigram,3,15.0,2.6582,3
+accountable,unigram,3,15.0,2.6582,3
+accounting standards,bigram,3,15.0,2.6582,3
+accurately,unigram,3,15.0,2.6582,3
+acquisitions,unigram,3,15.0,2.6582,3
+adequacy,unigram,3,15.0,2.6582,3
+adjustments,unigram,3,15.0,2.6582,3
+adjustments assessing,bigram,3,15.0,2.6582,3
+advanced technology,bigram,3,15.0,2.6582,3
+advances ai,bigram,3,15.0,2.6582,3
+adverse effect,bigram,3,15.0,2.6582,3
+affected,unigram,3,15.0,2.6582,3
+agent,unigram,3,15.0,2.6582,3
+agm annual,bigram,3,15.0,2.6582,3
+ai artificial,bigram,3,15.0,2.6582,3
+ai cyber,bigram,3,15.0,2.6582,3
+ai including,bigram,3,15.0,2.6582,3
+ai market,bigram,3,15.0,2.6582,3
+ai new,bigram,3,15.0,2.6582,3
+ai risks,bigram,3,15.0,2.6582,3
+ai scale,bigram,3,15.0,2.6582,3
+aims,unigram,3,15.0,2.6582,3
+amounts,unigram,3,15.0,2.6582,3
+analytics ai,bigram,3,15.0,2.6582,3
+annual general,bigram,3,15.0,2.6582,3
+appointments,unigram,3,15.0,2.6582,3
+apprenticeship,unigram,3,15.0,2.6582,3
+appropriateness,unigram,3,15.0,2.6582,3
+assist,unigram,3,15.0,2.6582,3
+assistance,unigram,3,15.0,2.6582,3
+attract,unigram,3,15.0,2.6582,3
+audit risk,bigram,3,15.0,2.6582,3
+authority pra,bigram,3,15.0,2.6582,3
+automated decision,bigram,3,15.0,2.6582,3
+automation use,bigram,3,15.0,2.6582,3
+balanced,unigram,3,15.0,2.6582,3
+basis points,bigram,3,15.0,2.6582,3
+board approved,bigram,3,15.0,2.6582,3
+board risk,bigram,3,15.0,2.6582,3
+bonus,unigram,3,15.0,2.6582,3
+brand,unigram,3,15.0,2.6582,3
+bribery,unigram,3,15.0,2.6582,3
+bribery corruption,bigram,3,15.0,2.6582,3
+british,unigram,3,15.0,2.6582,3
+broad,unigram,3,15.0,2.6582,3
+broadly,unigram,3,15.0,2.6582,3
+business ai,bigram,3,15.0,2.6582,3
+business outcomes,bigram,3,15.0,2.6582,3
+buybacks,unigram,3,15.0,2.6582,3
+capex,unigram,3,15.0,2.6582,3
+capital management,bigram,3,15.0,2.6582,3
+capital markets,bigram,3,15.0,2.6582,3
+carbon accounting,bigram,3,15.0,2.6582,3
+centralised,unigram,3,15.0,2.6582,3
+channel,unigram,3,15.0,2.6582,3
+chief information,bigram,3,15.0,2.6582,3
+colleague experience,bigram,3,15.0,2.6582,3
+colleagues customers,bigram,3,15.0,2.6582,3
+coming,unigram,3,15.0,2.6582,3
+committee management,bigram,3,15.0,2.6582,3
+companies act,bigram,3,15.0,2.6582,3
+competitive advantage,bigram,3,15.0,2.6582,3
+compliant,unigram,3,15.0,2.6582,3
+components,unigram,3,15.0,2.6582,3
+comprised,unigram,3,15.0,2.6582,3
+conduct authority,bigram,3,15.0,2.6582,3
+construction,unigram,3,15.0,2.6582,3
+continue provide,bigram,3,15.0,2.6582,3
+continuous learning,bigram,3,15.0,2.6582,3
+contribute,unigram,3,15.0,2.6582,3
+controls risk,bigram,3,15.0,2.6582,3
+conversion,unigram,3,15.0,2.6582,3
+corruption,unigram,3,15.0,2.6582,3
+course,unigram,3,15.0,2.6582,3
+criminals,unigram,3,15.0,2.6582,3
+cross border,bigram,3,15.0,2.6582,3
+customer needs,bigram,3,15.0,2.6582,3
+cyber threats,bigram,3,15.0,2.6582,3
+cybersecurity data,bigram,3,15.0,2.6582,3
+dashboards,unigram,3,15.0,2.6582,3
+data centres,bigram,3,15.0,2.6582,3
+data data,bigram,3,15.0,2.6582,3
+data risk,bigram,3,15.0,2.6582,3
+day day,bigram,3,15.0,2.6582,3
+debt,unigram,3,15.0,2.6582,3
+deeper,unigram,3,15.0,2.6582,3
+delivered strong,bigram,3,15.0,2.6582,3
+desktop,unigram,3,15.0,2.6582,3
+determined principal,bigram,3,15.0,2.6582,3
+digital asset,bigram,3,15.0,2.6582,3
+digital experiences,bigram,3,15.0,2.6582,3
+digital markets,bigram,3,15.0,2.6582,3
+direction,unigram,3,15.0,2.6582,3
+directors remuneration,bigram,3,15.0,2.6582,3
+discussion,unigram,3,15.0,2.6582,3
+dives,unigram,3,15.0,2.6582,3
+documents,unigram,3,15.0,2.6582,3
+doing,unigram,3,15.0,2.6582,3
+drive greater,bigram,3,15.0,2.6582,3
+drive innovation,bigram,3,15.0,2.6582,3
+drives,unigram,3,15.0,2.6582,3
+dynamic,unigram,3,15.0,2.6582,3
+efficiency customer,bigram,3,15.0,2.6582,3
+eligible,unigram,3,15.0,2.6582,3
+empower colleagues,bigram,3,15.0,2.6582,3
+empowered,unigram,3,15.0,2.6582,3
+empowers,unigram,3,15.0,2.6582,3
+en,unigram,3,15.0,2.6582,3
+enablers,unigram,3,15.0,2.6582,3
+ended,unigram,3,15.0,2.6582,3
+engagement team,bigram,3,15.0,2.6582,3
+england,unigram,3,15.0,2.6582,3
+enhance colleague,bigram,3,15.0,2.6582,3
+enhanced ai,bigram,3,15.0,2.6582,3
+enhanced digital,bigram,3,15.0,2.6582,3
+enhances,unigram,3,15.0,2.6582,3
+ensure data,bigram,3,15.0,2.6582,3
+ensure safe,bigram,3,15.0,2.6582,3
+environmental,unigram,3,15.0,2.6582,3
+evaluation,unigram,3,15.0,2.6582,3
+execution risk,bigram,3,15.0,2.6582,3
+expenditure,unigram,3,15.0,2.6582,3
+experimentation,unigram,3,15.0,2.6582,3
+explored,unigram,3,15.0,2.6582,3
+extent,unigram,3,15.0,2.6582,3
+facilitated,unigram,3,15.0,2.6582,3
+far,unigram,3,15.0,2.6582,3
+fast evolving,bigram,3,15.0,2.6582,3
+feeds,unigram,3,15.0,2.6582,3
+financ,unigram,3,15.0,2.6582,3
+financial institutions,bigram,3,15.0,2.6582,3
+financial loss,bigram,3,15.0,2.6582,3
+fit,unigram,3,15.0,2.6582,3
+flows,unigram,3,15.0,2.6582,3
+following completion,bigram,3,15.0,2.6582,3
+fraud risk,bigram,3,15.0,2.6582,3
+gas,unigram,3,15.0,2.6582,3
+gdp,unigram,3,15.0,2.6582,3
+genai generative,bigram,3,15.0,2.6582,3
+general meeting,bigram,3,15.0,2.6582,3
+ghg,unigram,3,15.0,2.6582,3
+global economy,bigram,3,15.0,2.6582,3
+governed,unigram,3,15.0,2.6582,3
+grade,unigram,3,15.0,2.6582,3
+green,unigram,3,15.0,2.6582,3
+greenhouse,unigram,3,15.0,2.6582,3
+greenhouse gas,bigram,3,15.0,2.6582,3
+group audit,bigram,3,15.0,2.6582,3
+group continues,bigram,3,15.0,2.6582,3
+group engagement,bigram,3,15.0,2.6582,3
+group operates,bigram,3,15.0,2.6582,3
+group strategic,bigram,3,15.0,2.6582,3
+group strategy,bigram,3,15.0,2.6582,3
+group technology,bigram,3,15.0,2.6582,3
+group uses,bigram,3,15.0,2.6582,3
+growth driven,bigram,3,15.0,2.6582,3
+guardrails,unigram,3,15.0,2.6582,3
+handling time,bigram,3,15.0,2.6582,3
+hold,unigram,3,15.0,2.6582,3
+hour,unigram,3,15.0,2.6582,3
+iii,unigram,3,15.0,2.6582,3
+impact ai,bigram,3,15.0,2.6582,3
+impacted,unigram,3,15.0,2.6582,3
+improve efficiency,bigram,3,15.0,2.6582,3
+inaugural,unigram,3,15.0,2.6582,3
+including digital,bigram,3,15.0,2.6582,3
+including machine,bigram,3,15.0,2.6582,3
+incorporation,unigram,3,15.0,2.6582,3
+increased focus,bigram,3,15.0,2.6582,3
+increases,unigram,3,15.0,2.6582,3
+increasing automation,bigram,3,15.0,2.6582,3
+increasingly sophisticated,bigram,3,15.0,2.6582,3
+independent non,bigram,3,15.0,2.6582,3
+information security,bigram,3,15.0,2.6582,3
+initiatives including,bigram,3,15.0,2.6582,3
+innovative products,bigram,3,15.0,2.6582,3
+input,unigram,3,15.0,2.6582,3
+integration ai,bigram,3,15.0,2.6582,3
+intend,unigram,3,15.0,2.6582,3
+interface,unigram,3,15.0,2.6582,3
+introduces,unigram,3,15.0,2.6582,3
+introducing,unigram,3,15.0,2.6582,3
+introduction,unigram,3,15.0,2.6582,3
+intuitive,unigram,3,15.0,2.6582,3
+inventory,unigram,3,15.0,2.6582,3
+investing automation,bigram,3,15.0,2.6582,3
+invests,unigram,3,15.0,2.6582,3
+ip,unigram,3,15.0,2.6582,3
+issuance,unigram,3,15.0,2.6582,3
+job,unigram,3,15.0,2.6582,3
+john,unigram,3,15.0,2.6582,3
+judgement,unigram,3,15.0,2.6582,3
+keeping,unigram,3,15.0,2.6582,3
+key markets,bigram,3,15.0,2.6582,3
+known,unigram,3,15.0,2.6582,3
+launched new,bigram,3,15.0,2.6582,3
+leadership team,bigram,3,15.0,2.6582,3
+leading technology,bigram,3,15.0,2.6582,3
+look,unigram,3,15.0,2.6582,3
+macro,unigram,3,15.0,2.6582,3
+make better,bigram,3,15.0,2.6582,3
+manage money,bigram,3,15.0,2.6582,3
+management including,bigram,3,15.0,2.6582,3
+mandatory,unigram,3,15.0,2.6582,3
+manipulation,unigram,3,15.0,2.6582,3
+margin,unigram,3,15.0,2.6582,3
+market conditions,bigram,3,15.0,2.6582,3
+maturity,unigram,3,15.0,2.6582,3
+maximising,unigram,3,15.0,2.6582,3
+medium term,bigram,3,15.0,2.6582,3
+met,unigram,3,15.0,2.6582,3
+methods,unigram,3,15.0,2.6582,3
+mitigating,unigram,3,15.0,2.6582,3
+mitigation,unigram,3,15.0,2.6582,3
+mix,unigram,3,15.0,2.6582,3
+month,unigram,3,15.0,2.6582,3
+movements,unigram,3,15.0,2.6582,3
+nce,unigram,3,15.0,2.6582,3
+near,unigram,3,15.0,2.6582,3
+necessary,unigram,3,15.0,2.6582,3
+new business,bigram,3,15.0,2.6582,3
+new innovative,bigram,3,15.0,2.6582,3
+new markets,bigram,3,15.0,2.6582,3
+new risks,bigram,3,15.0,2.6582,3
+non compliance,bigram,3,15.0,2.6582,3
+notably,unigram,3,15.0,2.6582,3
+obtained,unigram,3,15.0,2.6582,3
+offer customers,bigram,3,15.0,2.6582,3
+operation,unigram,3,15.0,2.6582,3
+opportunities enhance,bigram,3,15.0,2.6582,3
+optimise,unigram,3,15.0,2.6582,3
+optimised,unigram,3,15.0,2.6582,3
+oversees,unigram,3,15.0,2.6582,3
+parallel,unigram,3,15.0,2.6582,3
+participated,unigram,3,15.0,2.6582,3
+particularly areas,bigram,3,15.0,2.6582,3
+people risk,bigram,3,15.0,2.6582,3
+people technology,bigram,3,15.0,2.6582,3
+perceived,unigram,3,15.0,2.6582,3
+perform,unigram,3,15.0,2.6582,3
+performed,unigram,3,15.0,2.6582,3
+performing,unigram,3,15.0,2.6582,3
+personal information,bigram,3,15.0,2.6582,3
+phishing,unigram,3,15.0,2.6582,3
+planned,unigram,3,15.0,2.6582,3
+play,unigram,3,15.0,2.6582,3
+policies procedures,bigram,3,15.0,2.6582,3
+policymakers,unigram,3,15.0,2.6582,3
+posting inappropriate,bigram,3,15.0,2.6582,3
+potential ai,bigram,3,15.0,2.6582,3
+presents,unigram,3,15.0,2.6582,3
+prevent,unigram,3,15.0,2.6582,3
+problem,unigram,3,15.0,2.6582,3
+problem solving,bigram,3,15.0,2.6582,3
+product offerings,bigram,3,15.0,2.6582,3
+progressing,unigram,3,15.0,2.6582,3
+progression,unigram,3,15.0,2.6582,3
+promoting,unigram,3,15.0,2.6582,3
+protected,unigram,3,15.0,2.6582,3
+protecting,unigram,3,15.0,2.6582,3
+provision code,bigram,3,15.0,2.6582,3
+public,unigram,3,15.0,2.6582,3
+published,unigram,3,15.0,2.6582,3
+questions,unigram,3,15.0,2.6582,3
+reasonable,unigram,3,15.0,2.6582,3
+recently,unigram,3,15.0,2.6582,3
+record,unigram,3,15.0,2.6582,3
+reduce costs,bigram,3,15.0,2.6582,3
+regulation authority,bigram,3,15.0,2.6582,3
+regulations potential,bigram,3,15.0,2.6582,3
+relate,unigram,3,15.0,2.6582,3
+relevance,unigram,3,15.0,2.6582,3
+rely,unigram,3,15.0,2.6582,3
+remain focused,bigram,3,15.0,2.6582,3
+removing,unigram,3,15.0,2.6582,3
+remuneration report,bigram,3,15.0,2.6582,3
+reshape,unigram,3,15.0,2.6582,3
+resolve,unigram,3,15.0,2.6582,3
+respective,unigram,3,15.0,2.6582,3
+responded,unigram,3,15.0,2.6582,3
+review group,bigram,3,15.0,2.6582,3
+risk controls,bigram,3,15.0,2.6582,3
+risk failure,bigram,3,15.0,2.6582,3
+risk financial,bigram,3,15.0,2.6582,3
+risk group,bigram,3,15.0,2.6582,3
+risk loss,bigram,3,15.0,2.6582,3
+risk material,bigram,3,15.0,2.6582,3
+risk override,bigram,3,15.0,2.6582,3
+risk scenarios,bigram,3,15.0,2.6582,3
+robotics,unigram,3,15.0,2.6582,3
+routine,unigram,3,15.0,2.6582,3
+running,unigram,3,15.0,2.6582,3
+salary,unigram,3,15.0,2.6582,3
+sale,unigram,3,15.0,2.6582,3
+scanning,unigram,3,15.0,2.6582,3
+schedule,unigram,3,15.0,2.6582,3
+scorecard,unigram,3,15.0,2.6582,3
+se,unigram,3,15.0,2.6582,3
+seen,unigram,3,15.0,2.6582,3
+sensitive,unigram,3,15.0,2.6582,3
+served,unigram,3,15.0,2.6582,3
+seven,unigram,3,15.0,2.6582,3
+shaping,unigram,3,15.0,2.6582,3
+shareholding,unigram,3,15.0,2.6582,3
+short term,bigram,3,15.0,2.6582,3
+significantly improved,bigram,3,15.0,2.6582,3
+simplifies,unigram,3,15.0,2.6582,3
+simplifying,unigram,3,15.0,2.6582,3
+societal,unigram,3,15.0,2.6582,3
+solving,unigram,3,15.0,2.6582,3
+spanning,unigram,3,15.0,2.6582,3
+specialists,unigram,3,15.0,2.6582,3
+specific ai,bigram,3,15.0,2.6582,3
+spent,unigram,3,15.0,2.6582,3
+staff,unigram,3,15.0,2.6582,3
+state,unigram,3,15.0,2.6582,3
+stay,unigram,3,15.0,2.6582,3
+strategic priorities,bigram,3,15.0,2.6582,3
+strategic risk,bigram,3,15.0,2.6582,3
+subsidiary,unigram,3,15.0,2.6582,3
+supervisory,unigram,3,15.0,2.6582,3
+supported ai,bigram,3,15.0,2.6582,3
+sustainable finance,bigram,3,15.0,2.6582,3
+tariffs,unigram,3,15.0,2.6582,3
+technological changes,bigram,3,15.0,2.6582,3
+technology strategy,bigram,3,15.0,2.6582,3
+term sustainable,bigram,3,15.0,2.6582,3
+test,unigram,3,15.0,2.6582,3
+tests,unigram,3,15.0,2.6582,3
+tha,unigram,3,15.0,2.6582,3
+took,unigram,3,15.0,2.6582,3
+tools including,bigram,3,15.0,2.6582,3
+trades,unigram,3,15.0,2.6582,3
+train,unigram,3,15.0,2.6582,3
+transformation ai,bigram,3,15.0,2.6582,3
+undertakes,unigram,3,15.0,2.6582,3
+unusual outside,bigram,3,15.0,2.6582,3
+ur,unigram,3,15.0,2.6582,3
+usd,unigram,3,15.0,2.6582,3
+utilising,unigram,3,15.0,2.6582,3
+value shareholders,bigram,3,15.0,2.6582,3
+volumes,unigram,3,15.0,2.6582,3
+vulnerability,unigram,3,15.0,2.6582,3
+website,unigram,3,15.0,2.6582,3
+widely,unigram,3,15.0,2.6582,3
+widespread,unigram,3,15.0,2.6582,3
+worth,unigram,3,15.0,2.6582,3
+year ended,bigram,3,15.0,2.6582,3
+year launched,bigram,3,15.0,2.6582,3
+year year,bigram,3,15.0,2.6582,3
+cent,unigram,2,10.0,2.9459,16
+native,unigram,2,10.0,2.9459,13
+workflows,unigram,2,10.0,2.9459,13
+ai native,bigram,2,10.0,2.9459,11
+ai group,bigram,2,10.0,2.9459,9
+retirement,unigram,2,10.0,2.9459,9
+harm,unigram,2,10.0,2.9459,8
+require,unigram,2,10.0,2.9459,8
+ai act,bigram,2,10.0,2.9459,7
+backed,unigram,2,10.0,2.9459,7
+david,unigram,2,10.0,2.9459,7
+divisional,unigram,2,10.0,2.9459,7
+eu ai,bigram,2,10.0,2.9459,7
+family,unigram,2,10.0,2.9459,7
+group ability,bigram,2,10.0,2.9459,7
+holdings,unigram,2,10.0,2.9459,7
+hong,unigram,2,10.0,2.9459,7
+hong kong,bigram,2,10.0,2.9459,7
+kong,unigram,2,10.0,2.9459,7
+ai policy,bigram,2,10.0,2.9459,6
+financial markets,bigram,2,10.0,2.9459,6
+high quality,bigram,2,10.0,2.9459,6
+human rights,bigram,2,10.0,2.9459,6
+internally,unigram,2,10.0,2.9459,6
+interoperability,unigram,2,10.0,2.9459,6
+lifecycle,unigram,2,10.0,2.9459,6
+mobility,unigram,2,10.0,2.9459,6
+resolution,unigram,2,10.0,2.9459,6
+achieved,unigram,2,10.0,2.9459,5
+agentic artificial,bigram,2,10.0,2.9459,5
+ai based,bigram,2,10.0,2.9459,5
+challenged,unigram,2,10.0,2.9459,5
+chartered,unigram,2,10.0,2.9459,5
+climate transition,bigram,2,10.0,2.9459,5
+code conduct,bigram,2,10.0,2.9459,5
+condition,unigram,2,10.0,2.9459,5
+currency,unigram,2,10.0,2.9459,5
+data privacy,bigram,2,10.0,2.9459,5
+databricks,unigram,2,10.0,2.9459,5
+deployment ai,bigram,2,10.0,2.9459,5
+developers,unigram,2,10.0,2.9459,5
+electric,unigram,2,10.0,2.9459,5
+embedded ai,bigram,2,10.0,2.9459,5
+financial condition,bigram,2,10.0,2.9459,5
+financial year,bigram,2,10.0,2.9459,5
+greenwashing,unigram,2,10.0,2.9459,5
+holdings plc,bigram,2,10.0,2.9459,5
+implement,unigram,2,10.0,2.9459,5
+intellectual,unigram,2,10.0,2.9459,5
+intelligence act,bigram,2,10.0,2.9459,5
+intelligence including,bigram,2,10.0,2.9459,5
+law,unigram,2,10.0,2.9459,5
+liabilities,unigram,2,10.0,2.9459,5
+organisational,unigram,2,10.0,2.9459,5
+os,unigram,2,10.0,2.9459,5
+people leaders,bigram,2,10.0,2.9459,5
+race,unigram,2,10.0,2.9459,5
+relating ai,bigram,2,10.0,2.9459,5
+responses,unigram,2,10.0,2.9459,5
+retaining,unigram,2,10.0,2.9459,5
+saving,unigram,2,10.0,2.9459,5
+spotlight,unigram,2,10.0,2.9459,5
+steering,unigram,2,10.0,2.9459,5
+superior,unigram,2,10.0,2.9459,5
+supply chains,bigram,2,10.0,2.9459,5
+value chain,bigram,2,10.0,2.9459,5
+week,unigram,2,10.0,2.9459,5
+additional information,bigram,2,10.0,2.9459,4
+advancing,unigram,2,10.0,2.9459,4
+ai developments,bigram,2,10.0,2.9459,4
+ai driving,bigram,2,10.0,2.9459,4
+ai uk,bigram,2,10.0,2.9459,4
+analytics cloud,bigram,2,10.0,2.9459,4
+api,unigram,2,10.0,2.9459,4
+applied,unigram,2,10.0,2.9459,4
+approximately,unigram,2,10.0,2.9459,4
+assets liabilities,bigram,2,10.0,2.9459,4
+assurance framework,bigram,2,10.0,2.9459,4
+auditable,unigram,2,10.0,2.9459,4
+automation processes,bigram,2,10.0,2.9459,4
+balances,unigram,2,10.0,2.9459,4
+big,unigram,2,10.0,2.9459,4
+canada,unigram,2,10.0,2.9459,4
+capital allocation,bigram,2,10.0,2.9459,4
+chatgpt,unigram,2,10.0,2.9459,4
+clarity,unigram,2,10.0,2.9459,4
+cloud technology,bigram,2,10.0,2.9459,4
+collection,unigram,2,10.0,2.9459,4
+committee oversight,bigram,2,10.0,2.9459,4
+complaints,unigram,2,10.0,2.9459,4
+consequences,unigram,2,10.0,2.9459,4
+covered,unigram,2,10.0,2.9459,4
+cyber attack,bigram,2,10.0,2.9459,4
+deregulation,unigram,2,10.0,2.9459,4
+digital transformation,bigram,2,10.0,2.9459,4
+does,unigram,2,10.0,2.9459,4
+economic growth,bigram,2,10.0,2.9459,4
+effects,unigram,2,10.0,2.9459,4
+enforcement,unigram,2,10.0,2.9459,4
+failures,unigram,2,10.0,2.9459,4
+fall,unigram,2,10.0,2.9459,4
+force,unigram,2,10.0,2.9459,4
+global trade,bigram,2,10.0,2.9459,4
+governance financial,bigram,2,10.0,2.9459,4
+hedging,unigram,2,10.0,2.9459,4
+highest,unigram,2,10.0,2.9459,4
+hybrid,unigram,2,10.0,2.9459,4
+incorporated,unigram,2,10.0,2.9459,4
+insight,unigram,2,10.0,2.9459,4
+intelligence based,bigram,2,10.0,2.9459,4
+intelligence genai,bigram,2,10.0,2.9459,4
+ireland,unigram,2,10.0,2.9459,4
+liability,unigram,2,10.0,2.9459,4
+light,unigram,2,10.0,2.9459,4
+lives,unigram,2,10.0,2.9459,4
+materials,unigram,2,10.0,2.9459,4
+microsoft copilot,bigram,2,10.0,2.9459,4
+ml,unigram,2,10.0,2.9459,4
+modern slavery,bigram,2,10.0,2.9459,4
+modular,unigram,2,10.0,2.9459,4
+natural,unigram,2,10.0,2.9459,4
+needed,unigram,2,10.0,2.9459,4
+performance culture,bigram,2,10.0,2.9459,4
+personal data,bigram,2,10.0,2.9459,4
+personal lines,bigram,2,10.0,2.9459,4
+potential impacts,bigram,2,10.0,2.9459,4
+quality data,bigram,2,10.0,2.9459,4
+reflects,unigram,2,10.0,2.9459,4
+regard,unigram,2,10.0,2.9459,4
+report corporate,bigram,2,10.0,2.9459,4
+responsibilities,unigram,2,10.0,2.9459,4
+rewards,unigram,2,10.0,2.9459,4
+risk culture,bigram,2,10.0,2.9459,4
+risk policy,bigram,2,10.0,2.9459,4
+salient,unigram,2,10.0,2.9459,4
+service providers,bigram,2,10.0,2.9459,4
+shift,unigram,2,10.0,2.9459,4
+singapore,unigram,2,10.0,2.9459,4
+slavery,unigram,2,10.0,2.9459,4
+small businesses,bigram,2,10.0,2.9459,4
+social engineering,bigram,2,10.0,2.9459,4
+statements additional,bigram,2,10.0,2.9459,4
+strategic report,bigram,2,10.0,2.9459,4
+systems controls,bigram,2,10.0,2.9459,4
+technology artificial,bigram,2,10.0,2.9459,4
+transition plans,bigram,2,10.0,2.9459,4
+uk ireland,bigram,2,10.0,2.9459,4
+uniquely,unigram,2,10.0,2.9459,4
+use new,bigram,2,10.0,2.9459,4
+vehicle,unigram,2,10.0,2.9459,4
+ability access,bigram,2,10.0,2.9459,3
+accelerates,unigram,2,10.0,2.9459,3
+accountability,unigram,2,10.0,2.9459,3
+acquired,unigram,2,10.0,2.9459,3
+adopting,unigram,2,10.0,2.9459,3
+advantages,unigram,2,10.0,2.9459,3
+adversely affect,bigram,2,10.0,2.9459,3
+affecting,unigram,2,10.0,2.9459,3
+ai automation,bigram,2,10.0,2.9459,3
+ai capability,bigram,2,10.0,2.9459,3
+ai create,bigram,2,10.0,2.9459,3
+ai customer,bigram,2,10.0,2.9459,3
+ai enabling,bigram,2,10.0,2.9459,3
+ai make,bigram,2,10.0,2.9459,3
+ai model,bigram,2,10.0,2.9459,3
+ai result,bigram,2,10.0,2.9459,3
+ai servicing,bigram,2,10.0,2.9459,3
+ai standard,bigram,2,10.0,2.9459,3
+ai talent,bigram,2,10.0,2.9459,3
+ai team,bigram,2,10.0,2.9459,3
+ai tool,bigram,2,10.0,2.9459,3
+ai used,bigram,2,10.0,2.9459,3
+algorithmic,unigram,2,10.0,2.9459,3
+applicants,unigram,2,10.0,2.9459,3
+approaches,unigram,2,10.0,2.9459,3
+asia,unigram,2,10.0,2.9459,3
+asset class,bigram,2,10.0,2.9459,3
+auma,unigram,2,10.0,2.9459,3
+authorised,unigram,2,10.0,2.9459,3
+automation business,bigram,2,10.0,2.9459,3
+automation manual,bigram,2,10.0,2.9459,3
+bad,unigram,2,10.0,2.9459,3
+bad actors,bigram,2,10.0,2.9459,3
+balance sheet,bigram,2,10.0,2.9459,3
+balancing,unigram,2,10.0,2.9459,3
+beneficial,unigram,2,10.0,2.9459,3
+board considered,bigram,2,10.0,2.9459,3
+board oversight,bigram,2,10.0,2.9459,3
+book,unigram,2,10.0,2.9459,3
+broadening,unigram,2,10.0,2.9459,3
+brokers,unigram,2,10.0,2.9459,3
+build resilience,bigram,2,10.0,2.9459,3
+business services,bigram,2,10.0,2.9459,3
+business trust,bigram,2,10.0,2.9459,3
+buyback,unigram,2,10.0,2.9459,3
+california,unigram,2,10.0,2.9459,3
+category,unigram,2,10.0,2.9459,3
+centred,unigram,2,10.0,2.9459,3
+certainty,unigram,2,10.0,2.9459,3
+cha,unigram,2,10.0,2.9459,3
+championing,unigram,2,10.0,2.9459,3
+chat,unigram,2,10.0,2.9459,3
+chief data,bigram,2,10.0,2.9459,3
+choice,unigram,2,10.0,2.9459,3
+client needs,bigram,2,10.0,2.9459,3
+climate change,bigram,2,10.0,2.9459,3
+coach,unigram,2,10.0,2.9459,3
+coaching tool,bigram,2,10.0,2.9459,3
+committee page,bigram,2,10.0,2.9459,3
+compensation,unigram,2,10.0,2.9459,3
+confidently,unigram,2,10.0,2.9459,3
+connectivity,unigram,2,10.0,2.9459,3
+consequently,unigram,2,10.0,2.9459,3
+consumption,unigram,2,10.0,2.9459,3
+continue develop,bigram,2,10.0,2.9459,3
+continued focus,bigram,2,10.0,2.9459,3
+continuously monitor,bigram,2,10.0,2.9459,3
+controlled,unigram,2,10.0,2.9459,3
+corporate clients,bigram,2,10.0,2.9459,3
+create value,bigram,2,10.0,2.9459,3
+created,unigram,2,10.0,2.9459,3
+crisis,unigram,2,10.0,2.9459,3
+crypto,unigram,2,10.0,2.9459,3
+customer calls,bigram,2,10.0,2.9459,3
+customer data,bigram,2,10.0,2.9459,3
+customer protection,bigram,2,10.0,2.9459,3
+customer support,bigram,2,10.0,2.9459,3
+customers clients,bigram,2,10.0,2.9459,3
+customers employees,bigram,2,10.0,2.9459,3
+customers suppliers,bigram,2,10.0,2.9459,3
+customers using,bigram,2,10.0,2.9459,3
+data transformation,bigram,2,10.0,2.9459,3
+data used,bigram,2,10.0,2.9459,3
+datasets,unigram,2,10.0,2.9459,3
+days,unigram,2,10.0,2.9459,3
+demands,unigram,2,10.0,2.9459,3
+deploying ai,bigram,2,10.0,2.9459,3
+digital bank,bigram,2,10.0,2.9459,3
+digital banking,bigram,2,10.0,2.9459,3
+digital data,bigram,2,10.0,2.9459,3
+digital innovation,bigram,2,10.0,2.9459,3
+ding,unigram,2,10.0,2.9459,3
+director remuneration,bigram,2,10.0,2.9459,3
+disability,unigram,2,10.0,2.9459,3
+document,unigram,2,10.0,2.9459,3
+duties,unigram,2,10.0,2.9459,3
+earnings share,bigram,2,10.0,2.9459,3
+economic crime,bigram,2,10.0,2.9459,3
+enabled ai,bigram,2,10.0,2.9459,3
+end end,bigram,2,10.0,2.9459,3
+energy demand,bigram,2,10.0,2.9459,3
+enterprise risk,bigram,2,10.0,2.9459,3
+ermf,unigram,2,10.0,2.9459,3
+europe,unigram,2,10.0,2.9459,3
+european,unigram,2,10.0,2.9459,3
+evolved,unigram,2,10.0,2.9459,3
+exchange rates,bigram,2,10.0,2.9459,3
+exclusive,unigram,2,10.0,2.9459,3
+executed,unigram,2,10.0,2.9459,3
+exposures,unigram,2,10.0,2.9459,3
+facilitating,unigram,2,10.0,2.9459,3
+failure comply,bigram,2,10.0,2.9459,3
+fair value,bigram,2,10.0,2.9459,3
+financed emissions,bigram,2,10.0,2.9459,3
+financial assistant,bigram,2,10.0,2.9459,3
+financial stability,bigram,2,10.0,2.9459,3
+fintech,unigram,2,10.0,2.9459,3
+flow,unigram,2,10.0,2.9459,3
+focus ai,bigram,2,10.0,2.9459,3
+forums,unigram,2,10.0,2.9459,3
+framework including,bigram,2,10.0,2.9459,3
+frequency,unigram,2,10.0,2.9459,3
+friend,unigram,2,10.0,2.9459,3
+fte,unigram,2,10.0,2.9459,3
+fuel,unigram,2,10.0,2.9459,3
+general data,bigram,2,10.0,2.9459,3
+goals,unigram,2,10.0,2.9459,3
+governance ai,bigram,2,10.0,2.9459,3
+group operational,bigram,2,10.0,2.9459,3
+grown,unigram,2,10.0,2.9459,3
+guide,unigram,2,10.0,2.9459,3
+heads,unigram,2,10.0,2.9459,3
+healthcare,unigram,2,10.0,2.9459,3
+help support,bigram,2,10.0,2.9459,3
+housing,unigram,2,10.0,2.9459,3
+identities,unigram,2,10.0,2.9459,3
+incident,unigram,2,10.0,2.9459,3
+including business,bigram,2,10.0,2.9459,3
+including customers,bigram,2,10.0,2.9459,3
+including gen,bigram,2,10.0,2.9459,3
+including relating,bigram,2,10.0,2.9459,3
+including relation,bigram,2,10.0,2.9459,3
+including workforce,bigram,2,10.0,2.9459,3
+increase use,bigram,2,10.0,2.9459,3
+increased use,bigram,2,10.0,2.9459,3
+indicators possible,bigram,2,10.0,2.9459,3
+indices,unigram,2,10.0,2.9459,3
+induction,unigram,2,10.0,2.9459,3
+industry trends,bigram,2,10.0,2.9459,3
+inputs,unigram,2,10.0,2.9459,3
+instability,unigram,2,10.0,2.9459,3
+intelligence transforming,bigram,2,10.0,2.9459,3
+introduce new,bigram,2,10.0,2.9459,3
+issue,unigram,2,10.0,2.9459,3
+issued,unigram,2,10.0,2.9459,3
+joint,unigram,2,10.0,2.9459,3
+largely,unigram,2,10.0,2.9459,3
+launch new,bigram,2,10.0,2.9459,3
+lea,unigram,2,10.0,2.9459,3
+legal regulatory,bigram,2,10.0,2.9459,3
+leverage range,bigram,2,10.0,2.9459,3
+licensed,unigram,2,10.0,2.9459,3
+longer,unigram,2,10.0,2.9459,3
+longer term,bigram,2,10.0,2.9459,3
+low risk,bigram,2,10.0,2.9459,3
+make informed,bigram,2,10.0,2.9459,3
+management information,bigram,2,10.0,2.9459,3
+management risk,bigram,2,10.0,2.9459,3
+marked,unigram,2,10.0,2.9459,3
+market risk,bigram,2,10.0,2.9459,3
+marketplace,unigram,2,10.0,2.9459,3
+meaningful,unigram,2,10.0,2.9459,3
+measured,unigram,2,10.0,2.9459,3
+methodologies,unigram,2,10.0,2.9459,3
+microsoft ai,bigram,2,10.0,2.9459,3
+multi product,bigram,2,10.0,2.9459,3
+multi year,bigram,2,10.0,2.9459,3
+new emerging,bigram,2,10.0,2.9459,3
+new rapidly,bigram,2,10.0,2.9459,3
+non financial,bigram,2,10.0,2.9459,3
+normal,unigram,2,10.0,2.9459,3
+obligation,unigram,2,10.0,2.9459,3
+offshoring,unigram,2,10.0,2.9459,3
+offsite,unigram,2,10.0,2.9459,3
+ongoing work,bigram,2,10.0,2.9459,3
+open source,bigram,2,10.0,2.9459,3
+organic,unigram,2,10.0,2.9459,3
+outside normal,bigram,2,10.0,2.9459,3
+outsourcing,unigram,2,10.0,2.9459,3
+paper,unigram,2,10.0,2.9459,3
+parker,unigram,2,10.0,2.9459,3
+parker review,bigram,2,10.0,2.9459,3
+partially,unigram,2,10.0,2.9459,3
+participation,unigram,2,10.0,2.9459,3
+party suppliers,bigram,2,10.0,2.9459,3
+pay gap,bigram,2,10.0,2.9459,3
+percentage point,bigram,2,10.0,2.9459,3
+pillars,unigram,2,10.0,2.9459,3
+pivotal,unigram,2,10.0,2.9459,3
+policy ai,bigram,2,10.0,2.9459,3
+political,unigram,2,10.0,2.9459,3
+positioning,unigram,2,10.0,2.9459,3
+powered ai,bigram,2,10.0,2.9459,3
+powers,unigram,2,10.0,2.9459,3
+presented ai,bigram,2,10.0,2.9459,3
+primarily,unigram,2,10.0,2.9459,3
+profit,unigram,2,10.0,2.9459,3
+project,unigram,2,10.0,2.9459,3
+proprietary data,bigram,2,10.0,2.9459,3
+putting,unigram,2,10.0,2.9459,3
+quotes,unigram,2,10.0,2.9459,3
+raising,unigram,2,10.0,2.9459,3
+rapid adoption,bigram,2,10.0,2.9459,3
+rapid development,bigram,2,10.0,2.9459,3
+rapid evolution,bigram,2,10.0,2.9459,3
+ratio,unigram,2,10.0,2.9459,3
+recruitment,unigram,2,10.0,2.9459,3
+refer,unigram,2,10.0,2.9459,3
+reforms,unigram,2,10.0,2.9459,3
+regulated,unigram,2,10.0,2.9459,3
+regulatory change,bigram,2,10.0,2.9459,3
+regulatory expectations,bigram,2,10.0,2.9459,3
+reinforced,unigram,2,10.0,2.9459,3
+relation ai,bigram,2,10.0,2.9459,3
+remediation,unigram,2,10.0,2.9459,3
+remit,unigram,2,10.0,2.9459,3
+reputational harm,bigram,2,10.0,2.9459,3
+requiring,unigram,2,10.0,2.9459,3
+responsible adoption,bigram,2,10.0,2.9459,3
+restrictions,unigram,2,10.0,2.9459,3
+result regulatory,bigram,2,10.0,2.9459,3
+results operations,bigram,2,10.0,2.9459,3
+retention,unigram,2,10.0,2.9459,3
+review continued,bigram,2,10.0,2.9459,3
+rise indicators,bigram,2,10.0,2.9459,3
+risk areas,bigram,2,10.0,2.9459,3
+risk data,bigram,2,10.0,2.9459,3
+risk including,bigram,2,10.0,2.9459,3
+risk models,bigram,2,10.0,2.9459,3
+risks arising,bigram,2,10.0,2.9459,3
+risks risks,bigram,2,10.0,2.9459,3
+roles responsibilities,bigram,2,10.0,2.9459,3
+rose,unigram,2,10.0,2.9459,3
+rwas,unigram,2,10.0,2.9459,3
+safeguarding,unigram,2,10.0,2.9459,3
+satisfaction,unigram,2,10.0,2.9459,3
+scale ai,bigram,2,10.0,2.9459,3
+scheduled,unigram,2,10.0,2.9459,3
+science,unigram,2,10.0,2.9459,3
+scotland,unigram,2,10.0,2.9459,3
+scott,unigram,2,10.0,2.9459,3
+share buyback,bigram,2,10.0,2.9459,3
+sheet,unigram,2,10.0,2.9459,3
+signed,unigram,2,10.0,2.9459,3
+significant assumptions,bigram,2,10.0,2.9459,3
+size,unigram,2,10.0,2.9459,3
+skill,unigram,2,10.0,2.9459,3
+skills experience,bigram,2,10.0,2.9459,3
+smarter,unigram,2,10.0,2.9459,3
+sophistication,unigram,2,10.0,2.9459,3
+stated,unigram,2,10.0,2.9459,3
+straight,unigram,2,10.0,2.9459,3
+stress testing,bigram,2,10.0,2.9459,3
+strong progress,bigram,2,10.0,2.9459,3
+surveys,unigram,2,10.0,2.9459,3
+sustainability related,bigram,2,10.0,2.9459,3
+sustainability report,bigram,2,10.0,2.9459,3
+tax cuts,bigram,2,10.0,2.9459,3
+technology risks,bigram,2,10.0,2.9459,3
+telematics,unigram,2,10.0,2.9459,3
+term value,bigram,2,10.0,2.9459,3
+time horizon,bigram,2,10.0,2.9459,3
+touch,unigram,2,10.0,2.9459,3
+trained,unigram,2,10.0,2.9459,3
+transfer,unigram,2,10.0,2.9459,3
+transition risks,bigram,2,10.0,2.9459,3
+transitioned,unigram,2,10.0,2.9459,3
+understanding group,bigram,2,10.0,2.9459,3
+understood,unigram,2,10.0,2.9459,3
+uniquely positioned,bigram,2,10.0,2.9459,3
+using data,bigram,2,10.0,2.9459,3
+variety,unigram,2,10.0,2.9459,3
+vendor,unigram,2,10.0,2.9459,3
+visited,unigram,2,10.0,2.9459,3
+vulnerable,unigram,2,10.0,2.9459,3
+wave,unigram,2,10.0,2.9459,3
+weekly,unigram,2,10.0,2.9459,3
+won,unigram,2,10.0,2.9459,3
+workloads,unigram,2,10.0,2.9459,3
+ability deliver,bigram,2,10.0,2.9459,2
+ability scale,bigram,2,10.0,2.9459,2
+accelerated investment,bigram,2,10.0,2.9459,2
+accelerator,unigram,2,10.0,2.9459,2
+access comprehensive,bigram,2,10.0,2.9459,2
+according,unigram,2,10.0,2.9459,2
+accounting entries,bigram,2,10.0,2.9459,2
+accounting financials,bigram,2,10.0,2.9459,2
+accurate data,bigram,2,10.0,2.9459,2
+acknowledging,unigram,2,10.0,2.9459,2
+actions artificial,bigram,2,10.0,2.9459,2
+activities processes,bigram,2,10.0,2.9459,2
+activities strategy,bigram,2,10.0,2.9459,2
+actors use,bigram,2,10.0,2.9459,2
+adding,unigram,2,10.0,2.9459,2
+addition ai,bigram,2,10.0,2.9459,2
+addresses,unigram,2,10.0,2.9459,2
+addressing,unigram,2,10.0,2.9459,2
+administrative,unigram,2,10.0,2.9459,2
+adopt,unigram,2,10.0,2.9459,2
+adoption digital,bigram,2,10.0,2.9459,2
+adoption external,bigram,2,10.0,2.9459,2
+adoption new,bigram,2,10.0,2.9459,2
+adoption use,bigram,2,10.0,2.9459,2
+advance,unigram,2,10.0,2.9459,2
+advanced ai,bigram,2,10.0,2.9459,2
+advanced analytics,bigram,2,10.0,2.9459,2
+advanced digital,bigram,2,10.0,2.9459,2
+adversely impact,bigram,2,10.0,2.9459,2
+advice gap,bigram,2,10.0,2.9459,2
+advisor,unigram,2,10.0,2.9459,2
+affordable,unigram,2,10.0,2.9459,2
+african,unigram,2,10.0,2.9459,2
+age,unigram,2,10.0,2.9459,2
+agenda available,bigram,2,10.0,2.9459,2
+agents using,bigram,2,10.0,2.9459,2
+aggregate,unigram,2,10.0,2.9459,2
+aggregate bias,bigram,2,10.0,2.9459,2
+agile ai,bigram,2,10.0,2.9459,2
+agreement,unigram,2,10.0,2.9459,2
+agreements,unigram,2,10.0,2.9459,2
+agriculture,unigram,2,10.0,2.9459,2
+ai accelerating,bigram,2,10.0,2.9459,2
+ai approach,bigram,2,10.0,2.9459,2
+ai areas,bigram,2,10.0,2.9459,2
+ai brings,bigram,2,10.0,2.9459,2
+ai cloud,bigram,2,10.0,2.9459,2
+ai committee,bigram,2,10.0,2.9459,2
+ai company,bigram,2,10.0,2.9459,2
+ai continues,bigram,2,10.0,2.9459,2
+ai controls,bigram,2,10.0,2.9459,2
+ai cybersecurity,bigram,2,10.0,2.9459,2
+ai deep,bigram,2,10.0,2.9459,2
+ai drive,bigram,2,10.0,2.9459,2
+ai enablement,bigram,2,10.0,2.9459,2
+ai enabler,bigram,2,10.0,2.9459,2
+ai enhanced,bigram,2,10.0,2.9459,2
+ai environment,bigram,2,10.0,2.9459,2
+ai essential,bigram,2,10.0,2.9459,2
+ai expanding,bigram,2,10.0,2.9459,2
+ai expertise,bigram,2,10.0,2.9459,2
+ai external,bigram,2,10.0,2.9459,2
+ai foundations,bigram,2,10.0,2.9459,2
+ai framework,bigram,2,10.0,2.9459,2
+ai generated,bigram,2,10.0,2.9459,2
+ai generative,bigram,2,10.0,2.9459,2
+ai help,bigram,2,10.0,2.9459,2
+ai helping,bigram,2,10.0,2.9459,2
+ai impact,bigram,2,10.0,2.9459,2
+ai implemented,bigram,2,10.0,2.9459,2
+ai improved,bigram,2,10.0,2.9459,2
+ai increased,bigram,2,10.0,2.9459,2
+ai information,bigram,2,10.0,2.9459,2
+ai initiatives,bigram,2,10.0,2.9459,2
+ai investors,bigram,2,10.0,2.9459,2
+ai key,bigram,2,10.0,2.9459,2
+ai literacy,bigram,2,10.0,2.9459,2
+ai management,bigram,2,10.0,2.9459,2
+ai operational,bigram,2,10.0,2.9459,2
+ai opportunities,bigram,2,10.0,2.9459,2
+ai partnership,bigram,2,10.0,2.9459,2
+ai platform,bigram,2,10.0,2.9459,2
+ai potential,bigram,2,10.0,2.9459,2
+ai process,bigram,2,10.0,2.9459,2
+ai quantum,bigram,2,10.0,2.9459,2
+ai range,bigram,2,10.0,2.9459,2
+ai safety,bigram,2,10.0,2.9459,2
+ai simplification,bigram,2,10.0,2.9459,2
+ai software,bigram,2,10.0,2.9459,2
+ai solve,bigram,2,10.0,2.9459,2
+ai strategic,bigram,2,10.0,2.9459,2
+ai support,bigram,2,10.0,2.9459,2
+ai tax,bigram,2,10.0,2.9459,2
+ai today,bigram,2,10.0,2.9459,2
+ai transform,bigram,2,10.0,2.9459,2
+ai transformation,bigram,2,10.0,2.9459,2
+ai workloads,bigram,2,10.0,2.9459,2
+aifinancial,unigram,2,10.0,2.9459,2
+aifinancial markets,bigram,2,10.0,2.9459,2
+aimed,unigram,2,10.0,2.9459,2
+albeit,unigram,2,10.0,2.9459,2
+aligning,unigram,2,10.0,2.9459,2
+aligns,unigram,2,10.0,2.9459,2
+allowance,unigram,2,10.0,2.9459,2
+allowing customers,bigram,2,10.0,2.9459,2
+alternative,unigram,2,10.0,2.9459,2
+amazon,unigram,2,10.0,2.9459,2
+amazon web,bigram,2,10.0,2.9459,2
+amendments,unigram,2,10.0,2.9459,2
+amidst,unigram,2,10.0,2.9459,2
+amplifying,unigram,2,10.0,2.9459,2
+analyses,unigram,2,10.0,2.9459,2
+analytics infrastructure,bigram,2,10.0,2.9459,2
+analytics solutions,bigram,2,10.0,2.9459,2
+andand,unigram,2,10.0,2.9459,2
+ann,unigram,2,10.0,2.9459,2
+anti bribery,bigram,2,10.0,2.9459,2
+anticipate respond,bigram,2,10.0,2.9459,2
+applic,unigram,2,10.0,2.9459,2
+application programming,bigram,2,10.0,2.9459,2
+applies,unigram,2,10.0,2.9459,2
+approach artificial,bigram,2,10.0,2.9459,2
+approach implementation,bigram,2,10.0,2.9459,2
+approaches including,bigram,2,10.0,2.9459,2
+appropriate risk,bigram,2,10.0,2.9459,2
+appropriate support,bigram,2,10.0,2.9459,2
+appropriate use,bigram,2,10.0,2.9459,2
+appropriately,unigram,2,10.0,2.9459,2
+appropriateness journal,bigram,2,10.0,2.9459,2
+approved board,bigram,2,10.0,2.9459,2
+areas focus,bigram,2,10.0,2.9459,2
+areas including,bigram,2,10.0,2.9459,2
+arising ai,bigram,2,10.0,2.9459,2
+articulation,unigram,2,10.0,2.9459,2
+ary,unigram,2,10.0,2.9459,2
+aspects,unigram,2,10.0,2.9459,2
+aspirations,unigram,2,10.0,2.9459,2
+asse,unigram,2,10.0,2.9459,2
+assess impact,bigram,2,10.0,2.9459,2
+assessed indicators,bigram,2,10.0,2.9459,2
+assesses,unigram,2,10.0,2.9459,2
+assessing bias,bigram,2,10.0,2.9459,2
+assessment control,bigram,2,10.0,2.9459,2
+assessment effectiveness,bigram,2,10.0,2.9459,2
+assessments risk,bigram,2,10.0,2.9459,2
+assets business,bigram,2,10.0,2.9459,2
+assets operational,bigram,2,10.0,2.9459,2
+assistants,unigram,2,10.0,2.9459,2
+associated artificial,bigram,2,10.0,2.9459,2
+assume,unigram,2,10.0,2.9459,2
+ata,unigram,2,10.0,2.9459,2
+ategic,unigram,2,10.0,2.9459,2
+attackers,unigram,2,10.0,2.9459,2
+attendance,unigram,2,10.0,2.9459,2
+attending,unigram,2,10.0,2.9459,2
+aud,unigram,2,10.0,2.9459,2
+audit function,bigram,2,10.0,2.9459,2
+audit procedures,bigram,2,10.0,2.9459,2
+audit process,bigram,2,10.0,2.9459,2
+auditing,unigram,2,10.0,2.9459,2
+augmented,unigram,2,10.0,2.9459,2
+aum,unigram,2,10.0,2.9459,2
+australia,unigram,2,10.0,2.9459,2
+authorities,unigram,2,10.0,2.9459,2
+automating,unigram,2,10.0,2.9459,2
+automation artificial,bigram,2,10.0,2.9459,2
+automation key,bigram,2,10.0,2.9459,2
+automation operational,bigram,2,10.0,2.9459,2
+automation tools,bigram,2,10.0,2.9459,2
+avoid,unigram,2,10.0,2.9459,2
+backdrop,unigram,2,10.0,2.9459,2
+background,unigram,2,10.0,2.9459,2
+bank ai,bigram,2,10.0,2.9459,2
+bank wide,bigram,2,10.0,2.9459,2
+banking financial,bigram,2,10.0,2.9459,2
+began,unigram,2,10.0,2.9459,2
+begun,unigram,2,10.0,2.9459,2
+believes,unigram,2,10.0,2.9459,2
+benchmarks,unigram,2,10.0,2.9459,2
+benefits pension,bigram,2,10.0,2.9459,2
+benefitting,unigram,2,10.0,2.9459,2
+better customer,bigram,2,10.0,2.9459,2
+better serve,bigram,2,10.0,2.9459,2
+better value,bigram,2,10.0,2.9459,2
+bi,unigram,2,10.0,2.9459,2
+bi annual,bigram,2,10.0,2.9459,2
+bias financial,bigram,2,10.0,2.9459,2
+biggest,unigram,2,10.0,2.9459,2
+bilateral,unigram,2,10.0,2.9459,2
+billion end,bigram,2,10.0,2.9459,2
+blockchain tokenisation,bigram,2,10.0,2.9459,2
+board activities,bigram,2,10.0,2.9459,2
+board ai,bigram,2,10.0,2.9459,2
+board approval,bigram,2,10.0,2.9459,2
+board committee,bigram,2,10.0,2.9459,2
+board discussed,bigram,2,10.0,2.9459,2
+board meeting,bigram,2,10.0,2.9459,2
+board member,bigram,2,10.0,2.9459,2
+board provided,bigram,2,10.0,2.9459,2
+board undertook,bigram,2,10.0,2.9459,2
+boards,unigram,2,10.0,2.9459,2
+boost,unigram,2,10.0,2.9459,2
+bots,unigram,2,10.0,2.9459,2
+brands,unigram,2,10.0,2.9459,2
+bridge,unigram,2,10.0,2.9459,2
+bring greater,bigram,2,10.0,2.9459,2
+broker,unigram,2,10.0,2.9459,2
+bu,unigram,2,10.0,2.9459,2
+budgeting,unigram,2,10.0,2.9459,2
+build connections,bigram,2,10.0,2.9459,2
+build seamless,bigram,2,10.0,2.9459,2
+build skills,bigram,2,10.0,2.9459,2
+building new,bigram,2,10.0,2.9459,2
+building skills,bigram,2,10.0,2.9459,2
+busi,unigram,2,10.0,2.9459,2
+business activities,bigram,2,10.0,2.9459,2
+business automation,bigram,2,10.0,2.9459,2
+business building,bigram,2,10.0,2.9459,2
+business communicated,bigram,2,10.0,2.9459,2
+business customer,bigram,2,10.0,2.9459,2
+business customers,bigram,2,10.0,2.9459,2
+business decisions,bigram,2,10.0,2.9459,2
+business enhance,bigram,2,10.0,2.9459,2
+business growth,bigram,2,10.0,2.9459,2
+business leaders,bigram,2,10.0,2.9459,2
+business models,bigram,2,10.0,2.9459,2
+business objectives,bigram,2,10.0,2.9459,2
+business related,bigram,2,10.0,2.9459,2
+business results,bigram,2,10.0,2.9459,2
+business strategy,bigram,2,10.0,2.9459,2
+buy,unigram,2,10.0,2.9459,2
+called,unigram,2,10.0,2.9459,2
+campaign,unigram,2,10.0,2.9459,2
+campaigns,unigram,2,10.0,2.9459,2
+candidates,unigram,2,10.0,2.9459,2
+capabilities enhance,bigram,2,10.0,2.9459,2
+capabilities including,bigram,2,10.0,2.9459,2
+capabilities new,bigram,2,10.0,2.9459,2
+capabilities risk,bigram,2,10.0,2.9459,2
+capital expenditure,bigram,2,10.0,2.9459,2
+capital liquidity,bigram,2,10.0,2.9459,2
+capture,unigram,2,10.0,2.9459,2
+captures,unigram,2,10.0,2.9459,2
+career development,bigram,2,10.0,2.9459,2
+careers,unigram,2,10.0,2.9459,2
+cash access,bigram,2,10.0,2.9459,2
+cause,unigram,2,10.0,2.9459,2
+ce,unigram,2,10.0,2.9459,2
+central culture,bigram,2,10.0,2.9459,2
+centralise,unigram,2,10.0,2.9459,2
+certain risks,bigram,2,10.0,2.9459,2
+certifications,unigram,2,10.0,2.9459,2
+cessation,unigram,2,10.0,2.9459,2
+chair audit,bigram,2,10.0,2.9459,2
+chair risk,bigram,2,10.0,2.9459,2
+challenges group,bigram,2,10.0,2.9459,2
+challenges opportunities,bigram,2,10.0,2.9459,2
+championed,unigram,2,10.0,2.9459,2
+change delivery,bigram,2,10.0,2.9459,2
+change group,bigram,2,10.0,2.9459,2
+check,unigram,2,10.0,2.9459,2
+chief ai,bigram,2,10.0,2.9459,2
+chief financial,bigram,2,10.0,2.9459,2
+chief risk,bigram,2,10.0,2.9459,2
+chinese,unigram,2,10.0,2.9459,2
+chnology,unigram,2,10.0,2.9459,2
+choose,unigram,2,10.0,2.9459,2
+cial,unigram,2,10.0,2.9459,2
+cio,unigram,2,10.0,2.9459,2
+circumstances group,bigram,2,10.0,2.9459,2
+cited,unigram,2,10.0,2.9459,2
+climate data,bigram,2,10.0,2.9459,2
+cloud computing,bigram,2,10.0,2.9459,2
+cloud migration,bigram,2,10.0,2.9459,2
+cognitive,unigram,2,10.0,2.9459,2
+collateral,unigram,2,10.0,2.9459,2
+colleague support,bigram,2,10.0,2.9459,2
+colleagues ai,bigram,2,10.0,2.9459,2
+colleagues group,bigram,2,10.0,2.9459,2
+colleagues including,bigram,2,10.0,2.9459,2
+collective,unigram,2,10.0,2.9459,2
+combine,unigram,2,10.0,2.9459,2
+committee approved,bigram,2,10.0,2.9459,2
+committee explored,bigram,2,10.0,2.9459,2
+committee group,bigram,2,10.0,2.9459,2
+committee monitor,bigram,2,10.0,2.9459,2
+committee technology,bigram,2,10.0,2.9459,2
+committee undertakes,bigram,2,10.0,2.9459,2
+committees chair,bigram,2,10.0,2.9459,2
+common,unigram,2,10.0,2.9459,2
+communicate,unigram,2,10.0,2.9459,2
+communicated,unigram,2,10.0,2.9459,2
+communicated relevant,bigram,2,10.0,2.9459,2
+communities technology,bigram,2,10.0,2.9459,2
+company including,bigram,2,10.0,2.9459,2
+company secretary,bigram,2,10.0,2.9459,2
+comparison,unigram,2,10.0,2.9459,2
+compelling,unigram,2,10.0,2.9459,2
+competition markets,bigram,2,10.0,2.9459,2
+competitive advantages,bigram,2,10.0,2.9459,2
+competitive landscape,bigram,2,10.0,2.9459,2
+completed hours,bigram,2,10.0,2.9459,2
+compliance functions,bigram,2,10.0,2.9459,2
+compliance officer,bigram,2,10.0,2.9459,2
+compliance reviews,bigram,2,10.0,2.9459,2
+compliance risks,bigram,2,10.0,2.9459,2
+compliance uk,bigram,2,10.0,2.9459,2
+component,unigram,2,10.0,2.9459,2
+computing threaten,bigram,2,10.0,2.9459,2
+concept,unigram,2,10.0,2.9459,2
+condition prospects,bigram,2,10.0,2.9459,2
+conducted audit,bigram,2,10.0,2.9459,2
+conducts,unigram,2,10.0,2.9459,2
+connecting,unigram,2,10.0,2.9459,2
+considerable,unigram,2,10.0,2.9459,2
+consideration fraudulent,bigram,2,10.0,2.9459,2
+considered group,bigram,2,10.0,2.9459,2
+consisten,unigram,2,10.0,2.9459,2
+consists,unigram,2,10.0,2.9459,2
+consolidated ai,bigram,2,10.0,2.9459,2
+constant,unigram,2,10.0,2.9459,2
+constantly evolving,bigram,2,10.0,2.9459,2
+consumer business,bigram,2,10.0,2.9459,2
+contextual,unigram,2,10.0,2.9459,2
+continually,unigram,2,10.0,2.9459,2
+continue drive,bigram,2,10.0,2.9459,2
+continue focus,bigram,2,10.0,2.9459,2
+continue simplify,bigram,2,10.0,2.9459,2
+continued embed,bigram,2,10.0,2.9459,2
+continued strategic,bigram,2,10.0,2.9459,2
+continues evolve,bigram,2,10.0,2.9459,2
+continues focus,bigram,2,10.0,2.9459,2
+continues invest,bigram,2,10.0,2.9459,2
+continuing build,bigram,2,10.0,2.9459,2
+continuity,unigram,2,10.0,2.9459,2
+control effectiveness,bigram,2,10.0,2.9459,2
+control financial,bigram,2,10.0,2.9459,2
+control frameworks,bigram,2,10.0,2.9459,2
+controls ai,bigram,2,10.0,2.9459,2
+controls designed,bigram,2,10.0,2.9459,2
+controls determined,bigram,2,10.0,2.9459,2
+controls testing,bigram,2,10.0,2.9459,2
+conversations,unigram,2,10.0,2.9459,2
+cooling,unigram,2,10.0,2.9459,2
+core ai,bigram,2,10.0,2.9459,2
+cost base,bigram,2,10.0,2.9459,2
+cost income,bigram,2,10.0,2.9459,2
+cost management,bigram,2,10.0,2.9459,2
+counterparties,unigram,2,10.0,2.9459,2
+countries,unigram,2,10.0,2.9459,2
+course business,bigram,2,10.0,2.9459,2
+created using,bigram,2,10.0,2.9459,2
+creates opportunity,bigram,2,10.0,2.9459,2
+creating new,bigram,2,10.0,2.9459,2
+credit losses,bigram,2,10.0,2.9459,2
+creditworthiness,unigram,2,10.0,2.9459,2
+crime risks,bigram,2,10.0,2.9459,2
+cross functional,bigram,2,10.0,2.9459,2
+cryptocurrencies,unigram,2,10.0,2.9459,2
+culture ai,bigram,2,10.0,2.9459,2
+customer base,bigram,2,10.0,2.9459,2
+customer client,bigram,2,10.0,2.9459,2
+customer expectations,bigram,2,10.0,2.9459,2
+customer matters,bigram,2,10.0,2.9459,2
+customer view,bigram,2,10.0,2.9459,2
+customers ai,bigram,2,10.0,2.9459,2
+customers board,bigram,2,10.0,2.9459,2
+customers colleagues,bigram,2,10.0,2.9459,2
+customers financial,bigram,2,10.0,2.9459,2
+customers impact,bigram,2,10.0,2.9459,2
+customers money,bigram,2,10.0,2.9459,2
+customers need,bigram,2,10.0,2.9459,2
+customers operate,bigram,2,10.0,2.9459,2
+customers party,bigram,2,10.0,2.9459,2
+customers risk,bigram,2,10.0,2.9459,2
+cut,unigram,2,10.0,2.9459,2
+cyber ai,bigram,2,10.0,2.9459,2
+daily operations,bigram,2,10.0,2.9459,2
+data breaches,bigram,2,10.0,2.9459,2
+data customers,bigram,2,10.0,2.9459,2
+data cyber,bigram,2,10.0,2.9459,2
+data decision,bigram,2,10.0,2.9459,2
+data deliver,bigram,2,10.0,2.9459,2
+data governance,bigram,2,10.0,2.9459,2
+data increase,bigram,2,10.0,2.9459,2
+data insights,bigram,2,10.0,2.9459,2
+data leveraging,bigram,2,10.0,2.9459,2
+data platforms,bigram,2,10.0,2.9459,2
+data risks,bigram,2,10.0,2.9459,2
+data science,bigram,2,10.0,2.9459,2
+data security,bigram,2,10.0,2.9459,2
+data service,bigram,2,10.0,2.9459,2
+data skills,bigram,2,10.0,2.9459,2
+data sourcing,bigram,2,10.0,2.9459,2
+data systems,bigram,2,10.0,2.9459,2
+data technology,bigram,2,10.0,2.9459,2
+data use,bigram,2,10.0,2.9459,2
+dealing,unigram,2,10.0,2.9459,2
+dedicated team,bigram,2,10.0,2.9459,2
+deemed,unigram,2,10.0,2.9459,2
+deep dives,bigram,2,10.0,2.9459,2
+deepening,unigram,2,10.0,2.9459,2
+deepfake,unigram,2,10.0,2.9459,2
+deeply,unigram,2,10.0,2.9459,2
+defaults,unigram,2,10.0,2.9459,2
+deferral,unigram,2,10.0,2.9459,2
+deferred awards,bigram,2,10.0,2.9459,2
+deferred tax,bigram,2,10.0,2.9459,2
+definition,unigram,2,10.0,2.9459,2
+degree,unigram,2,10.0,2.9459,2
+deliver better,bigram,2,10.0,2.9459,2
+deliver customers,bigram,2,10.0,2.9459,2
+deliver products,bigram,2,10.0,2.9459,2
+deliver value,bigram,2,10.0,2.9459,2
+delivered million,bigram,2,10.0,2.9459,2
+delivering best,bigram,2,10.0,2.9459,2
+demonstrated,unigram,2,10.0,2.9459,2
+dependencies,unigram,2,10.0,2.9459,2
+dependent,unigram,2,10.0,2.9459,2
+depends,unigram,2,10.0,2.9459,2
+designed protect,bigram,2,10.0,2.9459,2
+detection systems,bigram,2,10.0,2.9459,2
+determining,unigram,2,10.0,2.9459,2
+develop ai,bigram,2,10.0,2.9459,2
+developed ai,bigram,2,10.0,2.9459,2
+development deployment,bigram,2,10.0,2.9459,2
+development new,bigram,2,10.0,2.9459,2
+development programmes,bigram,2,10.0,2.9459,2
+develops,unigram,2,10.0,2.9459,2
+develops new,bigram,2,10.0,2.9459,2
+device,unigram,2,10.0,2.9459,2
+dialogue,unigram,2,10.0,2.9459,2
+did,unigram,2,10.0,2.9459,2
+digital growth,bigram,2,10.0,2.9459,2
+digital journeys,bigram,2,10.0,2.9459,2
+digital services,bigram,2,10.0,2.9459,2
+digital skills,bigram,2,10.0,2.9459,2
+digital technology,bigram,2,10.0,2.9459,2
+digital view,bigram,2,10.0,2.9459,2
+digitisation ai,bigram,2,10.0,2.9459,2
+disclosed,unigram,2,10.0,2.9459,2
+discount,unigram,2,10.0,2.9459,2
+discussing,unigram,2,10.0,2.9459,2
+discussions circumstances,bigram,2,10.0,2.9459,2
+discussions involved,bigram,2,10.0,2.9459,2
+disruptive technology,bigram,2,10.0,2.9459,2
+diversity equity,bigram,2,10.0,2.9459,2
+domestic product,bigram,2,10.0,2.9459,2
+drive efficiencies,bigram,2,10.0,2.9459,2
+drive long,bigram,2,10.0,2.9459,2
+drive productivity,bigram,2,10.0,2.9459,2
+driven analytics,bigram,2,10.0,2.9459,2
+driven complex,bigram,2,10.0,2.9459,2
+driven data,bigram,2,10.0,2.9459,2
+driven efficiency,bigram,2,10.0,2.9459,2
+driven fraud,bigram,2,10.0,2.9459,2
+driven higher,bigram,2,10.0,2.9459,2
+driven models,bigram,2,10.0,2.9459,2
+driven pricing,bigram,2,10.0,2.9459,2
+driven tools,bigram,2,10.0,2.9459,2
+driver,unigram,2,10.0,2.9459,2
+driving better,bigram,2,10.0,2.9459,2
+driving market,bigram,2,10.0,2.9459,2
+dual,unigram,2,10.0,2.9459,2
+earn,unigram,2,10.0,2.9459,2
+earned,unigram,2,10.0,2.9459,2
+ease,unigram,2,10.0,2.9459,2
+ebitda,unigram,2,10.0,2.9459,2
+ecosystems,unigram,2,10.0,2.9459,2
+effective use,bigram,2,10.0,2.9459,2
+effectively managing,bigram,2,10.0,2.9459,2
+effectiveness risk,bigram,2,10.0,2.9459,2
+efficiencies business,bigram,2,10.0,2.9459,2
+effort,unigram,2,10.0,2.9459,2
+elevated,unigram,2,10.0,2.9459,2
+eligibility,unigram,2,10.0,2.9459,2
+em,unigram,2,10.0,2.9459,2
+embed ai,bigram,2,10.0,2.9459,2
+embedded finance,bigram,2,10.0,2.9459,2
+embedding ai,bigram,2,10.0,2.9459,2
+embrace,unigram,2,10.0,2.9459,2
+ement,unigram,2,10.0,2.9459,2
+emerge,unigram,2,10.0,2.9459,2
+emergence new,bigram,2,10.0,2.9459,2
+emerging ai,bigram,2,10.0,2.9459,2
+emerging threats,bigram,2,10.0,2.9459,2
+empathetic,unigram,2,10.0,2.9459,2
+empathy,unigram,2,10.0,2.9459,2
+employ,unigram,2,10.0,2.9459,2
+employed,unigram,2,10.0,2.9459,2
+employer,unigram,2,10.0,2.9459,2
+empowering colleagues,bigram,2,10.0,2.9459,2
+enable risk,bigram,2,10.0,2.9459,2
+enabled tools,bigram,2,10.0,2.9459,2
+enablement,unigram,2,10.0,2.9459,2
+enabler growth,bigram,2,10.0,2.9459,2
+encourages,unigram,2,10.0,2.9459,2
+encouraging,unigram,2,10.0,2.9459,2
+end year,bigram,2,10.0,2.9459,2
+ended december,bigram,2,10.0,2.9459,2
+energy water,bigram,2,10.0,2.9459,2
+engagement activities,bigram,2,10.0,2.9459,2
+engagement ai,bigram,2,10.0,2.9459,2
+engagement customers,bigram,2,10.0,2.9459,2
+engagement opportunities,bigram,2,10.0,2.9459,2
+engagement survey,bigram,2,10.0,2.9459,2
+engine,unigram,2,10.0,2.9459,2
+engineers,unigram,2,10.0,2.9459,2
+enhance ability,bigram,2,10.0,2.9459,2
+enhance automation,bigram,2,10.0,2.9459,2
+enhance efficiency,bigram,2,10.0,2.9459,2
+enhance operational,bigram,2,10.0,2.9459,2
+enhance risk,bigram,2,10.0,2.9459,2
+enhanced data,bigram,2,10.0,2.9459,2
+enrich,unigram,2,10.0,2.9459,2
+ensu,unigram,2,10.0,2.9459,2
+ensure continued,bigram,2,10.0,2.9459,2
+ensure technology,bigram,2,10.0,2.9459,2
+ensured,unigram,2,10.0,2.9459,2
+ensuring compliance,bigram,2,10.0,2.9459,2
+ensuring fairness,bigram,2,10.0,2.9459,2
+ent,unigram,2,10.0,2.9459,2
+entering,unigram,2,10.0,2.9459,2
+entirely,unigram,2,10.0,2.9459,2
+entirely new,bigram,2,10.0,2.9459,2
+entries adjustments,bigram,2,10.0,2.9459,2
+entries relation,bigram,2,10.0,2.9459,2
+environment key,bigram,2,10.0,2.9459,2
+epc,unigram,2,10.0,2.9459,2
+epc rating,bigram,2,10.0,2.9459,2
+equal opportunities,bigram,2,10.0,2.9459,2
+equality,unigram,2,10.0,2.9459,2
+equally,unigram,2,10.0,2.9459,2
+equip,unigram,2,10.0,2.9459,2
+equipping colleagues,bigram,2,10.0,2.9459,2
+estimate,unigram,2,10.0,2.9459,2
+estimates assessing,bigram,2,10.0,2.9459,2
+estimates judgements,bigram,2,10.0,2.9459,2
+estimation uncertainty,bigram,2,10.0,2.9459,2
+ethical ai,bigram,2,10.0,2.9459,2
+ethical social,bigram,2,10.0,2.9459,2
+ethnicity pay,bigram,2,10.0,2.9459,2
+eva,unigram,2,10.0,2.9459,2
+evolving regulatory,bigram,2,10.0,2.9459,2
+evolving technologies,bigram,2,10.0,2.9459,2
+evolving technology,bigram,2,10.0,2.9459,2
+evs,unigram,2,10.0,2.9459,2
+example ai,bigram,2,10.0,2.9459,2
+exceptionally,unigram,2,10.0,2.9459,2
+exciting,unigram,2,10.0,2.9459,2
+exclusions,unigram,2,10.0,2.9459,2
+exco,unigram,2,10.0,2.9459,2
+executing,unigram,2,10.0,2.9459,2
+executive committee,bigram,2,10.0,2.9459,2
+exercise,unigram,2,10.0,2.9459,2
+exists,unigram,2,10.0,2.9459,2
+expanding digital,bigram,2,10.0,2.9459,2
+expectation,unigram,2,10.0,2.9459,2
+expected credit,bigram,2,10.0,2.9459,2
+expects,unigram,2,10.0,2.9459,2
+expenses,unigram,2,10.0,2.9459,2
+experience customer,bigram,2,10.0,2.9459,2
+experience customers,bigram,2,10.0,2.9459,2
+experienced,unigram,2,10.0,2.9459,2
+expertise remains,bigram,2,10.0,2.9459,2
+experts,unigram,2,10.0,2.9459,2
+exploit,unigram,2,10.0,2.9459,2
+explore,unigram,2,10.0,2.9459,2
+extend gratitude,bigram,2,10.0,2.9459,2
+extending leadership,bigram,2,10.0,2.9459,2
+external environment,bigram,2,10.0,2.9459,2
+external events,bigram,2,10.0,2.9459,2
+external perspectives,bigram,2,10.0,2.9459,2
+extreme,unigram,2,10.0,2.9459,2
+extreme weather,bigram,2,10.0,2.9459,2
+faces,unigram,2,10.0,2.9459,2
+facing group,bigram,2,10.0,2.9459,2
+facing teams,bigram,2,10.0,2.9459,2
+factor,unigram,2,10.0,2.9459,2
+failure achieve,bigram,2,10.0,2.9459,2
+failure manage,bigram,2,10.0,2.9459,2
+failure meet,bigram,2,10.0,2.9459,2
+fairness respect,bigram,2,10.0,2.9459,2
+fairness transparency,bigram,2,10.0,2.9459,2
+featuring,unigram,2,10.0,2.9459,2
+feedback reflecting,bigram,2,10.0,2.9459,2
+fees,unigram,2,10.0,2.9459,2
+female,unigram,2,10.0,2.9459,2
+fewer,unigram,2,10.0,2.9459,2
+fields,unigram,2,10.0,2.9459,2
+fight,unigram,2,10.0,2.9459,2
+fight financial,bigram,2,10.0,2.9459,2
+figure,unigram,2,10.0,2.9459,2
+final,unigram,2,10.0,2.9459,2
+finance support,bigram,2,10.0,2.9459,2
+financial conduct,bigram,2,10.0,2.9459,2
+financial instrument,bigram,2,10.0,2.9459,2
+financial operational,bigram,2,10.0,2.9459,2
+financial performance,bigram,2,10.0,2.9459,2
+financial resilience,bigram,2,10.0,2.9459,2
+financial risk,bigram,2,10.0,2.9459,2
+financials,unigram,2,10.0,2.9459,2
+findings,unigram,2,10.0,2.9459,2
+fintechs,unigram,2,10.0,2.9459,2
+fo,unigram,2,10.0,2.9459,2
+focus area,bigram,2,10.0,2.9459,2
+focus automation,bigram,2,10.0,2.9459,2
+focus key,bigram,2,10.0,2.9459,2
+focus policies,bigram,2,10.0,2.9459,2
+focus risk,bigram,2,10.0,2.9459,2
+forensic,unigram,2,10.0,2.9459,2
+forensic specialists,bigram,2,10.0,2.9459,2
+forms,unigram,2,10.0,2.9459,2
+foster,unigram,2,10.0,2.9459,2
+founded,unigram,2,10.0,2.9459,2
+fr,unigram,2,10.0,2.9459,2
+framework ai,bigram,2,10.0,2.9459,2
+framework audit,bigram,2,10.0,2.9459,2
+framework ensure,bigram,2,10.0,2.9459,2
+framework group,bigram,2,10.0,2.9459,2
+fraud controls,bigram,2,10.0,2.9459,2
+fraud prevention,bigram,2,10.0,2.9459,2
+frc,unigram,2,10.0,2.9459,2
+frequent,unigram,2,10.0,2.9459,2
+friction,unigram,2,10.0,2.9459,2
+frontline,unigram,2,10.0,2.9459,2
+functional,unigram,2,10.0,2.9459,2
+functions ensure,bigram,2,10.0,2.9459,2
+fund ai,bigram,2,10.0,2.9459,2
+fundamental,unigram,2,10.0,2.9459,2
+future events,bigram,2,10.0,2.9459,2
+gain momentum,bigram,2,10.0,2.9459,2
+gdp gross,bigram,2,10.0,2.9459,2
+gdpr,unigram,2,10.0,2.9459,2
+genai adoption,bigram,2,10.0,2.9459,2
+genai enhance,bigram,2,10.0,2.9459,2
+generate,unigram,2,10.0,2.9459,2
+geographic,unigram,2,10.0,2.9459,2
+geopolitical risks,bigram,2,10.0,2.9459,2
+geopolitics,unigram,2,10.0,2.9459,2
+ghg greenhouse,bigram,2,10.0,2.9459,2
+gitlab,unigram,2,10.0,2.9459,2
+global ai,bigram,2,10.0,2.9459,2
+global markets,bigram,2,10.0,2.9459,2
+global payments,bigram,2,10.0,2.9459,2
+glossary,unigram,2,10.0,2.9459,2
+goal setting,bigram,2,10.0,2.9459,2
+goes,unigram,2,10.0,2.9459,2
+good customer,bigram,2,10.0,2.9459,2
+goods services,bigram,2,10.0,2.9459,2
+google,unigram,2,10.0,2.9459,2
+governance new,bigram,2,10.0,2.9459,2
+governance review,bigram,2,10.0,2.9459,2
+governance standards,bigram,2,10.0,2.9459,2
+gratitude,unigram,2,10.0,2.9459,2
+greater capital,bigram,2,10.0,2.9459,2
+gross domestic,bigram,2,10.0,2.9459,2
+group chair,bigram,2,10.0,2.9459,2
+group claims,bigram,2,10.0,2.9459,2
+group committed,bigram,2,10.0,2.9459,2
+group expects,bigram,2,10.0,2.9459,2
+group impact,bigram,2,10.0,2.9459,2
+group improve,bigram,2,10.0,2.9459,2
+group include,bigram,2,10.0,2.9459,2
+group including,bigram,2,10.0,2.9459,2
+group investing,bigram,2,10.0,2.9459,2
+group model,bigram,2,10.0,2.9459,2
+group policy,bigram,2,10.0,2.9459,2
+group seeks,bigram,2,10.0,2.9459,2
+group subject,bigram,2,10.0,2.9459,2
+group use,bigram,2,10.0,2.9459,2
+growing use,bigram,2,10.0,2.9459,2
+growth remain,bigram,2,10.0,2.9459,2
+growth underpinned,bigram,2,10.0,2.9459,2
+growth underpinning,bigram,2,10.0,2.9459,2
+guardrails ensure,bigram,2,10.0,2.9459,2
+half,unigram,2,10.0,2.9459,2
+handled,unigram,2,10.0,2.9459,2
+happens,unigram,2,10.0,2.9459,2
+harder,unigram,2,10.0,2.9459,2
+hardware,unigram,2,10.0,2.9459,2
+health safety,bigram,2,10.0,2.9459,2
+heavily,unigram,2,10.0,2.9459,2
+heightened,unigram,2,10.0,2.9459,2
+help customers,bigram,2,10.0,2.9459,2
+high growth,bigram,2,10.0,2.9459,2
+high levels,bigram,2,10.0,2.9459,2
+hire,unigram,2,10.0,2.9459,2
+hires,unigram,2,10.0,2.9459,2
+historical,unigram,2,10.0,2.9459,2
+holds,unigram,2,10.0,2.9459,2
+holistic data,bigram,2,10.0,2.9459,2
+hosted,unigram,2,10.0,2.9459,2
+icara,unigram,2,10.0,2.9459,2
+identified laws,bigram,2,10.0,2.9459,2
+identifying fraud,bigram,2,10.0,2.9459,2
+identity fraud,bigram,2,10.0,2.9459,2
+impact business,bigram,2,10.0,2.9459,2
+impact climate,bigram,2,10.0,2.9459,2
+impact work,bigram,2,10.0,2.9459,2
+impacts ai,bigram,2,10.0,2.9459,2
+impairment,unigram,2,10.0,2.9459,2
+implementation ai,bigram,2,10.0,2.9459,2
+implementing automation,bigram,2,10.0,2.9459,2
+important business,bigram,2,10.0,2.9459,2
+improper,unigram,2,10.0,2.9459,2
+improve risk,bigram,2,10.0,2.9459,2
+improved automation,bigram,2,10.0,2.9459,2
+improved risk,bigram,2,10.0,2.9459,2
+improves,unigram,2,10.0,2.9459,2
+improving operational,bigram,2,10.0,2.9459,2
+inappropriate accounting,bigram,2,10.0,2.9459,2
+incentives,unigram,2,10.0,2.9459,2
+included consideration,bigram,2,10.0,2.9459,2
+included deep,bigram,2,10.0,2.9459,2
+including automated,bigram,2,10.0,2.9459,2
+including group,bigram,2,10.0,2.9459,2
+including growth,bigram,2,10.0,2.9459,2
+including increased,bigram,2,10.0,2.9459,2
+including limitation,bigram,2,10.0,2.9459,2
+including need,bigram,2,10.0,2.9459,2
+including progress,bigram,2,10.0,2.9459,2
+inclusion resilience,bigram,2,10.0,2.9459,2
+inclusively,unigram,2,10.0,2.9459,2
+income ratio,bigram,2,10.0,2.9459,2
+incorporates,unigram,2,10.0,2.9459,2
+incorporation ai,bigram,2,10.0,2.9459,2
+increase risk,bigram,2,10.0,2.9459,2
+increasing complexity,bigram,2,10.0,2.9459,2
+increasing reliance,bigram,2,10.0,2.9459,2
+increasing use,bigram,2,10.0,2.9459,2
+increasingly complex,bigram,2,10.0,2.9459,2
+independent director,bigram,2,10.0,2.9459,2
+indicators aggregate,bigram,2,10.0,2.9459,2
+inform,unigram,2,10.0,2.9459,2
+information ai,bigram,2,10.0,2.9459,2
+information officer,bigram,2,10.0,2.9459,2
+information used,bigram,2,10.0,2.9459,2
+infrastructure ai,bigram,2,10.0,2.9459,2
+infrastructure data,bigram,2,10.0,2.9459,2
+infrastructure growth,bigram,2,10.0,2.9459,2
+ing,unigram,2,10.0,2.9459,2
+inherent risk,bigram,2,10.0,2.9459,2
+initial,unigram,2,10.0,2.9459,2
+initiated,unigram,2,10.0,2.9459,2
+initiatives support,bigram,2,10.0,2.9459,2
+innovation ai,bigram,2,10.0,2.9459,2
+innovation digital,bigram,2,10.0,2.9459,2
+innovation strategy,bigram,2,10.0,2.9459,2
+innovation technology,bigram,2,10.0,2.9459,2
+ins,unigram,2,10.0,2.9459,2
+instant access,bigram,2,10.0,2.9459,2
+instantly,unigram,2,10.0,2.9459,2
+instrument,unigram,2,10.0,2.9459,2
+instrument marking,bigram,2,10.0,2.9459,2
+insufficient,unigram,2,10.0,2.9459,2
+insurance business,bigram,2,10.0,2.9459,2
+int,unigram,2,10.0,2.9459,2
+integrate ai,bigram,2,10.0,2.9459,2
+integrates,unigram,2,10.0,2.9459,2
+intelligence large,bigram,2,10.0,2.9459,2
+intelligence machine,bigram,2,10.0,2.9459,2
+intelligence operational,bigram,2,10.0,2.9459,2
+intelligence quantum,bigram,2,10.0,2.9459,2
+intelligence technologies,bigram,2,10.0,2.9459,2
+intelligence tools,bigram,2,10.0,2.9459,2
+intentional,unigram,2,10.0,2.9459,2
+internal fraud,bigram,2,10.0,2.9459,2
+introduced ai,bigram,2,10.0,2.9459,2
+intuitive digital,bigram,2,10.0,2.9459,2
+invaluable,unigram,2,10.0,2.9459,2
+invest technology,bigram,2,10.0,2.9459,2
+invested ai,bigram,2,10.0,2.9459,2
+investing ai,bigram,2,10.0,2.9459,2
+investing data,bigram,2,10.0,2.9459,2
+investment automation,bigram,2,10.0,2.9459,2
+investment gen,bigram,2,10.0,2.9459,2
+investment group,bigram,2,10.0,2.9459,2
+investment technology,bigram,2,10.0,2.9459,2
+investor relations,bigram,2,10.0,2.9459,2
+involvement,unigram,2,10.0,2.9459,2
+involves,unigram,2,10.0,2.9459,2
+ise,unigram,2,10.0,2.9459,2
+issues raised,bigram,2,10.0,2.9459,2
+iteration,unigram,2,10.0,2.9459,2
+key areas,bigram,2,10.0,2.9459,2
+key focus,bigram,2,10.0,2.9459,2
+key risk,bigram,2,10.0,2.9459,2
+key suppliers,bigram,2,10.0,2.9459,2
+labour,unigram,2,10.0,2.9459,2
+ladder,unigram,2,10.0,2.9459,2
+landscape continues,bigram,2,10.0,2.9459,2
+large scale,bigram,2,10.0,2.9459,2
+later,unigram,2,10.0,2.9459,2
+latest,unigram,2,10.0,2.9459,2
+launch ai,bigram,2,10.0,2.9459,2
+launched dedicated,bigram,2,10.0,2.9459,2
+launches,unigram,2,10.0,2.9459,2
+launching new,bigram,2,10.0,2.9459,2
+laundering,unigram,2,10.0,2.9459,2
+le,unigram,2,10.0,2.9459,2
+leadership skills,bigram,2,10.0,2.9459,2
+leading digital,bigram,2,10.0,2.9459,2
+leagues,unigram,2,10.0,2.9459,2
+lear,unigram,2,10.0,2.9459,2
+learning opportunities,bigram,2,10.0,2.9459,2
+learning programmes,bigram,2,10.0,2.9459,2
+ledger,unigram,2,10.0,2.9459,2
+leverage automation,bigram,2,10.0,2.9459,2
+leveraging benefits,bigram,2,10.0,2.9459,2
+leveraging technology,bigram,2,10.0,2.9459,2
+likely maintain,bigram,2,10.0,2.9459,2
+limitation,unigram,2,10.0,2.9459,2
+limitations,unigram,2,10.0,2.9459,2
+limits,unigram,2,10.0,2.9459,2
+line ai,bigram,2,10.0,2.9459,2
+lines business,bigram,2,10.0,2.9459,2
+link strategy,bigram,2,10.0,2.9459,2
+liquidity requirements,bigram,2,10.0,2.9459,2
+litigation,unigram,2,10.0,2.9459,2
+ll,unigram,2,10.0,2.9459,2
+local,unigram,2,10.0,2.9459,2
+location,unigram,2,10.0,2.9459,2
+locations,unigram,2,10.0,2.9459,2
+looking statements,bigram,2,10.0,2.9459,2
+loops,unigram,2,10.0,2.9459,2
+love,unigram,2,10.0,2.9459,2
+low cost,bigram,2,10.0,2.9459,2
+major platform,bigram,2,10.0,2.9459,2
+makes,unigram,2,10.0,2.9459,2
+malicious use,bigram,2,10.0,2.9459,2
+malware,unigram,2,10.0,2.9459,2
+manage risk,bigram,2,10.0,2.9459,2
+management actions,bigram,2,10.0,2.9459,2
+management climate,bigram,2,10.0,2.9459,2
+management committee,bigram,2,10.0,2.9459,2
+management controls,bigram,2,10.0,2.9459,2
+management data,bigram,2,10.0,2.9459,2
+management engagement,bigram,2,10.0,2.9459,2
+management oversight,bigram,2,10.0,2.9459,2
+management policies,bigram,2,10.0,2.9459,2
+management position,bigram,2,10.0,2.9459,2
+management steering,bigram,2,10.0,2.9459,2
+manual processes,bigram,2,10.0,2.9459,2
+market intelligence,bigram,2,10.0,2.9459,2
+market participants,bigram,2,10.0,2.9459,2
+market share,bigram,2,10.0,2.9459,2
+market trends,bigram,2,10.0,2.9459,2
+markets remain,bigram,2,10.0,2.9459,2
+marking,unigram,2,10.0,2.9459,2
+marking methodology,bigram,2,10.0,2.9459,2
+marks,unigram,2,10.0,2.9459,2
+masters,unigram,2,10.0,2.9459,2
+match,unigram,2,10.0,2.9459,2
+material controls,bigram,2,10.0,2.9459,2
+material financial,bigram,2,10.0,2.9459,2
+materiality,unigram,2,10.0,2.9459,2
+matters people,bigram,2,10.0,2.9459,2
+maturing,unigram,2,10.0,2.9459,2
+maximum,unigram,2,10.0,2.9459,2
+meaning,unigram,2,10.0,2.9459,2
+means customers,bigram,2,10.0,2.9459,2
+measures taken,bigram,2,10.0,2.9459,2
+members group,bigram,2,10.0,2.9459,2
+merging,unigram,2,10.0,2.9459,2
+merging risks,bigram,2,10.0,2.9459,2
+milestones,unigram,2,10.0,2.9459,2
+mindful,unigram,2,10.0,2.9459,2
+mis,unigram,2,10.0,2.9459,2
+misinformation,unigram,2,10.0,2.9459,2
+mitigate increasing,bigram,2,10.0,2.9459,2
+mitigate risks,bigram,2,10.0,2.9459,2
+mitigation strategies,bigram,2,10.0,2.9459,2
+mobilisation,unigram,2,10.0,2.9459,2
+model ai,bigram,2,10.0,2.9459,2
+model outputs,bigram,2,10.0,2.9459,2
+model work,bigram,2,10.0,2.9459,2
+modelling approaches,bigram,2,10.0,2.9459,2
+models risk,bigram,2,10.0,2.9459,2
+models tools,bigram,2,10.0,2.9459,2
+modernise,unigram,2,10.0,2.9459,2
+modernised,unigram,2,10.0,2.9459,2
+modernising,unigram,2,10.0,2.9459,2
+modify,unigram,2,10.0,2.9459,2
+monetise,unigram,2,10.0,2.9459,2
+monitor customer,bigram,2,10.0,2.9459,2
+monitor emerging,bigram,2,10.0,2.9459,2
+monitored business,bigram,2,10.0,2.9459,2
+monthly,unigram,2,10.0,2.9459,2
+months,unigram,2,10.0,2.9459,2
+multi step,bigram,2,10.0,2.9459,2
+multiple channels,bigram,2,10.0,2.9459,2
+nation,unigram,2,10.0,2.9459,2
+national,unigram,2,10.0,2.9459,2
+navigated,unigram,2,10.0,2.9459,2
+navigating,unigram,2,10.0,2.9459,2
+ne,unigram,2,10.0,2.9459,2
+needed deliver,bigram,2,10.0,2.9459,2
+needing,unigram,2,10.0,2.9459,2
+needs customers,bigram,2,10.0,2.9459,2
+neobanks,unigram,2,10.0,2.9459,2
+net worth,bigram,2,10.0,2.9459,2
+networks,unigram,2,10.0,2.9459,2
+new board,bigram,2,10.0,2.9459,2
+new continue,bigram,2,10.0,2.9459,2
+new customer,bigram,2,10.0,2.9459,2
+new customers,bigram,2,10.0,2.9459,2
+new product,bigram,2,10.0,2.9459,2
+new regulatory,bigram,2,10.0,2.9459,2
+new services,bigram,2,10.0,2.9459,2
+new sustainable,bigram,2,10.0,2.9459,2
+newly introduced,bigram,2,10.0,2.9459,2
+nominations,unigram,2,10.0,2.9459,2
+nominee,unigram,2,10.0,2.9459,2
+normal course,bigram,2,10.0,2.9459,2
+notable,unigram,2,10.0,2.9459,2
+nps,unigram,2,10.0,2.9459,2
+number active,bigram,2,10.0,2.9459,2
+number employees,bigram,2,10.0,2.9459,2
+numbers,unigram,2,10.0,2.9459,2
+numerous,unigram,2,10.0,2.9459,2
+occur,unigram,2,10.0,2.9459,2
+offe,unigram,2,10.0,2.9459,2
+offered,unigram,2,10.0,2.9459,2
+officer head,bigram,2,10.0,2.9459,2
+ongoing geopolitical,bigram,2,10.0,2.9459,2
+ongoing investment,bigram,2,10.0,2.9459,2
+ongoing transformation,bigram,2,10.0,2.9459,2
+opened,unigram,2,10.0,2.9459,2
+openness,unigram,2,10.0,2.9459,2
+operating models,bigram,2,10.0,2.9459,2
+operational excellence,bigram,2,10.0,2.9459,2
+operational model,bigram,2,10.0,2.9459,2
+operational processes,bigram,2,10.0,2.9459,2
+operational risks,bigram,2,10.0,2.9459,2
+operations reducing,bigram,2,10.0,2.9459,2
+opinion,unigram,2,10.0,2.9459,2
+opportunities challenges,bigram,2,10.0,2.9459,2
+opportunities customers,bigram,2,10.0,2.9459,2
+opportunities including,bigram,2,10.0,2.9459,2
+opportunity group,bigram,2,10.0,2.9459,2
+opportunity risk,bigram,2,10.0,2.9459,2
+options,unigram,2,10.0,2.9459,2
+origination,unigram,2,10.0,2.9459,2
+outcomes customers,bigram,2,10.0,2.9459,2
+outcomes engagement,bigram,2,10.0,2.9459,2
+outsourced,unigram,2,10.0,2.9459,2
+outstanding,unigram,2,10.0,2.9459,2
+overall capital,bigram,2,10.0,2.9459,2
+overall risk,bigram,2,10.0,2.9459,2
+overseeing group,bigram,2,10.0,2.9459,2
+oversight fraud,bigram,2,10.0,2.9459,2
+oversight strategic,bigram,2,10.0,2.9459,2
+owners,unigram,2,10.0,2.9459,2
+pace development,bigram,2,10.0,2.9459,2
+page including,bigram,2,10.0,2.9459,2
+partially offset,bigram,2,10.0,2.9459,2
+participates,unigram,2,10.0,2.9459,2
+participating,unigram,2,10.0,2.9459,2
+partnering,unigram,2,10.0,2.9459,2
+partnership carbon,bigram,2,10.0,2.9459,2
+partnerships expanded,bigram,2,10.0,2.9459,2
+patterns,unigram,2,10.0,2.9459,2
+payment infrastructure,bigram,2,10.0,2.9459,2
+pcaf,unigram,2,10.0,2.9459,2
+people culture,bigram,2,10.0,2.9459,2
+people systems,bigram,2,10.0,2.9459,2
+perception,unigram,2,10.0,2.9459,2
+performance market,bigram,2,10.0,2.9459,2
+person,unigram,2,10.0,2.9459,2
+personalised support,bigram,2,10.0,2.9459,2
+pervasive,unigram,2,10.0,2.9459,2
+phased,unigram,2,10.0,2.9459,2
+phone,unigram,2,10.0,2.9459,2
+pla,unigram,2,10.0,2.9459,2
+place work,bigram,2,10.0,2.9459,2
+platform business,bigram,2,10.0,2.9459,2
+platforms including,bigram,2,10.0,2.9459,2
+played,unigram,2,10.0,2.9459,2
+poor,unigram,2,10.0,2.9459,2
+portal,unigram,2,10.0,2.9459,2
+poses,unigram,2,10.0,2.9459,2
+position make,bigram,2,10.0,2.9459,2
+positively,unigram,2,10.0,2.9459,2
+posture,unigram,2,10.0,2.9459,2
+potential fraud,bigram,2,10.0,2.9459,2
+potential reshape,bigram,2,10.0,2.9459,2
+powered coaching,bigram,2,10.0,2.9459,2
+powered technology,bigram,2,10.0,2.9459,2
+pportunities,unigram,2,10.0,2.9459,2
+pra fca,bigram,2,10.0,2.9459,2
+predict,unigram,2,10.0,2.9459,2
+premises,unigram,2,10.0,2.9459,2
+premises risk,bigram,2,10.0,2.9459,2
+preparation,unigram,2,10.0,2.9459,2
+prepare,unigram,2,10.0,2.9459,2
+preparedness,unigram,2,10.0,2.9459,2
+presentation,unigram,2,10.0,2.9459,2
+presentations,unigram,2,10.0,2.9459,2
+president,unigram,2,10.0,2.9459,2
+prevent fraud,bigram,2,10.0,2.9459,2
+price comparison,bigram,2,10.0,2.9459,2
+pricing model,bigram,2,10.0,2.9459,2
+pricing underwriting,bigram,2,10.0,2.9459,2
+pride,unigram,2,10.0,2.9459,2
+principles model,bigram,2,10.0,2.9459,2
+prioritise,unigram,2,10.0,2.9459,2
+prioritised,unigram,2,10.0,2.9459,2
+prioritises,unigram,2,10.0,2.9459,2
+privacy regulatory,bigram,2,10.0,2.9459,2
+private banking,bigram,2,10.0,2.9459,2
+problems,unigram,2,10.0,2.9459,2
+procedural,unigram,2,10.0,2.9459,2
+procedures relating,bigram,2,10.0,2.9459,2
+process improvements,bigram,2,10.0,2.9459,2
+processes ai,bigram,2,10.0,2.9459,2
+processes enabling,bigram,2,10.0,2.9459,2
+processes improve,bigram,2,10.0,2.9459,2
+processes people,bigram,2,10.0,2.9459,2
+processes review,bigram,2,10.0,2.9459,2
+product offering,bigram,2,10.0,2.9459,2
+product service,bigram,2,10.0,2.9459,2
+product suite,bigram,2,10.0,2.9459,2
+productivity internal,bigram,2,10.0,2.9459,2
+products serve,bigram,2,10.0,2.9459,2
+profiles,unigram,2,10.0,2.9459,2
+profit tax,bigram,2,10.0,2.9459,2
+program,unigram,2,10.0,2.9459,2
+programmes including,bigram,2,10.0,2.9459,2
+programming,unigram,2,10.0,2.9459,2
+progre,unigram,2,10.0,2.9459,2
+progress simplification,bigram,2,10.0,2.9459,2
+progresses,unigram,2,10.0,2.9459,2
+prohibited,unigram,2,10.0,2.9459,2
+prohibiting,unigram,2,10.0,2.9459,2
+promotion,unigram,2,10.0,2.9459,2
+proof,unigram,2,10.0,2.9459,2
+proofing,unigram,2,10.0,2.9459,2
+properly,unigram,2,10.0,2.9459,2
+proposals,unigram,2,10.0,2.9459,2
+prospects business,bigram,2,10.0,2.9459,2
+protecting customers,bigram,2,10.0,2.9459,2
+protection regulation,bigram,2,10.0,2.9459,2
+proud,unigram,2,10.0,2.9459,2
+prove,unigram,2,10.0,2.9459,2
+provide faster,bigram,2,10.0,2.9459,2
+provided board,bigram,2,10.0,2.9459,2
+provided opportunity,bigram,2,10.0,2.9459,2
+providers business,bigram,2,10.0,2.9459,2
+provides tools,bigram,2,10.0,2.9459,2
+providing support,bigram,2,10.0,2.9459,2
+prudent,unigram,2,10.0,2.9459,2
+prudential,unigram,2,10.0,2.9459,2
+prudential regulation,bigram,2,10.0,2.9459,2
+psychological,unigram,2,10.0,2.9459,2
+psychological safety,bigram,2,10.0,2.9459,2
+purpose strategy,bigram,2,10.0,2.9459,2
+pursuing,unigram,2,10.0,2.9459,2
+push,unigram,2,10.0,2.9459,2
+quality monitoring,bigram,2,10.0,2.9459,2
+queries resolved,bigram,2,10.0,2.9459,2
+quicker,unigram,2,10.0,2.9459,2
+rapid advances,bigram,2,10.0,2.9459,2
+rapid developments,bigram,2,10.0,2.9459,2
+rapid growth,bigram,2,10.0,2.9459,2
+rapidly advancing,bigram,2,10.0,2.9459,2
+rate cuts,bigram,2,10.0,2.9459,2
+ratings,unigram,2,10.0,2.9459,2
+rational,unigram,2,10.0,2.9459,2
+realised,unigram,2,10.0,2.9459,2
+realising,unigram,2,10.0,2.9459,2
+reason,unigram,2,10.0,2.9459,2
+received assurance,bigram,2,10.0,2.9459,2
+received training,bigram,2,10.0,2.9459,2
+recommendation,unigram,2,10.0,2.9459,2
+recommendations,unigram,2,10.0,2.9459,2
+reduce demand,bigram,2,10.0,2.9459,2
+reduces,unigram,2,10.0,2.9459,2
+reducing complexity,bigram,2,10.0,2.9459,2
+reflected,unigram,2,10.0,2.9459,2
+regimes,unigram,2,10.0,2.9459,2
+regions,unigram,2,10.0,2.9459,2
+registered,unigram,2,10.0,2.9459,2
+regularly review,bigram,2,10.0,2.9459,2
+regulators ai,bigram,2,10.0,2.9459,2
+regulatory developments,bigram,2,10.0,2.9459,2
+regulatory focus,bigram,2,10.0,2.9459,2
+regulatory landscape,bigram,2,10.0,2.9459,2
+regulatory sanctions,bigram,2,10.0,2.9459,2
+reimagining,unigram,2,10.0,2.9459,2
+reinforce,unigram,2,10.0,2.9459,2
+reinforcing,unigram,2,10.0,2.9459,2
+related cybersecurity,bigram,2,10.0,2.9459,2
+related posting,bigram,2,10.0,2.9459,2
+related processes,bigram,2,10.0,2.9459,2
+related risk,bigram,2,10.0,2.9459,2
+related valuation,bigram,2,10.0,2.9459,2
+relating data,bigram,2,10.0,2.9459,2
+releases,unigram,2,10.0,2.9459,2
+relevant entity,bigram,2,10.0,2.9459,2
+relevant identified,bigram,2,10.0,2.9459,2
+remain largest,bigram,2,10.0,2.9459,2
+remuneration approach,bigram,2,10.0,2.9459,2
+remuneration outcomes,bigram,2,10.0,2.9459,2
+remuneration policy,bigram,2,10.0,2.9459,2
+renewable,unigram,2,10.0,2.9459,2
+renewed,unigram,2,10.0,2.9459,2
+report governance,bigram,2,10.0,2.9459,2
+reporting committee,bigram,2,10.0,2.9459,2
+reporting risk,bigram,2,10.0,2.9459,2
+representatives,unigram,2,10.0,2.9459,2
+represented,unigram,2,10.0,2.9459,2
+represents,unigram,2,10.0,2.9459,2
+reputational risks,bigram,2,10.0,2.9459,2
+requirement,unigram,2,10.0,2.9459,2
+requirements group,bigram,2,10.0,2.9459,2
+reset,unigram,2,10.0,2.9459,2
+reshaping financial,bigram,2,10.0,2.9459,2
+resilience cyber,bigram,2,10.0,2.9459,2
+resilience security,bigram,2,10.0,2.9459,2
+resolved,unigram,2,10.0,2.9459,2
+respect group,bigram,2,10.0,2.9459,2
+responding,unigram,2,10.0,2.9459,2
+response technology,bigram,2,10.0,2.9459,2
+responsible ethical,bigram,2,10.0,2.9459,2
+rest,unigram,2,10.0,2.9459,2
+result increased,bigram,2,10.0,2.9459,2
+result reputational,bigram,2,10.0,2.9459,2
+result significant,bigram,2,10.0,2.9459,2
+resulted,unigram,2,10.0,2.9459,2
+resulting ai,bigram,2,10.0,2.9459,2
+retail customers,bigram,2,10.0,2.9459,2
+retailers,unigram,2,10.0,2.9459,2
+return,unigram,2,10.0,2.9459,2
+revenues,unigram,2,10.0,2.9459,2
+review approval,bigram,2,10.0,2.9459,2
+review board,bigram,2,10.0,2.9459,2
+reviewed approved,bigram,2,10.0,2.9459,2
+reviews stress,bigram,2,10.0,2.9459,2
+right time,bigram,2,10.0,2.9459,2
+ring,unigram,2,10.0,2.9459,2
+risk analytics,bigram,2,10.0,2.9459,2
+risk based,bigram,2,10.0,2.9459,2
+risk bias,bigram,2,10.0,2.9459,2
+risk considerations,bigram,2,10.0,2.9459,2
+risk governance,bigram,2,10.0,2.9459,2
+risk included,bigram,2,10.0,2.9459,2
+risk level,bigram,2,10.0,2.9459,2
+risk officer,bigram,2,10.0,2.9459,2
+risk oversight,bigram,2,10.0,2.9459,2
+risk policies,bigram,2,10.0,2.9459,2
+risk potential,bigram,2,10.0,2.9459,2
+risk product,bigram,2,10.0,2.9459,2
+risk reports,bigram,2,10.0,2.9459,2
+risks facing,bigram,2,10.0,2.9459,2
+risks fraud,bigram,2,10.0,2.9459,2
+risks management,bigram,2,10.0,2.9459,2
+risks risk,bigram,2,10.0,2.9459,2
+risks security,bigram,2,10.0,2.9459,2
+risks uncertainties,bigram,2,10.0,2.9459,2
+rmf,unigram,2,10.0,2.9459,2
+roadmap,unigram,2,10.0,2.9459,2
+roll ai,bigram,2,10.0,2.9459,2
+rolled ai,bigram,2,10.0,2.9459,2
+routine tasks,bigram,2,10.0,2.9459,2
+rulings,unigram,2,10.0,2.9459,2
+russia,unigram,2,10.0,2.9459,2
+russia ukraine,bigram,2,10.0,2.9459,2
+safe effective,bigram,2,10.0,2.9459,2
+saudi,unigram,2,10.0,2.9459,2
+saw,unigram,2,10.0,2.9459,2
+scalable ai,bigram,2,10.0,2.9459,2
+scheme,unigram,2,10.0,2.9459,2
+scores,unigram,2,10.0,2.9459,2
+seamless digital,bigram,2,10.0,2.9459,2
+search,unigram,2,10.0,2.9459,2
+second line,bigram,2,10.0,2.9459,2
+secretary,unigram,2,10.0,2.9459,2
+section website,bigram,2,10.0,2.9459,2
+securities,unigram,2,10.0,2.9459,2
+security board,bigram,2,10.0,2.9459,2
+security risks,bigram,2,10.0,2.9459,2
+security support,bigram,2,10.0,2.9459,2
+seeks,unigram,2,10.0,2.9459,2
+selected,unigram,2,10.0,2.9459,2
+sell,unigram,2,10.0,2.9459,2
+senior leader,bigram,2,10.0,2.9459,2
+series,unigram,2,10.0,2.9459,2
+service allowing,bigram,2,10.0,2.9459,2
+service customer,bigram,2,10.0,2.9459,2
+service delivery,bigram,2,10.0,2.9459,2
+services business,bigram,2,10.0,2.9459,2
+services financial,bigram,2,10.0,2.9459,2
+services including,bigram,2,10.0,2.9459,2
+services industry,bigram,2,10.0,2.9459,2
+services products,bigram,2,10.0,2.9459,2
+set new,bigram,2,10.0,2.9459,2
+seven years,bigram,2,10.0,2.9459,2
+severity,unigram,2,10.0,2.9459,2
+share buybacks,bigram,2,10.0,2.9459,2
+shared ownership,bigram,2,10.0,2.9459,2
+shared risk,bigram,2,10.0,2.9459,2
+shareholding requirements,bigram,2,10.0,2.9459,2
+sharing insights,bigram,2,10.0,2.9459,2
+showing,unigram,2,10.0,2.9459,2
+shown,unigram,2,10.0,2.9459,2
+shows,unigram,2,10.0,2.9459,2
+significance,unigram,2,10.0,2.9459,2
+significant investment,bigram,2,10.0,2.9459,2
+significant progress,bigram,2,10.0,2.9459,2
+signs,unigram,2,10.0,2.9459,2
+simplify automate,bigram,2,10.0,2.9459,2
+siness,unigram,2,10.0,2.9459,2
+single customer,bigram,2,10.0,2.9459,2
+sir,unigram,2,10.0,2.9459,2
+sir john,bigram,2,10.0,2.9459,2
+skilled,unigram,2,10.0,2.9459,2
+skills enable,bigram,2,10.0,2.9459,2
+skills including,bigram,2,10.0,2.9459,2
+slavery human,bigram,2,10.0,2.9459,2
+small medium,bigram,2,10.0,2.9459,2
+smaller,unigram,2,10.0,2.9459,2
+sme customers,bigram,2,10.0,2.9459,2
+software group,bigram,2,10.0,2.9459,2
+solutions ai,bigram,2,10.0,2.9459,2
+solutions evolving,bigram,2,10.0,2.9459,2
+sources data,bigram,2,10.0,2.9459,2
+sovereignty,unigram,2,10.0,2.9459,2
+spaces,unigram,2,10.0,2.9459,2
+specialised,unigram,2,10.0,2.9459,2
+specialists assist,bigram,2,10.0,2.9459,2
+spotlights,unigram,2,10.0,2.9459,2
+stablecoin,unigram,2,10.0,2.9459,2
+stage,unigram,2,10.0,2.9459,2
+stages,unigram,2,10.0,2.9459,2
+stakeholder groups,bigram,2,10.0,2.9459,2
+stakeholder interests,bigram,2,10.0,2.9459,2
+stakeholder needs,bigram,2,10.0,2.9459,2
+standing,unigram,2,10.0,2.9459,2
+starting,unigram,2,10.0,2.9459,2
+statements year,bigram,2,10.0,2.9459,2
+stay ahead,bigram,2,10.0,2.9459,2
+stepped,unigram,2,10.0,2.9459,2
+stewardship,unigram,2,10.0,2.9459,2
+stories,unigram,2,10.0,2.9459,2
+stra,unigram,2,10.0,2.9459,2
+strategic direction,bigram,2,10.0,2.9459,2
+strategic esg,bigram,2,10.0,2.9459,2
+strategic initiatives,bigram,2,10.0,2.9459,2
+strategic partnerships,bigram,2,10.0,2.9459,2
+strategy dedicated,bigram,2,10.0,2.9459,2
+strategy execution,bigram,2,10.0,2.9459,2
+strategy focus,bigram,2,10.0,2.9459,2
+streamline operations,bigram,2,10.0,2.9459,2
+strive,unigram,2,10.0,2.9459,2
+strong focus,bigram,2,10.0,2.9459,2
+strong platform,bigram,2,10.0,2.9459,2
+su,unigram,2,10.0,2.9459,2
+subject matter,bigram,2,10.0,2.9459,2
+subsequent,unigram,2,10.0,2.9459,2
+substantive,unigram,2,10.0,2.9459,2
+successful execution,bigram,2,10.0,2.9459,2
+successfully delivered,bigram,2,10.0,2.9459,2
+succession,unigram,2,10.0,2.9459,2
+sup,unigram,2,10.0,2.9459,2
+support advanced,bigram,2,10.0,2.9459,2
+support ai,bigram,2,10.0,2.9459,2
+support growth,bigram,2,10.0,2.9459,2
+support initiatives,bigram,2,10.0,2.9459,2
+supporting future,bigram,2,10.0,2.9459,2
+surpassing,unigram,2,10.0,2.9459,2
+survey results,bigram,2,10.0,2.9459,2
+sustainability disclosure,bigram,2,10.0,2.9459,2
+sustainable growth,bigram,2,10.0,2.9459,2
+swiftly,unigram,2,10.0,2.9459,2
+systems data,bigram,2,10.0,2.9459,2
+systems enable,bigram,2,10.0,2.9459,2
+systems external,bigram,2,10.0,2.9459,2
+systems including,bigram,2,10.0,2.9459,2
+systems processes,bigram,2,10.0,2.9459,2
+systems support,bigram,2,10.0,2.9459,2
+takes,unigram,2,10.0,2.9459,2
+tal,unigram,2,10.0,2.9459,2
+tangible,unigram,2,10.0,2.9459,2
+targets set,bigram,2,10.0,2.9459,2
+tax planning,bigram,2,10.0,2.9459,2
+taxes,unigram,2,10.0,2.9459,2
+technolo,unigram,2,10.0,2.9459,2
+technological change,bigram,2,10.0,2.9459,2
+technologies generative,bigram,2,10.0,2.9459,2
+technology automation,bigram,2,10.0,2.9459,2
+technology committee,bigram,2,10.0,2.9459,2
+technology developments,bigram,2,10.0,2.9459,2
+technology estate,bigram,2,10.0,2.9459,2
+technology risk,bigram,2,10.0,2.9459,2
+technology usage,bigram,2,10.0,2.9459,2
+tested,unigram,2,10.0,2.9459,2
+testing appropriateness,bigram,2,10.0,2.9459,2
+tests conducted,bigram,2,10.0,2.9459,2
+thank,unigram,2,10.0,2.9459,2
+thinking,unigram,2,10.0,2.9459,2
+threaten,unigram,2,10.0,2.9459,2
+threats including,bigram,2,10.0,2.9459,2
+thrive,unigram,2,10.0,2.9459,2
+timing,unigram,2,10.0,2.9459,2
+tion,unigram,2,10.0,2.9459,2
+tool enables,bigram,2,10.0,2.9459,2
+tool used,bigram,2,10.0,2.9459,2
+tools ai,bigram,2,10.0,2.9459,2
+tools colleagues,bigram,2,10.0,2.9459,2
+tools enhance,bigram,2,10.0,2.9459,2
+tools like,bigram,2,10.0,2.9459,2
+tools support,bigram,2,10.0,2.9459,2
+tools supporting,bigram,2,10.0,2.9459,2
+tracking,unigram,2,10.0,2.9459,2
+trajectory,unigram,2,10.0,2.9459,2
+transformation agenda,bigram,2,10.0,2.9459,2
+transparency act,bigram,2,10.0,2.9459,2
+travel,unigram,2,10.0,2.9459,2
+treatment,unigram,2,10.0,2.9459,2
+trend group,bigram,2,10.0,2.9459,2
+trillion,unigram,2,10.0,2.9459,2
+truly,unigram,2,10.0,2.9459,2
+turn,unigram,2,10.0,2.9459,2
+uk corporate,bigram,2,10.0,2.9459,2
+uk eu,bigram,2,10.0,2.9459,2
+uk example,bigram,2,10.0,2.9459,2
+uk personal,bigram,2,10.0,2.9459,2
+uk regulators,bigram,2,10.0,2.9459,2
+ukraine,unigram,2,10.0,2.9459,2
+ultimately,unigram,2,10.0,2.9459,2
+unauthorised,unigram,2,10.0,2.9459,2
+uncertain,unigram,2,10.0,2.9459,2
+underpinning,unigram,2,10.0,2.9459,2
+understanding ai,bigram,2,10.0,2.9459,2
+understanding business,bigram,2,10.0,2.9459,2
+understands,unigram,2,10.0,2.9459,2
+undertake,unigram,2,10.0,2.9459,2
+undertook,unigram,2,10.0,2.9459,2
+unified,unigram,2,10.0,2.9459,2
+union,unigram,2,10.0,2.9459,2
+unique data,bigram,2,10.0,2.9459,2
+units,unigram,2,10.0,2.9459,2
+unlock potential,bigram,2,10.0,2.9459,2
+unprecedented,unigram,2,10.0,2.9459,2
+unrivalled,unigram,2,10.0,2.9459,2
+update board,bigram,2,10.0,2.9459,2
+updates group,bigram,2,10.0,2.9459,2
+upgrading,unigram,2,10.0,2.9459,2
+upskill,unigram,2,10.0,2.9459,2
+use automation,bigram,2,10.0,2.9459,2
+use case,bigram,2,10.0,2.9459,2
+use genai,bigram,2,10.0,2.9459,2
+use modern,bigram,2,10.0,2.9459,2
+used train,bigram,2,10.0,2.9459,2
+utilisation,unigram,2,10.0,2.9459,2
+value creation,bigram,2,10.0,2.9459,2
+value enabled,bigram,2,10.0,2.9459,2
+verification,unigram,2,10.0,2.9459,2
+vertical,unigram,2,10.0,2.9459,2
+view ai,bigram,2,10.0,2.9459,2
+viewed,unigram,2,10.0,2.9459,2
+visits,unigram,2,10.0,2.9459,2
+visits colleague,bigram,2,10.0,2.9459,2
+vulnerability management,bigram,2,10.0,2.9459,2
+wait,unigram,2,10.0,2.9459,2
+want,unigram,2,10.0,2.9459,2
+water,unigram,2,10.0,2.9459,2
+weather,unigram,2,10.0,2.9459,2
+weather events,bigram,2,10.0,2.9459,2
+web services,bigram,2,10.0,2.9459,2
+whistleblowing,unigram,2,10.0,2.9459,2
+wi,unigram,2,10.0,2.9459,2
+withdrawals,unigram,2,10.0,2.9459,2
+work address,bigram,2,10.0,2.9459,2
+work underway,bigram,2,10.0,2.9459,2
+workforce engagement,bigram,2,10.0,2.9459,2
+workforce planning,bigram,2,10.0,2.9459,2
+workforce remuneration,bigram,2,10.0,2.9459,2
+working environment,bigram,2,10.0,2.9459,2
+world leading,bigram,2,10.0,2.9459,2
+written,unigram,2,10.0,2.9459,2
+www,unigram,2,10.0,2.9459,2
+ye,unigram,2,10.0,2.9459,2
+year board,bigram,2,10.0,2.9459,2
+year directors,bigram,2,10.0,2.9459,2
+year including,bigram,2,10.0,2.9459,2
+year market,bigram,2,10.0,2.9459,2
+yield,unigram,2,10.0,2.9459,2
+younger,unigram,2,10.0,2.9459,2

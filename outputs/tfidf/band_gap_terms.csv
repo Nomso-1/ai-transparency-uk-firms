@@ -1,0 +1,16 @@
+rank,term,mean_tfidf_high,mean_tfidf_limited_low,gap,firms_high_band,firms_limited_low_band,document_frequency,term_type
+1,agentic ai,0.035743,0.0,0.035743,6,0,8,bigram
+2,agentic,0.037361,0.002804,0.034557,6,1,9,unigram
+3,colleagues,0.041292,0.007603,0.033689,6,2,11,unigram
+4,uk,0.042565,0.009229,0.033336,6,2,11,unigram
+5,bank,0.033141,0.0,0.033141,4,0,6,unigram
+6,example,0.032382,0.0,0.032382,6,0,8,unigram
+7,innovation,0.037249,0.005201,0.032047,6,1,12,unigram
+8,model risk,0.036633,0.004586,0.032047,5,1,6,bigram
+9,models,0.037677,0.007266,0.030411,6,2,12,unigram
+10,cloud,0.033303,0.003598,0.029705,6,1,10,unigram
+11,changes,0.028696,0.0,0.028696,5,0,9,unigram
+12,provide,0.032948,0.004685,0.028263,6,1,10,unigram
+13,completed,0.028207,0.0,0.028207,6,0,8,unigram
+14,ai data,0.027501,0.0,0.027501,5,0,8,bigram
+15,challenges,0.02732,0.0,0.02732,6,0,9,unigram

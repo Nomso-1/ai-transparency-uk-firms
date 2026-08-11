@@ -1,0 +1,21 @@
+company_id,company_name,band,characters,tokens_before_stopwords,tokens,tokens_in_vocabulary,distinct_terms,unstable_vector
+001,Barclays plc,high,51086,7444,4560,3598,1749,False
+004,NatWest Group plc,high,46637,6553,4130,3324,1733,False
+019,London Stock Exchange Group plc,high,30499,4305,2841,2333,1191,False
+002,HSBC Holdings plc,high,24077,3448,2181,1768,1146,False
+009,Admiral Group plc,high,23106,3341,2108,1766,1156,False
+005,Standard Chartered plc,moderate,23181,3409,2089,1691,1098,False
+016,Funding Circle Holdings plc,moderate,22658,3313,2065,1619,1057,False
+003,Lloyds Banking Group plc,high,19795,2779,1819,1526,1042,False
+020,Experian plc,moderate,17256,2486,1565,1272,872,False
+006,Aviva plc,moderate,17009,2481,1524,1220,837,False
+007,Legal & General Group plc,limited,11344,1639,1022,819,685,False
+015,CAB Payments Holdings plc,limited,7115,975,603,500,479,False
+014,Wise plc,limited,6510,976,570,464,380,False
+017,Boku Inc.,moderate,6233,827,569,490,434,False
+008,M&G plc,limited,6524,899,566,471,433,False
+011,IG Group Holdings plc,limited,5509,747,478,386,357,False
+010,AJ Bell plc,limited,4643,668,418,342,331,False
+018,PayPoint plc,low,3531,524,316,268,186,False
+013,IntegraFin Holdings plc,limited,1741,253,160,131,142,False
+012,CMC Markets plc,low,962,136,82,73,94,True

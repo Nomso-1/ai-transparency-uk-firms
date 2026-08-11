@@ -1,0 +1,21 @@
+rank,term,term_type,total_count,firms_using_term,mean_count_per_firm
+1,group,unigram,336,18,16.8
+2,data,unigram,314,17,15.7
+3,use,unigram,187,18,9.4
+4,technology,unigram,186,16,9.3
+5,new,unigram,176,17,8.8
+6,customers,unigram,167,15,8.4
+7,customer,unigram,161,17,8.0
+8,management,unigram,155,18,7.8
+9,intelligence,unigram,140,18,7.0
+10,digital,unigram,134,17,6.7
+11,board,unigram,133,16,6.6
+12,artificial,unigram,132,17,6.6
+13,artificial intelligence,bigram,125,17,6.2
+14,growth,unigram,104,18,5.2
+15,committee,unigram,98,15,4.9
+16,strategy,unigram,90,17,4.5
+17,support,unigram,90,16,4.5
+18,uk,unigram,90,11,4.5
+19,year,unigram,88,18,4.4
+20,operational,unigram,87,18,4.4

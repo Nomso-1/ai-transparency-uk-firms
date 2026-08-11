@@ -1,0 +1,301 @@
+company_id,company_name,band,term,score,rank,unstable_vector
+001,Barclays plc,high,eu,0.061652,1,False
+001,Barclays plc,high,ai technologies,0.060617,2,False
+001,Barclays plc,high,ai group,0.058241,3,False
+001,Barclays plc,high,harm,0.058241,4,False
+001,Barclays plc,high,require,0.058241,5,False
+001,Barclays plc,high,eu ai,0.055194,6,False
+001,Barclays plc,high,laws,0.053987,7,False
+001,Barclays plc,high,regime,0.052554,8,False
+001,Barclays plc,high,ai act,0.051589,9,False
+001,Barclays plc,high,ai policy,0.051589,10,False
+001,Barclays plc,high,group ability,0.051589,11,False
+001,Barclays plc,high,result,0.049752,12,False
+001,Barclays plc,high,agentic artificial,0.047178,13,False
+001,Barclays plc,high,data privacy,0.047178,14,False
+001,Barclays plc,high,developers,0.047178,15,False
+002,HSBC Holdings plc,high,holdings,0.079024,1,False
+002,HSBC Holdings plc,high,human rights,0.073864,2,False
+002,HSBC Holdings plc,high,holdings plc,0.067547,3,False
+002,HSBC Holdings plc,high,model risk,0.062097,4,False
+002,HSBC Holdings plc,high,academy,0.060951,5,False
+002,HSBC Holdings plc,high,deregulation,0.059404,6,False
+002,HSBC Holdings plc,high,salient,0.059404,7,False
+002,HSBC Holdings plc,high,digital assets,0.058146,8,False
+002,HSBC Holdings plc,high,genai,0.056751,9,False
+002,HSBC Holdings plc,high,currencies,0.056484,10,False
+002,HSBC Holdings plc,high,rights,0.056484,11,False
+002,HSBC Holdings plc,high,trade,0.056296,12,False
+002,HSBC Holdings plc,high,indicators,0.055834,13,False
+002,HSBC Holdings plc,high,techniques,0.055834,14,False
+002,HSBC Holdings plc,high,skills,0.055278,15,False
+003,Lloyds Banking Group plc,high,gen,0.090431,1,False
+003,Lloyds Banking Group plc,high,gen ai,0.0884,2,False
+003,Lloyds Banking Group plc,high,dive,0.070817,3,False
+003,Lloyds Banking Group plc,high,deep dive,0.066079,4,False
+003,Lloyds Banking Group plc,high,million,0.065449,5,False
+003,Lloyds Banking Group plc,high,shift,0.064402,6,False
+003,Lloyds Banking Group plc,high,colleague,0.061032,7,False
+003,Lloyds Banking Group plc,high,deep,0.061032,8,False
+003,Lloyds Banking Group plc,high,digital ai,0.060532,9,False
+003,Lloyds Banking Group plc,high,propositions,0.060532,10,False
+003,Lloyds Banking Group plc,high,financial inclusion,0.058113,11,False
+003,Lloyds Banking Group plc,high,evolution,0.057149,12,False
+003,Lloyds Banking Group plc,high,bank,0.057046,13,False
+003,Lloyds Banking Group plc,high,journeys,0.057046,14,False
+003,Lloyds Banking Group plc,high,model risk,0.057046,15,False
+004,NatWest Group plc,high,backed,0.057632,1,False
+004,NatWest Group plc,high,family,0.057632,2,False
+004,NatWest Group plc,high,accessibility,0.054557,3,False
+004,NatWest Group plc,high,bank,0.052427,4,False
+004,NatWest Group plc,high,challenged,0.049262,5,False
+004,NatWest Group plc,high,climate transition,0.049262,6,False
+004,NatWest Group plc,high,code conduct,0.049262,7,False
+004,NatWest Group plc,high,internally,0.049262,8,False
+004,NatWest Group plc,high,responses,0.049262,9,False
+004,NatWest Group plc,high,spotlight,0.049262,10,False
+004,NatWest Group plc,high,data ethics,0.048608,11,False
+004,NatWest Group plc,high,research,0.048608,12,False
+004,NatWest Group plc,high,banking,0.048001,13,False
+004,NatWest Group plc,high,colleague,0.047019,14,False
+004,NatWest Group plc,high,billion,0.046148,15,False
+005,Standard Chartered plc,moderate,cent,0.107375,1,False
+005,Standard Chartered plc,moderate,bank,0.076492,2,False
+005,Standard Chartered plc,moderate,hong,0.075562,3,False
+005,Standard Chartered plc,moderate,hong kong,0.075562,4,False
+005,Standard Chartered plc,moderate,kong,0.075562,5,False
+005,Standard Chartered plc,moderate,supply,0.073709,6,False
+005,Standard Chartered plc,moderate,chartered,0.0691,7,False
+005,Standard Chartered plc,moderate,people leaders,0.0691,8,False
+005,Standard Chartered plc,moderate,race,0.0691,9,False
+005,Standard Chartered plc,moderate,supply chains,0.0691,10,False
+005,Standard Chartered plc,moderate,client,0.068191,11,False
+005,Standard Chartered plc,moderate,chains,0.062352,12,False
+005,Standard Chartered plc,moderate,cuts,0.062352,13,False
+005,Standard Chartered plc,moderate,onboarding,0.062352,14,False
+005,Standard Chartered plc,moderate,skills,0.06231,15,False
+006,Aviva plc,moderate,retirement,0.089302,1,False
+006,Aviva plc,moderate,wealth,0.083672,2,False
+006,Aviva plc,moderate,subsidiaries,0.07369,3,False
+006,Aviva plc,moderate,achieved,0.07182,4,False
+006,Aviva plc,moderate,advancing,0.07182,5,False
+006,Aviva plc,moderate,canada,0.07182,6,False
+006,Aviva plc,moderate,incorporated,0.07182,7,False
+006,Aviva plc,moderate,ireland,0.07182,8,False
+006,Aviva plc,moderate,personal lines,0.07182,9,False
+006,Aviva plc,moderate,uk ireland,0.07182,10,False
+006,Aviva plc,moderate,award,0.067504,11,False
+006,Aviva plc,moderate,benefits ai,0.067504,12,False
+006,Aviva plc,moderate,deferred,0.067504,13,False
+006,Aviva plc,moderate,gen,0.067504,14,False
+006,Aviva plc,moderate,gen ai,0.067504,15,False
+007,Legal & General Group plc,limited,retirement,0.10184,1,False
+007,Legal & General Group plc,limited,read,0.100488,2,False
+007,Legal & General Group plc,limited,ordinary,0.098484,3,False
+007,Legal & General Group plc,limited,fund,0.096141,4,False
+007,Legal & General Group plc,limited,ai developments,0.089562,5,False
+007,Legal & General Group plc,limited,hedging,0.089562,6,False
+007,Legal & General Group plc,limited,including data,0.080816,7,False
+007,Legal & General Group plc,limited,ai risk,0.079475,8,False
+007,Legal & General Group plc,limited,category,0.072258,9,False
+007,Legal & General Group plc,limited,divisional,0.072258,10,False
+007,Legal & General Group plc,limited,liabilities,0.072258,11,False
+007,Legal & General Group plc,limited,parker,0.072258,12,False
+007,Legal & General Group plc,limited,parker review,0.072258,13,False
+007,Legal & General Group plc,limited,remit,0.072258,14,False
+007,Legal & General Group plc,limited,review,0.070789,15,False
+008,M&G plc,limited,os,0.135986,1,False
+008,M&G plc,limited,fund,0.10399,2,False
+008,M&G plc,limited,funds,0.10399,3,False
+008,M&G plc,limited,auma,0.096486,4,False
+008,M&G plc,limited,corporate clients,0.096486,5,False
+008,M&G plc,limited,satisfaction,0.096486,6,False
+008,M&G plc,limited,expert,0.087064,7,False
+008,M&G plc,limited,footprint,0.087064,8,False
+008,M&G plc,limited,intelligent,0.087064,9,False
+008,M&G plc,limited,senior management,0.087064,10,False
+008,M&G plc,limited,override,0.085195,11,False
+008,M&G plc,limited,considered,0.08041,12,False
+008,M&G plc,limited,matters,0.08041,13,False
+008,M&G plc,limited,adviser,0.079755,14,False
+008,M&G plc,limited,financial statements,0.079755,15,False
+009,Admiral Group plc,high,claims,0.081385,1,False
+009,Admiral Group plc,high,predictive,0.078387,2,False
+009,Admiral Group plc,high,mobility,0.073612,3,False
+009,Admiral Group plc,high,electric,0.067317,4,False
+009,Admiral Group plc,high,generative agentic,0.066423,5,False
+009,Admiral Group plc,high,responsible ai,0.06355,6,False
+009,Admiral Group plc,high,pricing,0.062146,7,False
+009,Admiral Group plc,high,academy,0.060743,8,False
+009,Admiral Group plc,high,noting,0.060743,9,False
+009,Admiral Group plc,high,projects,0.060743,10,False
+009,Admiral Group plc,high,uk,0.059675,11,False
+009,Admiral Group plc,high,additional information,0.059202,12,False
+009,Admiral Group plc,high,david,0.059202,13,False
+009,Admiral Group plc,high,governance financial,0.059202,14,False
+009,Admiral Group plc,high,high quality,0.059202,15,False
+010,AJ Bell plc,limited,fy,0.113091,1,False
+010,AJ Bell plc,limited,touch,0.112638,2,False
+010,AJ Bell plc,limited,advisers,0.106762,3,False
+010,AJ Bell plc,limited,philosophy,0.101638,4,False
+010,AJ Bell plc,limited,underway,0.101638,5,False
+010,AJ Bell plc,limited,genai,0.099548,6,False
+010,AJ Bell plc,limited,allowing,0.093106,7,False
+010,AJ Bell plc,limited,propositions,0.093106,8,False
+010,AJ Bell plc,limited,tax,0.087547,9,False
+010,AJ Bell plc,limited,cash,0.086135,10,False
+010,AJ Bell plc,limited,efficiencies,0.086135,11,False
+010,AJ Bell plc,limited,safety,0.086135,12,False
+010,AJ Bell plc,limited,office,0.082553,13,False
+010,AJ Bell plc,limited,ai genai,0.080241,14,False
+010,AJ Bell plc,limited,executive director,0.080241,15,False
+011,IG Group Holdings plc,limited,recommended,0.118222,1,False
+011,IG Group Holdings plc,limited,scalability,0.118222,2,False
+011,IG Group Holdings plc,limited,servicing,0.118222,3,False
+011,IG Group Holdings plc,limited,fy,0.116053,4,False
+011,IG Group Holdings plc,limited,accountability,0.105704,5,False
+011,IG Group Holdings plc,limited,crypto,0.105704,6,False
+011,IG Group Holdings plc,limited,market risk,0.105704,7,False
+011,IG Group Holdings plc,limited,vendor,0.105704,8,False
+011,IG Group Holdings plc,limited,march,0.10019,9,False
+011,IG Group Holdings plc,limited,fixed,0.095381,10,False
+011,IG Group Holdings plc,limited,reported,0.087374,11,False
+011,IG Group Holdings plc,limited,committee,0.083006,12,False
+011,IG Group Holdings plc,limited,insurance,0.082157,13,False
+011,IG Group Holdings plc,limited,assessed,0.080832,14,False
+011,IG Group Holdings plc,limited,trading,0.080832,15,False
+012,CMC Markets plc,low,project,0.234517,1,True
+012,CMC Markets plc,low,aligning,0.138509,2,True
+012,CMC Markets plc,low,ing,0.138509,3,True
+012,CMC Markets plc,low,monitor emerging,0.138509,4,True
+012,CMC Markets plc,low,operational risks,0.138509,5,True
+012,CMC Markets plc,low,os,0.138509,6,True
+012,CMC Markets plc,low,potential reshape,0.138509,7,True
+012,CMC Markets plc,low,procedures relating,0.138509,8,True
+012,CMC Markets plc,low,product offering,0.138509,9,True
+012,CMC Markets plc,low,progresses,0.138509,10,True
+012,CMC Markets plc,low,regulatory developments,0.138509,11,True
+012,CMC Markets plc,low,risks arising,0.138509,12,True
+012,CMC Markets plc,low,risks risks,0.138509,13,True
+012,CMC Markets plc,low,service providers,0.138509,14,True
+012,CMC Markets plc,low,successfully delivered,0.138509,15,True
+013,IntegraFin Holdings plc,limited,time horizon,0.18914,1,False
+013,IntegraFin Holdings plc,limited,tokenisation,0.170669,2,False
+013,IntegraFin Holdings plc,limited,blockchain,0.156343,3,False
+013,IntegraFin Holdings plc,limited,cyber attacks,0.156343,4,False
+013,IntegraFin Holdings plc,limited,horizon,0.144637,5,False
+013,IntegraFin Holdings plc,limited,attacks,0.118604,6,False
+013,IntegraFin Holdings plc,limited,day,0.118604,7,False
+013,IntegraFin Holdings plc,limited,billion end,0.111709,8,False
+013,IntegraFin Holdings plc,limited,blockchain tokenisation,0.111709,9,False
+013,IntegraFin Holdings plc,limited,constantly evolving,0.111709,10,False
+013,IntegraFin Holdings plc,limited,core ai,0.111709,11,False
+013,IntegraFin Holdings plc,limited,data governance,0.111709,12,False
+013,IntegraFin Holdings plc,limited,effectively managing,0.111709,13,False
+013,IntegraFin Holdings plc,limited,ethical social,0.111709,14,False
+013,IntegraFin Holdings plc,limited,happens,0.111709,15,False
+014,Wise plc,limited,servicing,0.160994,1,False
+014,Wise plc,limited,contact,0.136422,2,False
+014,Wise plc,limited,language,0.114283,3,False
+014,Wise plc,limited,fy,0.107702,4,False
+014,Wise plc,limited,large language,0.100506,5,False
+014,Wise plc,limited,ai servicing,0.098098,6,False
+014,Wise plc,limited,customer support,0.098098,7,False
+014,Wise plc,limited,resolution,0.098098,8,False
+014,Wise plc,limited,diligence,0.088518,9,False
+014,Wise plc,limited,grc,0.088518,10,False
+014,Wise plc,limited,language model,0.088518,11,False
+014,Wise plc,limited,queries,0.088518,12,False
+014,Wise plc,limited,ways working,0.088518,13,False
+014,Wise plc,limited,crime,0.086697,14,False
+014,Wise plc,limited,money,0.086618,15,False
+015,CAB Payments Holdings plc,limited,currency,0.115522,1,False
+015,CAB Payments Holdings plc,limited,financial year,0.115522,2,False
+015,CAB Payments Holdings plc,limited,employment,0.09549,3,False
+015,CAB Payments Holdings plc,limited,ai automation,0.093202,4,False
+015,CAB Payments Holdings plc,limited,responsible adoption,0.093202,5,False
+015,CAB Payments Holdings plc,limited,retaining,0.093202,6,False
+015,CAB Payments Holdings plc,limited,client,0.088341,7,False
+015,CAB Payments Holdings plc,limited,contract,0.084101,8,False
+015,CAB Payments Holdings plc,limited,good progress,0.084101,9,False
+015,CAB Payments Holdings plc,limited,responsible business,0.084101,10,False
+015,CAB Payments Holdings plc,limited,upgrades,0.084101,11,False
+015,CAB Payments Holdings plc,limited,diversified,0.071273,12,False
+015,CAB Payments Holdings plc,limited,elements,0.071273,13,False
+015,CAB Payments Holdings plc,limited,equal,0.071273,14,False
+015,CAB Payments Holdings plc,limited,largest,0.071273,15,False
+016,Funding Circle Holdings plc,moderate,gen,0.11016,1,False
+016,Funding Circle Holdings plc,moderate,gen ai,0.107912,2,False
+016,Funding Circle Holdings plc,moderate,ai native,0.094135,3,False
+016,Funding Circle Holdings plc,moderate,native,0.094135,4,False
+016,Funding Circle Holdings plc,moderate,funding,0.081934,5,False
+016,Funding Circle Holdings plc,moderate,superior,0.070259,6,False
+016,Funding Circle Holdings plc,moderate,credit risk,0.069326,7,False
+016,Funding Circle Holdings plc,moderate,smes,0.069326,8,False
+016,Funding Circle Holdings plc,moderate,sme,0.066328,9,False
+016,Funding Circle Holdings plc,moderate,navigate,0.063398,10,False
+016,Funding Circle Holdings plc,moderate,profitability,0.063398,11,False
+016,Funding Circle Holdings plc,moderate,appetite,0.062857,12,False
+016,Funding Circle Holdings plc,moderate,credit,0.062065,13,False
+016,Funding Circle Holdings plc,moderate,capital allocation,0.061789,14,False
+016,Funding Circle Holdings plc,moderate,failures,0.061789,15,False
+017,Boku Inc.,moderate,scalability,0.131028,1,False
+017,Boku Inc.,moderate,settlement,0.119823,2,False
+017,Boku Inc.,moderate,vs,0.105378,3,False
+017,Boku Inc.,moderate,payment,0.096862,4,False
+017,Boku Inc.,moderate,processing,0.094598,5,False
+017,Boku Inc.,moderate,assurance framework,0.094219,6,False
+017,Boku Inc.,moderate,singapore,0.094219,7,False
+017,Boku Inc.,moderate,straight,0.094219,8,False
+017,Boku Inc.,moderate,emerging technologies,0.089304,9,False
+017,Boku Inc.,moderate,hub,0.089304,10,False
+017,Boku Inc.,moderate,competitiveness,0.085018,11,False
+017,Boku Inc.,moderate,enhancement,0.085018,12,False
+017,Boku Inc.,moderate,innovation,0.078026,13,False
+017,Boku Inc.,moderate,finance,0.0779,14,False
+017,Boku Inc.,moderate,scalable,0.077881,15,False
+018,PayPoint plc,low,deliver greater,0.200516,1,False
+018,PayPoint plc,low,organisational,0.180003,2,False
+018,PayPoint plc,low,annum,0.177614,3,False
+018,PayPoint plc,low,agility,0.174072,4,False
+018,PayPoint plc,low,greater automation,0.174072,5,False
+018,PayPoint plc,low,automation processes,0.158303,6,False
+018,PayPoint plc,low,rewards,0.158303,7,False
+018,PayPoint plc,low,community,0.130853,8,False
+018,PayPoint plc,low,automation business,0.127718,9,False
+018,PayPoint plc,low,buyback,0.127718,10,False
+018,PayPoint plc,low,issued,0.127718,11,False
+018,PayPoint plc,low,launch new,0.127718,12,False
+018,PayPoint plc,low,leverage range,0.127718,13,False
+018,PayPoint plc,low,share buyback,0.127718,14,False
+018,PayPoint plc,low,plan,0.117709,15,False
+019,London Stock Exchange Group plc,high,workflows,0.088042,1,False
+019,London Stock Exchange Group plc,high,microsoft,0.082372,2,False
+019,London Stock Exchange Group plc,high,trusted,0.077196,3,False
+019,London Stock Exchange Group plc,high,content,0.070959,4,False
+019,London Stock Exchange Group plc,high,ai ready,0.070201,5,False
+019,London Stock Exchange Group plc,high,data analytics,0.068968,6,False
+019,London Stock Exchange Group plc,high,research,0.067157,7,False
+019,London Stock Exchange Group plc,high,divisional,0.065925,8,False
+019,London Stock Exchange Group plc,high,financial markets,0.065925,9,False
+019,London Stock Exchange Group plc,high,interoperability,0.065925,10,False
+019,London Stock Exchange Group plc,high,lifecycle,0.065925,11,False
+019,London Stock Exchange Group plc,high,ftse,0.064308,12,False
+019,London Stock Exchange Group plc,high,ready,0.064308,13,False
+019,London Stock Exchange Group plc,high,distribution,0.06416,14,False
+019,London Stock Exchange Group plc,high,databricks,0.060287,15,False
+020,Experian plc,moderate,consumers,0.091255,1,False
+020,Experian plc,moderate,genai,0.073146,2,False
+020,Experian plc,moderate,cloud technology,0.072044,3,False
+020,Experian plc,moderate,intelligence genai,0.072044,4,False
+020,Experian plc,moderate,health,0.068503,5,False
+020,Experian plc,moderate,accurate,0.068274,6,False
+020,Experian plc,moderate,generative artificial,0.067715,7,False
+020,Experian plc,moderate,credit,0.06704,8,False
+020,Experian plc,moderate,consumer,0.0652,9,False
+020,Experian plc,moderate,data assets,0.065008,10,False
+020,Experian plc,moderate,fraudulent,0.065008,11,False
+020,Experian plc,moderate,expand,0.062645,12,False
+020,Experian plc,moderate,insurance,0.060098,13,False
+020,Experian plc,moderate,years,0.059755,14,False
+020,Experian plc,moderate,fair,0.059551,15,False

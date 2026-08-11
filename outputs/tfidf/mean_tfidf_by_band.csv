@@ -1,0 +1,3821 @@
+term,mean_tfidf_high,mean_tfidf_moderate,mean_tfidf_limited,mean_tfidf_low,term_type
+data,0.0447,0.044302,0.038438,0.0,unigram
+customers,0.04287,0.023774,0.033279,0.0,unigram
+uk,0.042565,0.022445,0.011865,0.0,unigram
+group,0.041742,0.038362,0.043796,0.03932,unigram
+colleagues,0.041292,0.018826,0.009775,0.0,unigram
+technology,0.040217,0.034798,0.040303,0.026258,unigram
+model,0.039491,0.019379,0.026645,0.0,unigram
+models,0.037677,0.024052,0.009342,0.0,unigram
+agentic,0.037361,0.016239,0.003605,0.0,unigram
+innovation,0.037249,0.045576,0.006687,0.0,unigram
+new,0.037058,0.045155,0.029816,0.04353,unigram
+customer,0.036712,0.033176,0.044238,0.0,unigram
+model risk,0.036633,0.0,0.005896,0.0,bigram
+use,0.035892,0.03667,0.034241,0.014084,unigram
+agentic ai,0.035743,0.017221,0.0,0.0,bigram
+board,0.035335,0.030835,0.0429,0.015508,unigram
+digital,0.035321,0.030301,0.031469,0.027133,unigram
+generative,0.034558,0.027171,0.016373,0.0,unigram
+climate,0.034444,0.022174,0.010525,0.0,unigram
+committee,0.033956,0.025632,0.041766,0.0,unigram
+technologies,0.03375,0.039557,0.003752,0.017994,unigram
+management,0.033713,0.036011,0.04456,0.014084,unigram
+artificial,0.033549,0.027547,0.041307,0.027133,unigram
+cloud,0.033303,0.016221,0.004626,0.0,unigram
+bank,0.033141,0.019493,0.0,0.0,unigram
+development,0.033051,0.038143,0.010638,0.0,unigram
+provide,0.032948,0.019833,0.0,0.021082,unigram
+focus,0.032888,0.035689,0.019908,0.0,unigram
+artificial intelligence,0.032774,0.027547,0.040527,0.027133,bigram
+market,0.032725,0.028359,0.021828,0.016284,unigram
+high,0.032563,0.02343,0.008429,0.0,unigram
+conduct,0.032541,0.007129,0.013979,0.0,unigram
+example,0.032382,0.016297,0.0,0.0,unigram
+review,0.032214,0.028853,0.017697,0.0,unigram
+tools,0.03205,0.038048,0.011812,0.0,unigram
+intelligence,0.03201,0.027507,0.042839,0.025862,unigram
+strategic,0.031985,0.026615,0.023404,0.0,unigram
+investment,0.031765,0.029603,0.026902,0.0,unigram
+sustainability,0.031448,0.010325,0.01541,0.0,unigram
+performance,0.031407,0.031861,0.003062,0.032073,unigram
+include,0.031129,0.013151,0.007391,0.0,unigram
+machine,0.031032,0.012071,0.009022,0.0,unigram
+key,0.031012,0.023448,0.02954,0.0,unigram
+adoption,0.030833,0.019967,0.028974,0.017111,unigram
+banking,0.03077,0.017988,0.0,0.023651,unigram
+learning,0.030582,0.027485,0.008107,0.0,unigram
+resilience,0.030539,0.024008,0.007219,0.0,unigram
+information,0.030392,0.022878,0.019423,0.0,unigram
+support,0.030263,0.034078,0.024267,0.043295,unigram
+potential,0.030218,0.021021,0.018954,0.050628,unigram
+continued,0.029721,0.029384,0.014162,0.017111,unigram
+impact,0.029634,0.0296,0.01797,0.015508,unigram
+plc,0.029584,0.009818,0.008259,0.0,unigram
+strategy,0.029463,0.021305,0.03968,0.041909,unigram
+future,0.029326,0.02706,0.008809,0.037762,unigram
+engagement,0.029145,0.026433,0.018183,0.016284,unigram
+products,0.029103,0.02545,0.011979,0.016284,unigram
+approach,0.028821,0.032706,0.016176,0.0,unigram
+opportunities,0.028772,0.031376,0.021944,0.0,unigram
+changes,0.028696,0.020361,0.0,0.0,unigram
+access,0.02864,0.017449,0.008449,0.019968,unigram
+generative ai,0.028616,0.021314,0.013079,0.0,bigram
+use cases,0.028595,0.014292,0.003605,0.0,bigram
+analytics,0.028551,0.020899,0.004894,0.0,unigram
+using ai,0.028404,0.0,0.011861,0.0,bigram
+process,0.028215,0.016103,0.027356,0.0,unigram
+completed,0.028207,0.010441,0.0,0.0,unigram
+assets,0.028106,0.026982,0.009664,0.0,unigram
+growth,0.028014,0.040285,0.025699,0.029557,unigram
+cases,0.028003,0.016431,0.00761,0.0,unigram
+operational,0.027869,0.030219,0.025675,0.049708,unigram
+group plc,0.027842,0.0,0.004662,0.0,bigram
+help,0.027827,0.022379,0.014399,0.0,unigram
+using,0.027804,0.022745,0.019731,0.0,unigram
+change,0.027751,0.018331,0.016571,0.0,unigram
+responsible,0.027575,0.018442,0.024486,0.0,unigram
+platforms,0.027553,0.006581,0.006104,0.040951,unigram
+ai data,0.027501,0.01742,0.0,0.0,bigram
+experience,0.027456,0.02761,0.019833,0.0,unigram
+systems,0.027424,0.032079,0.004722,0.036665,unigram
+challenges,0.02732,0.016194,0.0,0.0,unigram
+laws,0.027262,0.004891,0.0,0.0,unigram
+regulations,0.02725,0.013327,0.0,0.0,unigram
+markets,0.027248,0.030327,0.017005,0.0,unigram
+officer,0.027141,0.012071,0.009862,0.0,unigram
+oversight,0.02714,0.017977,0.017299,0.0,unigram
+driven,0.027055,0.033886,0.012078,0.034175,unigram
+machine learning,0.027044,0.012071,0.009022,0.0,bigram
+ethics,0.026916,0.004126,0.0,0.0,unigram
+skills,0.026897,0.035142,0.003605,0.0,unigram
+scale,0.026838,0.036121,0.007443,0.0,unigram
+report,0.026799,0.032728,0.028642,0.0,unigram
+capabilities,0.026771,0.033337,0.024726,0.0,unigram
+governance,0.026727,0.02559,0.038547,0.0,unigram
+use ai,0.026712,0.026564,0.017328,0.0,bigram
+income,0.026671,0.004566,0.0,0.0,unigram
+solutions,0.026649,0.031105,0.021328,0.016284,unigram
+transformation,0.026627,0.030173,0.010825,0.0,unigram
+journeys,0.026374,0.004876,0.004343,0.0,unigram
+controls,0.026312,0.021721,0.035551,0.0,unigram
+ensure,0.026216,0.021593,0.024214,0.0,unigram
+continue,0.026196,0.027238,0.021944,0.023847,unigram
+quality,0.026169,0.011694,0.008255,0.0,unigram
+plc annual,0.026145,0.003928,0.004067,0.0,bigram
+need,0.025986,0.017129,0.003605,0.0,unigram
+related,0.025896,0.022725,0.01932,0.0,unigram
+provided,0.025865,0.006149,0.012466,0.0,unigram
+value,0.025808,0.028518,0.017569,0.031419,unigram
+economic,0.025778,0.013267,0.010007,0.0,unigram
+insights,0.025675,0.018154,0.00465,0.0,unigram
+trade,0.025613,0.011518,0.004343,0.0,unigram
+eu,0.025593,0.0,0.0,0.0,unigram
+strong,0.025567,0.027805,0.01497,0.016284,unigram
+climate risk,0.025551,0.010469,0.0,0.0,bigram
+evolving,0.025526,0.040592,0.011498,0.0,unigram
+regulators,0.025395,0.003863,0.0,0.0,unigram
+leading,0.025267,0.026512,0.005312,0.0,unigram
+modelling,0.025214,0.0,0.0,0.0,unigram
+ai tools,0.025172,0.019801,0.0,0.0,bigram
+deployment,0.025088,0.007663,0.00872,0.0,unigram
+working,0.025065,0.015979,0.016173,0.0,unigram
+year,0.025042,0.034592,0.043342,0.023847,unigram
+crime,0.024909,0.003693,0.021313,0.0,unigram
+enable,0.024853,0.02159,0.0,0.0,unigram
+compliance,0.02484,0.030309,0.02003,0.0,unigram
+internal,0.024829,0.024251,0.028879,0.0,unigram
+focused,0.024805,0.013755,0.0111,0.0,unigram
+increasing,0.024733,0.010469,0.034339,0.0,unigram
+failure,0.024704,0.019106,0.005959,0.0,unigram
+discussed,0.024684,0.003863,0.004067,0.0,unigram
+pay,0.024674,0.014624,0.014878,0.0,unigram
+non,0.024674,0.022533,0.015313,0.0,unigram
+policies,0.024665,0.012047,0.019042,0.0,unigram
+emerging,0.024649,0.033668,0.012297,0.053197,unigram
+delivery,0.024479,0.011996,0.014441,0.045203,unigram
+ability,0.024404,0.016192,0.00455,0.0,unigram
+corporate,0.024382,0.017494,0.0121,0.0,unigram
+executive,0.024379,0.027249,0.022582,0.028971,unigram
+digital assets,0.024363,0.013965,0.005949,0.0,bigram
+transition,0.024355,0.015753,0.004814,0.0,unigram
+issues,0.024303,0.010982,0.005593,0.0,unigram
+independent,0.024176,0.006541,0.004067,0.0,unigram
+framework,0.02417,0.025924,0.031414,0.035261,unigram
+fraud,0.02413,0.024338,0.016255,0.0,unigram
+based,0.024127,0.019585,0.012837,0.016284,unigram
+monitoring,0.024098,0.014846,0.0215,0.0,unigram
+security,0.024091,0.025634,0.020305,0.0,unigram
+driving,0.02408,0.019083,0.010297,0.0,unigram
+data ai,0.024021,0.016362,0.012762,0.0,bigram
+applications,0.02401,0.017153,0.0,0.0,unigram
+risk management,0.023974,0.027109,0.024166,0.0,bigram
+building,0.023962,0.029445,0.008677,0.0,unigram
+importance,0.023962,0.004047,0.008255,0.0,unigram
+operations,0.023916,0.030546,0.023978,0.0,unigram
+sustainable,0.023907,0.00881,0.008946,0.0,unigram
+launched,0.023881,0.017234,0.01057,0.030466,unigram
+party,0.023876,0.011314,0.010713,0.0,unigram
+real,0.023791,0.027503,0.0,0.0,unigram
+roles,0.023776,0.0,0.0,0.0,unigram
+result,0.023767,0.017938,0.0,0.0,unigram
+colleague,0.023705,0.018101,0.0,0.0,unigram
+enhanced,0.023671,0.018203,0.012758,0.037762,unigram
+regular,0.023602,0.018919,0.0,0.0,unigram
+work,0.02359,0.027426,0.016668,0.016284,unigram
+ambitions,0.023587,0.009146,0.0,0.0,unigram
+areas,0.023578,0.021288,0.02922,0.0,unigram
+annual,0.023554,0.030313,0.028957,0.0,unigram
+directors,0.023537,0.012373,0.030145,0.0,unigram
+particularly,0.02351,0.01801,0.015446,0.0,unigram
+enhancing,0.023452,0.006906,0.00562,0.0,unigram
+needs,0.023452,0.019322,0.0,0.019968,unigram
+updates,0.02344,0.01697,0.016857,0.0,unigram
+ongoing,0.023427,0.020432,0.028253,0.0,unigram
+standards,0.023396,0.010085,0.009862,0.0,unigram
+significant,0.023356,0.01501,0.020775,0.027133,unigram
+suppliers,0.023344,0.025312,0.00455,0.0,unigram
+considered,0.023306,0.004047,0.021411,0.0,unigram
+making,0.02327,0.020818,0.010027,0.031419,unigram
+term,0.023257,0.033115,0.011199,0.0,unigram
+increasingly,0.023251,0.014061,0.01027,0.0,unigram
+powered,0.02322,0.029553,0.017013,0.0,unigram
+leveraging,0.023207,0.024024,0.004626,0.0,unigram
+content,0.023182,0.0,0.0,0.0,unigram
+deep,0.023179,0.008803,0.010143,0.0,unigram
+manage,0.023154,0.016642,0.004626,0.0,unigram
+act,0.023136,0.010356,0.013149,0.0,unigram
+agents,0.023121,0.007267,0.008788,0.0,unigram
+helping,0.023095,0.012229,0.0,0.0,unigram
+increased,0.023076,0.019543,0.009459,0.017994,unigram
+deliver,0.023063,0.029142,0.01576,0.047757,unigram
+industry,0.023048,0.015284,0.022347,0.0,unigram
+ai digital,0.023009,0.0146,0.003823,0.0,bigram
+responsible ai,0.022998,0.009294,0.0,0.0,bigram
+way,0.022965,0.011572,0.00519,0.0,unigram
+chief,0.022911,0.013755,0.008862,0.018943,unigram
+enabled,0.022859,0.037314,0.011872,0.0,unigram
+alongside,0.022832,0.014794,0.012831,0.0,unigram
+time,0.022808,0.026745,0.027528,0.027133,unigram
+accessibility,0.022772,0.0,0.0,0.0,unigram
+statements,0.022722,0.011054,0.015147,0.021082,unigram
+control,0.022686,0.02691,0.024188,0.0,unigram
+businesses,0.022674,0.023993,0.003605,0.0,unigram
+productivity,0.022538,0.021546,0.010755,0.0,unigram
+consistent,0.022466,0.011121,0.0,0.025159,unigram
+discussions,0.022411,0.007754,0.005949,0.0,unigram
+point,0.022394,0.008494,0.0,0.0,unigram
+genai,0.022368,0.028045,0.014221,0.0,unigram
+research,0.022267,0.0,0.0,0.0,unigram
+regulatory,0.022263,0.029119,0.010915,0.033041,unigram
+policy,0.022241,0.013898,0.018384,0.0,unigram
+associated,0.022179,0.010785,0.019504,0.017994,unigram
+operational resilience,0.022171,0.013965,0.0,0.0,bigram
+build,0.022171,0.02694,0.010053,0.0,unigram
+regulation,0.022109,0.014977,0.0,0.0,unigram
+improved,0.021967,0.020647,0.011582,0.0,unigram
+continues,0.021907,0.031949,0.008789,0.0,unigram
+generative agentic,0.021858,0.0,0.0,0.0,bigram
+infrastructure,0.021858,0.032119,0.008429,0.0,unigram
+programmes,0.021849,0.027147,0.00395,0.0,unigram
+chain,0.021832,0.006985,0.0,0.0,unigram
+assessment,0.021787,0.00881,0.019408,0.0,unigram
+decisions,0.021783,0.010145,0.012585,0.0,unigram
+complex,0.021706,0.02503,0.0,0.0,unigram
+costs,0.021665,0.010145,0.023202,0.0,unigram
+supported,0.021662,0.0181,0.007151,0.0,unigram
+lending,0.02165,0.004503,0.0,0.0,unigram
+given,0.021641,0.003863,0.004067,0.0,unigram
+pricing,0.021597,0.017005,0.005949,0.0,unigram
+increase,0.021582,0.022705,0.01634,0.017111,unigram
+delivering,0.021581,0.012222,0.025415,0.032073,unigram
+meet,0.021529,0.008107,0.010433,0.0,unigram
+trend,0.021504,0.004195,0.0,0.026868,unigram
+serve,0.021496,0.011381,0.005959,0.0,unigram
+principles,0.021484,0.018609,0.0,0.0,unigram
+stakeholders,0.021412,0.0,0.005602,0.0,unigram
+technological,0.021408,0.003291,0.009177,0.03871,unigram
+end,0.021398,0.016431,0.012759,0.019968,unigram
+applicable,0.021395,0.008511,0.0,0.0,unigram
+developed,0.021361,0.010376,0.012641,0.0,unigram
+annual report,0.021361,0.022024,0.010609,0.0,bigram
+laws regulations,0.021357,0.0,0.0,0.0,bigram
+outcomes,0.02135,0.012193,0.029801,0.0,unigram
+page,0.021349,0.017173,0.0,0.0,unigram
+sources,0.021287,0.007791,0.0,0.0,unigram
+presented,0.021267,0.003928,0.005949,0.0,unigram
+set,0.021244,0.01525,0.015544,0.0,unigram
+rights,0.021244,0.004429,0.0,0.0,unigram
+currencies,0.021187,0.004429,0.0,0.0,unigram
+microsoft,0.021184,0.0,0.00504,0.0,unigram
+challenge,0.021151,0.01231,0.0,0.0,unigram
+developments,0.02115,0.012803,0.014595,0.046186,unigram
+identify,0.021143,0.004305,0.01438,0.0,unigram
+collaboration,0.021143,0.006149,0.008754,0.0,unigram
+interactions,0.021084,0.003693,0.011552,0.0,unigram
+rapidly,0.021081,0.022451,0.0,0.0,unigram
+capital,0.021024,0.026215,0.007012,0.039754,unigram
+money,0.021004,0.0,0.012374,0.0,unigram
+asset,0.020959,0.010354,0.012328,0.0,unigram
+trusted,0.020928,0.008932,0.0,0.0,unigram
+material,0.020925,0.003482,0.018979,0.0,unigram
+assurance,0.020916,0.01755,0.0,0.0,unigram
+embed,0.020855,0.010469,0.0,0.0,unigram
+outcome,0.020808,0.005234,0.0,0.0,unigram
+services,0.020775,0.026999,0.019878,0.065484,unigram
+long,0.020762,0.025597,0.006774,0.0,unigram
+multi,0.020745,0.010544,0.003823,0.0,unigram
+included,0.020739,0.017423,0.017941,0.0,unigram
+provides,0.02073,0.014369,0.008473,0.0,unigram
+supporting,0.020714,0.007937,0.005959,0.023651,unigram
+progress,0.02071,0.026104,0.020829,0.0,unigram
+wide,0.020698,0.007924,0.008928,0.0,unigram
+loss,0.02067,0.007749,0.009783,0.0,unigram
+accounts,0.020668,0.025033,0.00761,0.0,unigram
+operating,0.020657,0.01787,0.016443,0.0,unigram
+scaling,0.020654,0.00525,0.006329,0.0,unigram
+required,0.020633,0.014069,0.007391,0.0,unigram
+advanced,0.020615,0.020172,0.009177,0.0,unigram
+expertise,0.020595,0.020032,0.009032,0.0,unigram
+meeting,0.020585,0.006498,0.01327,0.0,unigram
+adoption ai,0.020555,0.006985,0.009485,0.0,bigram
+parties,0.020516,0.003863,0.004067,0.0,unigram
+language,0.0205,0.0,0.016326,0.0,unigram
+developing,0.020456,0.012229,0.0,0.0,unigram
+wider,0.020454,0.013284,0.00455,0.0,unigram
+responsibly,0.020429,0.008321,0.0,0.0,unigram
+open,0.02042,0.017131,0.005959,0.0,unigram
+accelerating,0.020384,0.008862,0.0,0.0,unigram
+reporting,0.020379,0.018693,0.02204,0.0,unigram
+enhance,0.020358,0.028397,0.030546,0.025019,unigram
+landscape,0.020349,0.028099,0.003228,0.0,unigram
+implementation,0.020344,0.007916,0.021185,0.0,unigram
+distribution,0.020339,0.020665,0.0,0.0,unigram
+inflation,0.020325,0.003863,0.004067,0.0,unigram
+grow,0.020311,0.010901,0.00892,0.0,unigram
+energy,0.020309,0.012853,0.0,0.0,unigram
+bias,0.020308,0.013238,0.02731,0.041909,unigram
+particular,0.020294,0.006529,0.007803,0.0,unigram
+academy,0.020282,0.005226,0.0,0.0,unigram
+credit,0.020268,0.035666,0.0,0.0,unigram
+received,0.020217,0.006794,0.020782,0.0,unigram
+accelerated,0.020191,0.008429,0.0,0.0,unigram
+cyber,0.020154,0.022181,0.040808,0.0,unigram
+training,0.020151,0.009458,0.025065,0.0,unigram
+enabling,0.020146,0.024169,0.009253,0.0,unigram
+role,0.020136,0.013873,0.010295,0.0,unigram
+cost,0.020126,0.01362,0.015942,0.0,unigram
+providing,0.020114,0.014123,0.005274,0.0,unigram
+report accounts,0.020107,0.015509,0.009013,0.0,bigram
+non executive,0.020094,0.008772,0.009862,0.0,bigram
+decision,0.020037,0.020677,0.00455,0.0,unigram
+limited,0.019953,0.011266,0.019257,0.0,unigram
+david,0.019915,0.0,0.0,0.0,unigram
+simplification,0.0199,0.004876,0.004343,0.0,unigram
+groups,0.019879,0.01394,0.005593,0.0,unigram
+section,0.019869,0.0,0.012204,0.0,unigram
+rapid,0.019856,0.025009,0.005465,0.0,unigram
+audit,0.019827,0.019266,0.023683,0.017994,unigram
+affect,0.019825,0.007928,0.0,0.0,unigram
+human,0.019801,0.024434,0.004814,0.0,unigram
+offering,0.019791,0.016817,0.0,0.040951,unigram
+experiences,0.019789,0.00729,0.009416,0.0,unigram
+plans,0.019761,0.01118,0.009115,0.0,unigram
+capability,0.019718,0.021208,0.0,0.0,unigram
+product,0.019648,0.038971,0.011494,0.053197,unigram
+ai technologies,0.019616,0.0,0.0,0.0,bigram
+requirements,0.019598,0.017159,0.01558,0.0,unigram
+sector,0.019582,0.008105,0.0,0.0,unigram
+competition,0.01958,0.007117,0.008034,0.0,unigram
+topics,0.019574,0.004891,0.006353,0.0,unigram
+committees,0.019561,0.008443,0.0,0.0,unigram
+benefit,0.019502,0.0,0.0,0.0,unigram
+context,0.019495,0.0,0.00682,0.0,unigram
+efficiency,0.019481,0.025806,0.022679,0.0,unigram
+area,0.019476,0.003863,0.005521,0.0,unigram
+ethical,0.019475,0.016226,0.019653,0.0,unigram
+additionally,0.01947,0.0,0.0,0.0,unigram
+expected,0.019445,0.010469,0.005949,0.0,unigram
+assistant,0.019436,0.011018,0.0,0.0,unigram
+demand,0.019427,0.016279,0.008255,0.0,unigram
+related risks,0.019416,0.004195,0.0,0.0,bigram
+including artificial,0.01939,0.0,0.0,0.0,bigram
+supply,0.019376,0.014742,0.0,0.0,unigram
+external,0.019369,0.012517,0.020828,0.029902,unigram
+large,0.019363,0.013026,0.01104,0.0,unigram
+copilot,0.019357,0.0,0.0,0.0,unigram
+integrated,0.019342,0.017367,0.0,0.0,unigram
+seamless,0.019341,0.009071,0.0,0.0,unigram
+culture,0.01934,0.023039,0.023662,0.0,unigram
+additional,0.019315,0.015599,0.013906,0.018943,unigram
+competitive,0.019305,0.024895,0.02332,0.0,unigram
+communities,0.019304,0.003863,0.005246,0.0,unigram
+enterprise,0.019258,0.016839,0.011702,0.0,unigram
+safely,0.019254,0.01118,0.0,0.0,unigram
+opportunity,0.019243,0.024177,0.017149,0.0,unigram
+direct,0.019242,0.021781,0.004894,0.0,unigram
+head,0.019232,0.0,0.006329,0.0,unigram
+medium,0.019227,0.011658,0.004067,0.0,unigram
+people,0.019223,0.023413,0.02629,0.025862,unigram
+improve,0.019201,0.02211,0.030972,0.0,unigram
+initiatives,0.019196,0.027494,0.020844,0.0,unigram
+range,0.019174,0.012896,0.014076,0.058823,unigram
+finance,0.019161,0.026049,0.00543,0.0,unigram
+accounting,0.019149,0.012279,0.018891,0.046186,unigram
+nature,0.019147,0.003928,0.009497,0.0,unigram
+easier,0.019131,0.007499,0.0,0.0,unigram
+make,0.019127,0.015759,0.019353,0.0,unigram
+strategies,0.019112,0.004876,0.004343,0.0,unigram
+agile,0.019101,0.0,0.010757,0.0,unigram
+used,0.019079,0.016015,0.011673,0.018943,unigram
+certain,0.019056,0.007998,0.010036,0.0,unigram
+objectives,0.019039,0.004047,0.015707,0.0,unigram
+long term,0.019037,0.025597,0.006774,0.0,bigram
+prices,0.019006,0.0,0.0,0.0,unigram
+environment,0.018989,0.02451,0.016738,0.0,unigram
+actions,0.018989,0.015603,0.007391,0.0,unigram
+journey,0.018952,0.017035,0.010734,0.0,unigram
+ai agents,0.018943,0.008862,0.0,0.0,bigram
+company,0.018932,0.017237,0.021566,0.0,unigram
+partnership,0.01891,0.013737,0.014046,0.0,unigram
+banks,0.018906,0.009017,0.0,0.0,unigram
+data ethics,0.018889,0.0,0.0,0.0,bigram
+drive,0.018859,0.033929,0.012975,0.016284,unigram
+rates,0.018853,0.014916,0.008788,0.0,unigram
+global,0.018835,0.03726,0.022443,0.0,unigram
+target,0.018829,0.008107,0.009708,0.0,unigram
+software,0.018801,0.015867,0.0,0.0,unigram
+senior,0.018781,0.014337,0.021248,0.0,unigram
+digital ai,0.018781,0.005675,0.0,0.0,bigram
+create,0.018778,0.021382,0.00465,0.0,unigram
+remains,0.018766,0.020415,0.019311,0.0,unigram
+programme,0.018753,0.023971,0.007164,0.037762,unigram
+ai powered,0.018748,0.029695,0.01791,0.0,bigram
+high quality,0.018703,0.0,0.0,0.0,bigram
+employees,0.018663,0.016275,0.024678,0.0,unigram
+level,0.018627,0.01691,0.007219,0.0,unigram
+designed,0.018585,0.021261,0.011747,0.0,unigram
+design,0.018564,0.003928,0.01147,0.0,unigram
+integration,0.018562,0.021504,0.01348,0.0,unigram
+relating,0.018559,0.013615,0.007958,0.03871,unigram
+technology data,0.018553,0.007749,0.020048,0.0,bigram
+estate,0.018526,0.013445,0.006886,0.0,unigram
+inclusion,0.018489,0.017794,0.017551,0.0,unigram
+ai risk,0.018487,0.011231,0.011354,0.0,bigram
+higher,0.018467,0.013009,0.0,0.0,unigram
+wealth,0.018463,0.024233,0.0,0.0,unigram
+commercial,0.018458,0.015013,0.00465,0.0,unigram
+helps,0.01844,0.007754,0.009348,0.025159,unigram
+reports,0.018422,0.009017,0.0,0.0,unigram
+profile,0.01841,0.009071,0.0,0.0,unigram
+update,0.018403,0.00889,0.0,0.0,unigram
+develop,0.018383,0.009319,0.012384,0.044242,unigram
+customer experience,0.01836,0.019374,0.00761,0.0,bigram
+processes,0.018343,0.024781,0.036648,0.085278,unigram
+centre,0.018339,0.004429,0.0,0.0,unigram
+social,0.018336,0.020384,0.010007,0.0,unigram
+government,0.018326,0.004195,0.004343,0.0,unigram
+technology ai,0.018291,0.0127,0.005105,0.0,bigram
+action,0.018285,0.004876,0.005896,0.0,unigram
+remuneration,0.018279,0.014374,0.029957,0.0,unigram
+teams,0.018276,0.017322,0.017631,0.029902,unigram
+data including,0.018272,0.004503,0.0,0.0,bigram
+ai driven,0.01826,0.01917,0.011169,0.039754,bigram
+leadership,0.018254,0.029294,0.005031,0.0,unigram
+standard,0.018246,0.010568,0.0,0.0,unigram
+reviewed,0.018242,0.010753,0.0267,0.0,unigram
+personal,0.01822,0.017058,0.008034,0.0,unigram
+impacts,0.018205,0.005234,0.012204,0.0,unigram
+number,0.018195,0.014969,0.016802,0.0,unigram
+reduce,0.018195,0.018736,0.011582,0.0,unigram
+drivers,0.018188,0.0,0.0,0.0,unigram
+strengthen,0.018142,0.018536,0.016687,0.0,unigram
+data analytics,0.018105,0.004787,0.0,0.0,bigram
+cybersecurity,0.018057,0.008803,0.006353,0.0,unigram
+faster,0.018023,0.021508,0.003408,0.0,unigram
+group chief,0.018019,0.0,0.0,0.0,bigram
+privacy,0.017995,0.014018,0.008499,0.0,unigram
+million,0.017976,0.008429,0.019754,0.0,unigram
+matters,0.017964,0.009955,0.021411,0.0,unigram
+engaging,0.017945,0.0,0.0,0.0,unigram
+risk profile,0.017939,0.005234,0.0,0.0,bigram
+gen,0.017916,0.035533,0.0,0.0,unigram
+introduce,0.017884,0.0,0.007354,0.0,unigram
+efforts,0.017859,0.0,0.011401,0.0,unigram
+noting,0.017844,0.0,0.0,0.0,unigram
+ai academy,0.017837,0.005226,0.0,0.0,bigram
+successful,0.017827,0.012476,0.003605,0.0,unigram
+transparency,0.017812,0.019042,0.005246,0.0,unigram
+ion,0.017778,0.00525,0.0,0.0,unigram
+new technologies,0.017749,0.007937,0.0,0.023651,bigram
+measures,0.017744,0.011861,0.006353,0.0,unigram
+safe,0.017705,0.008597,0.008754,0.0,unigram
+basis,0.017697,0.004305,0.01115,0.0,unigram
+adverse,0.017671,0.005234,0.0,0.0,unigram
+migration,0.017656,0.004503,0.004662,0.0,unigram
+better,0.017644,0.029159,0.018341,0.0,unigram
+validation,0.017636,0.0,0.0,0.0,unigram
+leaders,0.01763,0.024441,0.008255,0.0,unigram
+ai models,0.017624,0.0,0.0,0.0,bigram
+ai technology,0.017611,0.015259,0.005593,0.0,bigram
+taken,0.017601,0.012407,0.0,0.0,unigram
+gen ai,0.017577,0.035083,0.0,0.0,bigram
+practices,0.017562,0.014993,0.008393,0.0,unigram
+exchange,0.017527,0.00525,0.007268,0.0,unigram
+financial crime,0.017521,0.003693,0.01982,0.0,bigram
+future skills,0.017496,0.0,0.0,0.0,bigram
+transactions,0.017487,0.011893,0.010101,0.034783,unigram
+november,0.017453,0.010611,0.003823,0.0,unigram
+existing,0.017451,0.018292,0.007803,0.021082,unigram
+approval,0.017439,0.004195,0.006353,0.0,unigram
+led,0.017426,0.01496,0.004931,0.0,unigram
+expectations,0.017413,0.014403,0.004814,0.0,unigram
+achieve,0.01741,0.003693,0.004931,0.0,unigram
+workforce,0.017319,0.022718,0.031875,0.0,unigram
+mortgage,0.017303,0.0,0.0,0.0,unigram
+core,0.017258,0.026808,0.011077,0.018943,unigram
+ai use,0.017213,0.015606,0.006473,0.0,bigram
+relationships,0.017199,0.014614,0.005105,0.0,unigram
+evolution,0.017199,0.011216,0.005949,0.025159,unigram
+total,0.017183,0.010766,0.011463,0.0,unigram
+investing,0.017124,0.017483,0.018499,0.0,unigram
+fairness,0.017104,0.027967,0.027852,0.0,unigram
+years,0.017083,0.041048,0.0,0.0,unigram
+regulatory requirements,0.01708,0.0,0.0,0.0,bigram
+principal,0.017075,0.010366,0.017305,0.0,unigram
+modern,0.017067,0.015531,0.0,0.0,unigram
+expect,0.017056,0.009858,0.012936,0.0,unigram
+raised,0.017055,0.008508,0.0,0.0,unigram
+assess,0.017005,0.008429,0.005521,0.0,unigram
+economy,0.017004,0.009017,0.0,0.0,unigram
+excellence,0.017004,0.007499,0.0,0.0,unigram
+decision making,0.016994,0.014567,0.004814,0.0,bigram
+facilitate,0.016989,0.005658,0.0,0.0,unigram
+team,0.016954,0.034148,0.019173,0.017994,unigram
+appetite,0.016918,0.012571,0.007894,0.0,unigram
+execution,0.016878,0.022182,0.00543,0.0,unigram
+activities,0.016853,0.020612,0.02107,0.0,unigram
+techniques,0.016845,0.005658,0.0,0.0,unigram
+improvement,0.016835,0.008511,0.0,0.0,unigram
+legal,0.016816,0.019247,0.003408,0.0,unigram
+rate,0.016799,0.02072,0.012982,0.018943,unigram
+emissions,0.01678,0.013893,0.0,0.0,unigram
+insurance,0.016756,0.026851,0.01556,0.0,unigram
+assessing,0.016738,0.003693,0.008754,0.0,unigram
+allowing,0.016728,0.0,0.013301,0.0,unigram
+trust,0.016692,0.014346,0.009464,0.0,unigram
+loans,0.016688,0.012053,0.0,0.0,unigram
+functionality,0.016668,0.0,0.007856,0.0,unigram
+initiative,0.016667,0.005658,0.0,0.0,unigram
+introduced,0.016627,0.017361,0.013572,0.0,unigram
+effective,0.016607,0.021157,0.012788,0.0,unigram
+hours,0.016561,0.004429,0.006329,0.0,unigram
+ai act,0.016559,0.0,0.0,0.0,bigram
+claims,0.016537,0.012961,0.0,0.0,unigram
+growing,0.016534,0.013952,0.020791,0.0,unigram
+position,0.016533,0.019773,0.010165,0.0,unigram
+believe,0.016531,0.008443,0.006339,0.0,unigram
+outside,0.016524,0.0,0.0,0.057246,unigram
+feedback,0.016509,0.018835,0.011812,0.018943,unigram
+member,0.016505,0.017744,0.0,0.0,unigram
+deploy,0.0165,0.007499,0.004662,0.0,unigram
+relevant,0.01647,0.013721,0.015787,0.0,unigram
+understanding,0.016414,0.014346,0.010893,0.0,unigram
+including ai,0.016405,0.020795,0.01558,0.0,bigram
+rapidly evolving,0.016402,0.00889,0.0,0.0,bigram
+ensuring,0.016402,0.023802,0.014923,0.0,unigram
+ai machine,0.016402,0.004503,0.0,0.0,bigram
+data quality,0.016376,0.0,0.0,0.0,bigram
+apply,0.016369,0.003863,0.005949,0.0,unigram
+subject,0.016345,0.003425,0.019044,0.0,unigram
+july,0.016305,0.004429,0.0,0.0,unigram
+arise,0.016292,0.004867,0.0,0.0,unigram
+service,0.016291,0.027852,0.033071,0.041909,unigram
+ftse,0.016286,0.005658,0.0,0.0,unigram
+stability,0.016264,0.0,0.0,0.0,unigram
+embedding,0.016233,0.004195,0.005602,0.0,unigram
+organisation,0.016206,0.018481,0.0,0.0,unigram
+internally,0.016198,0.0,0.0,0.0,unigram
+maintaining,0.016173,0.02236,0.003823,0.0,unigram
+benefits,0.016163,0.019382,0.027151,0.0,unigram
+app,0.016149,0.004429,0.004662,0.0,unigram
+provider,0.016144,0.009579,0.0,0.0,unigram
+learning models,0.016134,0.0,0.0,0.0,bigram
+summarise,0.016134,0.0,0.0,0.0,unigram
+protection,0.016125,0.022949,0.017149,0.0,unigram
+group wide,0.016117,0.0,0.005501,0.0,bigram
+financial services,0.016102,0.010454,0.010007,0.043428,bigram
+broader,0.016074,0.010454,0.006473,0.043428,unigram
+particular focus,0.016065,0.0,0.0,0.0,bigram
+closely,0.016064,0.007791,0.006886,0.0,unigram
+ai enabled,0.016021,0.025807,0.009628,0.0,bigram
+operate,0.016016,0.010982,0.022404,0.0,unigram
+ai systems,0.015997,0.014088,0.0,0.0,bigram
+relation,0.015973,0.011284,0.008754,0.0,unigram
+deposit,0.015953,0.0,0.0,0.0,unigram
+results,0.015948,0.011271,0.008928,0.0,unigram
+zero,0.015945,0.004429,0.0,0.0,unigram
+new ai,0.015931,0.004891,0.007354,0.0,bigram
+april,0.015922,0.0,0.0,0.0,unigram
+customer journeys,0.015919,0.005658,0.0,0.0,bigram
+ai strategy,0.015914,0.010514,0.00543,0.0,bigram
+place,0.015914,0.021166,0.00562,0.0,unigram
+instruments,0.01589,0.0,0.0,0.0,unigram
+threats,0.01588,0.019172,0.010016,0.0,unigram
+geopolitical,0.015862,0.012357,0.004067,0.0,unigram
+customer interactions,0.01586,0.004867,0.0,0.0,bigram
+effect,0.015847,0.00525,0.0,0.0,unigram
+current,0.015837,0.010277,0.008879,0.0,unigram
+advice,0.015768,0.004876,0.01257,0.0,unigram
+group risk,0.015761,0.012451,0.0,0.0,bigram
+cross,0.015749,0.004126,0.005602,0.0,unigram
+regarding,0.015741,0.013893,0.0,0.0,unigram
+secure,0.015734,0.004503,0.009784,0.0,unigram
+incidents,0.015724,0.0,0.0,0.0,unigram
+expanded,0.015716,0.006651,0.004067,0.042597,unigram
+mobility,0.015709,0.0,0.0,0.0,unigram
+financial markets,0.015705,0.0,0.0,0.0,bigram
+lifecycle,0.015705,0.0,0.0,0.0,unigram
+data management,0.015694,0.004503,0.004662,0.0,bigram
+identified,0.015693,0.010966,0.008255,0.0,unigram
+remained,0.015666,0.0,0.0,0.0,unigram
+average,0.015651,0.007937,0.004931,0.0,unigram
+technologies including,0.015646,0.015576,0.0,0.0,bigram
+ai board,0.015628,0.0,0.0,0.0,bigram
+best,0.015621,0.01742,0.008349,0.0,unigram
+gains,0.015601,0.009845,0.013529,0.0,unigram
+disruption,0.0156,0.003863,0.006886,0.046197,unigram
+mean,0.015598,0.0,0.0,0.0,unigram
+period,0.01557,0.0,0.0,0.0,unigram
+targets,0.015557,0.003826,0.019243,0.0,unigram
+planning,0.015555,0.006478,0.018331,0.0,unigram
+suite,0.015537,0.011978,0.0,0.0,unigram
+ai group,0.015532,0.0,0.0,0.0,bigram
+assumptions,0.015519,0.004126,0.016359,0.0,unigram
+firms,0.01551,0.0,0.0,0.0,unigram
+shareholders,0.015509,0.021593,0.0,0.023651,unigram
+gap,0.01549,0.005234,0.0,0.0,unigram
+consumer,0.015473,0.016277,0.017313,0.0,unigram
+aim,0.015467,0.007928,0.0,0.049336,unigram
+code,0.015465,0.01334,0.008255,0.0,unigram
+emerging technologies,0.015448,0.017861,0.006014,0.0,bigram
+risk committee,0.015444,0.011228,0.0,0.0,bigram
+announced,0.015442,0.0,0.00504,0.0,unigram
+transformative,0.015432,0.005658,0.0,0.0,unigram
+combining,0.015418,0.004787,0.0,0.0,unigram
+environments,0.015418,0.008241,0.0,0.0,unigram
+acquisition,0.0154,0.023531,0.0,0.0,unigram
+greater,0.015398,0.015192,0.010771,0.054707,unigram
+channels,0.015392,0.021213,0.0,0.022302,unigram
+shared,0.015381,0.003693,0.00519,0.023651,unigram
+ai deployment,0.015373,0.0,0.0,0.0,bigram
+billion,0.015369,0.015606,0.01383,0.0,unigram
+transparent,0.015343,0.009679,0.0,0.0,unigram
+testing,0.015331,0.010063,0.010087,0.0,unigram
+power,0.015285,0.008241,0.0,0.0,unigram
+newly,0.015242,0.0,0.0,0.0,unigram
+application,0.015215,0.018568,0.003605,0.0,unigram
+priorities,0.015199,0.009841,0.010524,0.0,unigram
+ai ethics,0.015176,0.0,0.0,0.0,bigram
+personalised,0.015146,0.022852,0.0,0.0,unigram
+funding,0.015142,0.016387,0.00682,0.0,unigram
+ai driving,0.015117,0.0,0.0,0.0,bigram
+director,0.015107,0.017959,0.01853,0.0,unigram
+respect,0.015103,0.016183,0.005246,0.0,unigram
+autonomous,0.015101,0.005658,0.0,0.0,unigram
+effectively,0.01509,0.020645,0.011676,0.0,unigram
+trading,0.015066,0.005234,0.011547,0.0,unigram
+extending,0.01503,0.0,0.0,0.0,unigram
+real estate,0.015022,0.005226,0.0,0.0,bigram
+home,0.014997,0.0,0.0,0.0,unigram
+speed,0.014991,0.014688,0.004894,0.03776,unigram
+retail,0.014973,0.013416,0.011578,0.0,unigram
+fully,0.014955,0.020732,0.0,0.0,unigram
+leverage,0.014949,0.021062,0.012367,0.030466,unigram
+group ai,0.01494,0.003863,0.009497,0.0,bigram
+empowering,0.014929,0.007791,0.005246,0.0,unigram
+rising,0.014906,0.009017,0.0,0.0,unigram
+advances,0.014903,0.016331,0.004931,0.0,unigram
+ambition,0.014903,0.007985,0.009783,0.0,unigram
+intelligence ai,0.014898,0.019248,0.025068,0.0,bigram
+integrate,0.01486,0.012229,0.0,0.0,unigram
+competitors,0.014854,0.008281,0.004343,0.0,unigram
+changing,0.014844,0.014271,0.005949,0.0,unigram
+ai adoption,0.014829,0.012359,0.0156,0.0,bigram
+major,0.014811,0.013212,0.0,0.0,unigram
+facing,0.01481,0.006252,0.016997,0.0,unigram
+address,0.01481,0.011231,0.004067,0.0,unigram
+organisations,0.014795,0.005658,0.0,0.0,unigram
+implemented,0.014772,0.0,0.0,0.0,unigram
+june,0.014767,0.008494,0.006339,0.025159,unigram
+data driven,0.014765,0.012123,0.0,0.0,bigram
+chair,0.014765,0.015741,0.008255,0.0,unigram
+commitment,0.01476,0.010469,0.0,0.025159,unigram
+uses,0.014759,0.005658,0.0,0.0,unigram
+enhancements,0.014752,0.00901,0.015308,0.0,unigram
+authority,0.014747,0.004126,0.01257,0.0,unigram
+automated,0.014747,0.017619,0.005896,0.0,unigram
+partners,0.014738,0.003863,0.004067,0.025159,unigram
+addition,0.014727,0.009319,0.015477,0.021082,unigram
+details,0.014702,0.010929,0.00543,0.0,unigram
+anti,0.014695,0.005675,0.0,0.0,unigram
+source,0.014695,0.005658,0.0,0.0,unigram
+computing,0.014678,0.015838,0.00543,0.0,unigram
+workflows,0.014674,0.0,0.009504,0.0,unigram
+value chain,0.014662,0.0,0.0,0.0,bigram
+dive,0.014647,0.004867,0.00504,0.0,unigram
+maintain,0.014646,0.016415,0.008928,0.0,unigram
+volatility,0.014641,0.012476,0.006353,0.0,unigram
+users,0.014641,0.008862,0.006329,0.0,unigram
+includes,0.014626,0.022694,0.005312,0.0,unigram
+ready,0.014618,0.016347,0.0,0.0,unigram
+colleagues completed,0.014557,0.0,0.0,0.0,bigram
+holistic,0.014555,0.0,0.0,0.0,unigram
+uncertainty,0.014546,0.005234,0.00682,0.0,unigram
+emerging risks,0.014541,0.006651,0.005949,0.046197,bigram
+rationale,0.014525,0.0,0.0,0.057246,unigram
+portfolio,0.014517,0.018849,0.008349,0.0,unigram
+arrangements,0.014479,0.007499,0.0,0.0,unigram
+reflect,0.014474,0.004566,0.010767,0.0,unigram
+conditions,0.014474,0.004566,0.006339,0.025159,unigram
+define,0.014457,0.0,0.0,0.0,unigram
+reputational,0.014454,0.008494,0.00543,0.0,unigram
+focus areas,0.014452,0.0,0.0,0.0,bigram
+traditional,0.014452,0.017131,0.0,0.0,unigram
+intended,0.014439,0.0,0.0,0.0,unigram
+appropriate,0.014425,0.021248,0.027134,0.0,unigram
+group ability,0.014424,0.0,0.0,0.0,bigram
+involved,0.014404,0.00525,0.0,0.0,unigram
+sourcing,0.014404,0.0,0.008533,0.0,unigram
+built,0.014382,0.018919,0.009938,0.0,unigram
+face,0.014336,0.009753,0.0,0.0,unigram
+regular updates,0.014334,0.004503,0.0,0.0,bigram
+financial data,0.014318,0.0,0.0,0.0,bigram
+interoperability,0.014282,0.0,0.0,0.0,unigram
+tech,0.014265,0.013797,0.0,0.0,unigram
+sectors,0.01426,0.019462,0.0,0.0,unigram
+improving,0.014238,0.009272,0.019679,0.0,unigram
+embedded,0.014223,0.013232,0.01897,0.0,unigram
+factors,0.01421,0.008666,0.019537,0.0,unigram
+jurisdictions,0.014207,0.004787,0.00504,0.0,unigram
+established,0.014203,0.012107,0.005246,0.0,unigram
+products services,0.014181,0.0,0.0,0.0,bigram
+employee,0.014178,0.011331,0.025076,0.0,unigram
+defined,0.014166,0.008494,0.0,0.046197,unigram
+london,0.014157,0.0,0.008048,0.0,unigram
+free,0.014155,0.007998,0.009783,0.0,unigram
+updated,0.014142,0.005675,0.0,0.0,unigram
+session,0.014142,0.004876,0.005799,0.0,unigram
+seek,0.014132,0.0,0.007354,0.026868,unigram
+received regular,0.014111,0.0,0.0,0.0,bigram
+calls,0.014089,0.004867,0.006842,0.0,unigram
+estimates,0.014079,0.010743,0.014417,0.048529,unigram
+quality data,0.014078,0.0,0.0,0.0,bigram
+understand,0.014076,0.007998,0.010036,0.023651,unigram
+lower,0.014072,0.004126,0.010697,0.0,unigram
+remain,0.014066,0.013602,0.021216,0.017994,unigram
+including generative,0.014063,0.009663,0.0,0.0,bigram
+strengthened,0.014059,0.01294,0.0,0.0,unigram
+law,0.014044,0.0,0.0,0.0,unigram
+digitalisation,0.013976,0.008443,0.005246,0.0,unigram
+account,0.013922,0.007624,0.00682,0.0,unigram
+held,0.013919,0.011594,0.009194,0.0,unigram
+harm,0.013918,0.0,0.0,0.0,unigram
+effectiveness,0.013915,0.016416,0.01821,0.0,unigram
+eu ai,0.013901,0.0,0.0,0.0,bigram
+mitigate,0.01386,0.0,0.005799,0.026868,unigram
+share,0.013836,0.018911,0.014337,0.042939,unigram
+breaches,0.01383,0.004867,0.0,0.0,unigram
+manner,0.01383,0.0,0.006729,0.0,unigram
+use data,0.013815,0.021445,0.0,0.0,bigram
+effects,0.013813,0.0,0.0,0.0,unigram
+offer,0.013806,0.015966,0.01738,0.0,unigram
+committee oversight,0.013786,0.0,0.0,0.0,bigram
+setting,0.013783,0.009663,0.0,0.0,unigram
+consider,0.013768,0.00406,0.013069,0.0,unigram
+short,0.013761,0.008241,0.007856,0.0,unigram
+procurement,0.013756,0.0,0.0,0.0,unigram
+individual,0.013732,0.004429,0.00682,0.0,unigram
+proprietary,0.013732,0.00945,0.006329,0.0,unigram
+entities,0.013731,0.0,0.0,0.0,unigram
+january,0.013725,0.0,0.006014,0.0,unigram
+usage,0.013703,0.009086,0.005896,0.0,unigram
+forward,0.013699,0.004429,0.00682,0.0,unigram
+relationship,0.013677,0.0,0.0065,0.0,unigram
+free bias,0.013663,0.0,0.0,0.0,bigram
+levels,0.013642,0.013607,0.012354,0.0,unigram
+sessions,0.013632,0.011216,0.010016,0.0,unigram
+tool,0.013625,0.032288,0.0,0.0,unigram
+net,0.013603,0.014147,0.0,0.023651,unigram
+ai responsibly,0.013601,0.0,0.0,0.0,bigram
+bringing,0.013597,0.004503,0.006329,0.0,unigram
+quantum,0.013561,0.017811,0.00543,0.0,unigram
+natural,0.013554,0.0,0.0,0.0,unigram
+ai uk,0.01354,0.0,0.0,0.0,bigram
+clarity,0.013538,0.0,0.0,0.0,unigram
+committee committee,0.013534,0.0,0.0,0.0,bigram
+placed,0.013532,0.008105,0.0,0.0,unigram
+currently,0.01352,0.009663,0.0,0.0,unigram
+private,0.013484,0.015619,0.009416,0.0,unigram
+robust,0.013415,0.00932,0.014818,0.0,unigram
+risk appetite,0.013396,0.01175,0.004662,0.0,bigram
+technology including,0.01339,0.00525,0.004662,0.0,bigram
+management framework,0.013383,0.008862,0.004662,0.0,bigram
+expansion,0.013366,0.022082,0.005602,0.0,unigram
+payments,0.013365,0.025567,0.008349,0.023651,unigram
+goals,0.013362,0.0,0.0,0.0,unigram
+paper,0.013362,0.0,0.0,0.0,unigram
+new emerging,0.013362,0.0,0.0,0.0,bigram
+sustainability report,0.013362,0.0,0.0,0.0,bigram
+rise,0.013353,0.008443,0.005949,0.046197,unigram
+databricks,0.013343,0.0,0.0,0.0,unigram
+single,0.013338,0.017208,0.014409,0.0,unigram
+volume,0.013313,0.0,0.0,0.0,unigram
+additional information,0.013308,0.0,0.0,0.0,bigram
+statements additional,0.013308,0.0,0.0,0.0,bigram
+forefront,0.0133,0.016135,0.0,0.0,unigram
+based solutions,0.013288,0.0,0.0,0.0,bigram
+nd,0.013288,0.0,0.0,0.0,unigram
+rules,0.013261,0.008511,0.007894,0.0,unigram
+good,0.013255,0.01096,0.019499,0.0,unigram
+continuous,0.013253,0.023039,0.0,0.0,unigram
+operational efficiency,0.013246,0.0,0.004662,0.0,bigram
+proposition,0.013222,0.003826,0.014232,0.074404,unigram
+data protection,0.013216,0.00889,0.012204,0.0,bigram
+fostering,0.013213,0.0,0.0065,0.0,unigram
+executives,0.013213,0.0,0.007372,0.0,unigram
+tensions,0.013207,0.004876,0.004343,0.0,unigram
+adapt,0.013207,0.004195,0.0,0.049336,unigram
+deregulation,0.013196,0.0,0.0,0.0,unigram
+salient,0.013196,0.0,0.0,0.0,unigram
+holdings,0.013171,0.005889,0.0,0.0,unigram
+guidance,0.01314,0.009086,0.0,0.0,unigram
+focusing,0.013136,0.0,0.012667,0.0,unigram
+safeguarding,0.013102,0.0,0.0,0.0,unigram
+management risk,0.013102,0.0,0.0,0.0,bigram
+ratio,0.013075,0.0,0.0,0.0,unigram
+advantages,0.013075,0.0,0.0,0.0,unigram
+normal,0.013075,0.0,0.0,0.0,unigram
+outside normal,0.013075,0.0,0.0,0.0,bigram
+mobile,0.013071,0.005314,0.0,0.0,unigram
+perspectives,0.013071,0.0,0.007346,0.0,unigram
+diverse,0.01307,0.007791,0.011195,0.0,unigram
+predictive,0.013065,0.010539,0.0,0.0,unigram
+pension,0.013051,0.0,0.012895,0.0,unigram
+start,0.013028,0.004429,0.006014,0.0,unigram
+class,0.01302,0.010445,0.0,0.0,unigram
+property,0.013015,0.006176,0.0,0.0,unigram
+innovative,0.013003,0.017502,0.00815,0.022302,unigram
+regime,0.013001,0.006176,0.0,0.0,unigram
+corporate governance,0.012997,0.008932,0.006014,0.0,bigram
+greenwashing,0.012978,0.0,0.0,0.0,unigram
+intellectual,0.012978,0.0,0.0,0.0,unigram
+data privacy,0.012978,0.0,0.0,0.0,bigram
+procedures,0.012974,0.00901,0.022418,0.036665,unigram
+opportunities presented,0.012943,0.0,0.00682,0.0,bigram
+prevention,0.012943,0.004867,0.0,0.0,unigram
+propositions,0.012933,0.0,0.026492,0.0,unigram
+foundations,0.012929,0.020663,0.0,0.0,unigram
+pilot,0.012929,0.0,0.006842,0.0,unigram
+challenged,0.012928,0.0,0.0,0.0,unigram
+ai capabilities,0.012917,0.017436,0.014712,0.0,bigram
+quickly,0.012905,0.004787,0.0,0.0,unigram
+family,0.0129,0.0,0.0,0.0,unigram
+backed,0.0129,0.0,0.0,0.0,unigram
+arising,0.012853,0.003863,0.008882,0.046197,unigram
+deepen,0.012848,0.008997,0.0,0.0,unigram
+base,0.012846,0.009017,0.0,0.0,unigram
+potentially,0.012845,0.0,0.0,0.0,unigram
+entity,0.012824,0.004867,0.0,0.0,unigram
+ai genai,0.012818,0.01439,0.011463,0.0,bigram
+reviews,0.012813,0.011121,0.004067,0.0,unigram
+governance framework,0.012805,0.0,0.015712,0.0,bigram
+ai based,0.012799,0.0,0.0,0.0,bigram
+financial inclusion,0.01279,0.006195,0.0,0.0,bigram
+scalable,0.012768,0.023818,0.0,0.0,unigram
+threat landscape,0.012754,0.0,0.0,0.0,bigram
+financed,0.012754,0.0,0.0,0.0,unigram
+condition,0.01274,0.0,0.0,0.0,unigram
+financial condition,0.01274,0.0,0.0,0.0,bigram
+deployment ai,0.01274,0.0,0.0,0.0,bigram
+subsidiaries,0.012733,0.014738,0.0,0.0,unigram
+peers,0.012726,0.0,0.00504,0.0,unigram
+lead,0.012724,0.011107,0.004067,0.046197,unigram
+live,0.01271,0.009663,0.006329,0.0,unigram
+companies,0.012697,0.012451,0.005602,0.0,unigram
+evolved,0.012689,0.0,0.0,0.0,unigram
+understood,0.012689,0.0,0.0,0.0,unigram
+general,0.012688,0.023594,0.009225,0.0,unigram
+available,0.012687,0.015619,0.005105,0.0,unigram
+risk areas,0.012678,0.0,0.0,0.0,bigram
+conduct risk,0.01267,0.00525,0.0,0.0,bigram
+adjustments,0.012657,0.0,0.0,0.0,unigram
+al,0.012657,0.00525,0.0,0.0,unigram
+input,0.012657,0.0,0.0,0.0,unigram
+adjustments assessing,0.012657,0.0,0.0,0.0,bigram
+potential impact,0.012655,0.013393,0.0,0.0,bigram
+shape,0.012643,0.016238,0.0,0.0,unigram
+monitored,0.012641,0.010454,0.020043,0.0,unigram
+large language,0.012637,0.0,0.014358,0.0,bigram
+data digital,0.012632,0.0,0.010888,0.0,bigram
+reliable,0.012623,0.004867,0.0,0.0,unigram
+pace,0.012612,0.017721,0.005105,0.0,unigram
+net zero,0.012601,0.004787,0.0,0.0,bigram
+disruptive,0.012601,0.0,0.00504,0.0,unigram
+success,0.012591,0.014192,0.014764,0.0,unigram
+sales,0.012589,0.005226,0.0,0.0,unigram
+ecosystem,0.012589,0.005314,0.0,0.0,unigram
+implement,0.012581,0.0,0.0,0.0,unigram
+developers,0.012581,0.0,0.0,0.0,unigram
+relating ai,0.012581,0.0,0.0,0.0,bigram
+improvements,0.012573,0.00932,0.017695,0.0,unigram
+trends,0.012569,0.01935,0.013041,0.040951,unigram
+agentic artificial,0.012565,0.0,0.0,0.0,bigram
+momentum,0.012556,0.011589,0.014086,0.0,unigram
+priority,0.012556,0.022735,0.003605,0.0,unigram
+forum,0.012516,0.0,0.006842,0.0,unigram
+establish,0.012503,0.005658,0.0,0.0,unigram
+underwriting,0.012491,0.026369,0.0,0.0,unigram
+pathways,0.012487,0.0,0.0,0.0,unigram
+sought,0.012487,0.0,0.0,0.0,unigram
+coding,0.012487,0.0,0.0,0.0,unigram
+loan,0.012472,0.0,0.0,0.0,unigram
+iv,0.012472,0.0,0.0,0.0,unigram
+discuss,0.012464,0.0,0.007346,0.0,unigram
+impact group,0.01246,0.005658,0.0,0.0,bigram
+delivered,0.012458,0.023998,0.014338,0.053197,unigram
+rolled,0.01244,0.006176,0.0,0.0,unigram
+investments,0.012424,0.014192,0.011082,0.021082,unigram
+advantage,0.012423,0.015686,0.010007,0.0,unigram
+code conduct,0.012421,0.0,0.0,0.0,bigram
+fair,0.012419,0.017568,0.0,0.0,unigram
+globally,0.0124,0.011861,0.009983,0.0,unigram
+platform,0.012398,0.038798,0.030303,0.0,unigram
+transition plan,0.012396,0.0,0.0,0.0,bigram
+reliance,0.012362,0.005234,0.004662,0.0,unigram
+february,0.012349,0.0,0.010888,0.0,unigram
+goal,0.012349,0.004429,0.006329,0.0,unigram
+important,0.012345,0.011287,0.011861,0.0,unigram
+plan,0.012339,0.014557,0.008034,0.058855,unigram
+operational risk,0.012336,0.014176,0.010524,0.0,bigram
+balances,0.012335,0.0,0.0,0.0,unigram
+refreshed,0.012335,0.008932,0.0,0.0,unigram
+assessed,0.012316,0.007499,0.011547,0.0,unigram
+human rights,0.012311,0.005791,0.0,0.0,bigram
+green,0.012299,0.0,0.0,0.0,unigram
+relevance,0.012299,0.0,0.0,0.0,unigram
+term sustainable,0.012299,0.0,0.0,0.0,bigram
+microsoft copilot,0.012277,0.0,0.0,0.0,bigram
+auditable,0.012277,0.0,0.0,0.0,unigram
+introduce new,0.012244,0.0,0.0,0.0,bigram
+accelerates,0.012244,0.0,0.0,0.0,unigram
+various,0.012236,0.008443,0.011585,0.0,unigram
+remuneration committee,0.012217,0.0,0.007096,0.0,bigram
+clients,0.01221,0.019469,0.023977,0.0,unigram
+including relation,0.012198,0.0,0.0,0.0,bigram
+financial stability,0.012198,0.0,0.0,0.0,bigram
+powered ai,0.012198,0.0,0.0,0.0,bigram
+integrity,0.012188,0.016119,0.0,0.0,unigram
+risks including,0.012182,0.0,0.007372,0.0,bigram
+supports,0.012181,0.014303,0.010007,0.0,unigram
+sanctions,0.01217,0.0,0.0065,0.0,unigram
+track,0.012161,0.009767,0.0,0.0,unigram
+indicators,0.01215,0.004787,0.007372,0.0,unigram
+align,0.012148,0.004867,0.0,0.0,unigram
+reducing,0.012143,0.01682,0.011404,0.0,unigram
+expand,0.012116,0.017032,0.0,0.0,unigram
+anticipate,0.012103,0.004503,0.006225,0.0,unigram
+controlled,0.0121,0.0,0.0,0.0,unigram
+ownership,0.012092,0.008321,0.006353,0.0,unigram
+international,0.012076,0.004876,0.010143,0.0,unigram
+commercial real,0.012071,0.005226,0.0,0.0,bigram
+covering,0.01204,0.0,0.007096,0.0,unigram
+overview,0.012029,0.0,0.0,0.0,unigram
+attended,0.012014,0.0,0.006729,0.0,unigram
+tax,0.012003,0.018581,0.018099,0.0,unigram
+real time,0.011992,0.022319,0.0,0.0,bigram
+risks arise,0.011992,0.004867,0.0,0.0,bigram
+com,0.011978,0.007499,0.0,0.0,unigram
+support customers,0.011974,0.008932,0.0,0.0,bigram
+segments,0.011974,0.010462,0.0,0.0,unigram
+alignment,0.011968,0.010005,0.016272,0.0,unigram
+leader,0.011964,0.019048,0.0,0.0,unigram
+course,0.011962,0.0,0.0,0.0,unigram
+introduction,0.011962,0.0,0.0,0.0,unigram
+appropriateness,0.011962,0.0,0.0,0.0,unigram
+investment ai,0.011959,0.005234,0.006014,0.0,bigram
+gaps,0.011959,0.00525,0.004662,0.0,unigram
+world,0.011957,0.019646,0.015261,0.0,unigram
+economic crime,0.011955,0.0,0.0,0.0,bigram
+looking,0.011953,0.0,0.012834,0.0,unigram
+economic growth,0.011938,0.0,0.0,0.0,bigram
+cyber security,0.011927,0.009611,0.024425,0.0,bigram
+critical,0.011925,0.018342,0.019184,0.0,unigram
+approximately,0.011922,0.0,0.0,0.0,unigram
+concerns,0.011908,0.014545,0.0,0.0,unigram
+efficiencies,0.011908,0.005234,0.012305,0.0,unigram
+stakeholder,0.011902,0.010454,0.009416,0.0,unigram
+following,0.011893,0.017208,0.011478,0.0,unigram
+committed,0.011893,0.023691,0.0,0.0,unigram
+october,0.011877,0.005314,0.0,0.0,unigram
+possible,0.011848,0.0,0.01315,0.0,unigram
+pay gap,0.011847,0.0,0.0,0.0,bigram
+accounting standards,0.011845,0.0,0.0,0.0,bigram
+met,0.011845,0.0,0.0,0.0,unigram
+low,0.01184,0.010469,0.010406,0.0,unigram
+ensure safe,0.011831,0.0,0.0,0.0,bigram
+risks associated,0.011816,0.009071,0.005799,0.026868,bigram
+outlook,0.011816,0.013879,0.004662,0.0,unigram
+highly,0.011812,0.008932,0.006329,0.0,unigram
+whilst,0.011811,0.004292,0.018761,0.0,unigram
+monitor,0.011805,0.015222,0.014691,0.031419,unigram
+deployed,0.011803,0.017218,0.0,0.0,unigram
+balance,0.011785,0.019436,0.0,0.0,unigram
+supplier,0.011785,0.009663,0.0,0.0,unigram
+functions,0.011778,0.012371,0.010073,0.0,unigram
+similar,0.011773,0.010484,0.0,0.0,unigram
+likely,0.011771,0.011861,0.010239,0.0,unigram
+categories,0.01177,0.005675,0.008533,0.0,unigram
+pra,0.011767,0.0,0.006729,0.0,unigram
+shares,0.011767,0.005658,0.0,0.0,unigram
+forward looking,0.011767,0.0,0.007372,0.0,bigram
+ai ready,0.0117,0.014162,0.0,0.0,bigram
+ahead,0.011691,0.014112,0.0,0.0,unigram
+language models,0.01169,0.0,0.007469,0.0,bigram
+consolidated,0.01169,0.008848,0.0,0.0,unigram
+revenue,0.011689,0.020361,0.007873,0.03776,unigram
+prospects,0.011683,0.0,0.0,0.031176,unigram
+potential bias,0.011652,0.00458,0.004067,0.046197,bigram
+summarisation,0.011651,0.012961,0.0,0.0,unigram
+use new,0.011633,0.0,0.0,0.0,bigram
+fall,0.011633,0.0,0.0,0.0,unigram
+risk policy,0.011633,0.0,0.0,0.0,bigram
+digital transformation,0.011633,0.0,0.0,0.0,bigram
+recent,0.01162,0.008281,0.011113,0.0,unigram
+responsibilities,0.011617,0.0,0.0,0.0,unigram
+index,0.011614,0.005226,0.0,0.0,unigram
+tokenisation,0.011614,0.0,0.024381,0.0,unigram
+ethnicity,0.011608,0.0,0.00504,0.0,unigram
+judgements,0.011605,0.003291,0.01515,0.03871,unigram
+market conditions,0.011604,0.0,0.0,0.0,bigram
+affected,0.011604,0.0,0.0,0.0,unigram
+british,0.011604,0.0,0.0,0.0,unigram
+significant transactions,0.011595,0.0,0.0,0.057246,bigram
+bias evaluating,0.011595,0.0,0.0,0.057246,bigram
+rationale significant,0.011595,0.0,0.0,0.057246,bigram
+business rationale,0.011595,0.0,0.0,0.057246,bigram
+estimates indicative,0.011595,0.0,0.00504,0.0,bigram
+transactions unusual,0.011595,0.0,0.0,0.057246,bigram
+assessing judgements,0.011595,0.0,0.00504,0.0,bigram
+ai applications,0.011567,0.012053,0.0,0.0,bigram
+bring,0.011567,0.0,0.01193,0.0,unigram
+directly,0.011565,0.014113,0.004067,0.0,unigram
+shifts,0.011555,0.016569,0.0,0.0,unigram
+ii,0.011514,0.005234,0.006014,0.0,unigram
+liquidity,0.011496,0.0,0.007096,0.0,unigram
+requires,0.011496,0.005226,0.0,0.0,unigram
+financing,0.011496,0.005314,0.0,0.0,unigram
+pages,0.011493,0.0,0.016299,0.0,unigram
+macroeconomic,0.011485,0.013212,0.0,0.0,unigram
+prior,0.011474,0.016249,0.0,0.0,unigram
+nce,0.011473,0.0,0.0,0.0,unigram
+doing,0.011473,0.0,0.0,0.0,unigram
+extent,0.011473,0.0,0.0,0.0,unigram
+grc,0.01145,0.0,0.012645,0.0,unigram
+strategic objectives,0.01145,0.0,0.008576,0.0,bigram
+completion,0.011442,0.004876,0.004343,0.0,unigram
+scaled,0.01144,0.005226,0.0,0.0,unigram
+insight,0.011431,0.0,0.0,0.0,unigram
+help support,0.011428,0.0,0.0,0.0,bigram
+rose,0.011428,0.0,0.0,0.0,unigram
+meaningful,0.011428,0.0,0.0,0.0,unigram
+sophistication,0.011428,0.0,0.0,0.0,unigram
+affecting,0.011428,0.0,0.0,0.0,unigram
+induction,0.011428,0.0,0.0,0.0,unigram
+agility,0.011425,0.0,0.0,0.087036,unigram
+geopolitical tensions,0.011425,0.005658,0.0,0.0,bigram
+practical,0.011425,0.008105,0.0,0.0,unigram
+regard,0.011404,0.0,0.0,0.0,unigram
+potential impacts,0.011404,0.0,0.0,0.0,bigram
+european,0.011401,0.0,0.0,0.0,unigram
+framework including,0.011401,0.0,0.0,0.0,bigram
+simpler,0.011398,0.004867,0.00504,0.0,unigram
+technologies ai,0.011397,0.013761,0.0,0.0,bigram
+losses,0.011396,0.014684,0.004662,0.0,unigram
+stress,0.011394,0.007791,0.010016,0.0,unigram
+simplifies,0.011388,0.0,0.0,0.0,unigram
+chief information,0.011388,0.0,0.0,0.0,bigram
+esg,0.011387,0.011107,0.004067,0.0,unigram
+empower,0.011387,0.007791,0.005521,0.0,unigram
+enterprise wide,0.011355,0.005658,0.0,0.0,bigram
+ai ai,0.011355,0.005675,0.0,0.0,bigram
+ai related,0.011342,0.004787,0.0,0.0,bigram
+intelligence act,0.011304,0.0,0.0,0.0,bigram
+skill,0.011283,0.0,0.0,0.0,unigram
+restrictions,0.011283,0.0,0.0,0.0,unigram
+detailed,0.011267,0.004787,0.0,0.0,unigram
+respond,0.011266,0.007791,0.012407,0.0,unigram
+reduced,0.011261,0.004429,0.007268,0.0,unigram
+holdings plc,0.011258,0.005889,0.0,0.0,bigram
+retention,0.011256,0.0,0.0,0.0,unigram
+instability,0.011256,0.0,0.0,0.0,unigram
+comprehensive,0.011255,0.015274,0.00519,0.0,unigram
+electric,0.011219,0.006845,0.0,0.0,unigram
+implications,0.011219,0.007791,0.016594,0.0,unigram
+cloud based,0.011191,0.005658,0.006842,0.0,bigram
+subsidiary,0.011161,0.0,0.0,0.0,unigram
+ways,0.011147,0.015294,0.015085,0.0,unigram
+accurate,0.011147,0.013655,0.004343,0.0,unigram
+members,0.011139,0.012395,0.029153,0.0,unigram
+does,0.011126,0.0,0.0,0.0,unigram
+collection,0.011126,0.0,0.0,0.0,unigram
+engage,0.011124,0.01694,0.005602,0.0,unigram
+accessible,0.011078,0.0,0.008576,0.0,unigram
+queries,0.011078,0.0,0.012645,0.0,unigram
+accounting estimates,0.011069,0.008456,0.01596,0.053726,bigram
+women,0.011045,0.004867,0.011394,0.0,unigram
+partnerships,0.011038,0.008597,0.013944,0.023651,unigram
+mandatory,0.01103,0.0,0.0,0.0,unigram
+accountable,0.01103,0.0,0.0,0.0,unigram
+analytics ai,0.01103,0.0,0.0,0.0,bigram
+ethical use,0.011028,0.009655,0.0,0.0,bigram
+threat,0.011019,0.015918,0.005521,0.0,unigram
+reported,0.011019,0.0,0.012482,0.0,unigram
+continue provide,0.011015,0.0,0.0,0.0,bigram
+iii,0.011015,0.0,0.0,0.0,unigram
+drive greater,0.011015,0.0,0.0,0.0,bigram
+ensure data,0.011015,0.0,0.0,0.0,bigram
+deep dive,0.011013,0.005314,0.005501,0.0,bigram
+fragmented,0.011007,0.005226,0.0,0.0,unigram
+carbon,0.010994,0.0,0.014585,0.0,unigram
+divisional,0.010987,0.0,0.010323,0.0,unigram
+practice,0.010974,0.014746,0.01383,0.0,unigram
+tooling,0.010971,0.0,0.006842,0.0,unigram
+versus,0.010958,0.0,0.00504,0.0,unigram
+reshaping,0.010958,0.004867,0.0,0.0,unigram
+fixed,0.010947,0.0,0.013626,0.0,unigram
+rapid evolution,0.01094,0.0,0.0,0.0,bigram
+innovate,0.010936,0.0092,0.0,0.0,unigram
+digitally,0.010919,0.0,0.007346,0.0,unigram
+evolution ai,0.010919,0.0,0.0,0.034033,bigram
+agreed,0.010902,0.009609,0.0,0.057246,unigram
+analysis,0.010891,0.016249,0.0,0.0,unigram
+percentage,0.010886,0.005234,0.00682,0.0,unigram
+life,0.010886,0.004429,0.004662,0.0,unigram
+outputs,0.010863,0.005314,0.0,0.0,unigram
+pressure,0.010855,0.005314,0.0,0.0,unigram
+scenario,0.010851,0.011873,0.0,0.0,unigram
+concern,0.01083,0.010462,0.0,0.0,unigram
+ve,0.010815,0.012723,0.010239,0.049336,unigram
+fx,0.010793,0.012054,0.011463,0.0,unigram
+vulnerabilities,0.010787,0.005314,0.0,0.0,unigram
+proposed,0.010787,0.0,0.007469,0.0,unigram
+maintained,0.010754,0.01199,0.009588,0.0,unigram
+executive director,0.01075,0.017774,0.017262,0.0,bigram
+small,0.010738,0.020713,0.0,0.0,unigram
+shift,0.010734,0.005791,0.0,0.0,unigram
+actively,0.010728,0.012002,0.009784,0.0,unigram
+unusual,0.010727,0.0,0.004662,0.05296,unigram
+principal risk,0.010727,0.004787,0.0065,0.0,bigram
+judgements making,0.010727,0.0,0.004662,0.05296,bigram
+evaluating,0.010727,0.0,0.004662,0.05296,unigram
+house,0.010714,0.004566,0.009588,0.0,unigram
+customer engagement,0.010708,0.010462,0.0,0.0,bigram
+architecture,0.010708,0.018288,0.0,0.0,unigram
+unlock,0.010708,0.005658,0.007372,0.0,unigram
+vulnerable,0.010694,0.0,0.0,0.0,unigram
+created,0.010694,0.0,0.0,0.0,unigram
+ai model,0.010694,0.0,0.0,0.0,bigram
+manage money,0.010693,0.0,0.0,0.0,bigram
+board risk,0.010693,0.0,0.0,0.0,bigram
+generation,0.01069,0.0,0.0,0.057623,unigram
+appointed,0.010676,0.0,0.007096,0.0,unigram
+ai integration,0.010676,0.005314,0.0,0.0,bigram
+cloud ai,0.010676,0.005226,0.0,0.0,bigram
+risk trend,0.010676,0.005314,0.0,0.0,bigram
+detection,0.010667,0.018561,0.010121,0.0,unigram
+ai governance,0.010655,0.008429,0.012407,0.0,bigram
+participants,0.01063,0.005658,0.0,0.0,unigram
+climate related,0.01063,0.008241,0.0,0.0,bigram
+informed,0.010603,0.0,0.018217,0.0,unigram
+launch,0.010585,0.018755,0.005312,0.035694,unigram
+strategy including,0.010582,0.0,0.015203,0.0,bigram
+sophisticated,0.01058,0.013781,0.0,0.0,unigram
+recognise,0.01058,0.02046,0.012585,0.0,unigram
+positioning,0.01057,0.0,0.0,0.0,unigram
+damage,0.01057,0.009663,0.0,0.0,unigram
+including customers,0.01057,0.0,0.0,0.0,bigram
+customers suppliers,0.01057,0.0,0.0,0.0,bigram
+serve customers,0.010552,0.008241,0.0,0.0,bigram
+regulatory expectations,0.010543,0.0,0.0,0.0,bigram
+approaches,0.010543,0.0,0.0,0.0,unigram
+primarily,0.010543,0.0,0.0,0.0,unigram
+ai capability,0.010543,0.0,0.0,0.0,bigram
+internal control,0.010542,0.008511,0.012834,0.0,bigram
+entries,0.010542,0.003482,0.013069,0.022302,unigram
+march,0.010542,0.007624,0.018975,0.0,unigram
+day,0.010536,0.012401,0.027239,0.0,unigram
+book,0.010527,0.0,0.0,0.0,unigram
+customer data,0.010527,0.0,0.0,0.0,bigram
+science,0.010527,0.0,0.0,0.0,unigram
+intelligence based,0.010516,0.0,0.0,0.0,bigram
+india,0.01051,0.011424,0.0,0.0,unigram
+pr,0.01051,0.0,0.007856,0.0,unigram
+analyse,0.010489,0.009609,0.006842,0.0,unigram
+payment,0.010449,0.019372,0.010767,0.0,unigram
+errors,0.010448,0.010543,0.0,0.0,unigram
+connectivity,0.010424,0.0,0.0,0.0,unigram
+asset class,0.010424,0.0,0.0,0.0,bigram
+deploying ai,0.010424,0.0,0.0,0.0,bigram
+forums,0.010424,0.0,0.0,0.0,unigram
+make informed,0.010424,0.0,0.0,0.0,bigram
+algorithmic,0.010424,0.0,0.0,0.0,unigram
+overall,0.010422,0.013416,0.018761,0.023651,unigram
+cash,0.010375,0.007624,0.012305,0.048833,unigram
+response,0.010369,0.020984,0.010168,0.0,unigram
+materials,0.010356,0.0,0.0,0.0,unigram
+enforcement,0.010356,0.0,0.0,0.0,unigram
+liability,0.010356,0.0,0.0,0.0,unigram
+consequences,0.010356,0.0,0.0,0.0,unigram
+transition plans,0.010356,0.0,0.0,0.0,bigram
+tailored,0.010354,0.016119,0.0,0.0,unigram
+view,0.010336,0.009841,0.016081,0.0,unigram
+ai scale,0.010335,0.0,0.0,0.0,bigram
+published,0.010335,0.0,0.0,0.0,unigram
+known,0.010335,0.0,0.0,0.0,unigram
+adverse effect,0.010335,0.0,0.0,0.0,bigram
+explored,0.010335,0.0,0.0,0.0,unigram
+play,0.01032,0.0,0.0,0.0,unigram
+channel,0.01032,0.0,0.0,0.0,unigram
+regulation authority,0.01032,0.0,0.0,0.0,bigram
+colleagues customers,0.01032,0.0,0.0,0.0,bigram
+including digital,0.01032,0.0,0.0,0.0,bigram
+valuations,0.010312,0.005226,0.0,0.0,unigram
+equivalent,0.010312,0.0,0.007096,0.0,unigram
+including new,0.010312,0.0,0.007346,0.0,bigram
+including business,0.010297,0.0,0.0,0.0,bigram
+cha,0.010297,0.0,0.0,0.0,unigram
+methodologies,0.010297,0.0,0.0,0.0,unigram
+strengths,0.010288,0.0,0.007096,0.0,unigram
+future ai,0.010288,0.005314,0.0,0.0,bigram
+helping colleagues,0.010288,0.005226,0.0,0.0,bigram
+economies,0.010288,0.005226,0.0,0.0,unigram
+panel,0.010288,0.0,0.005501,0.0,unigram
+ensure ai,0.010288,0.005226,0.0,0.0,bigram
+ai used,0.010281,0.0,0.0,0.0,bigram
+roles responsibilities,0.010281,0.0,0.0,0.0,bigram
+transition risks,0.010281,0.0,0.0,0.0,bigram
+climate change,0.010281,0.0,0.0,0.0,bigram
+recruitment,0.010281,0.0,0.0,0.0,unigram
+sustainability related,0.010281,0.0,0.0,0.0,bigram
+championing,0.010281,0.0,0.0,0.0,unigram
+ai make,0.010281,0.0,0.0,0.0,bigram
+regularly,0.01023,0.012733,0.006014,0.0,unigram
+sharing,0.010224,0.0,0.0065,0.0,unigram
+growth opportunities,0.010224,0.005675,0.0,0.0,bigram
+represent,0.010224,0.005675,0.0,0.0,unigram
+edge,0.010211,0.008241,0.0,0.0,unigram
+st,0.010211,0.005658,0.0,0.0,unigram
+come,0.010211,0.008105,0.0,0.0,unigram
+welcomed,0.010211,0.0,0.00504,0.0,unigram
+digital platforms,0.010211,0.0092,0.0,0.0,bigram
+cutting edge,0.010211,0.004867,0.0,0.0,bigram
+cutting,0.010211,0.004867,0.0,0.0,unigram
+china,0.010202,0.012733,0.006225,0.0,unigram
+states,0.0102,0.006195,0.0,0.0,unigram
+web,0.010194,0.012749,0.0,0.0,unigram
+activity,0.01019,0.004429,0.019471,0.0,unigram
+conflicts,0.010181,0.0,0.005501,0.0,unigram
+globe,0.010181,0.006195,0.0,0.0,unigram
+supply chain,0.010181,0.005226,0.0,0.0,bigram
+notes,0.010156,0.006176,0.0,0.0,unigram
+spending,0.01015,0.016919,0.0,0.0,unigram
+education,0.01015,0.004429,0.012204,0.0,unigram
+safety,0.01015,0.007499,0.012305,0.0,unigram
+institutional,0.010145,0.004867,0.00504,0.0,unigram
+customer facing,0.010138,0.007624,0.007894,0.0,bigram
+projects,0.010124,0.005226,0.008576,0.0,unigram
+recovery,0.010117,0.007624,0.007268,0.0,unigram
+reliability,0.010117,0.013761,0.0,0.0,unigram
+election,0.010104,0.0,0.006729,0.0,unigram
+engagements,0.010104,0.005658,0.0,0.0,unigram
+specialist,0.010091,0.0,0.006842,0.0,unigram
+sustained,0.010091,0.0,0.00504,0.0,unigram
+gives,0.010091,0.0,0.00504,0.0,unigram
+entry,0.010091,0.004787,0.0,0.0,unigram
+linked,0.010083,0.004787,0.006842,0.0,unigram
+statement,0.010071,0.007324,0.008349,0.049634,unigram
+native,0.010048,0.018827,0.0,0.0,unigram
+firm,0.010039,0.005226,0.0,0.0,unigram
+group approach,0.010039,0.009663,0.0,0.0,bigram
+review continued,0.010036,0.0,0.0,0.0,bigram
+ai customer,0.010036,0.0,0.0,0.0,bigram
+awards,0.010029,0.023512,0.00677,0.0,unigram
+blockchain,0.010002,0.008105,0.022335,0.0,unigram
+upskilling,0.010002,0.004867,0.00504,0.0,unigram
+indicative,0.009993,0.004891,0.004343,0.049336,unigram
+indicative potential,0.009993,0.004891,0.004343,0.049336,bigram
+disclosure,0.00998,0.0,0.013571,0.0,unigram
+risk ai,0.009944,0.004867,0.007372,0.0,bigram
+times,0.009907,0.009737,0.006225,0.0,unigram
+ai solutions,0.009877,0.009002,0.005799,0.0,bigram
+digital markets,0.009877,0.0,0.0,0.0,bigram
+financial loss,0.009877,0.0,0.0,0.0,bigram
+removing,0.009877,0.0,0.0,0.0,unigram
+cybersecurity data,0.009877,0.0,0.0,0.0,bigram
+uk government,0.009872,0.0,0.005501,0.0,bigram
+uncertainties,0.009872,0.0,0.005501,0.0,unigram
+proactively,0.009872,0.0,0.007096,0.0,unigram
+feature,0.009872,0.006195,0.0,0.0,unigram
+recognising,0.009872,0.006195,0.0,0.0,unigram
+report corporate,0.009867,0.005889,0.0,0.0,bigram
+strategic report,0.009867,0.005889,0.0,0.0,bigram
+governance financial,0.009867,0.005889,0.0,0.0,bigram
+vehicle,0.009867,0.006845,0.0,0.0,unigram
+behaviours,0.009847,0.017695,0.0,0.0,unigram
+aligned,0.009842,0.015215,0.010645,0.0,unigram
+connections,0.009834,0.004503,0.006329,0.0,unigram
+horizon,0.009834,0.004429,0.020662,0.0,unigram
+environment key,0.009832,0.0,0.0,0.0,bigram
+increasingly complex,0.009832,0.0,0.0,0.0,bigram
+ai operational,0.009832,0.0,0.0,0.0,bigram
+swiftly,0.009832,0.0,0.0,0.0,unigram
+aud,0.009832,0.0,0.0,0.0,unigram
+health safety,0.009832,0.0,0.0,0.0,bigram
+drive long,0.009832,0.0,0.0,0.0,bigram
+findings,0.009832,0.0,0.0,0.0,unigram
+inclusion resilience,0.009832,0.0,0.0,0.0,bigram
+business strategy,0.009832,0.0,0.0,0.0,bigram
+generate,0.009832,0.0,0.0,0.0,unigram
+stages,0.009832,0.0,0.0,0.0,unigram
+customers financial,0.009832,0.0,0.0,0.0,bigram
+relevant identified,0.009816,0.0,0.0,0.0,bigram
+potential fraud,0.009816,0.0,0.0,0.0,bigram
+extending leadership,0.009816,0.0,0.0,0.0,bigram
+business communicated,0.009816,0.0,0.0,0.0,bigram
+identified laws,0.009816,0.0,0.0,0.0,bigram
+normal course,0.009816,0.0,0.0,0.0,bigram
+external environment,0.009816,0.0,0.0,0.0,bigram
+driving better,0.009816,0.0,0.0,0.0,bigram
+cost income,0.009816,0.0,0.0,0.0,bigram
+controls testing,0.009816,0.0,0.0,0.0,bigram
+data technology,0.009816,0.0,0.0,0.0,bigram
+seamless digital,0.009816,0.0,0.0,0.0,bigram
+risk policies,0.009816,0.0,0.0,0.0,bigram
+course business,0.009816,0.0,0.0,0.0,bigram
+competitive advantages,0.009816,0.0,0.0,0.0,bigram
+income ratio,0.009816,0.0,0.0,0.0,bigram
+communicated relevant,0.009816,0.0,0.0,0.0,bigram
+communicated,0.009816,0.0,0.0,0.0,unigram
+testing appropriateness,0.009816,0.0,0.0,0.0,bigram
+areas including,0.009816,0.0,0.0,0.0,bigram
+ai implemented,0.009816,0.0,0.0,0.0,bigram
+insurance business,0.009816,0.0,0.0,0.0,bigram
+appropriateness journal,0.009816,0.0,0.0,0.0,bigram
+trend group,0.009816,0.0,0.0,0.0,bigram
+committee group,0.009816,0.0,0.0,0.0,bigram
+ai accelerating,0.009816,0.0,0.0,0.0,bigram
+entries adjustments,0.009816,0.0,0.0,0.0,bigram
+confidence,0.009812,0.0,0.018935,0.023651,unigram
+audit committee,0.009803,0.017816,0.005949,0.0,bigram
+link,0.009795,0.0,0.007856,0.0,unigram
+risk framework,0.009795,0.0,0.007372,0.0,bigram
+methodology,0.009795,0.004787,0.0,0.0,unigram
+strategic partnership,0.009793,0.004787,0.006729,0.0,bigram
+duties,0.00979,0.0,0.0,0.0,unigram
+open source,0.00979,0.0,0.0,0.0,bigram
+reputational harm,0.00979,0.0,0.0,0.0,bigram
+stated,0.00979,0.0,0.0,0.0,unigram
+microsoft ai,0.00979,0.0,0.0,0.0,bigram
+marked,0.00979,0.0,0.0,0.0,unigram
+authorised,0.00979,0.0,0.0,0.0,unigram
+efficiency gains,0.009779,0.0,0.013872,0.0,bigram
+order,0.009775,0.006985,0.017265,0.0,unigram
+case,0.009762,0.008932,0.0,0.0,unigram
+fca,0.009743,0.0,0.023277,0.0,unigram
+providers,0.009743,0.010484,0.0,0.05296,unigram
+values,0.009723,0.008932,0.0,0.0,unigram
+overseeing,0.009723,0.004503,0.004662,0.0,unigram
+operating model,0.00971,0.004126,0.011696,0.0,bigram
+significantly,0.00971,0.004195,0.017337,0.0,unigram
+require,0.009707,0.0,0.007864,0.0,unigram
+identification,0.009701,0.015576,0.011578,0.0,unigram
+journal entries,0.009695,0.003928,0.010676,0.025159,bigram
+journal,0.009695,0.003928,0.010676,0.025159,unigram
+quantum computing,0.009695,0.014528,0.006225,0.0,bigram
+heart,0.009649,0.008997,0.0,0.0,unigram
+cover,0.009649,0.006195,0.0,0.0,unigram
+exposure,0.009649,0.010457,0.0,0.0,unigram
+adequately,0.009649,0.005314,0.0,0.0,unigram
+risk categories,0.009649,0.0,0.009315,0.0,bigram
+literacy,0.009616,0.009655,0.0,0.0,unigram
+attack,0.009616,0.004867,0.007372,0.0,unigram
+anticipated,0.009602,0.017441,0.0,0.0,unigram
+connected,0.009602,0.005658,0.00504,0.0,unigram
+board discussions,0.009538,0.0,0.008048,0.0,bigram
+board committees,0.009538,0.006195,0.0,0.0,bigram
+dynamics,0.009538,0.010043,0.0,0.0,unigram
+right,0.00953,0.02195,0.010757,0.0,unigram
+offset,0.009514,0.0,0.007096,0.0,unigram
+disrupt,0.009514,0.0,0.009315,0.0,unigram
+allow,0.009514,0.005226,0.0,0.0,unigram
+risks opportunities,0.009514,0.006176,0.0,0.0,bigram
+assessment process,0.009514,0.0,0.008048,0.0,bigram
+compared,0.009514,0.005314,0.0,0.0,unigram
+adversely,0.00951,0.0,0.011769,0.0,unigram
+specifically,0.009499,0.005226,0.0,0.0,unigram
+business performance,0.009499,0.0,0.0,0.034033,bigram
+invest,0.009493,0.021831,0.024239,0.0,unigram
+substantial,0.009467,0.004787,0.0,0.0,unigram
+underlying,0.009467,0.0092,0.0,0.0,unigram
+disruptions,0.009467,0.0092,0.0,0.0,unigram
+centres,0.009467,0.004787,0.0,0.0,unigram
+different,0.009459,0.010484,0.0,0.0,unigram
+highlighted,0.009455,0.009002,0.006353,0.0,unigram
+confirmed,0.009454,0.004867,0.0,0.0,unigram
+ure,0.009454,0.004867,0.0,0.0,unigram
+accordingly,0.009454,0.0,0.00504,0.0,unigram
+able,0.009454,0.005675,0.0,0.0,unigram
+earnings,0.009447,0.015255,0.0,0.0,unigram
+early,0.009446,0.013745,0.0,0.0,unigram
+ai enhance,0.009444,0.008321,0.004343,0.0,bigram
+th,0.009428,0.008443,0.005246,0.025159,unigram
+resulting,0.009425,0.01001,0.011113,0.0,unigram
+multiple,0.009424,0.015255,0.0,0.0,unigram
+handling,0.009424,0.0,0.013342,0.0,unigram
+geographies,0.009424,0.0,0.013229,0.0,unigram
+investment technology,0.009419,0.0,0.0,0.0,bigram
+involvement,0.009419,0.0,0.0,0.0,unigram
+ai management,0.009419,0.0,0.0,0.0,bigram
+new board,0.009419,0.0,0.0,0.0,bigram
+preparedness,0.009419,0.0,0.0,0.0,unigram
+secretary,0.009419,0.0,0.0,0.0,unigram
+thank,0.009419,0.0,0.0,0.0,unigram
+capture,0.009419,0.0,0.0,0.0,unigram
+ai quantum,0.009419,0.0,0.0,0.0,bigram
+customers risk,0.009419,0.0,0.0,0.0,bigram
+related risk,0.009419,0.0,0.0,0.0,bigram
+company secretary,0.009419,0.0,0.0,0.0,bigram
+renewable,0.009419,0.0,0.0,0.0,unigram
+failure achieve,0.009419,0.0,0.0,0.0,bigram
+advanced analytics,0.009419,0.0,0.0,0.0,bigram
+improving operational,0.009419,0.0,0.0,0.0,bigram
+facing group,0.009419,0.0,0.0,0.0,bigram
+ann,0.009419,0.0,0.0,0.0,unigram
+person,0.009419,0.0,0.0,0.0,unigram
+operational excellence,0.009419,0.0,0.0,0.0,bigram
+business leaders,0.009419,0.0,0.0,0.0,bigram
+partner,0.009406,0.005314,0.0,0.0,unigram
+new products,0.009406,0.008997,0.0,0.0,bigram
+fast,0.009405,0.018609,0.005593,0.0,unigram
+management bias,0.0094,0.0,0.017755,0.026868,bigram
+pipeline,0.009347,0.009663,0.0,0.0,unigram
+ng,0.009347,0.00525,0.00682,0.0,unigram
+furthermore,0.009344,0.005226,0.0,0.0,unigram
+uses ai,0.009344,0.006176,0.0,0.0,bigram
+obligations,0.009343,0.0092,0.00504,0.0,unigram
+executive directors,0.00934,0.013424,0.011401,0.0,bigram
+rigorous,0.009335,0.007624,0.004662,0.0,unigram
+meetings,0.009328,0.009753,0.007268,0.0,unigram
+audits,0.009326,0.004867,0.006729,0.0,unigram
+data insights,0.009325,0.0,0.0,0.0,bigram
+year market,0.009325,0.0,0.0,0.0,bigram
+budgeting,0.009325,0.0,0.0,0.0,unigram
+information officer,0.009325,0.0,0.0,0.0,bigram
+reimagining,0.009325,0.0,0.0,0.0,unigram
+reinforcing,0.009325,0.0,0.0,0.0,unigram
+board discussed,0.009325,0.0,0.0,0.0,bigram
+engagement activities,0.009325,0.0,0.0,0.0,bigram
+ai enablement,0.009325,0.0,0.0,0.0,bigram
+use case,0.009325,0.0,0.0,0.0,bigram
+management engagement,0.009325,0.0,0.0,0.0,bigram
+cloud computing,0.009325,0.0,0.0,0.0,bigram
+cloud migration,0.009325,0.0,0.0,0.0,bigram
+enablement,0.009325,0.0,0.0,0.0,unigram
+products serve,0.009325,0.0,0.0,0.0,bigram
+past,0.009315,0.004876,0.010239,0.026868,unigram
+ventures,0.009291,0.010967,0.0,0.0,unigram
+approved,0.00928,0.012598,0.018255,0.0,unigram
+steps,0.009277,0.006176,0.0,0.0,unigram
+committee received,0.009277,0.0,0.005501,0.0,bigram
+harnessing,0.009277,0.006176,0.0,0.0,unigram
+marketing,0.009249,0.017403,0.005949,0.0,unigram
+means,0.00922,0.006541,0.021118,0.0,unigram
+group business,0.009206,0.004429,0.013046,0.0,bigram
+business operations,0.009196,0.009655,0.0,0.0,bigram
+physical,0.009196,0.009655,0.0,0.0,unigram
+managing,0.009164,0.010469,0.014712,0.0,unigram
+december,0.009164,0.008429,0.011585,0.0,unigram
+purpose,0.009153,0.015178,0.012948,0.0,unigram
+reduction,0.009142,0.010484,0.0,0.048833,unigram
+percentage point,0.00912,0.0,0.0,0.0,bigram
+energy demand,0.00912,0.0,0.0,0.0,bigram
+fair value,0.00912,0.0,0.0,0.0,bigram
+acquired,0.00912,0.0,0.0,0.0,unigram
+workloads,0.00912,0.0,0.0,0.0,unigram
+risk data,0.00912,0.0,0.0,0.0,bigram
+profit,0.00912,0.0,0.0,0.0,unigram
+joint,0.00912,0.0,0.0,0.0,unigram
+rwas,0.00912,0.0,0.0,0.0,unigram
+quotes,0.00912,0.0,0.0,0.0,unigram
+transfer,0.00912,0.0,0.0,0.0,unigram
+group operational,0.00912,0.0,0.0,0.0,bigram
+increased use,0.00912,0.0,0.0,0.0,bigram
+data transformation,0.00912,0.0,0.0,0.0,bigram
+obligation,0.00912,0.0,0.0,0.0,unigram
+reinforced,0.00912,0.0,0.0,0.0,unigram
+compensation,0.00912,0.0,0.0,0.0,unigram
+adversely affect,0.00912,0.0,0.0,0.0,bigram
+complexity,0.009118,0.013424,0.016715,0.0,unigram
+consideration,0.009118,0.008281,0.021775,0.0,unigram
+composition,0.009094,0.004195,0.009945,0.0,unigram
+council,0.009062,0.013318,0.0,0.0,unigram
+strength,0.009062,0.008511,0.006225,0.0,unigram
+revenue growth,0.009059,0.013014,0.0,0.028842,bigram
+society,0.009048,0.0,0.013191,0.0,unigram
+deploy ai,0.009048,0.0,0.00504,0.0,bigram
+enables,0.00904,0.022214,0.008499,0.0,unigram
+today,0.00904,0.013147,0.009983,0.056386,unigram
+digital data,0.00902,0.0,0.0,0.0,bigram
+business services,0.00902,0.0,0.0,0.0,bigram
+financed emissions,0.00902,0.0,0.0,0.0,bigram
+build resilience,0.00902,0.0,0.0,0.0,bigram
+consequently,0.00902,0.0,0.0,0.0,unigram
+customer protection,0.00902,0.0,0.0,0.0,bigram
+ai result,0.00902,0.0,0.0,0.0,bigram
+bad actors,0.00902,0.0,0.0,0.0,bigram
+document,0.00902,0.0,0.0,0.0,unigram
+bad,0.00902,0.0,0.0,0.0,unigram
+result regulatory,0.00902,0.0,0.0,0.0,bigram
+ability access,0.00902,0.0,0.0,0.0,bigram
+ai enabling,0.00902,0.0,0.0,0.0,bigram
+housing,0.00902,0.0,0.0,0.0,unigram
+refer,0.00902,0.0,0.0,0.0,unigram
+results operations,0.00902,0.0,0.0,0.0,bigram
+largely,0.00902,0.0,0.0,0.0,unigram
+ai financial,0.008991,0.013893,0.0,0.0,bigram
+new technology,0.008951,0.008803,0.016593,0.0,bigram
+appointment,0.008934,0.005226,0.007096,0.0,unigram
+focus key,0.008928,0.0,0.0,0.0,bigram
+data risks,0.008928,0.0,0.0,0.0,bigram
+aifinancial,0.008928,0.0,0.0,0.0,unigram
+risks fraud,0.008928,0.0,0.0,0.0,bigram
+aifinancial markets,0.008928,0.0,0.0,0.0,bigram
+yield,0.008928,0.0,0.0,0.0,unigram
+enable risk,0.008928,0.0,0.0,0.0,bigram
+ethnicity pay,0.008928,0.0,0.0,0.0,bigram
+milestones,0.008928,0.0,0.0,0.0,unigram
+pricing model,0.008928,0.0,0.0,0.0,bigram
+analytics infrastructure,0.008928,0.0,0.0,0.0,bigram
+supporting future,0.008928,0.0,0.0,0.0,bigram
+example ai,0.008928,0.0,0.0,0.0,bigram
+www,0.008928,0.0,0.0,0.0,unigram
+analytics solutions,0.008928,0.0,0.0,0.0,bigram
+manage risk,0.008928,0.0,0.0,0.0,bigram
+played,0.008928,0.0,0.0,0.0,unigram
+challenges opportunities,0.008928,0.0,0.0,0.0,bigram
+reduce demand,0.008928,0.0,0.0,0.0,bigram
+emerge,0.008928,0.0,0.0,0.0,unigram
+trajectory,0.008912,0.0,0.0,0.0,unigram
+investing data,0.008912,0.0,0.0,0.0,bigram
+patterns,0.008912,0.0,0.0,0.0,unigram
+market trends,0.008912,0.0,0.0,0.0,bigram
+data platforms,0.008912,0.0,0.0,0.0,bigram
+data decision,0.008912,0.0,0.0,0.0,bigram
+agents using,0.008912,0.0,0.0,0.0,bigram
+alternative,0.008912,0.0,0.0,0.0,unigram
+anticipate respond,0.008912,0.0,0.0,0.0,bigram
+committees chair,0.008912,0.0,0.0,0.0,bigram
+great,0.008903,0.008848,0.007346,0.0,unigram
+maximising,0.008872,0.006176,0.0,0.0,unigram
+monetary policy,0.008872,0.008848,0.0,0.0,bigram
+data risk,0.008872,0.005226,0.0,0.0,bigram
+managed,0.008872,0.011151,0.0,0.0,unigram
+ways working,0.008872,0.0,0.012645,0.0,bigram
+views,0.008872,0.009609,0.013229,0.0,unigram
+cuts,0.008872,0.01247,0.0,0.0,unigram
+monetary,0.008872,0.010967,0.0,0.0,unigram
+mitigating,0.008872,0.005314,0.0,0.0,unigram
+took,0.008858,0.006195,0.0,0.0,unigram
+competitive advantage,0.008858,0.0,0.0144,0.0,bigram
+balanced,0.008858,0.005226,0.0,0.0,unigram
+regulations potential,0.008858,0.006195,0.0,0.0,bigram
+scorecard,0.008858,0.005226,0.0,0.0,unigram
+tariffs,0.008858,0.005226,0.0,0.0,unigram
+people technology,0.008858,0.006195,0.0,0.0,bigram
+audit risk,0.008858,0.005226,0.0,0.0,bigram
+discussion,0.008858,0.0,0.005501,0.0,unigram
+enhanced digital,0.008858,0.006176,0.0,0.0,bigram
+unusual outside,0.008858,0.0,0.0,0.062492,bigram
+responsible use,0.008854,0.011121,0.010676,0.0,bigram
+development ai,0.008839,0.014857,0.0,0.0,bigram
+api,0.008837,0.006866,0.0,0.0,unigram
+reflects,0.008837,0.005791,0.0,0.0,unigram
+risk culture,0.008837,0.005889,0.0,0.0,bigram
+hiring,0.008834,0.010967,0.0,0.0,unigram
+barriers,0.008834,0.0,0.005501,0.0,unigram
+brings,0.008811,0.01693,0.0,0.0,unigram
+establishing,0.008758,0.004503,0.0,0.048833,unigram
+financial reporting,0.008758,0.008511,0.006014,0.0,bigram
+wider workforce,0.008758,0.008511,0.006225,0.0,bigram
+associated risks,0.008757,0.007791,0.015891,0.0,bigram
+unique,0.008746,0.006651,0.019958,0.0,unigram
+roll,0.008746,0.005234,0.0,0.05296,unigram
+gain,0.008746,0.017403,0.010645,0.0,unigram
+reward,0.008746,0.01441,0.012204,0.0,unigram
+provision,0.008746,0.00945,0.0,0.028842,unigram
+ed,0.008746,0.013014,0.0,0.0,unigram
+customer outcomes,0.008719,0.005234,0.01193,0.0,bigram
+security ai,0.008719,0.013761,0.004662,0.0,bigram
+generated,0.008715,0.004787,0.00504,0.0,unigram
+equity,0.008708,0.004195,0.013124,0.0,unigram
+business model,0.008708,0.008321,0.005799,0.0,bigram
+manual,0.008706,0.010628,0.02383,0.0,unigram
+accuracy,0.008702,0.009609,0.006729,0.0,unigram
+helped,0.008702,0.0,0.00504,0.031176,unigram
+taking,0.008696,0.004126,0.012153,0.0,unigram
+like,0.00869,0.022575,0.008499,0.0,unigram
+assessments,0.008678,0.014303,0.013719,0.0,unigram
+party suppliers,0.00866,0.0,0.008141,0.0,bigram
+balancing,0.00866,0.006866,0.0,0.0,unigram
+committee page,0.00866,0.005889,0.0,0.0,bigram
+customers using,0.00866,0.0,0.008277,0.0,bigram
+skills experience,0.00866,0.005889,0.0,0.0,bigram
+offsite,0.00866,0.006845,0.0,0.0,unigram
+financial assistant,0.00866,0.006866,0.0,0.0,bigram
+requiring,0.00866,0.005889,0.0,0.0,unigram
+lea,0.00866,0.006845,0.0,0.0,unigram
+assurance framework,0.00866,0.018844,0.0,0.0,bigram
+deploying,0.008617,0.017821,0.0,0.0,unigram
+sentiment,0.008617,0.013029,0.0,0.0,unigram
+oversee,0.008607,0.009737,0.007894,0.0,unigram
+ai policy,0.008598,0.0,0.007864,0.0,bigram
+risk risk,0.00856,0.009655,0.0,0.0,bigram
+nation,0.008555,0.0,0.0,0.0,unigram
+technology developments,0.008555,0.0,0.0,0.0,bigram
+collateral,0.008555,0.0,0.0,0.0,unigram
+embedded finance,0.008555,0.0,0.0,0.0,bigram
+neobanks,0.008555,0.0,0.0,0.0,unigram
+encouraging,0.008555,0.0,0.0,0.0,unigram
+models tools,0.008555,0.0,0.0,0.0,bigram
+finance support,0.008555,0.0,0.0,0.0,bigram
+prioritised,0.008555,0.0,0.0,0.0,unigram
+cut,0.008555,0.0,0.0,0.0,unigram
+included deep,0.008555,0.0,0.0,0.0,bigram
+customers money,0.008555,0.0,0.0,0.0,bigram
+ai deep,0.008555,0.0,0.0,0.0,bigram
+implementation ai,0.008555,0.0,0.0,0.0,bigram
+boards,0.008555,0.0,0.0,0.0,unigram
+leading digital,0.008555,0.0,0.0,0.0,bigram
+financial resilience,0.008555,0.0,0.0,0.0,bigram
+ai simplification,0.008555,0.0,0.0,0.0,bigram
+recommendation,0.008555,0.0,0.0,0.0,unigram
+reflected,0.008555,0.0,0.0,0.0,unigram
+attacks,0.00852,0.016749,0.029554,0.0,unigram
+comply,0.008511,0.018809,0.0,0.0,unigram
+client,0.008508,0.024657,0.01262,0.0,unigram
+hub,0.008508,0.023111,0.006225,0.0,unigram
+business outcomes,0.0085,0.0,0.005501,0.0,bigram
+ghg,0.0085,0.0,0.008576,0.0,unigram
+dashboards,0.0085,0.0,0.007346,0.0,unigram
+data assets,0.0085,0.013002,0.0,0.0,bigram
+medium term,0.0085,0.006176,0.0,0.0,bigram
+dynamic,0.0085,0.006195,0.0,0.0,unigram
+foundation,0.008481,0.015546,0.00543,0.0,unigram
+structure,0.008481,0.003863,0.010016,0.042597,unigram
+investor,0.00844,0.004891,0.02277,0.0,unigram
+key markets,0.008415,0.0,0.008048,0.0,bigram
+salary,0.008415,0.010043,0.0,0.0,unigram
+broad,0.008415,0.010043,0.0,0.0,unigram
+technology strategy,0.008415,0.0,0.005501,0.0,bigram
+margin,0.008415,0.006195,0.0,0.0,unigram
+en,0.008415,0.006195,0.0,0.0,unigram
+recently,0.008415,0.006195,0.0,0.0,unigram
+financial operational,0.00841,0.0,0.0,0.0,bigram
+systems support,0.00841,0.0,0.0,0.0,bigram
+stakeholder needs,0.00841,0.0,0.0,0.0,bigram
+principles model,0.00841,0.0,0.0,0.0,bigram
+securities,0.00841,0.0,0.0,0.0,unigram
+change delivery,0.00841,0.0,0.0,0.0,bigram
+agriculture,0.00841,0.0,0.0,0.0,unigram
+framework group,0.00841,0.0,0.0,0.0,bigram
+risks security,0.00841,0.0,0.0,0.0,bigram
+substantive,0.00841,0.0,0.0,0.0,unigram
+regulators ai,0.00841,0.0,0.0,0.0,bigram
+group include,0.00841,0.0,0.0,0.0,bigram
+units,0.00841,0.0,0.0,0.0,unigram
+exists,0.00841,0.0,0.0,0.0,unigram
+officer head,0.00841,0.0,0.0,0.0,bigram
+ethical ai,0.00841,0.0,0.0,0.0,bigram
+final,0.00841,0.0,0.0,0.0,unigram
+premises,0.00841,0.0,0.0,0.0,unigram
+ai software,0.00841,0.0,0.0,0.0,bigram
+premises risk,0.00841,0.0,0.0,0.0,bigram
+management climate,0.00841,0.0,0.0,0.0,bigram
+management data,0.00841,0.0,0.0,0.0,bigram
+emerging ai,0.00841,0.0,0.0,0.0,bigram
+maximum,0.00841,0.0,0.0,0.0,unigram
+mis,0.00841,0.0,0.0,0.0,unigram
+created using,0.00841,0.0,0.0,0.0,bigram
+skilled,0.00841,0.0,0.0,0.0,unigram
+assume,0.00841,0.0,0.0,0.0,unigram
+investors,0.008371,0.020114,0.0,0.0,unigram
+rating,0.008371,0.010484,0.0,0.0,unigram
+engineering,0.008371,0.018312,0.0,0.0,unigram
+online,0.008371,0.010484,0.0,0.0,unigram
+advancement,0.008371,0.0,0.010888,0.0,unigram
+identity,0.008296,0.009609,0.006842,0.0,unigram
+frameworks,0.008285,0.01508,0.009312,0.0,unigram
+continuing,0.008275,0.018553,0.011368,0.0,unigram
+commitments,0.00823,0.006195,0.0,0.0,unigram
+measurement,0.00823,0.0,0.008048,0.0,unigram
+leverage ai,0.00823,0.005314,0.0,0.0,bigram
+guided,0.00823,0.0,0.005501,0.0,unigram
+access ai,0.00823,0.0,0.0144,0.0,bigram
+regional,0.00823,0.006176,0.0,0.0,unigram
+introduced new,0.00823,0.006195,0.0,0.0,bigram
+detect,0.00823,0.006195,0.0,0.0,unigram
+responses,0.00821,0.006866,0.0,0.0,unigram
+climate transition,0.00821,0.0,0.008141,0.0,bigram
+spotlight,0.00821,0.006866,0.0,0.0,unigram
+office,0.008198,0.014065,0.020293,0.0,unigram
+technical,0.008159,0.011994,0.005799,0.0,unigram
+empathetic,0.008158,0.0,0.0,0.0,unigram
+turn,0.008158,0.0,0.0,0.0,unigram
+embed ai,0.008158,0.0,0.0,0.0,bigram
+masters,0.008158,0.0,0.0,0.0,unigram
+faces,0.008158,0.0,0.0,0.0,unigram
+holistic data,0.008158,0.0,0.0,0.0,bigram
+approaches including,0.008158,0.0,0.0,0.0,bigram
+result reputational,0.008158,0.0,0.0,0.0,bigram
+modernising,0.008158,0.0,0.0,0.0,unigram
+modelling approaches,0.008158,0.0,0.0,0.0,bigram
+conversations,0.008158,0.0,0.0,0.0,unigram
+technology automation,0.008158,0.0,0.0,0.0,bigram
+su,0.008158,0.0,0.0,0.0,unigram
+needs customers,0.008158,0.0,0.0,0.0,bigram
+risks risk,0.008158,0.0,0.0,0.0,bigram
+discount,0.008158,0.0,0.0,0.0,unigram
+learning opportunities,0.008158,0.0,0.0,0.0,bigram
+dialogue,0.008158,0.0,0.0,0.0,unigram
+preparation,0.008158,0.0,0.0,0.0,unigram
+innovation strategy,0.008158,0.0,0.0,0.0,bigram
+limitation,0.008158,0.0,0.0,0.0,unigram
+backdrop,0.008158,0.0,0.0,0.0,unigram
+want,0.008158,0.0,0.0,0.0,unigram
+including limitation,0.008158,0.0,0.0,0.0,bigram
+chief ai,0.008158,0.0,0.0,0.0,bigram
+impairment,0.008158,0.0,0.0,0.0,unigram
+protecting customers,0.008158,0.0,0.0,0.0,bigram
+business customers,0.008158,0.0,0.0,0.0,bigram
+building skills,0.008158,0.0,0.0,0.0,bigram
+risks management,0.008158,0.0,0.0,0.0,bigram
+opportunities including,0.008158,0.0,0.0,0.0,bigram
+ai company,0.008158,0.0,0.0,0.0,bigram
+financial statements,0.008156,0.008241,0.017894,0.0,bigram
+lines,0.008156,0.018368,0.011584,0.0,unigram
+especially,0.008148,0.004195,0.01225,0.0,unigram
+compliance uk,0.008142,0.0,0.0,0.0,bigram
+written,0.008142,0.0,0.0,0.0,unigram
+mitigate increasing,0.008142,0.0,0.0,0.0,bigram
+discussing,0.008142,0.0,0.0,0.0,unigram
+needing,0.008142,0.0,0.0,0.0,unigram
+functions ensure,0.008142,0.0,0.0,0.0,bigram
+colleagues ai,0.008142,0.0,0.0,0.0,bigram
+earned,0.008142,0.0,0.0,0.0,unigram
+shared ownership,0.008142,0.0,0.0,0.0,bigram
+completed hours,0.008142,0.0,0.0,0.0,bigram
+nominations,0.008142,0.0,0.0,0.0,unigram
+group subject,0.008142,0.0,0.0,0.0,bigram
+uk eu,0.008142,0.0,0.0,0.0,bigram
+prudential,0.008142,0.0,0.0,0.0,unigram
+continues invest,0.008142,0.0,0.0,0.0,bigram
+ai essential,0.008142,0.0,0.0,0.0,bigram
+starting,0.008142,0.0,0.0,0.0,unigram
+progre,0.008142,0.0,0.0,0.0,unigram
+ai external,0.008142,0.0,0.0,0.0,bigram
+ensure continued,0.008142,0.0,0.0,0.0,bigram
+data science,0.008142,0.0,0.0,0.0,bigram
+prudential regulation,0.008142,0.0,0.0,0.0,bigram
+governance standards,0.008142,0.0,0.0,0.0,bigram
+consisten,0.008142,0.0,0.0,0.0,unigram
+systems processes,0.008142,0.0,0.0,0.0,bigram
+responsible ethical,0.008142,0.0,0.0,0.0,bigram
+confidential,0.008139,0.01049,0.0,0.0,unigram
+contact,0.008139,0.0,0.019489,0.0,unigram
+intensive,0.008139,0.005226,0.0,0.0,unigram
+disclosures,0.008139,0.005226,0.0,0.0,unigram
+including use,0.008139,0.010043,0.0,0.0,bigram
+institutions,0.008139,0.0,0.007096,0.0,unigram
+gross,0.008127,0.015255,0.0,0.0,unigram
+enhance customer,0.008127,0.008241,0.006842,0.0,bigram
+evaluate,0.008127,0.009655,0.0,0.0,unigram
+management override,0.008114,0.0,0.011769,0.0,bigram
+industry leading,0.008114,0.010543,0.0,0.0,bigram
+players,0.008114,0.014396,0.0,0.0,unigram
+confident,0.008114,0.011333,0.0,0.0,unigram
+evaluating business,0.008114,0.0,0.00504,0.057246,bigram
+senior leaders,0.008114,0.0092,0.0065,0.0,bigram
+group financial,0.008114,0.0092,0.007372,0.0,bigram
+control framework,0.008114,0.0,0.013872,0.0,bigram
+easy,0.008092,0.0,0.014697,0.0,unigram
+automate,0.008092,0.008241,0.006729,0.0,unigram
+underpinned,0.008083,0.017983,0.0,0.0,unigram
+executive officer,0.008083,0.009753,0.007268,0.0,bigram
+enhanced ai,0.008056,0.0,0.005501,0.0,bigram
+new markets,0.008056,0.010043,0.0,0.0,bigram
+transformation ai,0.008056,0.0,0.005501,0.0,bigram
+language model,0.008056,0.0,0.012645,0.0,bigram
+empowers,0.008056,0.005314,0.0,0.0,unigram
+group strategic,0.008056,0.0,0.005501,0.0,bigram
+execution risk,0.008056,0.005314,0.0,0.0,bigram
+deeper,0.008056,0.0,0.007096,0.0,unigram
+expenditure,0.008056,0.006195,0.0,0.0,unigram
+particularly areas,0.008056,0.006176,0.0,0.0,bigram
+capex,0.008056,0.006195,0.0,0.0,unigram
+scenarios,0.00805,0.012733,0.00682,0.0,unigram
+competitiveness,0.008042,0.017004,0.0,0.0,unigram
+significantly improved,0.008042,0.0,0.007469,0.0,bigram
+oversees,0.008042,0.006195,0.0,0.0,unigram
+far,0.008042,0.005226,0.0,0.0,unigram
+feeds,0.008042,0.005314,0.0,0.0,unigram
+communications,0.008042,0.01049,0.0,0.0,unigram
+industries,0.008042,0.008848,0.0,0.0,unigram
+labour,0.008013,0.0,0.0,0.0,unigram
+assess impact,0.008013,0.0,0.0,0.0,bigram
+engagement ai,0.008013,0.0,0.0,0.0,bigram
+new sustainable,0.008013,0.0,0.0,0.0,bigram
+committee explored,0.008013,0.0,0.0,0.0,bigram
+ensured,0.008013,0.0,0.0,0.0,unigram
+engineers,0.008013,0.0,0.0,0.0,unigram
+help customers,0.008013,0.0,0.0,0.0,bigram
+compliance officer,0.008013,0.0,0.0,0.0,bigram
+crime risks,0.008013,0.0,0.0,0.0,bigram
+common,0.008013,0.0,0.0,0.0,unigram
+including increased,0.008013,0.0,0.0,0.0,bigram
+ai literacy,0.008013,0.0,0.0,0.0,bigram
+tools ai,0.008013,0.0,0.0,0.0,bigram
+related cybersecurity,0.008013,0.0,0.0,0.0,bigram
+processes review,0.008013,0.0,0.0,0.0,bigram
+saudi,0.008013,0.0,0.0,0.0,unigram
+bridge,0.008013,0.0,0.0,0.0,unigram
+development new,0.008013,0.0,0.0,0.0,bigram
+support initiatives,0.008013,0.0,0.0,0.0,bigram
+dependencies,0.008013,0.0,0.0,0.0,unigram
+adoption digital,0.008013,0.0,0.0,0.0,bigram
+ai tax,0.008013,0.0,0.0,0.0,bigram
+responding,0.008013,0.0,0.0,0.0,unigram
+heightened,0.008013,0.0,0.0,0.0,unigram
+group model,0.008013,0.0,0.0,0.0,bigram
+advanced digital,0.008013,0.0,0.0,0.0,bigram
+provided board,0.008013,0.0,0.0,0.0,bigram
+relating data,0.008013,0.0,0.0,0.0,bigram
+timing,0.008013,0.0,0.0,0.0,unigram
+ai improved,0.007997,0.0,0.0,0.0,bigram
+customer base,0.007997,0.0,0.0,0.0,bigram
+utilisation,0.007997,0.0,0.0,0.0,unigram
+operations reducing,0.007997,0.0,0.0,0.0,bigram
+transparency act,0.007997,0.0,0.0,0.0,bigram
+navigated,0.007997,0.0,0.0,0.0,unigram
+compliance reviews,0.007997,0.0,0.0,0.0,bigram
+arising ai,0.007997,0.0,0.0,0.0,bigram
+functional,0.007997,0.0,0.0,0.0,unigram
+newly introduced,0.007997,0.0,0.0,0.0,bigram
+measures taken,0.007997,0.0,0.0,0.0,bigram
+focus policies,0.007997,0.0,0.0,0.0,bigram
+including group,0.007997,0.0,0.0,0.0,bigram
+delivering best,0.007997,0.0,0.0,0.0,bigram
+risk based,0.007997,0.0,0.0,0.0,bigram
+processes improve,0.007997,0.0,0.0,0.0,bigram
+ai help,0.007997,0.0,0.0,0.0,bigram
+including automated,0.007997,0.0,0.0,0.0,bigram
+cross functional,0.007997,0.0,0.0,0.0,bigram
+processes ai,0.007997,0.0,0.0,0.0,bigram
+colleagues group,0.007997,0.0,0.0,0.0,bigram
+outcomes customers,0.007997,0.0,0.0,0.0,bigram
+reporting risk,0.007997,0.0,0.0,0.0,bigram
+rational,0.007997,0.0,0.0,0.0,unigram
+fields,0.007997,0.0,0.0,0.0,unigram
+uk regulators,0.007997,0.0,0.0,0.0,bigram
+believes,0.007997,0.0,0.0,0.0,unigram
+incorporates,0.007997,0.0,0.0,0.0,unigram
+group claims,0.007997,0.0,0.0,0.0,bigram
+variety,0.007988,0.005889,0.0,0.0,unigram
+automation manual,0.007988,0.0,0.007864,0.0,bigram
+significant assumptions,0.007988,0.0,0.007864,0.0,bigram
+understanding group,0.007988,0.0,0.008919,0.0,bigram
+flow,0.007988,0.005791,0.0,0.0,unigram
+risk including,0.007988,0.006845,0.0,0.0,bigram
+kong,0.007988,0.015112,0.0,0.0,unigram
+indicators possible,0.007988,0.0,0.008919,0.0,bigram
+global trade,0.007988,0.009806,0.0,0.0,bigram
+hong kong,0.007988,0.015112,0.0,0.0,bigram
+participation,0.007988,0.0,0.009504,0.0,unigram
+continue develop,0.007988,0.005791,0.0,0.0,bigram
+relation ai,0.007988,0.0,0.006097,0.0,bigram
+hong,0.007988,0.015112,0.0,0.0,unigram
+rise indicators,0.007988,0.0,0.008919,0.0,bigram
+solutions including,0.007974,0.006195,0.007096,0.0,bigram
+product development,0.007974,0.015356,0.0,0.0,bigram
+intelligent,0.007974,0.006176,0.012438,0.0,unigram
+transforming,0.007974,0.006176,0.007096,0.0,unigram
+positive,0.007973,0.014147,0.01648,0.0,unigram
+stress testing,0.007961,0.005889,0.0,0.0,bigram
+chief data,0.007961,0.005791,0.0,0.0,bigram
+multi product,0.007961,0.005889,0.0,0.0,bigram
+using data,0.007961,0.006866,0.0,0.0,bigram
+customer calls,0.007961,0.0,0.008277,0.0,bigram
+surveys,0.007961,0.0,0.008141,0.0,unigram
+lives,0.007961,0.011625,0.0,0.0,unigram
+telematics,0.007961,0.006845,0.0,0.0,unigram
+achieved,0.007961,0.014364,0.0,0.0,unigram
+week,0.007961,0.012358,0.0,0.0,unigram
+terms,0.007919,0.009737,0.00682,0.0,unigram
+protect,0.007874,0.008862,0.01193,0.0,unigram
+resolution,0.007863,0.0,0.014014,0.0,unigram
+intelligence including,0.007863,0.005791,0.0,0.0,bigram
+successfully,0.007862,0.01598,0.0,0.05296,unigram
+finances,0.007814,0.011509,0.0,0.0,unigram
+run,0.007814,0.006195,0.007469,0.0,unigram
+decisioning,0.007814,0.012371,0.0,0.0,unigram
+representation,0.007814,0.0,0.014077,0.0,unigram
+group company,0.007786,0.005675,0.007856,0.0,bigram
+emerging risk,0.007786,0.010525,0.0,0.0,bigram
+data strategy,0.007786,0.005658,0.006729,0.0,bigram
+things,0.007759,0.005226,0.007096,0.0,unigram
+sustainable finance,0.00772,0.005226,0.0,0.0,bigram
+dives,0.00772,0.0,0.007346,0.0,unigram
+enter,0.00772,0.008997,0.0,0.0,unigram
+ip,0.00772,0.0,0.0144,0.0,unigram
+hold,0.00772,0.006176,0.0,0.0,unigram
+supervisory,0.00772,0.006195,0.0,0.0,unigram
+enablers,0.00772,0.010043,0.0,0.0,unigram
+customer needs,0.00772,0.006176,0.0,0.0,bigram
+england,0.00772,0.006176,0.0,0.0,unigram
+se,0.00772,0.006195,0.0,0.0,unigram
+progressing,0.00772,0.006176,0.0,0.0,unigram
+risks artificial,0.00772,0.010457,0.0,0.0,bigram
+enhance colleague,0.00772,0.005226,0.0,0.0,bigram
+trades,0.00772,0.0,0.008048,0.0,unigram
+simplifying,0.00772,0.0,0.005501,0.0,unigram
+group uses,0.00772,0.006176,0.0,0.0,bigram
+management including,0.00772,0.0,0.007346,0.0,bigram
+colleague experience,0.00772,0.005226,0.0,0.0,bigram
+board composition,0.007708,0.0,0.01154,0.0,bigram
+creating,0.007699,0.018439,0.01115,0.0,unigram
+post,0.007684,0.009753,0.016407,0.0,unigram
+engaged,0.007675,0.009737,0.007894,0.0,unigram
+resolved,0.007651,0.0,0.0,0.0,unigram
+driven analytics,0.007651,0.0,0.0,0.0,bigram
+creating new,0.007651,0.0,0.0,0.0,bigram
+queries resolved,0.007651,0.0,0.0,0.0,bigram
+data service,0.007651,0.0,0.0,0.0,bigram
+management actions,0.007651,0.0,0.0,0.0,bigram
+strategic esg,0.007651,0.0,0.0,0.0,bigram
+data customers,0.007651,0.0,0.0,0.0,bigram
+strategic direction,0.007651,0.0,0.0,0.0,bigram
+data use,0.007651,0.0,0.0,0.0,bigram
+check,0.007651,0.0,0.0,0.0,unigram
+customers need,0.007651,0.0,0.0,0.0,bigram
+sharing insights,0.007651,0.0,0.0,0.0,bigram
+chnology,0.007651,0.0,0.0,0.0,unigram
+including need,0.007651,0.0,0.0,0.0,bigram
+chief financial,0.007651,0.0,0.0,0.0,bigram
+embedding ai,0.007651,0.0,0.0,0.0,bigram
+consolidated ai,0.007651,0.0,0.0,0.0,bigram
+expenses,0.007651,0.0,0.0,0.0,unigram
+proofing,0.007651,0.0,0.0,0.0,unigram
+enabled tools,0.007651,0.0,0.0,0.0,bigram
+access comprehensive,0.007651,0.0,0.0,0.0,bigram
+opportunities customers,0.007651,0.0,0.0,0.0,bigram
+services business,0.007651,0.0,0.0,0.0,bigram
+ring,0.007651,0.0,0.0,0.0,unigram
+building new,0.007651,0.0,0.0,0.0,bigram
+cost base,0.007651,0.0,0.0,0.0,bigram
+google,0.007651,0.0,0.0,0.0,unigram
+inappropriate,0.00764,0.0,0.014743,0.025159,unigram
+clear,0.007618,0.038619,0.0,0.0,unigram
+schedule,0.007588,0.0,0.008048,0.0,unigram
+relate,0.007588,0.0,0.008048,0.0,unigram
+contribution,0.007588,0.010457,0.0,0.0,unigram
+state,0.007588,0.0,0.0144,0.0,unigram
+supported ai,0.007588,0.0,0.007346,0.0,bigram
+spent,0.007588,0.005226,0.0,0.0,unigram
+people risk,0.007588,0.0,0.007469,0.0,bigram
+digital experiences,0.007588,0.0,0.005501,0.0,bigram
+integration ai,0.007588,0.005314,0.0,0.0,bigram
+fraud risk,0.007588,0.010043,0.0,0.0,bigram
+attractive,0.007539,0.0,0.011881,0.0,unigram
+chief executive,0.00753,0.009086,0.00677,0.026868,bigram
+health,0.007519,0.030061,0.0,0.0,unigram
+risk assessments,0.007511,0.008321,0.015585,0.0,bigram
+making accounting,0.007507,0.00525,0.004662,0.05296,bigram
+upgrading,0.007506,0.0,0.0,0.0,unigram
+integrates,0.007506,0.0,0.0,0.0,unigram
+chief risk,0.007506,0.0,0.0,0.0,bigram
+executing,0.007506,0.0,0.0,0.0,unigram
+president,0.007506,0.0,0.0,0.0,unigram
+growing use,0.007506,0.0,0.0,0.0,bigram
+providing support,0.007506,0.0,0.0,0.0,bigram
+assets operational,0.007506,0.0,0.0,0.0,bigram
+cyber ai,0.007506,0.0,0.0,0.0,bigram
+infrastructure data,0.007506,0.0,0.0,0.0,bigram
+amazon,0.007506,0.0,0.0,0.0,unigram
+colleagues including,0.007506,0.0,0.0,0.0,bigram
+amazon web,0.007506,0.0,0.0,0.0,bigram
+share buybacks,0.007506,0.0,0.0,0.0,bigram
+sell,0.007506,0.0,0.0,0.0,unigram
+sources data,0.007506,0.0,0.0,0.0,bigram
+risk officer,0.007506,0.0,0.0,0.0,bigram
+monetise,0.007506,0.0,0.0,0.0,unigram
+services including,0.007506,0.0,0.0,0.0,bigram
+goes,0.007506,0.0,0.0,0.0,unigram
+world leading,0.007506,0.0,0.0,0.0,bigram
+model ai,0.007506,0.0,0.0,0.0,bigram
+ratings,0.007506,0.0,0.0,0.0,unigram
+began,0.007506,0.0,0.0,0.0,unigram
+web services,0.007506,0.0,0.0,0.0,bigram
+data sourcing,0.007506,0.0,0.0,0.0,bigram
+resilience security,0.007506,0.0,0.0,0.0,bigram
+offe,0.007506,0.0,0.0,0.0,unigram
+occur,0.007506,0.0,0.0,0.0,unigram
+provide faster,0.007506,0.0,0.0,0.0,bigram
+holds,0.007506,0.0,0.0,0.0,unigram
+push,0.007506,0.0,0.0,0.0,unigram
+governance review,0.007506,0.0,0.0,0.0,bigram
+points,0.007499,0.013147,0.012667,0.0,unigram
+creates,0.007486,0.009753,0.006329,0.0,unigram
+having,0.007456,0.015002,0.0,0.0,unigram
+ordinary,0.007456,0.013501,0.014069,0.0,unigram
+actors,0.007456,0.010445,0.0,0.0,unigram
+fraud risks,0.007456,0.009609,0.00504,0.0,bigram
+second,0.007456,0.0,0.016623,0.0,unigram
+coverage,0.007426,0.009017,0.016654,0.0,unigram
+capacity,0.007409,0.010457,0.007096,0.0,unigram
+contributions,0.00738,0.005675,0.0065,0.0,unigram
+achieving,0.007367,0.005658,0.0,0.031176,unigram
+contribute,0.007362,0.006195,0.0,0.0,unigram
+data centres,0.007362,0.005226,0.0,0.0,bigram
+documents,0.007362,0.0,0.007469,0.0,unigram
+inventory,0.007362,0.0,0.005501,0.0,unigram
+strategic priorities,0.007362,0.005226,0.0,0.0,bigram
+protecting,0.007362,0.005226,0.0,0.0,unigram
+group technology,0.007362,0.0,0.005501,0.0,bigram
+continuous learning,0.007362,0.010043,0.0,0.0,bigram
+valuation,0.007362,0.0,0.009315,0.0,unigram
+board approved,0.007347,0.0,0.008048,0.0,bigram
+invests,0.007347,0.010043,0.0,0.0,unigram
+test,0.007347,0.005226,0.0,0.0,unigram
+impact ai,0.007347,0.005226,0.0,0.0,bigram
+seen,0.007347,0.006176,0.0,0.0,unigram
+conduct authority,0.007347,0.0,0.008576,0.0,bigram
+empower colleagues,0.007347,0.005226,0.0,0.0,bigram
+broadly,0.007347,0.006195,0.0,0.0,unigram
+appointments,0.007347,0.005226,0.0,0.0,unigram
+reasonable,0.007347,0.006176,0.0,0.0,unigram
+data artificial,0.007347,0.010457,0.0,0.0,bigram
+group audit,0.007347,0.005226,0.0,0.0,bigram
+handling time,0.007347,0.0,0.007469,0.0,bigram
+planned,0.007347,0.0,0.005501,0.0,unigram
+strategic risk,0.007347,0.005314,0.0,0.0,bigram
+served,0.007347,0.005314,0.0,0.0,unigram
+shaping,0.007347,0.0,0.005501,0.0,unigram
+provision code,0.007347,0.005314,0.0,0.0,bigram
+technological changes,0.007347,0.005314,0.0,0.0,bigram
+offer customers,0.007347,0.0,0.007469,0.0,bigram
+accurately,0.007347,0.005314,0.0,0.0,unigram
+diversity,0.007298,0.007791,0.021658,0.0,unigram
+widely,0.00723,0.005226,0.0,0.0,unigram
+cycle,0.00723,0.008997,0.0,0.0,unigram
+debt,0.00723,0.006176,0.0,0.0,unigram
+vulnerability,0.00723,0.005226,0.0,0.0,unigram
+ifrs,0.00723,0.012961,0.0,0.0,unigram
+including machine,0.00723,0.006195,0.0,0.0,bigram
+simple,0.00723,0.008848,0.0,0.0,unigram
+risk material,0.00723,0.0,0.007346,0.0,bigram
+chains,0.00723,0.01247,0.0,0.0,unigram
+risk financial,0.00723,0.0,0.007346,0.0,bigram
+independent non,0.00723,0.005226,0.0,0.0,bigram
+diligence,0.00723,0.0,0.012645,0.0,unigram
+aims,0.00723,0.0,0.007469,0.0,unigram
+perform,0.00723,0.005226,0.0,0.0,unigram
+intend,0.00723,0.005226,0.0,0.0,unigram
+gdp,0.00723,0.006195,0.0,0.0,unigram
+retaining,0.00722,0.0,0.013315,0.0,unigram
+needed,0.00722,0.006866,0.0,0.0,unigram
+systems controls,0.00722,0.005889,0.0,0.0,bigram
+complaints,0.00722,0.0,0.008141,0.0,unigram
+liabilities,0.00722,0.0,0.010323,0.0,unigram
+saving,0.00722,0.011589,0.0,0.0,unigram
+embedded ai,0.00722,0.00997,0.0,0.0,bigram
+assets liabilities,0.00722,0.0,0.006097,0.0,bigram
+covered,0.00722,0.005889,0.0,0.0,unigram
+increased focus,0.007216,0.005226,0.0,0.0,bigram
+information security,0.007216,0.005314,0.0,0.0,bigram
+increasing automation,0.007216,0.0,0.008576,0.0,bigram
+widespread,0.007216,0.005314,0.0,0.0,unigram
+impacted,0.007216,0.0,0.007096,0.0,unigram
+risk failure,0.007216,0.006195,0.0,0.0,bigram
+ai new,0.007216,0.005226,0.0,0.0,bigram
+carbon accounting,0.007216,0.0,0.008576,0.0,bigram
+notably,0.007216,0.005226,0.0,0.0,unigram
+onboarding,0.007216,0.01247,0.0,0.0,unigram
+coming,0.007216,0.0,0.007469,0.0,unigram
+enhances,0.007216,0.010043,0.0,0.0,unigram
+ai continue,0.007208,0.012371,0.0,0.0,bigram
+recognition,0.007183,0.005314,0.005501,0.0,unigram
+ceo,0.007183,0.006195,0.005501,0.0,unigram
+specific,0.007182,0.011314,0.015375,0.0,unigram
+events,0.007182,0.015039,0.014521,0.0,unigram
+powerful,0.007158,0.0162,0.0,0.0,unigram
+dedicated,0.007151,0.025144,0.009416,0.0,unigram
+breadth,0.007131,0.014124,0.0,0.05296,unigram
+received updates,0.007131,0.004429,0.014714,0.0,bigram
+uniquely,0.007129,0.011589,0.0,0.0,unigram
+proprietary data,0.007129,0.005889,0.0,0.0,bigram
+wave,0.007129,0.005791,0.0,0.0,unigram
+executed,0.007129,0.005889,0.0,0.0,unigram
+scott,0.007129,0.005791,0.0,0.0,unigram
+datasets,0.007129,0.006866,0.0,0.0,unigram
+end end,0.007129,0.006845,0.0,0.0,bigram
+chatgpt,0.007129,0.011589,0.0,0.0,unigram
+continued focus,0.007129,0.006845,0.0,0.0,bigram
+choice,0.007129,0.005889,0.0,0.0,unigram
+including workforce,0.007129,0.0,0.007864,0.0,bigram
+multi year,0.007129,0.0,0.006097,0.0,bigram
+ai native,0.007129,0.018827,0.0,0.0,bigram
+licensed,0.007129,0.0,0.008919,0.0,unigram
+consumption,0.007129,0.005791,0.0,0.0,unigram
+indices,0.007129,0.0,0.008919,0.0,unigram
+analytics cloud,0.007129,0.011625,0.0,0.0,bigram
+pillars,0.007129,0.006845,0.0,0.0,unigram
+intelligence transforming,0.007129,0.0,0.007864,0.0,bigram
+rapid adoption,0.007129,0.005791,0.0,0.0,bigram
+organic,0.007129,0.006866,0.0,0.0,unigram
+issue,0.007129,0.0,0.008277,0.0,unigram
+heads,0.007129,0.005791,0.0,0.0,unigram
+disability,0.007129,0.0,0.007864,0.0,unigram
+term value,0.007129,0.005889,0.0,0.0,bigram
+offerings,0.007107,0.005675,0.006729,0.057246,unigram
+august,0.007095,0.011421,0.0,0.0,unigram
+targeted,0.007072,0.004787,0.006842,0.0,unigram
+establishment,0.007072,0.013987,0.0,0.0,unigram
+savings,0.007072,0.015267,0.0,0.0,unigram
+sub,0.007072,0.004787,0.0065,0.0,unigram
+risk control,0.007072,0.005658,0.007856,0.0,bigram
+risks related,0.007004,0.004195,0.015745,0.0,bigram
+override,0.006993,0.004195,0.022116,0.0,unigram
+override controls,0.006993,0.004195,0.019765,0.0,bigram
+processing,0.006974,0.028687,0.009485,0.0,unigram
+network,0.006954,0.01199,0.011585,0.025159,unigram
+internal external,0.006951,0.008105,0.006842,0.0,bigram
+ai implementation,0.006951,0.0,0.013872,0.0,bigram
+retain,0.006951,0.004867,0.013191,0.0,unigram
+segment,0.006951,0.008105,0.0065,0.0,unigram
+control environment,0.006951,0.010525,0.0,0.0,bigram
+workplace,0.006951,0.009579,0.007856,0.0,unigram
+impacting,0.006951,0.004787,0.00504,0.0,unigram
+ml,0.006915,0.005889,0.0,0.0,unigram
+highest,0.006915,0.005889,0.0,0.0,unigram
+personal data,0.006915,0.0,0.006097,0.0,bigram
+hybrid,0.006915,0.0,0.007864,0.0,unigram
+force,0.006915,0.006845,0.0,0.0,unigram
+service providers,0.006915,0.0,0.0,0.069255,bigram
+cyber attack,0.006915,0.005889,0.0,0.0,bigram
+capital management,0.006904,0.006176,0.0,0.0,bigram
+centralised,0.006904,0.005226,0.0,0.0,unigram
+facilitated,0.006904,0.0,0.005501,0.0,unigram
+eligible,0.006904,0.005226,0.0,0.0,unigram
+website,0.006904,0.0,0.0144,0.0,unigram
+staff,0.006904,0.0,0.007096,0.0,unigram
+maturity,0.006904,0.005314,0.0,0.0,unigram
+direction,0.006904,0.006176,0.0,0.0,unigram
+respective,0.006904,0.0,0.005501,0.0,unigram
+optimise,0.006904,0.0,0.007096,0.0,unigram
+vision,0.006904,0.008997,0.0,0.0,unigram
+policymakers,0.006904,0.005226,0.0,0.0,unigram
+scanning,0.006904,0.0,0.0,0.034033,unigram
+digitisation,0.006897,0.013291,0.006225,0.0,unigram
+recognised,0.006897,0.012749,0.007268,0.0,unigram
+positioned,0.006815,0.015487,0.004662,0.0,unigram
+including cyber,0.006815,0.009737,0.00682,0.0,bigram
+price,0.006815,0.017287,0.0,0.0,unigram
+self,0.006787,0.004867,0.014101,0.0,unigram
+leading technology,0.006773,0.005226,0.0,0.0,bigram
+introducing,0.006773,0.0,0.007096,0.0,unigram
+john,0.006773,0.0,0.005501,0.0,unigram
+components,0.006773,0.0,0.007346,0.0,unigram
+introduces,0.006773,0.0,0.005501,0.0,unigram
+comprised,0.006773,0.0,0.008048,0.0,unigram
+keeping,0.006773,0.006176,0.0,0.0,unigram
+mix,0.006773,0.005226,0.0,0.0,unigram
+accordance,0.006773,0.0,0.005501,0.0,unigram
+grade,0.006773,0.006176,0.0,0.0,unigram
+rely,0.006773,0.005314,0.0,0.0,unigram
+buybacks,0.006773,0.005314,0.0,0.0,unigram
+non compliance,0.006773,0.010043,0.0,0.0,bigram
+necessary,0.006773,0.005314,0.0,0.0,unigram
+data data,0.006773,0.005314,0.0,0.0,bigram
+global economy,0.006773,0.006195,0.0,0.0,bigram
+value shareholders,0.006773,0.010043,0.0,0.0,bigram
+year year,0.006773,0.005226,0.0,0.0,bigram
+undertakes,0.006773,0.0,0.005501,0.0,unigram
+protected,0.006773,0.006176,0.0,0.0,unigram
+acquisitions,0.006773,0.0,0.0,0.034033,unigram
+sale,0.006773,0.005226,0.0,0.0,unigram
+issuance,0.006773,0.0,0.007469,0.0,unigram
+advances ai,0.006773,0.006176,0.0,0.0,bigram
+advisory,0.006744,0.010445,0.0,0.0,unigram
+equipping,0.006744,0.013029,0.0,0.0,unigram
+domestic,0.006744,0.005675,0.006842,0.0,unigram
+goods,0.006744,0.004787,0.0,0.031176,unigram
+properly,0.006736,0.0,0.0,0.0,unigram
+appropriate use,0.006736,0.0,0.0,0.0,bigram
+travel,0.006736,0.0,0.0,0.0,unigram
+important business,0.006736,0.0,0.0,0.0,bigram
+colleague support,0.006736,0.0,0.0,0.0,bigram
+harder,0.006736,0.0,0.0,0.0,unigram
+business results,0.006736,0.0,0.0,0.0,bigram
+regulatory sanctions,0.006736,0.0,0.0,0.0,bigram
+business related,0.006736,0.0,0.0,0.0,bigram
+increasing complexity,0.006736,0.0,0.0,0.0,bigram
+security support,0.006736,0.0,0.0,0.0,bigram
+exercise,0.006736,0.0,0.0,0.0,unigram
+fundamental,0.006736,0.0,0.0,0.0,unigram
+insufficient,0.006736,0.0,0.0,0.0,unigram
+tal,0.006736,0.0,0.0,0.0,unigram
+change group,0.006736,0.0,0.0,0.0,bigram
+amendments,0.006736,0.0,0.0,0.0,unigram
+opportunities challenges,0.006736,0.0,0.0,0.0,bigram
+ongoing geopolitical,0.006736,0.0,0.0,0.0,bigram
+used train,0.006736,0.0,0.0,0.0,bigram
+result increased,0.006736,0.0,0.0,0.0,bigram
+systems enable,0.006736,0.0,0.0,0.0,bigram
+ladder,0.006736,0.0,0.0,0.0,unigram
+integrate ai,0.006736,0.0,0.0,0.0,bigram
+customers colleagues,0.006736,0.0,0.0,0.0,bigram
+adoption external,0.006736,0.0,0.0,0.0,bigram
+capital liquidity,0.006736,0.0,0.0,0.0,bigram
+tracking,0.006736,0.0,0.0,0.0,unigram
+digital services,0.006736,0.0,0.0,0.0,bigram
+participating,0.006736,0.0,0.0,0.0,unigram
+intelligence technologies,0.006736,0.0,0.0,0.0,bigram
+counterparties,0.006736,0.0,0.0,0.0,unigram
+ai workloads,0.006736,0.0,0.0,0.0,bigram
+intelligence machine,0.006736,0.0,0.0,0.0,bigram
+union,0.006736,0.0,0.0,0.0,unigram
+group investing,0.006736,0.0,0.0,0.0,bigram
+respect group,0.006736,0.0,0.0,0.0,bigram
+handled,0.006736,0.0,0.0,0.0,unigram
+tools like,0.006736,0.0,0.0,0.0,bigram
+employ,0.006736,0.0,0.0,0.0,unigram
+epc rating,0.006736,0.0,0.0,0.0,bigram
+participates,0.006736,0.0,0.0,0.0,unigram
+set new,0.006736,0.0,0.0,0.0,bigram
+ai process,0.006736,0.0,0.0,0.0,bigram
+epc,0.006736,0.0,0.0,0.0,unigram
+accelerator,0.006736,0.0,0.0,0.0,unigram
+risk reports,0.006736,0.0,0.0,0.0,bigram
+cooling,0.006736,0.0,0.0,0.0,unigram
+control financial,0.006736,0.0,0.0,0.0,bigram
+material financial,0.006736,0.0,0.0,0.0,bigram
+group including,0.006736,0.0,0.0,0.0,bigram
+empowering colleagues,0.006736,0.0,0.0,0.0,bigram
+result significant,0.006736,0.0,0.0,0.0,bigram
+proposals,0.006736,0.0,0.0,0.0,unigram
+modify,0.006736,0.0,0.0,0.0,unigram
+regulatory focus,0.006736,0.0,0.0,0.0,bigram
+relevant entity,0.006736,0.0,0.0,0.0,bigram
+assessments risk,0.006736,0.0,0.0,0.0,bigram
+profit tax,0.006736,0.0,0.0,0.0,bigram
+ai expertise,0.006736,0.0,0.0,0.0,bigram
+net worth,0.006736,0.0,0.0,0.0,bigram
+national,0.006736,0.0,0.0,0.0,unigram
+engagement customers,0.006736,0.0,0.0,0.0,bigram
+group use,0.006736,0.0,0.0,0.0,bigram
+litigation,0.006736,0.0,0.0,0.0,unigram
+innovation digital,0.006736,0.0,0.0,0.0,bigram
+pra fca,0.006736,0.0,0.0,0.0,bigram
+depends,0.006736,0.0,0.0,0.0,unigram
+enhance efficiency,0.006736,0.0,0.0,0.0,bigram
+condition prospects,0.006736,0.0,0.0,0.0,bigram
+information ai,0.006736,0.0,0.0,0.0,bigram
+develop ai,0.006736,0.0,0.0,0.0,bigram
+detection systems,0.006736,0.0,0.0,0.0,bigram
+certain risks,0.006736,0.0,0.0,0.0,bigram
+providers business,0.006736,0.0,0.0,0.0,bigram
+pportunities,0.006736,0.0,0.0,0.0,unigram
+candidates,0.006736,0.0,0.0,0.0,unigram
+gitlab,0.006736,0.0,0.0,0.0,unigram
+liquidity requirements,0.006736,0.0,0.0,0.0,bigram
+looking statements,0.006736,0.0,0.0,0.0,bigram
+deepfake,0.006736,0.0,0.0,0.0,unigram
+deemed,0.006736,0.0,0.0,0.0,unigram
+community,0.00673,0.005658,0.0,0.065426,unigram
+measure,0.00673,0.004787,0.006842,0.0,unigram
+communication,0.00673,0.009609,0.007856,0.0,unigram
+annually,0.00673,0.013763,0.0,0.0,unigram
+vital,0.00673,0.0,0.0065,0.031176,unigram
+advancements,0.00673,0.009609,0.0,0.057246,unigram
+personalisation,0.00673,0.005658,0.00504,0.0,unigram
+survey,0.006643,0.004126,0.021408,0.0,unigram
+adequate,0.006623,0.010445,0.0,0.0,unigram
+productivity gains,0.006623,0.008105,0.00504,0.0,bigram
+ai oversight,0.006623,0.010543,0.0,0.0,bigram
+step,0.006623,0.011333,0.0,0.0,unigram
+sme,0.006622,0.022128,0.006225,0.028842,unigram
+largest,0.006622,0.016361,0.014844,0.0,unigram
+relations,0.00661,0.0,0.019691,0.0,unigram
+lever,0.00661,0.004867,0.007372,0.0,unigram
+optimisation,0.00661,0.0092,0.0,0.031176,unigram
+better decisions,0.00661,0.004787,0.006842,0.0,bigram
+generally,0.00661,0.005675,0.00504,0.0,unigram
+award,0.00658,0.027897,0.0,0.0,unigram
+spend,0.00658,0.02587,0.0,0.0,unigram
+considerations,0.006542,0.012002,0.004662,0.0,unigram
+use artificial,0.006542,0.013291,0.006225,0.0,bigram
+improve customer,0.006515,0.005314,0.007346,0.0,bigram
+recommended,0.006515,0.006176,0.016889,0.0,unigram
+managers,0.006515,0.011509,0.0,0.0,unigram
+cyber attacks,0.006499,0.008241,0.027374,0.0,bigram
+considering,0.006497,0.011861,0.011401,0.0,unigram
+term strategic,0.006433,0.005314,0.005501,0.0,bigram
+complete,0.006433,0.006195,0.0,0.062492,unigram
+process automation,0.006433,0.005314,0.007096,0.0,bigram
+giving,0.006433,0.008848,0.0,0.034033,unigram
+integrations,0.006433,0.0,0.021869,0.0,unigram
+features,0.006433,0.008997,0.009315,0.0,unigram
+funds,0.006431,0.015123,0.014856,0.0,unigram
+efficient,0.006431,0.007624,0.012343,0.0,unigram
+identifying,0.006431,0.014182,0.0,0.0,unigram
+offers,0.006425,0.01439,0.010239,0.0,unigram
+function,0.006425,0.004126,0.016039,0.0,unigram
+active,0.00636,0.0,0.032048,0.0,unigram
+flexibility,0.006325,0.004787,0.0065,0.0,unigram
+receive,0.006325,0.010543,0.0,0.0,unigram
+summary,0.006325,0.010462,0.0,0.0,unigram
+continued investment,0.006325,0.014857,0.0,0.0,bigram
+reference,0.006325,0.0,0.015228,0.0,unigram
+operating leverage,0.006325,0.015255,0.0,0.0,bigram
+board members,0.006325,0.004787,0.0065,0.0,bigram
+career,0.006278,0.029402,0.0,0.0,unigram
+inherent,0.006239,0.004429,0.012239,0.0,unigram
+professional,0.006239,0.009737,0.006014,0.0,unigram
+technology innovation,0.006239,0.009663,0.006014,0.0,bigram
+rollout,0.006226,0.008932,0.004662,0.0,unigram
+awareness,0.006226,0.01294,0.012204,0.0,unigram
+event,0.006226,0.014701,0.004662,0.0,unigram
+strengthening,0.006226,0.01441,0.010992,0.0,unigram
+essential,0.006226,0.023958,0.0,0.0,unigram
+considers,0.006204,0.0,0.01154,0.0,unigram
+just,0.006204,0.015873,0.0,0.0,unigram
+internal controls,0.006204,0.0,0.013229,0.0,bigram
+bn,0.006127,0.009753,0.006225,0.0,unigram
+risk compliance,0.006127,0.00525,0.012834,0.0,bigram
+promote,0.006127,0.013014,0.006225,0.0,unigram
+moving,0.006127,0.004503,0.010992,0.0,unigram
+stable,0.006115,0.004503,0.004662,0.028842,unigram
+diversified,0.006115,0.012858,0.010182,0.0,unigram
+reflecting,0.006115,0.004503,0.007268,0.028842,unigram
+agm,0.006108,0.012749,0.013493,0.0,unigram
+metrics,0.006108,0.009663,0.016554,0.0,unigram
+resources,0.006084,0.02297,0.00543,0.0,unigram
+simplify,0.006084,0.013009,0.009497,0.0,unigram
+tools including,0.006078,0.010043,0.0,0.0,bigram
+risk loss,0.006078,0.005314,0.0,0.0,bigram
+amounts,0.006078,0.005226,0.0,0.0,unigram
+perceived,0.006078,0.005226,0.0,0.0,unigram
+specific ai,0.006078,0.005314,0.0,0.0,bigram
+credit risk,0.006078,0.013865,0.0,0.0,bigram
+operation,0.006078,0.005226,0.0,0.0,unigram
+automated decision,0.006078,0.005314,0.0,0.0,bigram
+authority pra,0.006078,0.0,0.007346,0.0,bigram
+policies procedures,0.006078,0.010043,0.0,0.0,bigram
+financial institutions,0.006078,0.0,0.007096,0.0,bigram
+ai risks,0.006078,0.0,0.008048,0.0,bigram
+increasingly sophisticated,0.006078,0.006195,0.0,0.0,bigram
+malicious,0.006078,0.008848,0.0,0.0,unigram
+train,0.006078,0.005314,0.0,0.0,unigram
+remain focused,0.006078,0.0,0.007346,0.0,bigram
+inadequate,0.006078,0.008997,0.0,0.0,unigram
+manipulation,0.006078,0.0,0.007346,0.0,unigram
+inaugural,0.006078,0.005314,0.0,0.0,unigram
+group continues,0.006078,0.005314,0.0,0.0,bigram
+worth,0.006078,0.006176,0.0,0.0,unigram
+returns,0.005991,0.008321,0.010697,0.0,unigram
+structured,0.005893,0.009655,0.006729,0.0,unigram
+interests,0.005893,0.013781,0.0065,0.0,unigram
+joined,0.005893,0.004867,0.011769,0.0,unigram
+extended,0.005893,0.010445,0.0,0.031176,unigram
+add,0.005851,0.009679,0.004662,0.0,unigram
+transform,0.005851,0.015487,0.004662,0.0,unigram
+advisers,0.005851,0.0,0.026139,0.0,unigram
+days,0.005825,0.0,0.008141,0.0,unigram
+performance culture,0.005825,0.00997,0.0,0.0,bigram
+incident,0.005825,0.0,0.008277,0.0,unigram
+exchange rates,0.005825,0.006866,0.0,0.0,bigram
+fintech,0.005825,0.006866,0.0,0.0,unigram
+board considered,0.005825,0.0,0.008141,0.0,bigram
+currency,0.005825,0.0,0.016503,0.0,unigram
+remediation,0.005825,0.011129,0.0,0.0,unigram
+light,0.005825,0.011589,0.0,0.0,unigram
+technology artificial,0.005825,0.011589,0.0,0.0,bigram
+ai tool,0.005825,0.006845,0.0,0.0,bigram
+partially,0.005825,0.0,0.007864,0.0,unigram
+facilitating,0.005825,0.0,0.006097,0.0,unigram
+governance ai,0.005825,0.005791,0.0,0.0,bigram
+frequency,0.005825,0.0,0.006097,0.0,unigram
+friend,0.005825,0.005791,0.0,0.0,unigram
+ding,0.005825,0.006845,0.0,0.0,unigram
+regulatory change,0.005825,0.006845,0.0,0.0,bigram
+guide,0.005825,0.0,0.006097,0.0,unigram
+exposures,0.005825,0.0,0.006097,0.0,unigram
+ai team,0.005825,0.005889,0.0,0.0,bigram
+industry trends,0.005825,0.011129,0.0,0.0,bigram
+size,0.005825,0.0,0.007864,0.0,unigram
+chat,0.005825,0.0,0.008277,0.0,unigram
+certainty,0.005825,0.005889,0.0,0.0,unigram
+including risk,0.0058,0.004195,0.011401,0.026868,bigram
+extend,0.00574,0.014182,0.0,0.0,unigram
+elements,0.00574,0.01294,0.010182,0.0,unigram
+determined,0.00574,0.004503,0.012239,0.0,unigram
+solution,0.00574,0.013393,0.006014,0.0,unigram
+structural,0.00574,0.014987,0.0,0.0,unigram
+conducted,0.005719,0.014303,0.014118,0.0,unigram
+frontier,0.005716,0.015312,0.0,0.0,unigram
+works,0.005716,0.015267,0.00504,0.0,unigram
+risk assessment,0.005708,0.008321,0.011955,0.0,bigram
+evolve,0.005708,0.02114,0.0,0.0,unigram
+line,0.00561,0.017378,0.017837,0.0,unigram
+powers,0.005579,0.005791,0.0,0.0,unigram
+management information,0.005579,0.0,0.008141,0.0,bigram
+california,0.005579,0.006866,0.0,0.0,unigram
+visited,0.005579,0.0,0.006097,0.0,unigram
+adopting,0.005579,0.006866,0.0,0.0,unigram
+signed,0.005579,0.005791,0.0,0.0,unigram
+non financial,0.005579,0.006845,0.0,0.0,bigram
+customers clients,0.005579,0.0,0.006097,0.0,bigram
+policy ai,0.005579,0.0,0.008141,0.0,bigram
+inputs,0.005579,0.0,0.008277,0.0,unigram
+business trust,0.005579,0.006866,0.0,0.0,bigram
+regulated,0.005579,0.006866,0.0,0.0,unigram
+reforms,0.005579,0.0,0.006097,0.0,unigram
+legal regulatory,0.005579,0.005889,0.0,0.0,bigram
+customers employees,0.005579,0.005791,0.0,0.0,bigram
+client needs,0.005579,0.006866,0.0,0.0,bigram
+rapid development,0.005579,0.006845,0.0,0.0,bigram
+putting,0.005579,0.006845,0.0,0.0,unigram
+risks arising,0.005579,0.0,0.0,0.069255,bigram
+risks risks,0.005579,0.0,0.0,0.069255,bigram
+presented ai,0.005579,0.005889,0.0,0.0,bigram
+steering,0.005579,0.012358,0.0,0.0,unigram
+ai standard,0.005579,0.005791,0.0,0.0,bigram
+ermf,0.005579,0.005889,0.0,0.0,unigram
+failure comply,0.005579,0.011129,0.0,0.0,bigram
+ongoing work,0.005579,0.0,0.006097,0.0,bigram
+applied,0.005579,0.009806,0.0,0.0,unigram
+limit,0.005568,0.005658,0.007372,0.0,unigram
+ensures,0.005568,0.010543,0.0,0.0,unigram
+defence,0.005568,0.004867,0.011584,0.0,unigram
+present,0.005568,0.0,0.014101,0.0,unigram
+circumstances,0.005568,0.010543,0.0,0.0,unigram
+sets,0.005568,0.010215,0.007372,0.0,unigram
+materially,0.005568,0.005675,0.0,0.031176,unigram
+timely,0.005568,0.013987,0.0,0.0,unigram
+factors including,0.005568,0.004787,0.0065,0.0,bigram
+harness,0.005568,0.004787,0.013191,0.0,unigram
+estimation,0.005568,0.0,0.014101,0.0,unigram
+enabler,0.005452,0.008511,0.017217,0.0,unigram
+user,0.005452,0.018264,0.010717,0.0,unigram
+reach,0.005452,0.022693,0.0,0.0,unigram
+efficiently,0.005431,0.016672,0.015688,0.0,unigram
+inclusive,0.005347,0.01282,0.01325,0.0,unigram
+september,0.005334,0.013009,0.010645,0.025159,unigram
+invested,0.00527,0.016524,0.018423,0.0,unigram
+ai emerging,0.005257,0.006195,0.007096,0.0,bigram
+entrants,0.005257,0.006195,0.009315,0.0,unigram
+discrimination,0.005257,0.008997,0.007096,0.0,unigram
+ai learning,0.005257,0.010539,0.0,0.0,bigram
+winning,0.005257,0.011402,0.0,0.0,unigram
+previous,0.005257,0.010539,0.0,0.0,unigram
+consistency,0.005257,0.015356,0.0,0.0,unigram
+wealth management,0.005257,0.011402,0.0,0.0,bigram
+board received,0.005257,0.0,0.015394,0.0,bigram
+score,0.005257,0.01049,0.005501,0.0,unigram
+statements including,0.005257,0.0,0.014442,0.0,bigram
+voice,0.005257,0.008848,0.005501,0.0,unigram
+behaviour,0.005151,0.008511,0.018533,0.0,unigram
+responsibility,0.005151,0.00525,0.013281,0.0,unigram
+including consideration,0.005151,0.00525,0.013046,0.0,bigram
+capabilities new,0.005115,0.006845,0.0,0.0,bigram
+increasing reliance,0.005115,0.0,0.006097,0.0,bigram
+ata,0.005115,0.005889,0.0,0.0,unigram
+review board,0.005115,0.0,0.006097,0.0,bigram
+improved automation,0.005115,0.011129,0.0,0.0,bigram
+assessment effectiveness,0.005115,0.0,0.008919,0.0,bigram
+compelling,0.005115,0.006866,0.0,0.0,unigram
+assessment control,0.005115,0.0,0.007864,0.0,bigram
+likely maintain,0.005115,0.005791,0.0,0.0,bigram
+group policy,0.005115,0.005791,0.0,0.0,bigram
+regularly review,0.005115,0.005791,0.0,0.0,bigram
+registered,0.005115,0.006845,0.0,0.0,unigram
+launch ai,0.005115,0.006845,0.0,0.0,bigram
+large scale,0.005115,0.006866,0.0,0.0,bigram
+investment automation,0.005115,0.0,0.009504,0.0,bigram
+sovereignty,0.005115,0.005791,0.0,0.0,unigram
+female,0.005115,0.005889,0.0,0.0,unigram
+benefitting,0.005115,0.006845,0.0,0.0,unigram
+rate cuts,0.005115,0.005791,0.0,0.0,bigram
+reason,0.005115,0.005791,0.0,0.0,unigram
+technology risk,0.005115,0.005889,0.0,0.0,bigram
+models risk,0.005115,0.005791,0.0,0.0,bigram
+build seamless,0.005115,0.006845,0.0,0.0,bigram
+asse,0.005115,0.0,0.0,0.037716,unigram
+tools enhance,0.005115,0.006845,0.0,0.0,bigram
+blockchain tokenisation,0.005115,0.0,0.015958,0.0,bigram
+digital innovation,0.005115,0.009806,0.0,0.0,bigram
+driven complex,0.005115,0.005889,0.0,0.0,bigram
+unique data,0.005115,0.005889,0.0,0.0,bigram
+provides tools,0.005115,0.006845,0.0,0.0,bigram
+intelligence tools,0.005115,0.006845,0.0,0.0,bigram
+quality monitoring,0.005115,0.005889,0.0,0.0,bigram
+key risk,0.005115,0.005889,0.0,0.0,bigram
+investment gen,0.005115,0.006845,0.0,0.0,bigram
+investment group,0.005115,0.011129,0.0,0.0,bigram
+pace development,0.005115,0.006845,0.0,0.0,bigram
+represented,0.005115,0.0,0.008141,0.0,unigram
+control effectiveness,0.005115,0.0,0.008277,0.0,bigram
+requirement,0.005115,0.0,0.007864,0.0,unigram
+reshaping financial,0.005115,0.005889,0.0,0.0,bigram
+scores,0.005115,0.006866,0.0,0.0,unigram
+deferral,0.005115,0.005791,0.0,0.0,unigram
+shared risk,0.005115,0.0,0.0,0.037716,bigram
+numbers,0.005115,0.006866,0.0,0.0,unigram
+business models,0.005115,0.011129,0.0,0.0,bigram
+evolving technology,0.005115,0.005791,0.0,0.0,bigram
+ai servicing,0.005115,0.0,0.014014,0.0,bigram
+seven years,0.005115,0.006866,0.0,0.0,bigram
+link strategy,0.005115,0.0,0.009504,0.0,bigram
+use modern,0.005115,0.011129,0.0,0.0,bigram
+stewardship,0.005115,0.005889,0.0,0.0,unigram
+boost,0.005115,0.0,0.006097,0.0,unigram
+delivered million,0.005115,0.006845,0.0,0.0,bigram
+captures,0.005115,0.0,0.006097,0.0,unigram
+cited,0.005115,0.005791,0.0,0.0,unigram
+sme customers,0.005115,0.005889,0.0,0.0,bigram
+gain momentum,0.005115,0.006866,0.0,0.0,bigram
+ai foundations,0.005115,0.006845,0.0,0.0,bigram
+visits,0.005115,0.006845,0.0,0.0,unigram
+visits colleague,0.005115,0.006845,0.0,0.0,bigram
+aspirations,0.005115,0.006866,0.0,0.0,unigram
+new customer,0.005115,0.0,0.008919,0.0,bigram
+treatment,0.005115,0.005791,0.0,0.0,unigram
+advice gap,0.005115,0.006845,0.0,0.0,bigram
+effectiveness risk,0.005115,0.0,0.008919,0.0,bigram
+workforce engagement,0.005115,0.005889,0.0,0.0,bigram
+fintechs,0.005115,0.006866,0.0,0.0,unigram
+smaller,0.005115,0.0,0.008141,0.0,unigram
+tools colleagues,0.005115,0.006845,0.0,0.0,bigram
+increase use,0.005115,0.009806,0.0,0.0,bigram
+rmf,0.005115,0.0,0.008919,0.0,unigram
+risk included,0.005115,0.005791,0.0,0.0,bigram
+category,0.005115,0.0,0.010323,0.0,unigram
+digital bank,0.005115,0.009806,0.0,0.0,bigram
+updates group,0.005115,0.005791,0.0,0.0,bigram
+ai initiatives,0.005115,0.0,0.006097,0.0,bigram
+navigating,0.005115,0.006845,0.0,0.0,unigram
+iteration,0.005115,0.005889,0.0,0.0,unigram
+digital banking,0.005115,0.009806,0.0,0.0,bigram
+broadening,0.005115,0.00997,0.0,0.0,unigram
+ai support,0.005115,0.011129,0.0,0.0,bigram
+business decisions,0.005115,0.005889,0.0,0.0,bigram
+tion,0.005115,0.005889,0.0,0.0,unigram
+group improve,0.005115,0.0,0.006097,0.0,bigram
+data deliver,0.005115,0.005889,0.0,0.0,bigram
+weekly,0.005115,0.011589,0.0,0.0,unigram
+including gen,0.005115,0.00997,0.0,0.0,bigram
+driven data,0.005115,0.006866,0.0,0.0,bigram
+transaction,0.005104,0.020999,0.016959,0.0,unigram
+oversight ai,0.005034,0.0,0.01297,0.0,bigram
+operates,0.005034,0.015268,0.0,0.0,unigram
+form,0.005034,0.006195,0.008576,0.0,unigram
+embracing,0.005034,0.014162,0.0,0.0,unigram
+business practices,0.005034,0.010539,0.0,0.0,bigram
+unable,0.005034,0.005314,0.005501,0.0,unigram
+high risk,0.005034,0.005314,0.008048,0.0,bigram
+generative artificial,0.004815,0.025416,0.006842,0.0,bigram
+constantly,0.004815,0.005675,0.020033,0.0,unigram
+availability,0.004815,0.018704,0.0,0.0,unigram
+leveraging ai,0.004798,0.016119,0.005896,0.0,bigram
+strive,0.004718,0.006866,0.0,0.0,unigram
+called,0.004718,0.006866,0.0,0.0,unigram
+technolo,0.004718,0.006866,0.0,0.0,unigram
+ecosystems,0.004718,0.005791,0.0,0.0,unigram
+advancing,0.004718,0.014364,0.0,0.0,unigram
+ai environment,0.004718,0.005889,0.0,0.0,bigram
+expected credit,0.004718,0.005889,0.0,0.0,bigram
+slavery,0.004718,0.012154,0.0,0.0,unigram
+forms,0.004718,0.005889,0.0,0.0,unigram
+tax cuts,0.004718,0.009806,0.0,0.0,bigram
+capital expenditure,0.004718,0.006866,0.0,0.0,bigram
+fraud controls,0.004718,0.005889,0.0,0.0,bigram
+ai generative,0.004718,0.0,0.006097,0.0,bigram
+slavery human,0.004718,0.005791,0.0,0.0,bigram
+monitored business,0.004718,0.005791,0.0,0.0,bigram
+appropriate risk,0.004718,0.0,0.009504,0.0,bigram
+goods services,0.004718,0.005791,0.0,0.0,bigram
+reputational risks,0.004718,0.0,0.008141,0.0,bigram
+limitations,0.004718,0.0,0.007864,0.0,unigram
+exciting,0.004718,0.006845,0.0,0.0,unigram
+nominee,0.004718,0.006845,0.0,0.0,unigram
+anti bribery,0.004718,0.006866,0.0,0.0,bigram
+attending,0.004718,0.005791,0.0,0.0,unigram
+appropriately,0.004718,0.006845,0.0,0.0,unigram
+board member,0.004718,0.005791,0.0,0.0,bigram
+defaults,0.004718,0.005791,0.0,0.0,unigram
+climate data,0.004718,0.005889,0.0,0.0,bigram
+sheet,0.004718,0.011589,0.0,0.0,unigram
+gdp gross,0.004718,0.006866,0.0,0.0,bigram
+management policies,0.004718,0.0,0.006097,0.0,bigram
+credit losses,0.004718,0.005889,0.0,0.0,bigram
+skills enable,0.004718,0.005791,0.0,0.0,bigram
+impact climate,0.004718,0.006845,0.0,0.0,bigram
+incentives,0.004718,0.0,0.008141,0.0,unigram
+water,0.004718,0.005791,0.0,0.0,unigram
+global payments,0.004718,0.011129,0.0,0.0,bigram
+customers operate,0.004718,0.0,0.008277,0.0,bigram
+gross domestic,0.004718,0.006866,0.0,0.0,bigram
+domestic product,0.004718,0.006866,0.0,0.0,bigram
+number active,0.004718,0.0,0.008919,0.0,bigram
+offered,0.004718,0.005791,0.0,0.0,unigram
+related valuation,0.004718,0.0,0.006097,0.0,bigram
+russia,0.004718,0.005791,0.0,0.0,unigram
+russia ukraine,0.004718,0.005791,0.0,0.0,bigram
+capabilities risk,0.004718,0.011129,0.0,0.0,bigram
+business growth,0.004718,0.0,0.008141,0.0,bigram
+evolving regulatory,0.004718,0.011129,0.0,0.0,bigram
+leadership skills,0.004718,0.005791,0.0,0.0,bigram
+fight financial,0.004718,0.0,0.008277,0.0,bigram
+fight,0.004718,0.0,0.008277,0.0,unigram
+ghg greenhouse,0.004718,0.0,0.009504,0.0,bigram
+geopolitics,0.004718,0.005791,0.0,0.0,unigram
+related posting,0.004718,0.0,0.007864,0.0,bigram
+balance sheet,0.004718,0.011589,0.0,0.0,bigram
+allowance,0.004718,0.005889,0.0,0.0,unigram
+people leaders,0.004718,0.01382,0.0,0.0,bigram
+impacts ai,0.004718,0.006845,0.0,0.0,bigram
+hardware,0.004718,0.005889,0.0,0.0,unigram
+data increase,0.004718,0.006866,0.0,0.0,bigram
+learning programmes,0.004718,0.005791,0.0,0.0,bigram
+specialised,0.004718,0.005791,0.0,0.0,unigram
+strategy focus,0.004718,0.005791,0.0,0.0,bigram
+laundering,0.004718,0.0,0.008277,0.0,unigram
+opportunity group,0.004718,0.0,0.006097,0.0,bigram
+overseeing group,0.004718,0.0,0.006097,0.0,bigram
+bank ai,0.004718,0.005791,0.0,0.0,bigram
+entries relation,0.004718,0.0,0.007864,0.0,bigram
+key suppliers,0.004718,0.006866,0.0,0.0,bigram
+superior,0.004718,0.014052,0.0,0.0,unigram
+equipping colleagues,0.004718,0.005791,0.0,0.0,bigram
+statements year,0.004718,0.005791,0.0,0.0,bigram
+payment infrastructure,0.004718,0.011129,0.0,0.0,bigram
+continue drive,0.004718,0.0,0.0,0.037716,bigram
+rapidly advancing,0.004718,0.006845,0.0,0.0,bigram
+technology risks,0.004718,0.00997,0.0,0.0,bigram
+page including,0.004718,0.005889,0.0,0.0,bigram
+ai today,0.004718,0.006845,0.0,0.0,bigram
+provided opportunity,0.004718,0.005791,0.0,0.0,bigram
+high levels,0.004718,0.006845,0.0,0.0,bigram
+issues raised,0.004718,0.005889,0.0,0.0,bigram
+energy water,0.004718,0.005791,0.0,0.0,bigram
+modern slavery,0.004718,0.012154,0.0,0.0,bigram
+cloud technology,0.004718,0.014409,0.0,0.0,bigram
+ce,0.004718,0.0,0.008141,0.0,unigram
+mobilisation,0.004718,0.0,0.006097,0.0,unigram
+areas focus,0.004718,0.0,0.007864,0.0,bigram
+ukraine,0.004718,0.005791,0.0,0.0,unigram
+support advanced,0.004718,0.006866,0.0,0.0,bigram
+monitor emerging,0.004718,0.0,0.0,0.069255,bigram
+fr,0.004718,0.006866,0.0,0.0,unigram
+successful execution,0.004718,0.005889,0.0,0.0,bigram
+enabled ai,0.004718,0.009806,0.0,0.0,bigram
+initiated,0.004718,0.005889,0.0,0.0,unigram
+procedures relating,0.004718,0.0,0.0,0.069255,bigram
+considerable,0.004718,0.0,0.006097,0.0,unigram
+risk analytics,0.004718,0.0,0.008277,0.0,bigram
+central,0.004707,0.014977,0.014714,0.0,unigram
+consists,0.004702,0.011129,0.0,0.0,unigram
+core ai,0.004702,0.0,0.015958,0.0,bigram
+mitigation strategies,0.004702,0.006845,0.0,0.0,bigram
+innovation ai,0.004702,0.005791,0.0,0.0,bigram
+inclusively,0.004702,0.0,0.009504,0.0,unigram
+acknowledging,0.004702,0.0,0.007864,0.0,unigram
+framework audit,0.004702,0.0,0.008919,0.0,bigram
+contextual,0.004702,0.005889,0.0,0.0,unigram
+pricing underwriting,0.004702,0.006845,0.0,0.0,bigram
+cost management,0.004702,0.006845,0.0,0.0,bigram
+approved board,0.004702,0.0,0.009504,0.0,bigram
+tangible,0.004702,0.005889,0.0,0.0,unigram
+months,0.004702,0.006866,0.0,0.0,unigram
+monthly,0.004702,0.0,0.007864,0.0,unigram
+ai committee,0.004702,0.005889,0.0,0.0,bigram
+proud,0.004702,0.005889,0.0,0.0,unigram
+pursuing,0.004702,0.0,0.006097,0.0,unigram
+explore,0.004702,0.006866,0.0,0.0,unigram
+expertise remains,0.004702,0.005889,0.0,0.0,bigram
+beneficial,0.004702,0.009806,0.0,0.0,unigram
+equip,0.004702,0.005889,0.0,0.0,unigram
+scalable ai,0.004702,0.011129,0.0,0.0,bigram
+uk ireland,0.004702,0.014364,0.0,0.0,bigram
+ai areas,0.004702,0.0,0.008919,0.0,bigram
+outstanding,0.004702,0.006845,0.0,0.0,unigram
+issued,0.004702,0.0,0.0,0.063859,unigram
+ireland,0.004702,0.014364,0.0,0.0,unigram
+key focus,0.004702,0.006845,0.0,0.0,bigram
+uk corporate,0.004702,0.0,0.007864,0.0,bigram
+hosted,0.004702,0.005889,0.0,0.0,unigram
+personal lines,0.004702,0.014364,0.0,0.0,bigram
+digital skills,0.004702,0.0,0.006097,0.0,bigram
+performance market,0.004702,0.0,0.0,0.037716,bigram
+viewed,0.004702,0.011129,0.0,0.0,unigram
+continuing build,0.004702,0.006845,0.0,0.0,bigram
+time horizon,0.004702,0.0,0.02702,0.0,bigram
+fairness transparency,0.004702,0.006866,0.0,0.0,bigram
+data cyber,0.004702,0.0,0.006097,0.0,bigram
+data skills,0.004702,0.005791,0.0,0.0,bigram
+fewer,0.004702,0.006866,0.0,0.0,unigram
+uk personal,0.004702,0.006845,0.0,0.0,bigram
+sustainable growth,0.004702,0.0,0.007864,0.0,bigram
+overall risk,0.004702,0.006845,0.0,0.0,bigram
+driven pricing,0.004702,0.006845,0.0,0.0,bigram
+disruptive technology,0.004702,0.0,0.006097,0.0,bigram
+data governance,0.004702,0.0,0.015958,0.0,bigram
+openness,0.004702,0.0,0.007864,0.0,unigram
+group committed,0.004702,0.011129,0.0,0.0,bigram
+feedback reflecting,0.004702,0.005889,0.0,0.0,bigram
+project,0.004702,0.0,0.0,0.117258,unigram
+build connections,0.004702,0.005889,0.0,0.0,bigram
+ai solve,0.004702,0.005889,0.0,0.0,bigram
+business objectives,0.004702,0.0,0.008919,0.0,bigram
+reinforce,0.004702,0.005889,0.0,0.0,unigram
+use genai,0.004702,0.006866,0.0,0.0,bigram
+lines business,0.004702,0.006845,0.0,0.0,bigram
+group chair,0.004702,0.0,0.006097,0.0,bigram
+enhance operational,0.004702,0.0,0.006097,0.0,bigram
+ent,0.004702,0.0,0.008141,0.0,unigram
+earn,0.004702,0.0,0.009504,0.0,unigram
+driving market,0.004702,0.0,0.008919,0.0,bigram
+productivity internal,0.004702,0.0,0.008919,0.0,bigram
+including progress,0.004702,0.0,0.008141,0.0,bigram
+standing,0.004702,0.006866,0.0,0.0,unigram
+financial performance,0.004702,0.005889,0.0,0.0,bigram
+focus area,0.004702,0.0,0.008277,0.0,bigram
+committee approved,0.004702,0.0,0.009504,0.0,bigram
+ne,0.004702,0.0,0.008141,0.0,unigram
+certifications,0.004702,0.011129,0.0,0.0,unigram
+roll ai,0.004702,0.006845,0.0,0.0,bigram
+multiple channels,0.004702,0.006866,0.0,0.0,bigram
+gdpr,0.004702,0.006866,0.0,0.0,unigram
+love,0.004702,0.0,0.0,0.037716,unigram
+renewed,0.004702,0.005889,0.0,0.0,unigram
+significance,0.004702,0.0,0.008141,0.0,unigram
+good customer,0.004702,0.006845,0.0,0.0,bigram
+showing,0.004702,0.006845,0.0,0.0,unigram
+customer expectations,0.004702,0.006866,0.0,0.0,bigram
+exclusions,0.004702,0.006845,0.0,0.0,unigram
+evs,0.004702,0.006845,0.0,0.0,unigram
+adoption new,0.004702,0.005791,0.0,0.0,bigram
+resilience cyber,0.004702,0.0,0.008277,0.0,bigram
+strong platform,0.004702,0.006866,0.0,0.0,bigram
+comparison,0.004702,0.006845,0.0,0.0,unigram
+customers board,0.004702,0.006845,0.0,0.0,bigram
+marks,0.004702,0.005889,0.0,0.0,unigram
+signs,0.004702,0.005791,0.0,0.0,unigram
+committee technology,0.004702,0.0,0.008919,0.0,bigram
+chinese,0.004702,0.0,0.007864,0.0,unigram
+market risk,0.004702,0.0,0.015101,0.0,bigram
+market intelligence,0.004702,0.005791,0.0,0.0,bigram
+better serve,0.004702,0.005889,0.0,0.0,bigram
+ease,0.004702,0.0,0.009504,0.0,unigram
+posture,0.004702,0.0,0.006097,0.0,unigram
+predict,0.004702,0.0,0.008277,0.0,unigram
+price comparison,0.004702,0.006845,0.0,0.0,bigram
+demonstrated,0.004702,0.0,0.006097,0.0,unigram
+procedural,0.004702,0.005889,0.0,0.0,unigram
+resulted,0.004702,0.005791,0.0,0.0,unigram
+centralise,0.004702,0.0,0.008277,0.0,unigram
+younger,0.004702,0.005791,0.0,0.0,unigram
+accelerated investment,0.004702,0.005791,0.0,0.0,bigram
+reviews stress,0.004702,0.005791,0.0,0.0,bigram
+risks facing,0.004702,0.0,0.008919,0.0,bigram
+review approval,0.004702,0.005889,0.0,0.0,bigram
+risk group,0.004615,0.0,0.019901,0.0,bigram
+accelerate,0.004615,0.019305,0.0,0.0,unigram
+frictionless,0.004615,0.008997,0.007469,0.0,unigram
+following completion,0.004615,0.006176,0.005501,0.0,bigram
+responsible business,0.004615,0.006195,0.012014,0.0,bigram
+servicing,0.004615,0.0,0.039888,0.0,unigram
+day day,0.004615,0.005226,0.0144,0.0,bigram
+opportunities enhance,0.004615,0.005226,0.005501,0.0,bigram
+digital asset,0.004615,0.005226,0.0144,0.0,bigram
+know,0.004615,0.008997,0.007469,0.0,unigram
+spanning,0.004615,0.015356,0.0,0.0,unigram
+expert,0.004615,0.005314,0.012438,0.0,unigram
+performed,0.004615,0.006195,0.007096,0.0,unigram
+ai cyber,0.004615,0.006195,0.007346,0.0,bigram
+seven,0.004615,0.006195,0.008048,0.0,unigram
+shareholding,0.004615,0.006176,0.007096,0.0,unigram
+new risks,0.004615,0.006195,0.007469,0.0,bigram
+new business,0.004615,0.015268,0.0,0.0,bigram
+types,0.004612,0.020054,0.0,0.0,unigram
+reputation,0.004266,0.018248,0.006225,0.0,unigram
+corruption,0.004257,0.006195,0.007469,0.0,unigram
+short term,0.004257,0.005314,0.008576,0.0,bigram
+advanced technology,0.004257,0.006195,0.007346,0.0,bigram
+greenhouse gas,0.004257,0.006195,0.008576,0.0,bigram
+solutions help,0.004257,0.016666,0.0,0.0,bigram
+drive innovation,0.004257,0.006195,0.007096,0.0,bigram
+exploring,0.004257,0.010457,0.007346,0.0,unigram
+experimentation,0.004257,0.005314,0.005501,0.0,unigram
+launched new,0.004257,0.006176,0.007469,0.0,bigram
+annual general,0.004257,0.006195,0.008576,0.0,bigram
+cyber threats,0.004257,0.0,0.013549,0.0,bigram
+ai artificial,0.004257,0.006195,0.008576,0.0,bigram
+agm annual,0.004257,0.006195,0.008576,0.0,bigram
+greenhouse,0.004257,0.006195,0.008576,0.0,unigram
+ended,0.004257,0.005226,0.007096,0.0,unigram
+border,0.004257,0.008848,0.007096,0.0,unigram
+posting inappropriate,0.004257,0.0,0.014442,0.0,bigram
+flows,0.004257,0.015268,0.0,0.0,unigram
+bribery corruption,0.004257,0.006195,0.007469,0.0,bigram
+year ended,0.004257,0.005226,0.007096,0.0,bigram
+cross border,0.004257,0.005226,0.007096,0.0,bigram
+gas,0.004257,0.006195,0.008576,0.0,unigram
+bribery,0.004257,0.006195,0.007469,0.0,unigram
+footprint,0.004257,0.005226,0.012438,0.0,unigram
+genai generative,0.004257,0.006195,0.008576,0.0,bigram
+general meeting,0.004257,0.006195,0.008576,0.0,bigram
+initiatives including,0.004257,0.015356,0.0,0.0,bigram
+risk controls,0.004257,0.0,0.015516,0.0,bigram
+mitigation,0.004243,0.01149,0.0,0.0,unigram
+adaptability,0.004243,0.018891,0.0,0.0,unigram
+covers,0.004243,0.015803,0.0,0.0,unigram
+distribution channels,0.004243,0.014222,0.0,0.0,bigram
+solve,0.004243,0.014222,0.0,0.0,unigram
+agent,0.004243,0.006176,0.005501,0.0,unigram
+review group,0.004243,0.005314,0.005501,0.0,bigram
+questions,0.004243,0.006195,0.008048,0.0,unigram
+solving,0.004243,0.010539,0.0,0.0,unigram
+committee management,0.004243,0.005314,0.008048,0.0,bigram
+apprenticeship,0.004243,0.011402,0.0,0.0,unigram
+problem,0.004243,0.010539,0.0,0.0,unigram
+problem solving,0.004243,0.010539,0.0,0.0,bigram
+support group,0.004228,0.014067,0.00504,0.0,bigram
+proactive,0.004228,0.01533,0.0,0.0,unigram
+cyber risk,0.004228,0.004867,0.012412,0.0,bigram
+close,0.004228,0.004867,0.006842,0.057246,unigram
+presentation,0.004211,0.005791,0.0,0.0,unigram
+adding,0.004211,0.006845,0.0,0.0,unigram
+board ai,0.004211,0.0,0.0,0.037716,bigram
+focus risk,0.004211,0.011129,0.0,0.0,bigram
+chair risk,0.004211,0.005889,0.0,0.0,bigram
+significant progress,0.004211,0.006845,0.0,0.0,bigram
+friction,0.004211,0.011129,0.0,0.0,unigram
+accurate data,0.004211,0.006866,0.0,0.0,bigram
+risk models,0.004211,0.00997,0.0,0.0,bigram
+match,0.004211,0.0,0.006097,0.0,unigram
+ability deliver,0.004211,0.005889,0.0,0.0,bigram
+countries,0.004211,0.005791,0.0,0.0,unigram
+activities strategy,0.004211,0.0,0.006097,0.0,bigram
+section website,0.004211,0.0,0.015958,0.0,bigram
+stakeholder interests,0.004211,0.005791,0.0,0.0,bigram
+understanding business,0.004211,0.006866,0.0,0.0,bigram
+ai key,0.004211,0.006845,0.0,0.0,bigram
+executive committee,0.004211,0.0,0.009504,0.0,bigram
+infrastructure growth,0.004211,0.005791,0.0,0.0,bigram
+programmes including,0.004211,0.011129,0.0,0.0,bigram
+processes enabling,0.004211,0.0,0.009504,0.0,bigram
+engagement survey,0.004211,0.0,0.007864,0.0,bigram
+creates opportunity,0.004211,0.006866,0.0,0.0,bigram
+undertake,0.004211,0.005791,0.0,0.0,unigram
+modular,0.004211,0.012358,0.0,0.0,unigram
+attendance,0.004211,0.0,0.006097,0.0,unigram
+ai partnership,0.004211,0.0,0.006097,0.0,bigram
+security board,0.004211,0.0,0.008141,0.0,bigram
+including growth,0.004211,0.005791,0.0,0.0,bigram
+board undertook,0.004211,0.0,0.008141,0.0,bigram
+verification,0.004211,0.006866,0.0,0.0,unigram
+value creation,0.004211,0.0,0.007864,0.0,bigram
+ll,0.004211,0.006845,0.0,0.0,unigram
+survey results,0.004211,0.0,0.006097,0.0,bigram
+proof,0.004211,0.0,0.006097,0.0,unigram
+improves,0.004211,0.006845,0.0,0.0,unigram
+political,0.004211,0.009806,0.0,0.0,unigram
+portal,0.004211,0.006845,0.0,0.0,unigram
+aum,0.004211,0.005791,0.0,0.0,unigram
+enrich,0.004211,0.0,0.006097,0.0,unigram
+brokers,0.004211,0.011589,0.0,0.0,unigram
+focus ai,0.004211,0.009806,0.0,0.0,bigram
+fo,0.004211,0.005889,0.0,0.0,unigram
+locations,0.004211,0.006866,0.0,0.0,unigram
+makes,0.004211,0.006866,0.0,0.0,unigram
+ebitda,0.004211,0.011129,0.0,0.0,unigram
+administrative,0.004211,0.006866,0.0,0.0,unigram
+campaign,0.004211,0.005889,0.0,0.0,unigram
+major platform,0.004211,0.005791,0.0,0.0,bigram
+platforms including,0.004211,0.0,0.006097,0.0,bigram
+people culture,0.004211,0.0,0.008141,0.0,bigram
+development deployment,0.004211,0.0,0.006097,0.0,bigram
+allowing customers,0.004211,0.0,0.009504,0.0,bigram
+ledger,0.004211,0.011129,0.0,0.0,unigram
+leverage range,0.004211,0.0,0.0,0.063859,bigram
+customer matters,0.004211,0.0,0.008141,0.0,bigram
+continued strategic,0.004211,0.005889,0.0,0.0,bigram
+uniquely positioned,0.004211,0.011589,0.0,0.0,bigram
+improper,0.004211,0.0,0.008277,0.0,unigram
+enhanced data,0.004211,0.005791,0.0,0.0,bigram
+enhance ability,0.004211,0.005791,0.0,0.0,bigram
+int,0.004211,0.011129,0.0,0.0,unigram
+pla,0.004211,0.005791,0.0,0.0,unigram
+vertical,0.004211,0.006866,0.0,0.0,unigram
+stra,0.004211,0.0,0.009504,0.0,unigram
+governance new,0.004211,0.006845,0.0,0.0,bigram
+centred,0.004211,0.009806,0.0,0.0,unigram
+remuneration approach,0.004211,0.005791,0.0,0.0,bigram
+figure,0.004211,0.0,0.009504,0.0,unigram
+ins,0.004211,0.011129,0.0,0.0,unigram
+remuneration policy,0.004211,0.0,0.006097,0.0,bigram
+remuneration outcomes,0.004211,0.0,0.007864,0.0,bigram
+service allowing,0.004211,0.0,0.009504,0.0,bigram
+ongoing transformation,0.004211,0.006866,0.0,0.0,bigram
+services products,0.004211,0.006866,0.0,0.0,bigram
+partnerships expanded,0.004211,0.0,0.006097,0.0,bigram
+drive productivity,0.004211,0.006866,0.0,0.0,bigram
+launches,0.004211,0.005889,0.0,0.0,unigram
+benchmarks,0.004211,0.005889,0.0,0.0,unigram
+driven models,0.004211,0.006845,0.0,0.0,bigram
+ai cloud,0.004211,0.006866,0.0,0.0,bigram
+data leveraging,0.004211,0.005889,0.0,0.0,bigram
+historical,0.004211,0.006845,0.0,0.0,unigram
+championed,0.004211,0.005791,0.0,0.0,unigram
+growth underpinned,0.004211,0.005791,0.0,0.0,bigram
+unified,0.004211,0.0,0.006097,0.0,unigram
+scheduled,0.004211,0.011625,0.0,0.0,unigram
+update board,0.004211,0.006866,0.0,0.0,bigram
+scale ai,0.004211,0.011589,0.0,0.0,bigram
+combine,0.004211,0.006866,0.0,0.0,unigram
+connecting,0.004211,0.005791,0.0,0.0,unigram
+key areas,0.004211,0.0,0.015958,0.0,bigram
+raising,0.004211,0.009806,0.0,0.0,unigram
+concept,0.004211,0.005791,0.0,0.0,unigram
+service delivery,0.004211,0.011129,0.0,0.0,bigram
+half,0.004211,0.006866,0.0,0.0,unigram
+strategic partnerships,0.004211,0.0,0.006097,0.0,bigram
+outcomes engagement,0.004211,0.005889,0.0,0.0,bigram
+amplifying,0.004211,0.006866,0.0,0.0,unigram
+ai transformation,0.004211,0.006845,0.0,0.0,bigram
+identity fraud,0.004211,0.006866,0.0,0.0,bigram
+benefits pension,0.004211,0.0,0.006097,0.0,bigram
+undertook,0.004211,0.0,0.008141,0.0,unigram
+equally,0.004211,0.005889,0.0,0.0,unigram
+realised,0.004211,0.006845,0.0,0.0,unigram
+employed,0.004211,0.0,0.007864,0.0,unigram
+matters people,0.004211,0.0,0.008141,0.0,bigram
+em,0.004211,0.0,0.006097,0.0,unigram
+mitigate risks,0.004211,0.0,0.0,0.037716,bigram
+innovation technology,0.004211,0.006866,0.0,0.0,bigram
+ai impact,0.004211,0.0,0.008141,0.0,bigram
+year board,0.004211,0.0,0.008141,0.0,bigram
+tools support,0.004211,0.011129,0.0,0.0,bigram
+launching,0.003911,0.022623,0.007268,0.0,unigram
+resilient,0.003911,0.016486,0.010676,0.0,unigram
+schemes,0.003911,0.014987,0.004662,0.0,unigram
+proportionate,0.0039,0.004787,0.012412,0.0,unigram
+inappropriate journal,0.0039,0.0,0.013229,0.031176,bigram
+employment,0.0039,0.004787,0.018681,0.0,unigram
+scrutiny,0.0039,0.01533,0.0,0.0,unigram
+posting,0.0039,0.004867,0.013229,0.0,unigram
+stronger,0.003886,0.005658,0.011769,0.0,unigram
+wellbeing,0.003886,0.004867,0.015033,0.0,unigram
+daily,0.003886,0.018704,0.0,0.0,unigram
+phase,0.003886,0.013899,0.0065,0.0,unigram
+acceleration,0.003886,0.010445,0.0065,0.0,unigram
+profitable growth,0.003886,0.019725,0.0,0.0,bigram
+performing,0.003799,0.011402,0.0,0.0,unigram
+evaluation,0.003799,0.010043,0.008048,0.0,unigram
+drives,0.003799,0.01149,0.0,0.0,unigram
+brand,0.003799,0.012371,0.0,0.0,unigram
+resolve,0.003799,0.006195,0.007469,0.0,unigram
+engagement team,0.003799,0.0,0.007096,0.034033,bigram
+construction,0.003799,0.011402,0.0,0.0,unigram
+parallel,0.003799,0.010539,0.0,0.0,unigram
+scalability,0.003799,0.026206,0.016889,0.0,unigram
+private credit,0.003799,0.014162,0.0,0.0,bigram
+navigate,0.003799,0.018875,0.0,0.0,unigram
+incorporation,0.003799,0.010043,0.008048,0.0,unigram
+desktop,0.003799,0.005314,0.005501,0.0,unigram
+companies act,0.003799,0.005314,0.007096,0.0,bigram
+settlement,0.003799,0.02919,0.0,0.0,unigram
+reshape,0.003799,0.0,0.007096,0.062492,unigram
+record,0.003799,0.01149,0.0,0.0,unigram
+ur,0.003799,0.006176,0.008048,0.0,unigram
+business ai,0.003799,0.011509,0.0,0.0,bigram
+participated,0.003799,0.0,0.013549,0.0,unigram
+hour,0.003799,0.0,0.015516,0.0,unigram
+matter,0.003608,0.004503,0.019375,0.0,unigram
+profitable,0.003595,0.021369,0.006014,0.0,unigram
+continuously,0.003595,0.013879,0.016866,0.0,unigram
+tasks,0.003481,0.013899,0.006729,0.0,unigram
+depth,0.003481,0.0,0.011769,0.057246,unigram
+highlights,0.003481,0.010525,0.006729,0.0,unigram
+treasury,0.003481,0.021234,0.006842,0.0,unigram
+creation,0.003481,0.004867,0.01154,0.0,unigram
+potential risks,0.003481,0.013917,0.006729,0.0,bigram
+applying,0.003481,0.01533,0.0,0.0,unigram
+bank wide,0.003441,0.005791,0.0,0.0,bigram
+oversight fraud,0.003441,0.005889,0.0,0.0,bigram
+ai create,0.003441,0.011625,0.0,0.0,bigram
+quicker,0.003441,0.005889,0.0,0.0,unigram
+banking financial,0.003441,0.005791,0.0,0.0,bigram
+collective,0.003441,0.005889,0.0,0.0,unigram
+estimation uncertainty,0.003441,0.0,0.008919,0.0,bigram
+intelligence operational,0.003441,0.006845,0.0,0.0,bigram
+intelligence large,0.003441,0.0,0.008277,0.0,bigram
+stage,0.003441,0.006866,0.0,0.0,unigram
+outsourced,0.003441,0.0,0.008277,0.0,unigram
+recommendations,0.003441,0.006866,0.0,0.0,unigram
+uk example,0.003441,0.006845,0.0,0.0,bigram
+fairness respect,0.003441,0.006866,0.0,0.0,bigram
+failure manage,0.003441,0.006866,0.0,0.0,bigram
+parker review,0.003441,0.0,0.010323,0.0,bigram
+ethical social,0.003441,0.0,0.015958,0.0,bigram
+support growth,0.003441,0.005791,0.0,0.0,bigram
+affordable,0.003441,0.0,0.008141,0.0,unigram
+control frameworks,0.003441,0.0,0.007864,0.0,bigram
+fees,0.003441,0.0,0.007864,0.0,unigram
+systems including,0.003441,0.011129,0.0,0.0,bigram
+growth remain,0.003441,0.0,0.008141,0.0,bigram
+opinion,0.003441,0.005889,0.0,0.0,unigram
+operational risks,0.003441,0.0,0.0,0.069255,bigram
+purpose strategy,0.003441,0.0,0.007864,0.0,bigram
+tool enables,0.003441,0.006845,0.0,0.0,bigram
+continue focus,0.003441,0.006866,0.0,0.0,bigram
+guardrails ensure,0.003441,0.005889,0.0,0.0,bigram
+service customer,0.003441,0.0,0.008141,0.0,bigram
+intelligence quantum,0.003441,0.006845,0.0,0.0,bigram
+options,0.003441,0.0,0.008141,0.0,unigram
+operational processes,0.003441,0.011129,0.0,0.0,bigram
+services industry,0.003441,0.0,0.015958,0.0,bigram
+investing ai,0.003441,0.006845,0.0,0.0,bigram
+unlock potential,0.003441,0.0,0.008919,0.0,bigram
+ai approach,0.003441,0.006845,0.0,0.0,bigram
+inform,0.003441,0.005889,0.0,0.0,unigram
+workforce planning,0.003441,0.0,0.009504,0.0,bigram
+marking,0.003441,0.005791,0.0,0.0,unigram
+marking methodology,0.003441,0.005791,0.0,0.0,bigram
+deferred tax,0.003441,0.005889,0.0,0.0,bigram
+deliver products,0.003441,0.006866,0.0,0.0,bigram
+ai potential,0.003441,0.0,0.006097,0.0,bigram
+ai helping,0.003441,0.005791,0.0,0.0,bigram
+assistants,0.003441,0.006845,0.0,0.0,unigram
+articulation,0.003441,0.0,0.006097,0.0,unigram
+business customer,0.003441,0.0,0.006097,0.0,bigram
+received assurance,0.003441,0.005791,0.0,0.0,bigram
+partially offset,0.003441,0.0,0.007864,0.0,bigram
+involves,0.003441,0.0,0.008919,0.0,unigram
+high growth,0.003441,0.005889,0.0,0.0,bigram
+ai transform,0.003441,0.006845,0.0,0.0,bigram
+parker,0.003441,0.0,0.010323,0.0,unigram
+business automation,0.003441,0.0,0.009504,0.0,bigram
+corporate clients,0.003441,0.0,0.013784,0.0,bigram
+tools supporting,0.003441,0.0,0.009504,0.0,bigram
+market participants,0.003441,0.006845,0.0,0.0,bigram
+fraud prevention,0.003441,0.005889,0.0,0.0,bigram
+assessed indicators,0.003441,0.005791,0.0,0.0,bigram
+market share,0.003441,0.005791,0.0,0.0,bigram
+founded,0.003441,0.005889,0.0,0.0,unigram
+foster,0.003441,0.006866,0.0,0.0,unigram
+aggregate bias,0.003441,0.005791,0.0,0.0,bigram
+agile ai,0.003441,0.0,0.008919,0.0,bigram
+controls ai,0.003441,0.0,0.008919,0.0,bigram
+controls designed,0.003441,0.005889,0.0,0.0,bigram
+continue simplify,0.003441,0.006845,0.0,0.0,bigram
+continued embed,0.003441,0.005889,0.0,0.0,bigram
+customers impact,0.003441,0.006845,0.0,0.0,bigram
+adversely impact,0.003441,0.0,0.008141,0.0,bigram
+group expects,0.003441,0.0,0.007864,0.0,bigram
+leagues,0.003441,0.006845,0.0,0.0,unigram
+lear,0.003441,0.0,0.008277,0.0,unigram
+background,0.003441,0.0,0.008141,0.0,unigram
+automating,0.003441,0.005889,0.0,0.0,unigram
+automation key,0.003441,0.011129,0.0,0.0,bigram
+automation operational,0.003441,0.011129,0.0,0.0,bigram
+opened,0.003441,0.006845,0.0,0.0,unigram
+constantly evolving,0.003441,0.0,0.015958,0.0,bigram
+digital journeys,0.003441,0.0,0.006097,0.0,bigram
+digital technology,0.003441,0.005791,0.0,0.0,bigram
+developed ai,0.003441,0.006845,0.0,0.0,bigram
+stablecoin,0.003441,0.011129,0.0,0.0,unigram
+spotlights,0.003441,0.005889,0.0,0.0,unigram
+use automation,0.003441,0.0,0.008277,0.0,bigram
+greater capital,0.003441,0.0,0.0,0.037716,bigram
+driven higher,0.003441,0.006866,0.0,0.0,bigram
+financial conduct,0.003441,0.0,0.009504,0.0,bigram
+takes,0.003441,0.0,0.008141,0.0,unigram
+phone,0.003441,0.006866,0.0,0.0,unigram
+improve risk,0.003441,0.0,0.008919,0.0,bigram
+andand,0.003441,0.0,0.008277,0.0,unigram
+aggregate,0.003441,0.005791,0.0,0.0,unigram
+customer view,0.003441,0.0,0.009504,0.0,bigram
+ensure technology,0.003441,0.0,0.006097,0.0,bigram
+notable,0.003441,0.005791,0.0,0.0,unigram
+improved risk,0.003441,0.0,0.008277,0.0,bigram
+bots,0.003441,0.006866,0.0,0.0,unigram
+programming,0.003441,0.006866,0.0,0.0,unigram
+progress simplification,0.003441,0.006845,0.0,0.0,bigram
+instrument,0.003441,0.005791,0.0,0.0,unigram
+geographic,0.003441,0.0,0.007864,0.0,unigram
+needed deliver,0.003441,0.006866,0.0,0.0,bigram
+auma,0.003441,0.0,0.013784,0.0,unigram
+expectation,0.003441,0.0,0.006097,0.0,unigram
+goal setting,0.003441,0.005791,0.0,0.0,bigram
+cryptocurrencies,0.003441,0.0,0.008919,0.0,unigram
+financial instrument,0.003441,0.005791,0.0,0.0,bigram
+advance,0.003441,0.005791,0.0,0.0,unigram
+touch,0.003441,0.0,0.016091,0.0,unigram
+scotland,0.003441,0.011589,0.0,0.0,unigram
+ai safety,0.003441,0.005791,0.0,0.0,bigram
+view ai,0.003441,0.005791,0.0,0.0,bigram
+severity,0.003441,0.0,0.006097,0.0,unigram
+leveraging technology,0.003441,0.005889,0.0,0.0,bigram
+instrument marking,0.003441,0.005791,0.0,0.0,bigram
+enhance risk,0.003441,0.006866,0.0,0.0,bigram
+entering,0.003441,0.005791,0.0,0.0,unigram
+surpassing,0.003441,0.005889,0.0,0.0,unigram
+applic,0.003441,0.011129,0.0,0.0,unigram
+prospects business,0.003441,0.0,0.0,0.037716,bigram
+external perspectives,0.003441,0.0,0.008141,0.0,bigram
+stepped,0.003441,0.0,0.009504,0.0,unigram
+application programming,0.003441,0.006866,0.0,0.0,bigram
+customers party,0.003441,0.0,0.008141,0.0,bigram
+releases,0.003441,0.006845,0.0,0.0,unigram
+addresses,0.003441,0.006866,0.0,0.0,unigram
+shown,0.003441,0.0,0.008141,0.0,unigram
+management controls,0.003441,0.006845,0.0,0.0,bigram
+associated artificial,0.003441,0.0,0.008141,0.0,bigram
+adopt,0.003441,0.0,0.008141,0.0,unigram
+develops,0.003441,0.011129,0.0,0.0,unigram
+driven tools,0.003441,0.0,0.008277,0.0,bigram
+customers ai,0.003441,0.0,0.008277,0.0,bigram
+develops new,0.003441,0.011129,0.0,0.0,bigram
+device,0.003441,0.006866,0.0,0.0,unigram
+new regulatory,0.003441,0.011129,0.0,0.0,bigram
+cognitive,0.003441,0.0,0.009504,0.0,unigram
+deep dives,0.003441,0.0,0.008141,0.0,bigram
+expanding digital,0.003441,0.005791,0.0,0.0,bigram
+search,0.003441,0.006845,0.0,0.0,unigram
+determining,0.003441,0.0,0.007864,0.0,unigram
+end year,0.003441,0.0,0.008141,0.0,bigram
+expects,0.003441,0.0,0.007864,0.0,unigram
+experience customers,0.003441,0.005889,0.0,0.0,bigram
+significant investment,0.003441,0.005791,0.0,0.0,bigram
+fte,0.003441,0.009806,0.0,0.0,unigram
+frontline,0.003441,0.0,0.006097,0.0,unigram
+future events,0.003441,0.0,0.008141,0.0,bigram
+engagement opportunities,0.003441,0.0,0.008919,0.0,bigram
+single customer,0.003441,0.0,0.009504,0.0,bigram
+dependent,0.003441,0.005791,0.0,0.0,unigram
+board provided,0.003441,0.005791,0.0,0.0,bigram
+inherent risk,0.003441,0.0,0.008141,0.0,bigram
+initial,0.003441,0.005791,0.0,0.0,unigram
+increasing use,0.003441,0.0,0.008277,0.0,bigram
+capabilities including,0.003441,0.011129,0.0,0.0,bigram
+strong focus,0.003441,0.011129,0.0,0.0,bigram
+rolled ai,0.003441,0.006845,0.0,0.0,bigram
+response technology,0.003441,0.005889,0.0,0.0,bigram
+modernise,0.003441,0.011129,0.0,0.0,unigram
+modernised,0.003441,0.006845,0.0,0.0,unigram
+approach implementation,0.003441,0.0,0.008919,0.0,bigram
+effective use,0.003441,0.0,0.007864,0.0,bigram
+appropriate support,0.003441,0.011129,0.0,0.0,bigram
+bias financial,0.003441,0.005791,0.0,0.0,bigram
+independent director,0.003441,0.005791,0.0,0.0,bigram
+information used,0.003441,0.0,0.008919,0.0,bigram
+private banking,0.003441,0.005791,0.0,0.0,bigram
+ai generated,0.003441,0.0,0.006097,0.0,bigram
+better value,0.003441,0.006845,0.0,0.0,bigram
+powered technology,0.003441,0.005889,0.0,0.0,bigram
+indicators aggregate,0.003441,0.005791,0.0,0.0,bigram
+retailers,0.003441,0.0,0.0,0.037716,unigram
+board approval,0.003441,0.0,0.008919,0.0,bigram
+board committee,0.003441,0.0,0.009504,0.0,bigram
+board meeting,0.003441,0.0,0.008141,0.0,bigram
+increase risk,0.003441,0.006866,0.0,0.0,bigram
+billion end,0.003441,0.0,0.015958,0.0,bigram
+bilateral,0.003441,0.005791,0.0,0.0,unigram
+prevent fraud,0.003441,0.006866,0.0,0.0,bigram
+ai opportunities,0.003441,0.0,0.008919,0.0,bigram
+frequent,0.003441,0.006866,0.0,0.0,unigram
+actions artificial,0.003441,0.006845,0.0,0.0,bigram
+merging,0.003441,0.005889,0.0,0.0,unigram
+merging risks,0.003441,0.005889,0.0,0.0,bigram
+materiality,0.003441,0.0,0.008919,0.0,unigram
+work underway,0.003441,0.0,0.009504,0.0,bigram
+framework ensure,0.003441,0.011129,0.0,0.0,bigram
+risks uncertainties,0.003441,0.0,0.006097,0.0,bigram
+automation ai,0.003412,0.016569,0.014834,0.0,bigram
+principal risks,0.003361,0.009086,0.018172,0.0,bigram
+pressures,0.003361,0.021125,0.0,0.026868,unigram
+advanced ai,0.003295,0.006866,0.0,0.0,bigram
+actors use,0.003295,0.006845,0.0,0.0,bigram
+work address,0.003295,0.006866,0.0,0.0,bigram
+addition ai,0.003295,0.0,0.007864,0.0,bigram
+addressing,0.003295,0.005791,0.0,0.0,unigram
+workforce remuneration,0.003295,0.0,0.008141,0.0,bigram
+resulting ai,0.003295,0.005889,0.0,0.0,bigram
+rulings,0.003295,0.006866,0.0,0.0,unigram
+reviewed approved,0.003295,0.006845,0.0,0.0,bigram
+rewards,0.003295,0.0,0.0,0.079151,unigram
+responsible adoption,0.003295,0.0,0.013315,0.0,bigram
+accounting financials,0.003295,0.0,0.009504,0.0,bigram
+risk bias,0.003295,0.0,0.006097,0.0,bigram
+adoption use,0.003295,0.005791,0.0,0.0,bigram
+attackers,0.003295,0.0,0.008277,0.0,unigram
+prudent,0.003295,0.006866,0.0,0.0,unigram
+saw,0.003295,0.0,0.006097,0.0,unigram
+remit,0.003295,0.0,0.010323,0.0,unigram
+ai platform,0.003295,0.006845,0.0,0.0,bigram
+ai investors,0.003295,0.006845,0.0,0.0,bigram
+ai information,0.003295,0.006866,0.0,0.0,bigram
+ai increased,0.003295,0.006866,0.0,0.0,bigram
+ai drive,0.003295,0.006845,0.0,0.0,bigram
+vulnerability management,0.003295,0.005791,0.0,0.0,bigram
+applies,0.003295,0.011129,0.0,0.0,unigram
+ai enhanced,0.003295,0.005889,0.0,0.0,bigram
+albeit,0.003295,0.006866,0.0,0.0,unigram
+ai strategic,0.003295,0.005889,0.0,0.0,bigram
+aimed,0.003295,0.0,0.006097,0.0,unigram
+analyses,0.003295,0.005889,0.0,0.0,unigram
+related processes,0.003295,0.011129,0.0,0.0,bigram
+regimes,0.003295,0.005889,0.0,0.0,unigram
+reducing complexity,0.003295,0.0,0.006097,0.0,bigram
+regions,0.003295,0.006866,0.0,0.0,unigram
+avoid,0.003295,0.0,0.008277,0.0,unigram
+automation business,0.003295,0.0,0.0,0.063859,bigram
+brands,0.003295,0.0,0.008141,0.0,unigram
+audit process,0.003295,0.0,0.006097,0.0,bigram
+applicants,0.003295,0.00997,0.0,0.0,unigram
+authorities,0.003295,0.0,0.007864,0.0,unigram
+prohibiting,0.003295,0.0,0.007864,0.0,unigram
+promotion,0.003295,0.005889,0.0,0.0,unigram
+prove,0.003295,0.0,0.006097,0.0,unigram
+regulatory landscape,0.003295,0.011129,0.0,0.0,bigram
+report governance,0.003295,0.0,0.007864,0.0,bigram
+requirements group,0.003295,0.005889,0.0,0.0,bigram
+component,0.003295,0.0,0.006097,0.0,unigram
+compliance risks,0.003295,0.011129,0.0,0.0,bigram
+perception,0.003295,0.0,0.006097,0.0,unigram
+partnership carbon,0.003295,0.0,0.009504,0.0,bigram
+company including,0.003295,0.006866,0.0,0.0,bigram
+competition markets,0.003295,0.0,0.006097,0.0,bigram
+poor,0.003295,0.005889,0.0,0.0,unigram
+selected,0.003295,0.0,0.008141,0.0,unigram
+circumstances group,0.003295,0.006866,0.0,0.0,bigram
+pcaf,0.003295,0.0,0.009504,0.0,unigram
+phased,0.003295,0.0,0.006097,0.0,unigram
+challenges group,0.003295,0.005791,0.0,0.0,bigram
+upskill,0.003295,0.005791,0.0,0.0,unigram
+product service,0.003295,0.011129,0.0,0.0,bigram
+board oversight,0.003295,0.00997,0.0,0.0,bigram
+protection regulation,0.003295,0.006866,0.0,0.0,bigram
+cause,0.003295,0.005889,0.0,0.0,unigram
+business activities,0.003295,0.0,0.008919,0.0,bigram
+bring greater,0.003295,0.0,0.009504,0.0,bigram
+cessation,0.003295,0.006845,0.0,0.0,unigram
+security risks,0.003295,0.005889,0.0,0.0,bigram
+privacy regulatory,0.003295,0.006866,0.0,0.0,bigram
+prioritises,0.003295,0.0,0.007864,0.0,unigram
+capabilities enhance,0.003295,0.011129,0.0,0.0,bigram
+underpinning,0.003295,0.011129,0.0,0.0,unigram
+cash access,0.003295,0.0,0.0,0.037716,bigram
+position make,0.003295,0.0,0.006097,0.0,bigram
+poses,0.003295,0.006845,0.0,0.0,unigram
+presentations,0.003295,0.0,0.007864,0.0,unigram
+prepare,0.003295,0.005889,0.0,0.0,unigram
+capital allocation,0.003295,0.012358,0.0,0.0,bigram
+prohibited,0.003295,0.005791,0.0,0.0,unigram
+pervasive,0.003295,0.005791,0.0,0.0,unigram
+unauthorised,0.003295,0.005791,0.0,0.0,unigram
+cio,0.003295,0.005791,0.0,0.0,unigram
+cial,0.003295,0.0,0.0,0.037716,unigram
+uncertain,0.003295,0.0,0.008141,0.0,unigram
+deepening,0.003295,0.006866,0.0,0.0,unigram
+dealing,0.003295,0.0,0.009504,0.0,unigram
+tool used,0.003295,0.006845,0.0,0.0,bigram
+multi step,0.003295,0.006845,0.0,0.0,bigram
+deliver value,0.003295,0.011129,0.0,0.0,bigram
+new continue,0.003295,0.005889,0.0,0.0,bigram
+networks,0.003295,0.0,0.0,0.037716,unigram
+numerous,0.003295,0.0,0.006097,0.0,unigram
+nps,0.003295,0.006866,0.0,0.0,unigram
+ongoing investment,0.003295,0.005889,0.0,0.0,bigram
+data used,0.003295,0.011625,0.0,0.0,bigram
+creditworthiness,0.003295,0.006866,0.0,0.0,unigram
+customer client,0.003295,0.006866,0.0,0.0,bigram
+data breaches,0.003295,0.005889,0.0,0.0,bigram
+crypto,0.003295,0.0,0.015101,0.0,unigram
+trained,0.003295,0.00997,0.0,0.0,unigram
+consideration fraudulent,0.003295,0.006866,0.0,0.0,bigram
+continually,0.003295,0.006866,0.0,0.0,unigram
+conducts,0.003295,0.006866,0.0,0.0,unigram
+continues focus,0.003295,0.011129,0.0,0.0,bigram
+operational model,0.003295,0.0,0.007864,0.0,bigram
+opportunity risk,0.003295,0.0,0.015958,0.0,bigram
+organisational,0.003295,0.0,0.0,0.090002,unigram
+outsourcing,0.003295,0.011589,0.0,0.0,unigram
+owners,0.003295,0.005889,0.0,0.0,unigram
+oversight strategic,0.003295,0.005889,0.0,0.0,bigram
+committee undertakes,0.003295,0.0,0.006097,0.0,bigram
+agreements,0.003295,0.005791,0.0,0.0,unigram
+wi,0.003295,0.0,0.008277,0.0,unigram
+invest technology,0.003295,0.005889,0.0,0.0,bigram
+internal fraud,0.003295,0.005889,0.0,0.0,bigram
+general data,0.003295,0.011625,0.0,0.0,bigram
+forensic,0.003295,0.006866,0.0,0.0,unigram
+subsequent,0.003295,0.005889,0.0,0.0,unigram
+framework ai,0.003295,0.005889,0.0,0.0,bigram
+group impact,0.003295,0.006845,0.0,0.0,bigram
+systems data,0.003295,0.005889,0.0,0.0,bigram
+ensuring compliance,0.003295,0.005791,0.0,0.0,bigram
+exploit,0.003295,0.006845,0.0,0.0,unigram
+evolving technologies,0.003295,0.006866,0.0,0.0,bigram
+exco,0.003295,0.0,0.009504,0.0,unigram
+sustainability disclosure,0.003295,0.0,0.008141,0.0,bigram
+europe,0.003295,0.009806,0.0,0.0,unigram
+failures,0.003295,0.012358,0.0,0.0,unigram
+local,0.003295,0.006845,0.0,0.0,unigram
+specialists assist,0.003295,0.006866,0.0,0.0,bigram
+later,0.003295,0.005889,0.0,0.0,unigram
+le,0.003295,0.0,0.006097,0.0,unigram
+launched dedicated,0.003295,0.005791,0.0,0.0,bigram
+focus automation,0.003295,0.011129,0.0,0.0,bigram
+financial risk,0.003295,0.006845,0.0,0.0,bigram
+supply chains,0.003295,0.01382,0.0,0.0,bigram
+financials,0.003295,0.0,0.009504,0.0,unigram
+factor,0.003295,0.005791,0.0,0.0,unigram
+deeply,0.003295,0.005791,0.0,0.0,unigram
+did,0.003295,0.005889,0.0,0.0,unigram
+thinking,0.003295,0.0,0.006097,0.0,unigram
+tested,0.003295,0.0,0.008277,0.0,unigram
+designed protect,0.003295,0.0,0.009504,0.0,bigram
+malicious use,0.003295,0.005791,0.0,0.0,bigram
+sir john,0.003295,0.0,0.006097,0.0,bigram
+small businesses,0.003295,0.012358,0.0,0.0,bigram
+definition,0.003295,0.005889,0.0,0.0,unigram
+model outputs,0.003295,0.005889,0.0,0.0,bigram
+meaning,0.003295,0.006866,0.0,0.0,unigram
+simplify automate,0.003295,0.0,0.008141,0.0,bigram
+members group,0.003295,0.005791,0.0,0.0,bigram
+discussions circumstances,0.003295,0.006866,0.0,0.0,bigram
+disclosed,0.003295,0.0,0.009504,0.0,unigram
+discussions involved,0.003295,0.006866,0.0,0.0,bigram
+driven fraud,0.003295,0.006866,0.0,0.0,bigram
+markets remain,0.003295,0.0,0.006097,0.0,bigram
+technology estate,0.003295,0.0,0.006097,0.0,bigram
+digitisation ai,0.003295,0.0,0.008141,0.0,bigram
+digital view,0.003295,0.005889,0.0,0.0,bigram
+effort,0.003295,0.005791,0.0,0.0,unigram
+emerging threats,0.003295,0.006866,0.0,0.0,bigram
+management steering,0.003295,0.005889,0.0,0.0,bigram
+small medium,0.003295,0.006845,0.0,0.0,bigram
+management position,0.003295,0.0,0.006097,0.0,bigram
+management oversight,0.003295,0.006845,0.0,0.0,bigram
+sir,0.003295,0.0,0.006097,0.0,unigram
+exclusive,0.003295,0.009806,0.0,0.0,unigram
+enterprise risk,0.003295,0.00997,0.0,0.0,bigram
+estimates judgements,0.003295,0.0,0.006097,0.0,bigram
+taxes,0.003295,0.005889,0.0,0.0,unigram
+estimate,0.003295,0.0,0.008277,0.0,unigram
+targets set,0.003295,0.0,0.009504,0.0,bigram
+low risk,0.003295,0.009806,0.0,0.0,bigram
+software group,0.003295,0.006866,0.0,0.0,bigram
+technological change,0.003295,0.0,0.008141,0.0,bigram
+included consideration,0.003295,0.0,0.008141,0.0,bigram
+inappropriate accounting,0.003295,0.0,0.006097,0.0,bigram
+agreement,0.003295,0.005791,0.0,0.0,unigram
+ai continues,0.003295,0.006845,0.0,0.0,bigram
+accounting entries,0.003295,0.0,0.006097,0.0,bigram
+identifying fraud,0.003295,0.006866,0.0,0.0,bigram
+introduced ai,0.003295,0.006866,0.0,0.0,bigram
+growth underpinning,0.003295,0.011129,0.0,0.0,bigram
+instant access,0.003295,0.006866,0.0,0.0,bigram
+global markets,0.003295,0.005791,0.0,0.0,bigram
+healthcare,0.003295,0.011625,0.0,0.0,unigram
+forensic specialists,0.003295,0.006866,0.0,0.0,bigram
+intentional,0.003295,0.011129,0.0,0.0,unigram
+sup,0.003295,0.0,0.006097,0.0,unigram
+invaluable,0.003295,0.0,0.008277,0.0,unigram
+intuitive digital,0.003295,0.0,0.006097,0.0,bigram
+support ai,0.003295,0.005889,0.0,0.0,bigram
+failure meet,0.003295,0.0,0.009504,0.0,bigram
+combination,0.00322,0.009679,0.01315,0.0,unigram
+ai improve,0.00322,0.012875,0.013046,0.0,bigram
+fund,0.00322,0.017373,0.02859,0.0,unigram
+ai business,0.00322,0.01819,0.004662,0.0,bigram
+ai including,0.003105,0.011509,0.0,0.0,bigram
+actual,0.003105,0.015044,0.0,0.0,unigram
+allows,0.003105,0.019999,0.0,0.0,unigram
+responded,0.003105,0.006195,0.005501,0.0,unigram
+remuneration report,0.003105,0.0,0.022976,0.0,bigram
+annum,0.003105,0.0,0.0144,0.088807,unigram
+vs,0.003105,0.027252,0.0,0.0,unigram
+robotics,0.003105,0.0,0.008576,0.062492,unigram
+adequacy,0.003105,0.006176,0.008048,0.0,unigram
+read,0.003105,0.008848,0.014355,0.0,unigram
+philosophy,0.003105,0.010043,0.01452,0.0,unigram
+phishing,0.003105,0.006176,0.007469,0.0,unigram
+underway,0.003105,0.0,0.020021,0.0,unigram
+presents,0.003105,0.006176,0.0144,0.0,unigram
+potential ai,0.003105,0.01149,0.0,0.0,bigram
+prevent,0.003105,0.006195,0.007469,0.0,unigram
+sensitive,0.003105,0.005226,0.008048,0.0,unigram
+senior management,0.003105,0.0,0.020485,0.0,bigram
+automation use,0.003105,0.005226,0.007469,0.0,bigram
+basis points,0.003105,0.006195,0.008576,0.0,bigram
+progression,0.003105,0.016238,0.0,0.0,unigram
+promoting,0.003105,0.016238,0.0,0.0,unigram
+upgrades,0.003105,0.010043,0.012014,0.0,unigram
+calculated,0.003105,0.015683,0.0,0.0,unigram
+reduce costs,0.003105,0.006195,0.007096,0.0,bigram
+owned,0.003105,0.015771,0.0,0.0,unigram
+effectiveness review,0.003105,0.017327,0.0,0.0,bigram
+directors remuneration,0.003105,0.0,0.015671,0.0,bigram
+delivers,0.003105,0.014162,0.0,0.0,unigram
+methods,0.003105,0.0,0.008048,0.034033,unigram
+minority,0.003105,0.0,0.01666,0.0,unigram
+movements,0.003105,0.0,0.01297,0.0,unigram
+new entrants,0.003105,0.006195,0.009315,0.0,bigram
+controls risk,0.003105,0.0,0.01297,0.0,bigram
+ethnic,0.003105,0.0,0.01666,0.0,unigram
+look,0.003105,0.011509,0.0,0.0,unigram
+investing automation,0.003105,0.010043,0.007096,0.0,bigram
+interface,0.003105,0.011509,0.0,0.0,unigram
+governed,0.003105,0.005226,0.005501,0.0,unigram
+guardrails,0.003105,0.010539,0.0,0.0,unigram
+including data,0.003105,0.010043,0.011545,0.0,bigram
+risk scenarios,0.003105,0.006176,0.008048,0.0,bigram
+streamline,0.003,0.009767,0.01701,0.0,unigram
+allocation,0.002973,0.017327,0.0,0.0,unigram
+risk operational,0.002973,0.008997,0.005501,0.0,bigram
+running,0.002973,0.011421,0.0,0.0,unigram
+attract,0.002973,0.011509,0.0,0.0,unigram
+assist,0.002973,0.006195,0.007096,0.0,unigram
+volumes,0.002973,0.016219,0.0,0.0,unigram
+increases,0.002973,0.005226,0.008048,0.0,unigram
+projected,0.002973,0.015024,0.0,0.0,unigram
+profitability,0.002973,0.023137,0.0,0.0,unigram
+usd,0.002973,0.005226,0.007096,0.0,unigram
+product offerings,0.002973,0.0,0.007346,0.062492,bigram
+improve efficiency,0.002973,0.010043,0.007346,0.0,bigram
+combined,0.002973,0.015683,0.0,0.0,unigram
+capital markets,0.002973,0.010539,0.0,0.0,bigram
+compliant,0.002973,0.005226,0.007096,0.0,unigram
+month,0.002973,0.006195,0.007469,0.0,unigram
+group strategy,0.002973,0.005226,0.007346,0.0,bigram
+efficiency customer,0.002973,0.01149,0.0,0.0,bigram
+conversion,0.002973,0.010043,0.008048,0.0,unigram
+criminals,0.002973,0.006195,0.007469,0.0,unigram
+personal information,0.002973,0.006195,0.007469,0.0,bigram
+public,0.002973,0.006195,0.008576,0.0,unigram
+routine,0.002973,0.005314,0.007346,0.0,unigram
+risks continued,0.002973,0.015192,0.0,0.0,bigram
+group operates,0.002973,0.015268,0.0,0.0,bigram
+group engagement,0.002973,0.0,0.007346,0.034033,bigram
+environmental,0.002973,0.005314,0.007096,0.0,unigram
+societal,0.002973,0.006176,0.0144,0.0,unigram
+smes,0.002973,0.013865,0.0,0.034033,unigram
+make better,0.002973,0.005226,0.007469,0.0,bigram
+fraudulent,0.002973,0.013002,0.007346,0.0,unigram
+fraud detection,0.002973,0.01049,0.007096,0.0,bigram
+intuitive,0.002973,0.005314,0.005501,0.0,unigram
+specialists,0.002973,0.011509,0.0,0.0,unigram
+ty,0.002844,0.004787,0.013342,0.0,unigram
+using automation,0.002844,0.011333,0.011584,0.0,bigram
+influence,0.002844,0.010445,0.00504,0.0,unigram
+scope,0.002844,0.004787,0.011394,0.031176,unigram
+internal audit,0.002844,0.004867,0.011769,0.0,bigram
+invest automation,0.002844,0.0092,0.012895,0.0,bigram
+gender,0.002844,0.0,0.018912,0.0,unigram
+deferred,0.002844,0.018368,0.007856,0.0,unigram
+disciplined,0.002844,0.019234,0.0,0.0,unigram
+dashboard,0.002844,0.009655,0.007856,0.0,unigram
+ai creates,0.002724,0.010543,0.006842,0.0,bigram
+benefits ai,0.002724,0.018288,0.013191,0.0,bigram
+care,0.002724,0.010543,0.006729,0.0,unigram
+production,0.002724,0.019644,0.0,0.0,unigram
+instant,0.002724,0.010543,0.006842,0.0,unigram
+coaching,0.002724,0.022022,0.0,0.0,unigram
+streamlined,0.002724,0.010525,0.007856,0.0,unigram
+technology infrastructure,0.002724,0.005675,0.013872,0.0,bigram
+challenging,0.002724,0.013899,0.0065,0.0,unigram
+ensure fairness,0.002724,0.004787,0.013872,0.0,bigram
+membership,0.002631,0.018109,0.00682,0.0,unigram
+implementing,0.002631,0.004503,0.019822,0.0,unigram
+card,0.002631,0.015996,0.006329,0.028842,unigram
+continue invest,0.00252,0.016135,0.010992,0.0,bigram
+bias accounting,0.00252,0.0,0.016901,0.028842,bigram
+talent,0.002451,0.024728,0.006353,0.0,unigram
+expanding,0.002451,0.025673,0.0,0.049336,unigram
+knowledge,0.002451,0.008321,0.011955,0.026868,unigram
+fy,0.002347,0.010265,0.048121,0.045492,unigram
+customer service,0.002347,0.010233,0.022515,0.0,bigram
+agenda available,0.0,0.012657,0.0,0.0,bigram
+ai enabler,0.0,0.011129,0.008141,0.0,bigram
+rest,0.0,0.01168,0.0,0.0,unigram
+routine tasks,0.0,0.005889,0.008141,0.0,bigram
+risk override,0.0,0.005314,0.014442,0.0,bigram
+risk considerations,0.0,0.01168,0.0,0.0,bigram
+year launched,0.0,0.006176,0.014814,0.0,bigram
+year including,0.0,0.006866,0.009504,0.0,bigram
+year directors,0.0,0.0,0.025462,0.0,bigram
+ye,0.0,0.006866,0.0,0.037716,unigram
+accountability,0.0,0.005791,0.015101,0.0,unigram
+according,0.0,0.0,0.0156,0.0,unigram
+identities,0.0,0.011625,0.008919,0.0,unigram
+icara,0.0,0.0,0.018422,0.0,unigram
+strategic initiatives,0.0,0.012657,0.0,0.0,bigram
+straight,0.0,0.025688,0.0,0.0,unigram
+stories,0.0,0.012733,0.0,0.0,unigram
+risk product,0.0,0.005889,0.008277,0.0,bigram
+won,0.0,0.017416,0.0,0.0,unigram
+activities processes,0.0,0.0,0.017781,0.0,bigram
+advisor,0.0,0.012636,0.0,0.0,unigram
+ai brings,0.0,0.012636,0.0,0.0,bigram
+ai controls,0.0,0.005889,0.008919,0.0,bigram
+risk oversight,0.0,0.005791,0.006097,0.0,bigram
+strong progress,0.0,0.01665,0.0,0.0,bigram
+global ai,0.0,0.006866,0.008141,0.0,bigram
+geopolitical risks,0.0,0.005889,0.006097,0.0,bigram
+good progress,0.0,0.01149,0.012014,0.0,bigram
+glossary,0.0,0.006866,0.009504,0.0,unigram
+greater automation,0.0,0.005658,0.014585,0.087036,bigram
+gratitude,0.0,0.01168,0.0,0.0,unigram
+governance risk,0.0,0.008997,0.014077,0.0,bigram
+growth driven,0.0,0.021551,0.0,0.0,bigram
+succession,0.0,0.012636,0.0,0.0,unigram
+successfully delivered,0.0,0.006845,0.0,0.069255,bigram
+subject matter,0.0,0.0,0.01706,0.0,bigram
+frc,0.0,0.005889,0.009504,0.0,unigram
+fund ai,0.0,0.006845,0.006097,0.0,bigram
+fuel,0.0,0.015762,0.0,0.0,unigram
+risk potential,0.0,0.012754,0.0,0.0,bigram
+invested ai,0.0,0.0,0.016141,0.0,bigram
+investor relations,0.0,0.0,0.023822,0.0,bigram
+job,0.0,0.022414,0.0,0.0,unigram
+ise,0.0,0.01371,0.0,0.0,unigram
+judgement,0.0,0.010539,0.008048,0.0,unigram
+landscape continues,0.0,0.012657,0.0,0.0,bigram
+external events,0.0,0.005889,0.008919,0.0,bigram
+featuring,0.0,0.005889,0.006097,0.0,unigram
+fast evolving,0.0,0.021551,0.0,0.0,bigram
+financ,0.0,0.006176,0.014077,0.0,unigram
+financial year,0.0,0.011625,0.016503,0.0,bigram
+flexible,0.0,0.026175,0.0,0.0,unigram
+fit,0.0,0.021445,0.0,0.0,unigram
+launching new,0.0,0.011129,0.009504,0.0,bigram
+launch new,0.0,0.005889,0.0,0.063859,bigram
+latest,0.0,0.005889,0.008277,0.0,unigram
+spaces,0.0,0.012657,0.0,0.0,unigram
+leadership team,0.0,0.022414,0.0,0.0,bigram
+leveraging benefits,0.0,0.012636,0.0,0.0,bigram
+leverage automation,0.0,0.01168,0.0,0.0,bigram
+line ai,0.0,0.006845,0.006097,0.0,bigram
+limits,0.0,0.006845,0.008919,0.0,unigram
+location,0.0,0.012657,0.0,0.0,unigram
+exceptionally,0.0,0.012733,0.0,0.0,unigram
+experienced,0.0,0.005889,0.009504,0.0,unigram
+experience customer,0.0,0.006845,0.008277,0.0,bigram
+extend gratitude,0.0,0.01168,0.0,0.0,bigram
+experts,0.0,0.012754,0.0,0.0,unigram
+facing teams,0.0,0.005889,0.007864,0.0,bigram
+extreme weather,0.0,0.006866,0.006097,0.0,bigram
+extreme,0.0,0.006866,0.006097,0.0,unigram
+ensu,0.0,0.005791,0.009504,0.0,unigram
+systems external,0.0,0.005889,0.0,0.069255,bigram
+entirely new,0.0,0.012657,0.0,0.0,bigram
+entirely,0.0,0.012657,0.0,0.0,unigram
+equality,0.0,0.0,0.016005,0.0,unigram
+equal opportunities,0.0,0.011129,0.007864,0.0,bigram
+equal,0.0,0.018995,0.018076,0.0,unigram
+estimates assessing,0.0,0.005889,0.007864,0.0,bigram
+eva,0.0,0.012754,0.0,0.0,unigram
+emergence new,0.0,0.011129,0.008277,0.0,bigram
+emergence,0.0,0.020533,0.006842,0.0,unigram
+ement,0.0,0.0,0.007864,0.037716,unigram
+tax planning,0.0,0.006845,0.008919,0.0,bigram
+empowered,0.0,0.011509,0.007346,0.0,unigram
+employer,0.0,0.006866,0.009504,0.0,unigram
+ended december,0.0,0.005791,0.007864,0.0,bigram
+encourages,0.0,0.006866,0.008141,0.0,unigram
+enabler growth,0.0,0.0,0.016418,0.0,bigram
+engine,0.0,0.012733,0.0,0.0,unigram
+enhancement,0.0,0.017004,0.015394,0.0,unigram
+enhance automation,0.0,0.011129,0.008919,0.0,bigram
+ensuring fairness,0.0,0.005889,0.007864,0.0,bigram
+low cost,0.0,0.0,0.0156,0.0,bigram
+loops,0.0,0.005889,0.008277,0.0,unigram
+longer term,0.0,0.01738,0.0,0.0,bigram
+longer,0.0,0.01738,0.0,0.0,unigram
+solutions evolving,0.0,0.017995,0.0,0.0,bigram
+solutions ai,0.0,0.006866,0.007864,0.0,bigram
+social engineering,0.0,0.021559,0.0,0.0,bigram
+smarter,0.0,0.015762,0.0,0.0,unigram
+macro,0.0,0.005314,0.013549,0.0,unigram
+management committee,0.0,0.006866,0.008919,0.0,bigram
+earnings share,0.0,0.018455,0.0,0.0,bigram
+dual,0.0,0.012754,0.0,0.0,unigram
+driver,0.0,0.012636,0.0,0.0,unigram
+technology committee,0.0,0.005889,0.008919,0.0,bigram
+technologies generative,0.0,0.01371,0.0,0.0,bigram
+efficiencies business,0.0,0.006845,0.009504,0.0,bigram
+effectively managing,0.0,0.005791,0.015958,0.0,bigram
+embrace,0.0,0.005889,0.008141,0.0,unigram
+eligibility,0.0,0.012657,0.0,0.0,unigram
+elevated,0.0,0.0,0.0156,0.0,unigram
+empathy,0.0,0.01168,0.0,0.0,unigram
+malware,0.0,0.01168,0.0,0.0,unigram
+skills including,0.0,0.012636,0.0,0.0,bigram
+manual processes,0.0,0.0,0.016782,0.0,bigram
+marketplace,0.0,0.017416,0.0,0.0,unigram
+intelligence genai,0.0,0.014409,0.009504,0.0,bigram
+grown,0.0,0.018469,0.0,0.0,unigram
+group seeks,0.0,0.011129,0.006097,0.0,bigram
+streamline operations,0.0,0.006866,0.006097,0.0,bigram
+strategy execution,0.0,0.005889,0.008141,0.0,bigram
+strategy dedicated,0.0,0.005889,0.006097,0.0,bigram
+happens,0.0,0.0,0.024235,0.0,unigram
+hedging,0.0,0.0,0.021713,0.0,unigram
+heavily,0.0,0.006866,0.008277,0.0,unigram
+hire,0.0,0.01168,0.0,0.0,unigram
+hires,0.0,0.005791,0.008277,0.0,unigram
+genai enhance,0.0,0.006866,0.009504,0.0,bigram
+genai adoption,0.0,0.012636,0.0,0.0,bigram
+maturing,0.0,0.0,0.015015,0.0,unigram
+material controls,0.0,0.005889,0.007864,0.0,bigram
+measured,0.0,0.009806,0.008919,0.0,unigram
+digital growth,0.0,0.012657,0.0,0.0,bigram
+technology usage,0.0,0.005889,0.008277,0.0,bigram
+director remuneration,0.0,0.020935,0.0,0.0,bigram
+diversity equity,0.0,0.005889,0.009504,0.0,bigram
+driven efficiency,0.0,0.005889,0.007864,0.0,bigram
+drive efficiencies,0.0,0.006845,0.009504,0.0,bigram
+means customers,0.0,0.0,0.017781,0.0,bigram
+singapore,0.0,0.02865,0.0,0.0,unigram
+siness,0.0,0.005791,0.008277,0.0,unigram
+mindful,0.0,0.005889,0.006097,0.0,unigram
+misinformation,0.0,0.012636,0.0,0.0,unigram
+model work,0.0,0.006866,0.008141,0.0,bigram
+monitor customer,0.0,0.006845,0.009504,0.0,bigram
+degree,0.0,0.005791,0.008919,0.0,unigram
+threats including,0.0,0.005889,0.006097,0.0,bigram
+threaten,0.0,0.012636,0.0,0.0,unigram
+themes,0.0,0.008848,0.012847,0.0,unigram
+tha,0.0,0.017685,0.0,0.0,unigram
+tests conducted,0.0,0.005791,0.008277,0.0,bigram
+tests,0.0,0.015268,0.007469,0.0,unigram
+demands,0.0,0.016672,0.0,0.0,unigram
+determined principal,0.0,0.005314,0.014442,0.0,bigram
+development programmes,0.0,0.017995,0.0,0.0,bigram
+data systems,0.0,0.01168,0.0,0.0,bigram
+data security,0.0,0.012754,0.0,0.0,bigram
+thrive,0.0,0.012754,0.0,0.0,unigram
+deferred awards,0.0,0.006845,0.009504,0.0,bigram
+dedicated team,0.0,0.016921,0.0,0.0,bigram
+delivered strong,0.0,0.011509,0.005501,0.0,bigram
+deliver greater,0.0,0.010539,0.0,0.100258,bigram
+deliver customers,0.0,0.012733,0.0,0.0,bigram
+deliver better,0.0,0.006845,0.008277,0.0,bigram
+shows,0.0,0.005791,0.007864,0.0,unigram
+near,0.0,0.020582,0.0,0.0,unigram
+new services,0.0,0.011129,0.0,0.037716,bigram
+new rapidly,0.0,0.018455,0.0,0.0,bigram
+new product,0.0,0.012754,0.0,0.0,bigram
+new innovative,0.0,0.012371,0.0,0.034033,bigram
+new customers,0.0,0.01371,0.0,0.0,bigram
+obtained,0.0,0.005314,0.008048,0.034033,unigram
+number employees,0.0,0.0,0.017368,0.0,bigram
+continuously monitor,0.0,0.00997,0.006097,0.0,bigram
+controls determined,0.0,0.0,0.016005,0.0,bigram
+create value,0.0,0.009806,0.007864,0.0,bigram
+crisis,0.0,0.01738,0.0,0.0,unigram
+culture ai,0.0,0.012733,0.0,0.0,bigram
+customer support,0.0,0.011129,0.014014,0.0,bigram
+adviser,0.0,0.005658,0.032441,0.0,unigram
+daily operations,0.0,0.01168,0.0,0.0,bigram
+confidently,0.0,0.016672,0.0,0.0,unigram
+conducted audit,0.0,0.005889,0.008141,0.0,bigram
+transformation agenda,0.0,0.012636,0.0,0.0,bigram
+constant,0.0,0.01371,0.0,0.0,unigram
+considered group,0.0,0.0,0.016005,0.0,bigram
+reporting committee,0.0,0.011129,0.008919,0.0,bigram
+consumers,0.0,0.028294,0.0,0.034033,unigram
+consumer business,0.0,0.006866,0.006097,0.0,bigram
+continuity,0.0,0.005791,0.008277,0.0,unigram
+continues evolve,0.0,0.012657,0.0,0.0,bigram
+contract,0.0,0.0,0.026091,0.0,unigram
+offshoring,0.0,0.018469,0.0,0.0,unigram
+shareholding requirements,0.0,0.006845,0.007864,0.0,bigram
+shareholder,0.0,0.010543,0.015228,0.0,unigram
+share buyback,0.0,0.005889,0.0,0.063859,bigram
+operating models,0.0,0.005791,0.006097,0.0,bigram
+os,0.0,0.0,0.019427,0.069255,unigram
+origination,0.0,0.012636,0.0,0.0,unigram
+optimised,0.0,0.011402,0.007469,0.0,unigram
+overall capital,0.0,0.0,0.007864,0.037716,bigram
+committee monitor,0.0,0.005889,0.008919,0.0,bigram
+committee board,0.0,0.010543,0.015228,0.0,bigram
+truly,0.0,0.0,0.014374,0.0,unigram
+trillion,0.0,0.01371,0.0,0.0,unigram
+transitioned,0.0,0.016815,0.0,0.0,unigram
+communities technology,0.0,0.005791,0.007864,0.0,bigram
+communicate,0.0,0.005889,0.0,0.037716,unigram
+competitive landscape,0.0,0.017995,0.0,0.0,bigram
+compliance functions,0.0,0.005791,0.008919,0.0,bigram
+computing threaten,0.0,0.012636,0.0,0.0,bigram
+partnering,0.0,0.012636,0.0,0.0,unigram
+services financial,0.0,0.006866,0.008277,0.0,bigram
+people systems,0.0,0.005889,0.008919,0.0,bigram
+personalised support,0.0,0.012754,0.0,0.0,bigram
+place work,0.0,0.005791,0.009504,0.0,bigram
+pivotal,0.0,0.015762,0.0,0.0,unigram
+platform business,0.0,0.006866,0.009504,0.0,bigram
+positively,0.0,0.005791,0.006097,0.0,unigram
+champion,0.0,0.016652,0.007096,0.0,unigram
+ultimately,0.0,0.005791,0.007864,0.0,unigram
+choose,0.0,0.006845,0.009504,0.0,unigram
+coaching tool,0.0,0.015694,0.0,0.0,bigram
+coach,0.0,0.017513,0.0,0.0,unigram
+series,0.0,0.01168,0.0,0.0,unigram
+senior leader,0.0,0.012657,0.0,0.0,bigram
+powered coaching,0.0,0.01168,0.0,0.0,bigram
+impact business,0.0,0.012657,0.0,0.0,bigram
+implementing automation,0.0,0.0,0.017781,0.0,bigram
+working environment,0.0,0.005791,0.006097,0.0,bigram
+including relating,0.0,0.017513,0.0,0.0,bigram
+stakeholder groups,0.0,0.005791,0.008919,0.0,bigram
+incorporation ai,0.0,0.011129,0.008919,0.0,bigram
+incorporated,0.0,0.014364,0.007864,0.0,unigram
+infrastructure ai,0.0,0.0,0.016782,0.0,bigram
+initiatives support,0.0,0.017995,0.0,0.0,bigram
+ing,0.0,0.0,0.007864,0.069255,unigram
+instantly,0.0,0.012754,0.0,0.0,unigram
+innovative products,0.0,0.010043,0.007346,0.034033,bigram
+potential reshape,0.0,0.0,0.007864,0.069255,bigram
+whistleblowing,0.0,0.006866,0.007864,0.0,unigram
+understands,0.0,0.01168,0.0,0.0,unigram
+understanding ai,0.0,0.01371,0.0,0.0,bigram
+central culture,0.0,0.011129,0.009504,0.0,bigram
+cent,0.0,0.028319,0.0,0.0,unigram
+careers,0.0,0.012657,0.0,0.0,unigram
+career development,0.0,0.01168,0.0,0.0,bigram
+chair audit,0.0,0.01168,0.0,0.0,bigram
+chartered,0.0,0.01382,0.006097,0.0,unigram
+broker,0.0,0.012733,0.0,0.0,unigram
+unrivalled,0.0,0.006845,0.007864,0.0,unigram
+unprecedented,0.0,0.012636,0.0,0.0,unigram
+business enhance,0.0,0.005889,0.008919,0.0,bigram
+business building,0.0,0.005889,0.006097,0.0,bigram
+busi,0.0,0.012754,0.0,0.0,unigram
+build skills,0.0,0.012657,0.0,0.0,bigram
+canada,0.0,0.014364,0.006097,0.0,unigram
+campaigns,0.0,0.01168,0.0,0.0,unigram
+buyback,0.0,0.005889,0.0,0.063859,unigram
+buy,0.0,0.006845,0.009504,0.0,unigram
+prioritise,0.0,0.005889,0.008919,0.0,unigram
+pride,0.0,0.012754,0.0,0.0,unigram
+seeks,0.0,0.011129,0.006097,0.0,unigram
+process improvements,0.0,0.0,0.016141,0.0,bigram
+problems,0.0,0.01168,0.0,0.0,unigram
+product suite,0.0,0.012733,0.0,0.0,bigram
+product offering,0.0,0.005889,0.0,0.069255,bigram
+processes people,0.0,0.005889,0.008919,0.0,bigram
+program,0.0,0.0,0.014374,0.0,unigram
+better customer,0.0,0.0,0.0156,0.0,bigram
+begun,0.0,0.006845,0.006097,0.0,unigram
+biggest,0.0,0.005791,0.008277,0.0,unigram
+big,0.0,0.021431,0.0,0.0,unigram
+amidst,0.0,0.005889,0.006097,0.0,unigram
+bi annual,0.0,0.005889,0.009504,0.0,bigram
+bi,0.0,0.005889,0.009504,0.0,unigram
+board activities,0.0,0.006845,0.008141,0.0,bigram
+bonus,0.0,0.016219,0.005501,0.0,unigram
+bu,0.0,0.01168,0.0,0.0,unigram
+augmented,0.0,0.01168,0.0,0.0,unigram
+auditing,0.0,0.005889,0.008919,0.0,unigram
+audit procedures,0.0,0.005889,0.007864,0.0,bigram
+audit function,0.0,0.0,0.014238,0.0,bigram
+utilising,0.0,0.016735,0.0,0.0,unigram
+automation tools,0.0,0.006866,0.008277,0.0,bigram
+automation processes,0.0,0.006845,0.0,0.079151,bigram
+automation artificial,0.0,0.0,0.017195,0.0,bigram
+profiles,0.0,0.012657,0.0,0.0,unigram
+second line,0.0,0.0,0.014374,0.0,bigram
+progresses,0.0,0.005791,0.0,0.069255,unigram
+psychological safety,0.0,0.005791,0.009504,0.0,bigram
+psychological,0.0,0.005791,0.009504,0.0,unigram
+vendor,0.0,0.0,0.023377,0.0,unigram
+value enabled,0.0,0.012657,0.0,0.0,bigram
+approach artificial,0.0,0.012657,0.0,0.0,bigram
+assessing bias,0.0,0.005889,0.007864,0.0,bigram
+assesses,0.0,0.01168,0.0,0.0,unigram
+aspects,0.0,0.005791,0.007864,0.0,unigram
+asia,0.0,0.017416,0.0,0.0,unigram
+ary,0.0,0.006866,0.007864,0.0,unigram
+assistance,0.0,0.006195,0.012847,0.0,unigram
+assets business,0.0,0.006845,0.008919,0.0,bigram
+ategic,0.0,0.011129,0.007864,0.0,unigram
+australia,0.0,0.006866,0.008919,0.0,unigram
+scheme,0.0,0.0,0.006097,0.037716,unigram
+rapid advances,0.0,0.012733,0.0,0.0,bigram
+weather events,0.0,0.006866,0.006097,0.0,bigram
+weather,0.0,0.006866,0.006097,0.0,unigram
+wait,0.0,0.0,0.016418,0.0,unigram
+ai framework,0.0,0.005791,0.008141,0.0,bigram
+ai expanding,0.0,0.012754,0.0,0.0,bigram
+regulatory developments,0.0,0.0,0.006097,0.069255,bigram
+satisfaction,0.0,0.005791,0.013784,0.0,unigram
+safe effective,0.0,0.0,0.013961,0.0,bigram
+remain largest,0.0,0.006845,0.007864,0.0,bigram
+representatives,0.0,0.006866,0.008141,0.0,unigram
+roadmap,0.0,0.006845,0.006097,0.0,unigram
+agenda,0.0,0.02122,0.0,0.0,unigram
+age,0.0,0.0,0.013961,0.0,unigram
+african,0.0,0.005791,0.007864,0.0,unigram
+withdrawals,0.0,0.006845,0.008919,0.0,unigram
+ai automation,0.0,0.0,0.021591,0.0,bigram
+ai cybersecurity,0.0,0.005889,0.008919,0.0,bigram
+return,0.0,0.005889,0.006097,0.0,unigram
+retirement,0.0,0.01786,0.014549,0.0,unigram
+retail customers,0.0,0.0,0.014238,0.0,bigram
+right time,0.0,0.012733,0.0,0.0,bigram
+revenues,0.0,0.005791,0.009504,0.0,unigram
+risk level,0.0,0.011129,0.006097,0.0,bigram
+risk governance,0.0,0.0,0.014374,0.0,bigram
+ability scale,0.0,0.012733,0.0,0.0,bigram
+stay ahead,0.0,0.01371,0.0,0.0,bigram
+ai developments,0.0,0.005889,0.012795,0.0,bigram
+reset,0.0,0.005889,0.007864,0.0,unigram
+stay,0.0,0.017597,0.0,0.0,unigram
+impact work,0.0,0.005889,0.0,0.037716,bigram
+race,0.0,0.01382,0.007864,0.0,unigram
+rapid growth,0.0,0.006845,0.006097,0.0,bigram
+rapid developments,0.0,0.017974,0.0,0.0,bigram
+received training,0.0,0.0,0.01706,0.0,bigram
+realising,0.0,0.012733,0.0,0.0,unigram
+reduces,0.0,0.017974,0.0,0.0,unigram
+ai market,0.0,0.016716,0.0,0.0,bigram
+ai range,0.0,0.006845,0.008141,0.0,bigram
+ai talent,0.0,0.016672,0.0,0.0,bigram
+aligns,0.0,0.01168,0.0,0.0,unigram
+aligning,0.0,0.0,0.007864,0.069255,unigram
+represents,0.0,0.005889,0.008919,0.0,unigram
