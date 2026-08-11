@@ -1,9 +1,9 @@
 company_id,company_name,total_score,final_score,score_change,score_percentage,final_score_percentage,original_rank,final_rank,rank_change
-020,Experian plc,7,11.0,4.0,50.0,78.57,6,3,3
-006,Aviva plc,6,10.0,4.0,42.86,71.43,7,4,3
-002,HSBC Holdings plc,9,12.0,3.0,64.29,85.71,4,2,2
-003,Lloyds Banking Group plc,9,12.0,3.0,64.29,85.71,4,2,2
-005,Standard Chartered plc,9,12.0,3.0,64.29,85.71,4,2,2
-019,London Stock Exchange Group plc,8,11.0,3.0,57.14,78.57,5,3,2
-017,Boku Inc.,5,7.0,2.0,35.71,50.0,8,6,2
-013,IntegraFin Holdings plc,3,5.0,2.0,21.43,35.71,9,8,1
+003,Lloyds Banking Group plc,9,12,3,64.29,85.71,4,2,2
+019,London Stock Exchange Group plc,8,11,3,57.14,78.57,5,3,2
+020,Experian plc,7,10,3,50.0,71.43,6,4,2
+006,Aviva plc,6,9,3,42.86,64.29,7,5,2
+002,HSBC Holdings plc,9,11,2,64.29,78.57,4,3,1
+017,Boku Inc.,5,7,2,35.71,50.0,8,6,2
+013,IntegraFin Holdings plc,3,5,2,21.43,35.71,9,8,1
+005,Standard Chartered plc,9,10,1,64.29,71.43,4,4,0

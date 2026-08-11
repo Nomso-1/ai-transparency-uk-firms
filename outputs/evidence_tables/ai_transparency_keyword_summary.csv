@@ -9,7 +9,7 @@ company_id,company_name,keyword,mention_count,unique_pages
 001,Barclays plc,ethical AI,1,1
 001,Barclays plc,human oversight,1,1
 001,Barclays plc,responsible AI,1,1
-002,HSBC Holdings plc,AI,75,29
+002,HSBC Holdings plc,AI,73,29
 002,HSBC Holdings plc,artificial intelligence,5,5
 002,HSBC Holdings plc,automation,4,4
 002,HSBC Holdings plc,bias,4,4
@@ -37,7 +37,7 @@ company_id,company_name,keyword,mention_count,unique_pages
 004,NatWest Group plc,machine learning,2,2
 004,NatWest Group plc,AI ethics,1,1
 004,NatWest Group plc,automated decision-making,1,1
-005,Standard Chartered plc,AI,80,26
+005,Standard Chartered plc,AI,79,26
 005,Standard Chartered plc,artificial intelligence,3,3
 005,Standard Chartered plc,automation,3,2
 005,Standard Chartered plc,fairness,3,3
@@ -78,7 +78,6 @@ company_id,company_name,keyword,mention_count,unique_pages
 011,IG Group Holdings plc,automation,3,3
 011,IG Group Holdings plc,bias,1,1
 011,IG Group Holdings plc,fairness,1,1
-012,CMC Markets plc,AI,1,1
 012,CMC Markets plc,artificial intelligence,1,1
 012,CMC Markets plc,automation,1,1
 012,CMC Markets plc,bias,1,1

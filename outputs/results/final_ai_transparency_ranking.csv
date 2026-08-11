@@ -1,21 +1,21 @@
 rank,company_id,company_name,transparency_score,transparency_percentage,manual_score_adjustment,ranking_change
-1,004,NatWest Group plc,13.0,92.86,0.0,0
-2,001,Barclays plc,12.0,85.71,0.0,0
-2,002,HSBC Holdings plc,12.0,85.71,3.0,2
-2,003,Lloyds Banking Group plc,12.0,85.71,3.0,2
-2,005,Standard Chartered plc,12.0,85.71,3.0,2
-3,009,Admiral Group plc,11.0,78.57,0.0,0
-3,020,Experian plc,11.0,78.57,4.0,3
-3,019,London Stock Exchange Group plc,11.0,78.57,3.0,2
-4,006,Aviva plc,10.0,71.43,4.0,3
-5,016,Funding Circle Holdings plc,9.0,64.29,0.0,-1
-6,017,Boku Inc.,7.0,50.0,2.0,2
-7,010,AJ Bell plc,6.0,42.86,0.0,0
-7,015,CAB Payments Holdings plc,6.0,42.86,0.0,0
-7,011,IG Group Holdings plc,6.0,42.86,0.0,0
-7,007,Legal & General Group plc,6.0,42.86,0.0,0
-7,008,M&G plc,6.0,42.86,0.0,0
-7,014,Wise plc,6.0,42.86,0.0,0
-8,013,IntegraFin Holdings plc,5.0,35.71,2.0,1
-9,018,PayPoint plc,2.0,14.29,0.0,1
-10,012,CMC Markets plc,1.0,7.14,0.0,1
+1,004,NatWest Group plc,13,92.86,0,0
+2,001,Barclays plc,12,85.71,0,0
+2,003,Lloyds Banking Group plc,12,85.71,3,2
+3,009,Admiral Group plc,11,78.57,0,0
+3,002,HSBC Holdings plc,11,78.57,2,1
+3,019,London Stock Exchange Group plc,11,78.57,3,2
+4,020,Experian plc,10,71.43,3,2
+4,005,Standard Chartered plc,10,71.43,1,0
+5,006,Aviva plc,9,64.29,3,2
+5,016,Funding Circle Holdings plc,9,64.29,0,-1
+6,017,Boku Inc.,7,50.0,2,2
+7,010,AJ Bell plc,6,42.86,0,0
+7,015,CAB Payments Holdings plc,6,42.86,0,0
+7,011,IG Group Holdings plc,6,42.86,0,0
+7,007,Legal & General Group plc,6,42.86,0,0
+7,008,M&G plc,6,42.86,0,0
+7,014,Wise plc,6,42.86,0,0
+8,013,IntegraFin Holdings plc,5,35.71,2,1
+9,018,PayPoint plc,2,14.29,0,1
+10,012,CMC Markets plc,0,0.0,0,1

@@ -3,8 +3,8 @@ company_id,company_name,total_ai_transparency_mentions,unique_keywords,unique_pa
 001,Barclays plc,249,10,60,12,85.71
 009,Admiral Group plc,103,8,39,11,78.57
 016,Funding Circle Holdings plc,104,8,30,9,64.29
-002,HSBC Holdings plc,102,10,39,9,64.29
-005,Standard Chartered plc,95,7,33,9,64.29
+002,HSBC Holdings plc,100,10,39,9,64.29
+005,Standard Chartered plc,94,7,33,9,64.29
 003,Lloyds Banking Group plc,79,8,35,9,64.29
 019,London Stock Exchange Group plc,119,8,34,8,57.14
 020,Experian plc,74,7,35,7,50.0
@@ -18,4 +18,4 @@ company_id,company_name,total_ai_transparency_mentions,unique_keywords,unique_pa
 017,Boku Inc.,23,3,10,5,35.71
 013,IntegraFin Holdings plc,11,3,3,3,21.43
 018,PayPoint plc,13,3,9,2,14.29
-012,CMC Markets plc,4,4,4,1,7.14
+012,CMC Markets plc,3,3,3,0,0.0

@@ -6,7 +6,7 @@ company_id,company_name,category,mention_count,unique_pages,keywords_found
 001,Barclays plc,Human oversight,1,1,human oversight
 001,Barclays plc,Risk and regulation,358,118,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
 001,Barclays plc,Transparency and explainability,41,28,transparency
-002,HSBC Holdings plc,AI and related technologies,93,33,"AI, artificial intelligence, automation, generative AI, large language model, machine learning"
+002,HSBC Holdings plc,AI and related technologies,91,33,"AI, artificial intelligence, automation, generative AI, large language model, machine learning"
 002,HSBC Holdings plc,Data and analytics,5,5,"advanced analytics, data analytics, digital transformation"
 002,HSBC Holdings plc,"Fairness, bias and ethics",17,13,"bias, discrimination, ethics, fairness"
 002,HSBC Holdings plc,Governance and accountability,805,369,"AI ethics, accountability, governance, model risk, oversight, responsible AI"
@@ -25,7 +25,7 @@ company_id,company_name,category,mention_count,unique_pages,keywords_found
 004,NatWest Group plc,Human oversight,1,1,automated decision-making
 004,NatWest Group plc,Risk and regulation,297,107,"cybersecurity, data protection, privacy, regulatory compliance, risk management"
 004,NatWest Group plc,Transparency and explainability,11,11,transparency
-005,Standard Chartered plc,AI and related technologies,87,29,"AI, artificial intelligence, automation, generative AI"
+005,Standard Chartered plc,AI and related technologies,86,29,"AI, artificial intelligence, automation, generative AI"
 005,Standard Chartered plc,Data and analytics,6,6,"advanced analytics, data analytics, digital transformation"
 005,Standard Chartered plc,"Fairness, bias and ethics",34,22,"bias, discrimination, ethics, fairness"
 005,Standard Chartered plc,Governance and accountability,378,124,"accountability, governance, model risk, oversight, responsible AI"
@@ -65,7 +65,7 @@ company_id,company_name,category,mention_count,unique_pages,keywords_found
 011,IG Group Holdings plc,Governance and accountability,349,181,"accountability, governance, model risk, oversight"
 011,IG Group Holdings plc,Risk and regulation,85,41,"cybersecurity, regulatory compliance, risk management"
 011,IG Group Holdings plc,Transparency and explainability,13,12,transparency
-012,CMC Markets plc,AI and related technologies,3,3,"AI, artificial intelligence, automation"
+012,CMC Markets plc,AI and related technologies,2,2,"artificial intelligence, automation"
 012,CMC Markets plc,"Fairness, bias and ethics",1,1,bias
 012,CMC Markets plc,Governance and accountability,263,130,"accountability, governance, oversight"
 012,CMC Markets plc,Risk and regulation,90,38,"regulatory compliance, risk management"
